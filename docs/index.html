@@ -6,22 +6,40 @@
     <title>Kissinger Undergraduate Thesis — Explorer</title>
     <meta name="description" content="Explore Henry A. Kissinger's undergraduate thesis — The Meaning of History: Reflections on Spengler, Toynbee, and Kant — along with a generated mindmap, outline, and summary." />
     <meta name="theme-color" content="#0ea5e9" />
+    <meta property="og:site_name" content="Kissinger Undergraduate Thesis — Explorer" />
 
     <!-- Open Graph -->
     <meta property="og:title" content="Kissinger Undergraduate Thesis — Explorer" />
     <meta property="og:description" content="Original thesis (HTML), mindmap, mindmap outline, and summary." />
     <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://media.cnn.com/api/v1/images/stellar/prod/201209194251-03-henry-kissinger-restricted.jpg?q=w_888,c_fill" />
+    <meta property="og:url" content="https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="https://media.cnn.com/api/v1/images/stellar/prod/201209194251-03-henry-kissinger-restricted.jpg?q=w_888,c_fill" />
+
+    <!-- Early theme init to avoid FOUC -->
+    <script>
+      (function () {
+        try {
+          const t = localStorage.getItem('theme');
+          const d = t ? t === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+          if (d) document.documentElement.classList.add('dark');
+        } catch (_) {}
+      })();
+    </script>
 
     <!-- Fonts & Icons -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkfYVw8cJZc2IlkYQ8G5xJ8Q4JqGvYl8a9kaoVuvvZP9Waqkq49Z3q1hA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
 
     <!-- Tailwind CSS (CDN) -->
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
       tailwind.config = {
+        darkMode: 'class',
         theme: {
           extend: {
             fontFamily: { sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'] },
@@ -42,54 +60,66 @@
       }
     </script>
     <style>
-      .backdrop-grid { background-size: 24px 24px; }
+      .backdrop-grid { background-size: 24px 24px; background-image: radial-gradient(circle at 1px 1px, rgba(0,0,0,0.08) 1px, transparent 0) }
+      .dark .backdrop-grid { background-image: radial-gradient(circle at 1px 1px, rgba(255,255,255,0.12) 1px, transparent 0) }
+      .reveal { opacity: 0; transform: translateY(8px); transition: opacity .6s ease, transform .6s ease }
+      .reveal-visible { opacity: 1; transform: none }
+      @media (prefers-reduced-motion: reduce) { .reveal { transition: none; transform: none } }
     </style>
   </head>
-  <body class="bg-slate-950 text-slate-100 font-sans selection:bg-brand-400 selection:text-white">
+  <body class="bg-white text-slate-900 dark:bg-slate-950 dark:text-slate-100 font-sans selection:bg-brand-400 selection:text-white">
+    <a href="#content" class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-lg focus:bg-brand-600 focus:px-3 focus:py-2 focus:text-white">Skip to content</a>
     <!-- Decorative background -->
     <div class="pointer-events-none fixed inset-0 overflow-hidden">
-      <div class="absolute -top-32 right-[-10%] h-72 w-72 rounded-full bg-brand-600/30 blur-3xl"></div>
-      <div class="absolute top-1/2 -left-24 h-80 w-80 -translate-y-1/2 rounded-full bg-sky-500/20 blur-3xl"></div>
+      <div class="absolute -top-32 right-[-10%] h-72 w-72 rounded-full bg-brand-600/20 dark:bg-brand-600/30 blur-3xl"></div>
+      <div class="absolute top-1/2 -left-24 h-80 w-80 -translate-y-1/2 rounded-full bg-sky-500/10 dark:bg-sky-500/20 blur-3xl"></div>
       <div class="absolute inset-0 backdrop-grid"></div>
     </div>
 
     <!-- Page container -->
-    <header class="relative">
-      <div class="mx-auto max-w-6xl px-6 py-8 flex items-center justify-between">
+    <header class="sticky top-0 z-40 backdrop-blur supports-[backdrop-filter]:bg-white/70 dark:supports-[backdrop-filter]:bg-slate-950/60 border-b border-black/5 dark:border-white/10">
+      <div class="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between">
         <div class="flex items-center gap-3">
-          <div class="h-10 w-10 grid place-items-center rounded-lg bg-brand-600/20 ring-1 ring-brand-500/30 shadow-glow">
-            <i class="fa-solid fa-book text-brand-200"></i>
+          <div class="h-10 w-10 grid place-items-center rounded-lg bg-brand-600/15 ring-1 ring-brand-500/25 shadow-glow">
+            <i class="fa-solid fa-book text-brand-600 dark:text-brand-200"></i>
           </div>
           <div>
-            <h1 class="text-lg font-semibold tracking-tight">Kissinger Undergraduate Thesis</h1>
-            <p class="text-xs text-slate-400">Explorable resources & visualizations</p>
+            <h1 class="text-base md:text-lg font-semibold tracking-tight">Kissinger Undergraduate Thesis</h1>
+            <p class="text-xs text-slate-500 dark:text-slate-400">Explorable resources & visualizations</p>
           </div>
         </div>
-        <a class="inline-flex items-center gap-2 rounded-lg bg-white/5 px-3 py-2 text-sm text-slate-200 ring-1 ring-white/10 hover:bg-white/10 transition" href="https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis" target="_blank" rel="noopener noreferrer">
-          <i class="fa-brands fa-github"></i>
-          View on GitHub
-        </a>
+        <div class="flex items-center gap-2">
+          <button id="themeToggle" class="inline-flex items-center gap-2 rounded-lg px-3 py-2 text-sm ring-1 ring-black/10 dark:ring-white/10 hover:bg-black/5 dark:hover:bg-white/10 transition" aria-label="Toggle theme">
+            <i class="fa-solid fa-sun text-amber-500 hidden dark:inline"></i>
+            <i class="fa-solid fa-moon text-slate-700 dark:text-slate-200 inline dark:hidden"></i>
+            <span class="hidden sm:inline">Theme</span>
+          </button>
+          <a class="inline-flex items-center gap-2 rounded-lg bg-black/5 dark:bg-white/5 px-3 py-2 text-sm text-slate-700 dark:text-slate-200 ring-1 ring-black/10 dark:ring-white/10 hover:bg-black/10 dark:hover:bg-white/10 transition" href="https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis" target="_blank" rel="noopener noreferrer">
+            <i class="fa-brands fa-github"></i>
+            <span class="hidden sm:inline">View on GitHub</span>
+          </a>
+        </div>
       </div>
     </header>
 
-    <main class="relative mx-auto max-w-6xl px-6 pb-20">
+    <main id="content" class="relative mx-auto max-w-6xl px-6 pb-20">
       <!-- Hero -->
-      <section class="mt-4 rounded-2xl border border-white/10 bg-gradient-to-tr from-brand-600/30 via-indigo-600/20 to-sky-500/10 p-8 md:p-12 shadow-glow">
+      <section class="mt-6 rounded-2xl border border-black/5 dark:border-white/10 bg-gradient-to-tr from-brand-600/10 via-indigo-600/5 to-sky-500/5 dark:from-brand-600/30 dark:via-indigo-600/20 dark:to-sky-500/10 p-8 md:p-12 shadow-glow reveal">
         <div class="max-w-3xl">
-          <h2 class="text-3xl md:text-4xl font-extrabold leading-tight">
+          <h2 class="text-3xl md:text-5xl font-extrabold leading-tight tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-slate-900 via-slate-700 to-slate-900 dark:from-white dark:via-brand-200 dark:to-white">
             The Meaning of History: Reflections on Spengler, Toynbee, and Kant
           </h2>
-          <p class="mt-3 text-slate-200/90">
+          <p class="mt-3 text-slate-700/90 dark:text-slate-200/90">
             A curated, readable edition of Henry A. Kissinger’s undergraduate thesis,
             paired with an auto‑generated mindmap, a structured outline derived from the mindmap,
             and a concise summary.
           </p>
           <div class="mt-6 flex flex-wrap gap-3">
-            <a href="henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_optimized.html" class="inline-flex items-center gap-2 rounded-lg bg-brand-500 px-4 py-2.5 text-sm font-medium text-white shadow-glow hover:bg-brand-600 transition">
+            <a href="henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_optimized.html" class="inline-flex items-center gap-2 rounded-lg bg-brand-600 px-4 py-2.5 text-sm font-medium text-white shadow-glow hover:bg-brand-700 transition">
               <i class="fa-solid fa-book-open"></i>
               Read Thesis (HTML)
             </a>
-            <a href="henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap.html" class="inline-flex items-center gap-2 rounded-lg bg-white/10 px-4 py-2.5 text-sm font-medium text-slate-100 ring-1 ring-white/15 hover:bg-white/15 transition">
+            <a href="henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap.html" class="inline-flex items-center gap-2 rounded-lg bg-black/5 text-slate-800 ring-1 ring-black/10 hover:bg-black/10 transition dark:bg-white/10 dark:text-slate-100 dark:ring-white/15 dark:hover:bg-white/15 px-4 py-2.5 text-sm font-medium">
               <i class="fa-solid fa-diagram-project"></i>
               View Mindmap
             </a>
@@ -99,82 +129,125 @@
 
       <!-- Cards -->
       <section class="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        <a href="henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_optimized.html" class="group block rounded-xl border border-white/10 bg-white/5 p-5 ring-1 ring-inset ring-white/10 hover:bg-white/10 hover:ring-white/20 transition">
+        <a href="henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_optimized.html" class="group block rounded-xl border border-black/5 dark:border-white/10 bg-white/60 dark:bg-white/5 p-5 ring-1 ring-inset ring-black/5 dark:ring-white/10 hover:bg-white/80 dark:hover:bg-white/10 hover:ring-black/10 dark:hover:ring-white/20 transition reveal">
           <div class="flex items-center justify-between">
-            <div class="h-10 w-10 grid place-items-center rounded-md bg-brand-600/25 text-brand-100">
+            <div class="h-10 w-10 grid place-items-center rounded-md bg-brand-600/15 text-brand-700 dark:bg-brand-600/25 dark:text-brand-100">
               <i class="fa-solid fa-book-open"></i>
             </div>
-            <i class="fa-solid fa-arrow-up-right-from-square text-slate-400 group-hover:text-slate-200"></i>
+            <i class="fa-solid fa-arrow-up-right-from-square text-slate-500 group-hover:text-slate-700 dark:text-slate-400 dark:group-hover:text-slate-200"></i>
           </div>
           <h3 class="mt-4 text-lg font-semibold">Original Thesis (HTML)</h3>
-          <p class="mt-1 text-sm text-slate-300/80">Clean HTML version for comfortable reading.</p>
+          <p class="mt-1 text-sm text-slate-600/80 dark:text-slate-300/80">Clean HTML version for comfortable reading.</p>
         </a>
 
-        <a href="henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap.html" class="group block rounded-xl border border-white/10 bg-white/5 p-5 ring-1 ring-inset ring-white/10 hover:bg-white/10 hover:ring-white/20 transition">
+        <a href="henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap.html" class="group block rounded-xl border border-black/5 dark:border-white/10 bg-white/60 dark:bg-white/5 p-5 ring-1 ring-inset ring-black/5 dark:ring-white/10 hover:bg-white/80 dark:hover:bg-white/10 hover:ring-black/10 dark:hover:ring-white/20 transition reveal">
           <div class="flex items-center justify-between">
-            <div class="h-10 w-10 grid place-items-center rounded-md bg-indigo-600/25 text-indigo-100">
+            <div class="h-10 w-10 grid place-items-center rounded-md bg-indigo-600/15 text-indigo-700 dark:bg-indigo-600/25 dark:text-indigo-100">
               <i class="fa-solid fa-sitemap"></i>
             </div>
-            <i class="fa-solid fa-arrow-up-right-from-square text-slate-400 group-hover:text-slate-200"></i>
+            <i class="fa-solid fa-arrow-up-right-from-square text-slate-500 group-hover:text-slate-700 dark:text-slate-400 dark:group-hover:text-slate-200"></i>
           </div>
           <h3 class="mt-4 text-lg font-semibold">Mindmap (HTML)</h3>
-          <p class="mt-1 text-sm text-slate-300/80">An at‑a‑glance visualization of core ideas.</p>
+          <p class="mt-1 text-sm text-slate-600/80 dark:text-slate-300/80">An at‑a‑glance visualization of core ideas.</p>
         </a>
 
-        <a href="https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.md" target="_blank" rel="noopener noreferrer" class="group block rounded-xl border border-white/10 bg-white/5 p-5 ring-1 ring-inset ring-white/10 hover:bg-white/10 hover:ring-white/20 transition">
+        <a href="https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.md" target="_blank" rel="noopener noreferrer" class="group block rounded-xl border border-black/5 dark:border-white/10 bg-white/60 dark:bg-white/5 p-5 ring-1 ring-inset ring-black/5 dark:ring-white/10 hover:bg-white/80 dark:hover:bg-white/10 hover:ring-black/10 dark:hover:ring-white/20 transition reveal" title="Opens on GitHub">
           <div class="flex items-center justify-between">
-            <div class="h-10 w-10 grid place-items-center rounded-md bg-emerald-600/25 text-emerald-100">
+            <div class="h-10 w-10 grid place-items-center rounded-md bg-emerald-600/15 text-emerald-700 dark:bg-emerald-600/25 dark:text-emerald-100">
               <i class="fa-solid fa-list-check"></i>
             </div>
-            <i class="fa-solid fa-arrow-up-right-from-square text-slate-400 group-hover:text-slate-200"></i>
+            <i class="fa-solid fa-arrow-up-right-from-square text-slate-500 group-hover:text-slate-700 dark:text-slate-400 dark:group-hover:text-slate-200"></i>
           </div>
           <h3 class="mt-4 text-lg font-semibold">Mindmap Outline (Markdown)</h3>
-          <p class="mt-1 text-sm text-slate-300/80">Structured outline rendered on GitHub.</p>
+          <p class="mt-1 text-sm text-slate-600/80 dark:text-slate-300/80">Structured outline rendered on GitHub.</p>
         </a>
 
-        <a href="https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_optimized.md" target="_blank" rel="noopener noreferrer" class="group block rounded-xl border border-white/10 bg-white/5 p-5 ring-1 ring-inset ring-white/10 hover:bg-white/10 hover:ring-white/20 transition">
+        <a href="https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_optimized.md" target="_blank" rel="noopener noreferrer" class="group block rounded-xl border border-black/5 dark:border-white/10 bg-white/60 dark:bg-white/5 p-5 ring-1 ring-inset ring-black/5 dark:ring-white/10 hover:bg-white/80 dark:hover:bg-white/10 hover:ring-black/10 dark:hover:ring-white/20 transition reveal" title="Opens on GitHub">
           <div class="flex items-center justify-between">
-            <div class="h-10 w-10 grid place-items-center rounded-md bg-amber-600/25 text-amber-100">
+            <div class="h-10 w-10 grid place-items-center rounded-md bg-amber-500/15 text-amber-700 dark:bg-amber-600/25 dark:text-amber-100">
               <i class="fa-regular fa-file-lines"></i>
             </div>
-            <i class="fa-solid fa-arrow-up-right-from-square text-slate-400 group-hover:text-slate-200"></i>
+            <i class="fa-solid fa-arrow-up-right-from-square text-slate-500 group-hover:text-slate-700 dark:text-slate-400 dark:group-hover:text-slate-200"></i>
           </div>
           <h3 class="mt-4 text-lg font-semibold">Thesis Text (Markdown)</h3>
-          <p class="mt-1 text-sm text-slate-300/80">Optimized plain‑text version on GitHub.</p>
+          <p class="mt-1 text-sm text-slate-600/80 dark:text-slate-300/80">Optimized plain‑text version on GitHub.</p>
         </a>
 
-        <a href="https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.md" target="_blank" rel="noopener noreferrer" class="group block rounded-xl border border-white/10 bg-white/5 p-5 ring-1 ring-inset ring-white/10 hover:bg-white/10 hover:ring-white/20 transition">
+        <a href="https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.md" target="_blank" rel="noopener noreferrer" class="group block rounded-xl border border-black/5 dark:border-white/10 bg-white/60 dark:bg-white/5 p-5 ring-1 ring-inset ring-black/5 dark:ring-white/10 hover:bg-white/80 dark:hover:bg-white/10 hover:ring-black/10 dark:hover:ring-white/20 transition reveal" title="Opens on GitHub">
           <div class="flex items-center justify-between">
-            <div class="h-10 w-10 grid place-items-center rounded-md bg-rose-600/25 text-rose-100">
+            <div class="h-10 w-10 grid place-items-center rounded-md bg-rose-600/15 text-rose-700 dark:bg-rose-600/25 dark:text-rose-100">
               <i class="fa-solid fa-paragraph"></i>
             </div>
-            <i class="fa-solid fa-arrow-up-right-from-square text-slate-400 group-hover:text-slate-200"></i>
+            <i class="fa-solid fa-arrow-up-right-from-square text-slate-500 group-hover:text-slate-700 dark:text-slate-400 dark:group-hover:text-slate-200"></i>
           </div>
           <h3 class="mt-4 text-lg font-semibold">Summary (Markdown)</h3>
-          <p class="mt-1 text-sm text-slate-300/80">Concise overview rendered on GitHub.</p>
+          <p class="mt-1 text-sm text-slate-600/80 dark:text-slate-300/80">Concise overview rendered on GitHub.</p>
         </a>
       </section>
 
       <!-- About -->
-      <section class="mt-12 rounded-xl border border-white/10 bg-white/5 p-6 ring-1 ring-inset ring-white/10">
+      <section class="mt-12 rounded-xl border border-black/5 dark:border-white/10 bg-white/70 dark:bg-white/5 p-6 ring-1 ring-inset ring-black/5 dark:ring-white/10 reveal">
         <h4 class="text-base font-semibold">About this project</h4>
-        <p class="mt-2 text-sm leading-relaxed text-slate-300/90">
+        <p class="mt-2 text-sm leading-relaxed text-slate-700/90 dark:text-slate-300/90">
           This repository presents Henry A. Kissinger’s undergraduate thesis, “The Meaning of History: Reflections on Spengler, Toynbee, and Kant,” in multiple formats:
           a readable HTML edition, a generated mindmap for visual navigation, a derivative outline in Markdown, and a brief summary.
           The Markdown links open on GitHub’s site for proper rendering.
         </p>
       </section>
+
+      <!-- Provenance -->
+      <section class="mt-6 rounded-xl border border-emerald-600/20 bg-emerald-500/5 p-6 ring-1 ring-inset ring-emerald-600/20 reveal">
+        <div class="flex items-start gap-4">
+          <div class="h-10 w-10 shrink-0 grid place-items-center rounded-md bg-emerald-600/20 text-emerald-200">
+            <i class="fa-solid fa-seedling"></i>
+          </div>
+          <div class="min-w-0">
+            <h4 class="text-base font-semibold">Provenance</h4>
+            <p class="mt-2 text-sm leading-relaxed text-slate-700/90 dark:text-slate-300/90">
+              The Mindmap and Summary were prepared by <strong>Jeffrey Emanuel</strong> using
+              <a class="text-emerald-600 dark:text-emerald-400 hover:underline" href="https://fixmydocuments.com" target="_blank" rel="noopener">FixMyDocuments</a>.
+              You can also create similar mindmaps with the open‑source generator here:
+              <a class="text-emerald-600 dark:text-emerald-400 hover:underline" href="https://github.com/Dicklesworthstone/mindmap-generator" target="_blank" rel="noopener">mindmap‑generator</a>.
+            </p>
+          </div>
+        </div>
+      </section>
     </main>
 
-    <footer class="relative border-t border-white/10">
+    <footer class="relative border-t border-black/5 dark:border-white/10">
       <div class="mx-auto max-w-6xl px-6 py-8 text-xs text-slate-400">
         <div class="flex flex-wrap items-center justify-between gap-3">
-          <span>Built with Tailwind via CDN • No build step required</span>
-          <a class="text-slate-300 hover:text-white transition" href="https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis" target="_blank" rel="noopener noreferrer">
+          <span class="text-slate-600 dark:text-slate-400">Built with Tailwind via CDN • No build step required</span>
+          <a class="text-slate-700 hover:text-slate-900 dark:text-slate-300 dark:hover:text-white transition" href="https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis" target="_blank" rel="noopener noreferrer">
             github.com/Dicklesworthstone/kissinger_undergraduate_thesis
           </a>
         </div>
       </div>
     </footer>
+
+    <script>
+      // Theme toggle
+      document.getElementById('themeToggle')?.addEventListener('click', () => {
+        const root = document.documentElement;
+        const isDark = root.classList.toggle('dark');
+        try { localStorage.setItem('theme', isDark ? 'dark' : 'light'); } catch (_) {}
+      });
+
+      // Reveal on scroll
+      const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      if (!prefersReduced && 'IntersectionObserver' in window) {
+        const io = new IntersectionObserver((entries) => {
+          for (const e of entries) {
+            if (e.isIntersecting) {
+              e.target.classList.add('reveal-visible');
+              io.unobserve(e.target);
+            }
+          }
+        }, { threshold: 0.08 });
+        document.querySelectorAll('.reveal').forEach(el => io.observe(el));
+      } else {
+        document.querySelectorAll('.reveal').forEach(el => el.classList.add('reveal-visible'));
+      }
+    </script>
   </body>
   </html>
