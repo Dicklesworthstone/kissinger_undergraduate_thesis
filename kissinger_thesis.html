@@ -63,8 +63,9 @@
     <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css" crossorigin="anonymous" disabled />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js" crossorigin="anonymous"></script>
 
-    <!-- Markdown renderer + sanitizer -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js" integrity="sha256-Ffq85bZYmLMrA/XtJen4kacprUwNbYdxEKd0SqhHqJQ=" crossorigin="anonymous"></script>
+    <!-- Markdown renderer (with footnotes) + sanitizer -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/13.0.2/markdown-it.min.js" integrity="sha256-gZ3xe0BdCJplNiHWTKrm6AGZydPy34jJKZqFIf+7hIw=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it-footnote/3.0.3/markdown-it-footnote.min.js" integrity="sha256-6AlG8g/YBkXo4Ga0dVmyMuPEoODo0kb1adqzkoEAl5A=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.1.6/purify.min.js" integrity="sha256-wIRQlqfEpnQfNirFBslMHH0n3GA7zBv2Slh/dvLb46E=" crossorigin="anonymous"></script>
 
     <style>
@@ -78,6 +79,13 @@
       /* TOC active state */
       .toc a { display:block; padding:2px 6px; border-left:2px solid transparent; border-radius:4px }
       .toc a[aria-current="true"] { color: rgb(59 130 246); border-left-color: rgb(59 130 246); font-weight:600 }
+      /* Footnotes styling */
+      .footnotes { color: inherit; }
+      .footnotes hr { border: none; border-top: 1px solid rgba(148,163,184,.25); margin: 1.5rem 0; }
+      .dark .footnotes hr { border-top-color: rgba(148,163,184,.35); }
+      .footnotes ol { font-size: .95em; padding-left: 1.25rem; }
+      .footnotes li { margin-top: .5rem; }
+      .footnote-backref { text-decoration: none; margin-left: .25rem; opacity:.75 }
     </style>
   </head>
   <body class="bg-white text-slate-900 dark:bg-slate-950 dark:text-slate-100 font-sans selection:bg-brand-400 selection:text-white">
@@ -155,20 +163,21 @@
       });
       syncHljsTheme();
 
-      // Configure Marked
-      marked.setOptions({
-        gfm: true,
+      // Configure Markdown-It with footnotes and highlight
+      const md = window.markdownit({
+        html: false,
+        linkify: true,
+        typographer: true,
         breaks: false,
-        mangle: false,
-        headerIds: true,
-        async: false,
-        highlight(code, lang) {
-          if (lang && hljs.getLanguage(lang)) {
-            return hljs.highlight(code, { language: lang }).value;
-          }
-          return hljs.highlightAuto(code).value;
+        highlight: (code, lang) => {
+          try {
+            if (lang && hljs.getLanguage(lang)) {
+              return hljs.highlight(code, { language: lang }).value;
+            }
+            return hljs.highlightAuto(code).value;
+          } catch { return code; }
         }
-      });
+      }).use(window.markdownitFootnote);
 
       // Load and render Markdown
       (async function renderMD() {
@@ -191,14 +200,14 @@
         }
 
         // Render + sanitize
-        const html = DOMPurify.sanitize(marked.parse(md));
+        const html = DOMPurify.sanitize(md.render(md));
         reader.innerHTML = html;
 
         // Set document title from first heading
         const h1 = reader.querySelector('h1');
         if (h1) document.title = h1.textContent + ' — Reader';
 
-        // Build TOC from h2/h3
+        // Build TOC from h2/h3 (and ensure IDs)
         const toc = document.getElementById('toc');
         if (toc) {
           const links = [];
@@ -238,7 +247,7 @@
         document.querySelectorAll('pre code').forEach(el => hljs.highlightElement(el));
       })();
 
-      // Reader controls: font size and width
+      // Reader controls: font family, size, width
       (function readerControls(){
         const root = document.getElementById('reader');
         const getNum = (v, def) => {
