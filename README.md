@@ -17,6 +17,16 @@ Explore Henry A. Kissinger’s undergraduate thesis — “The Meaning of Histor
 - HTML resources open directly in your browser.
 - Markdown resources open on GitHub’s blob pages so they render nicely.
 
+## How the Mindmap and Summary Were Generated
+These artifacts were prepared by Jeffrey Emanuel:
+
+- Mindmap and Summary were generated using https://fixmydocuments.com.
+- You can also reproduce a similar mindmap locally using the open‑source tool: https://github.com/Dicklesworthstone/mindmap-generator
+
+Quick options:
+- Fastest path: Upload the thesis (or any document) to FixMyDocuments and select the Mindmap and Summary options to generate both artifacts in one go.
+- Open‑source path: Clone `mindmap-generator`, follow its README to install dependencies, and run it against your source document to export a mindmap (and outline if supported).
+
 ## GitHub Pages
 This repo is ready for GitHub Pages in either configuration:
 - Root mode: Serve from `main` branch, root folder.
@@ -40,4 +50,3 @@ cp -f henry_*_pdf_mindmap.html docs/
 
 ## Context
 This repository presents a readable edition of Kissinger’s undergraduate thesis, with additional generated materials (mindmap, outline, summary) to aid exploration and study.
-
