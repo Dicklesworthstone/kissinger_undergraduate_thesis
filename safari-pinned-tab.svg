@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>safari-pinned-tab</title>
+  <g fill="#000" fill-rule="nonzero">
+    <!-- Vertical bar of K -->
+    <rect x="16" y="8" width="8" height="48" />
+    <!-- Upper diagonal of K -->
+    <path d="M25 30 L28 26 L50 8 L56 16 L34 32 Z" />
+    <!-- Lower diagonal of K -->
+    <path d="M25 34 L34 40 L56 56 L50 64 L28 46 L25 42 Z" />
+  </g>
+  <!-- No background; mask fills with Safari's chosen color -->
+  <!-- Safe margins kept to avoid clipping at small sizes -->
+</svg>
+
