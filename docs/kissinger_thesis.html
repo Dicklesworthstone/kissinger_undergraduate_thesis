@@ -32,7 +32,7 @@
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Literata:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Literata:wght@400;500;600;700&family=Newsreader:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
     <link rel="icon" type="image/svg+xml" href="favicon.svg" />
     <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png" />
@@ -74,7 +74,7 @@
       .reveal-visible { opacity: 1; transform: none }
       @media (prefers-reduced-motion: reduce) { .reveal { transition: none; transform: none } }
       /* Reader controls via CSS variables */
-      #reader { font-size: var(--reader-font, 1rem); max-width: min(100%, var(--reader-width, 75ch)); margin-inline: auto }
+      #reader { font-size: var(--reader-font, 1rem); max-width: min(100%, var(--reader-width, 75ch)); margin-inline: auto; font-family: var(--reader-ff, "Literata", ui-serif, Georgia, serif) }
       /* TOC active state */
       .toc a { display:block; padding:2px 6px; border-left:2px solid transparent; border-radius:4px }
       .toc a[aria-current="true"] { color: rgb(59 130 246); border-left-color: rgb(59 130 246); font-weight:600 }
@@ -247,16 +247,31 @@
         const apply = () => {
           const f = localStorage.getItem('reader:font') || '1';
           const w = localStorage.getItem('reader:width') || '75';
+          const ff = localStorage.getItem('reader:ff') || 'serif';
           root.style.setProperty('--reader-font', getNum(f,1) + 'rem');
           root.style.setProperty('--reader-width', getNum(w,75) + 'ch');
+          const map = {
+            'sans': 'Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji", sans-serif',
+            'serif': 'Literata, ui-serif, Georgia, Cambria, "Times New Roman", Times, serif',
+            'news': 'Newsreader, ui-serif, Georgia, Cambria, "Times New Roman", Times, serif'
+          };
+          root.style.setProperty('--reader-ff', map[ff] || map['serif']);
         };
         apply();
         // Build a minimal controls popover near the Theme button
         const wrap = document.createElement('div');
         wrap.id = 'readerControls';
-        wrap.className = 'absolute right-0 mt-2 w-60 rounded-lg border border-black/5 dark:border-white/10 bg-white/90 dark:bg-slate-900/90 backdrop-blur p-3 ring-1 ring-inset ring-black/5 dark:ring-white/10 shadow-lg hidden';
+        wrap.className = 'absolute z-50 right-0 top-full mt-2 w-64 rounded-lg border border-black/5 dark:border-white/10 bg-white/90 dark:bg-slate-900/90 backdrop-blur p-3 ring-1 ring-inset ring-black/5 dark:ring-white/10 shadow-lg hidden';
         wrap.innerHTML = `
           <div class="text-xs font-semibold text-slate-600 dark:text-slate-300 mb-2">Reader settings</div>
+          <div class="flex items-center justify-between gap-2 mb-2">
+            <span class="text-xs text-slate-600 dark:text-slate-300">Font family</span>
+            <div class="inline-flex overflow-hidden rounded-md border border-black/10 dark:border-white/10">
+              <button data-ff="sans" class="px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Sans</button>
+              <button data-ff="serif" class="px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Serif</button>
+              <button data-ff="news" class="px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">News</button>
+            </div>
+          </div>
           <div class="flex items-center justify-between gap-2 mb-2">
             <span class="text-xs text-slate-600 dark:text-slate-300">Font size</span>
             <div class="inline-flex overflow-hidden rounded-md border border-black/10 dark:border-white/10">
@@ -273,7 +288,7 @@
             </div>
           </div>`;
         const rightBox = document.querySelector('header .flex.items-center.gap-2:last-child');
-        rightBox?.appendChild(wrap);
+        if (rightBox) { rightBox.classList.add('relative'); rightBox.appendChild(wrap); }
         const toggleBtn = document.createElement('button');
         toggleBtn.id = 'readerControlsToggle';
         toggleBtn.type = 'button';
@@ -294,6 +309,9 @@
         fontInc?.addEventListener('click', ()=>{ const f = getNum(localStorage.getItem('reader:font')||'1',1); const nf = Math.min(1.4, Math.round((f+0.05)*100)/100); localStorage.setItem('reader:font', String(nf)); apply(); });
         wrap.querySelectorAll('button[data-w]')?.forEach(btn=>{
           btn.addEventListener('click', ()=>{ localStorage.setItem('reader:width', btn.getAttribute('data-w')); apply(); });
+        });
+        wrap.querySelectorAll('button[data-ff]')?.forEach(btn=>{
+          btn.addEventListener('click', ()=>{ localStorage.setItem('reader:ff', btn.getAttribute('data-ff')); apply(); });
         });
       })();
 
