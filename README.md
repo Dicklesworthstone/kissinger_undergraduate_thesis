@@ -5,16 +5,19 @@ Explore Henry A. Kissinger’s undergraduate thesis — “The Meaning of Histor
 - Live site: https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/
 
 ## What’s Included
-- `index.html`: Landing page using Tailwind (CDN) with quick links to all artifacts.
+- `index.html`: Landing page using Tailwind (CDN) with quick links to all artifacts and inline SVG icons (no icon font).
 - `kissinger_thesis.md`: Improved, authoritative Markdown version of the thesis.
-- `kissinger_thesis.html`: Beautiful reader that auto-renders `kissinger_thesis.md` client-side (Typography, dark mode, code highlight).
+- `kissinger_thesis.html`: Reader that auto-renders `kissinger_thesis.md` client‑side (Tailwind Typography, dark mode, code highlight, inline SVG icons, “Aa” reader controls for font + width).
 - `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap.html`: Mindmap visualization (HTML).
 - `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.md`: Mindmap-derived outline (Markdown, rendered on GitHub).
 - `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.md`: Concise summary (Markdown, rendered on GitHub).
+- `assets/`: Self‑hosted social preview images (`og.jpg`, `og.webp`), PWA icons (`android-chrome-*.png`, `apple-touch-icon.png`).
+- `site.webmanifest`, `safari-pinned-tab.svg`, `favicon.svg`: App metadata and icons.
 
 ## How to Use
 - Visit the live site above and use the cards/buttons.
-- Thesis (HTML) uses `kissinger_thesis.html`, which automatically fetches and renders `kissinger_thesis.md` — just edit the Markdown and reload.
+- Thesis (HTML): `kissinger_thesis.html` automatically fetches and renders `kissinger_thesis.md`. Edit the Markdown and refresh the page.
+- Reader controls: Click “Aa” in the reader header to adjust font family (Inter/Literata/Newsreader), font size, and reading width. Theme toggle is next to it.
 - Markdown resources open on GitHub’s blob pages so they render nicely.
 
 ## How the Mindmap and Summary Were Generated
@@ -34,20 +37,30 @@ This repo is ready for GitHub Pages in either configuration:
 
 Included for convenience:
 - `.nojekyll` at root and in `docs/` to bypass Jekyll processing.
-- `docs/` contains a mirrored copy of the landing page and HTML artifacts so either Pages mode works.
+- `docs/` contains mirrored copies of the landing page, reader, Markdown, and assets so either Pages mode works.
 
 If you edit the landing page or HTML locally and you are using Docs mode, mirror your changes:
 
 ```bash
 cp -f index.html docs/index.html
-# Legacy HTML (optional): only mirror if you still link it
-# cp -f henry_*_pdf_optimized.html docs/
+cp -f kissinger_thesis.html kissinger_thesis.md docs/
+cp -fr assets docs/
 cp -f henry_*_pdf_mindmap.html docs/
 ```
 
+## Local Preview
+Because the reader fetches `kissinger_thesis.md`, preview with a local server (to avoid browser file:// fetch restrictions):
+
+```bash
+python3 -m http.server 8000
+# then open http://localhost:8000/kissinger_thesis.html
+```
+
 ## Tech Notes
-- Tailwind and Font Awesome are loaded from CDNs; no build step is required.
-- Everything is static — open `index.html` locally or host via Pages.
+- Tailwind (CDN) + Typography plugin; inline SVG icons (no icon font).
+- Reader uses Marked + DOMPurify (via CDN with SRI) and highlight.js.
+- Self‑hosted OG image and PWA icons; `site.webmanifest` configured.
+- Everything is static; for the reader, use a local server when previewing.
 
 ## Context
 This repository presents a readable edition of Kissinger’s undergraduate thesis, with additional generated materials (mindmap, outline, summary) to aid exploration and study.
