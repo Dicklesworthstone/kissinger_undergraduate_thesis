@@ -6,15 +6,15 @@ Explore Henry A. Kissinger’s undergraduate thesis — “The Meaning of Histor
 
 ## What’s Included
 - `index.html`: Landing page using Tailwind (CDN) with quick links to all artifacts.
-- `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_optimized.html`: Readable HTML version of the thesis.
+- `kissinger_thesis.md`: Improved, authoritative Markdown version of the thesis.
+- `kissinger_thesis.html`: Beautiful reader that auto-renders `kissinger_thesis.md` client-side (Typography, dark mode, code highlight).
 - `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap.html`: Mindmap visualization (HTML).
 - `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.md`: Mindmap-derived outline (Markdown, rendered on GitHub).
-- `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_optimized.md`: Thesis text as Markdown (rendered on GitHub).
 - `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.md`: Concise summary (Markdown, rendered on GitHub).
 
 ## How to Use
-- Visit the live site above and use the cards/buttons to open each resource.
-- HTML resources open directly in your browser.
+- Visit the live site above and use the cards/buttons.
+- Thesis (HTML) uses `kissinger_thesis.html`, which automatically fetches and renders `kissinger_thesis.md` — just edit the Markdown and reload.
 - Markdown resources open on GitHub’s blob pages so they render nicely.
 
 ## How the Mindmap and Summary Were Generated

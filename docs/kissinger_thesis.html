@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Kissinger Thesis — Reader</title>
+    <meta name="description" content="Reader for the improved Kissinger thesis Markdown, rendered client-side with beautiful typography and dark mode." />
+    <meta name="theme-color" content="#0ea5e9" />
+
+    <!-- Open Graph / Twitter (inherits main site assets) -->
+    <meta property="og:title" content="Kissinger Thesis — Reader" />
+    <meta property="og:description" content="Client-rendered Markdown with elegant typography and dark mode." />
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/assets/og.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="1593" />
+    <meta property="og:image:alt" content="Portrait of Henry A. Kissinger" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Early theme init to avoid FOUC -->
+    <script>
+      (function () {
+        try {
+          const t = localStorage.getItem('theme');
+          const d = t ? t === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+          if (d) document.documentElement.classList.add('dark');
+        } catch (_) {}
+      })();
+    </script>
+
+    <!-- Fonts & Icons -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Literata:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkfYVw8cJZc2IlkYQ8G5xJ8Q4JqGvYl8a9kaoVuvvZP9Waqkq49Z3q1hA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png" />
+    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#0ea5e9" />
+    <link rel="manifest" href="site.webmanifest" />
+
+    <!-- Tailwind CSS (CDN) + Typography plugin -->
+    <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+              serif: ['Literata', 'ui-serif', 'Georgia', 'serif'],
+            },
+            colors: {
+              brand: { 50:'#eff6ff',100:'#dbeafe',200:'#bfdbfe',300:'#93c5fd',400:'#60a5fa',500:'#3b82f6',600:'#2563eb',700:'#1d4ed8',800:'#1e40af',900:'#1e3a8a' },
+            },
+          }
+        }
+      }
+    </script>
+
+    <!-- Highlight.js (light/dark themes) -->
+    <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github.min.css" crossorigin="anonymous" />
+    <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css" crossorigin="anonymous" disabled />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js" crossorigin="anonymous"></script>
+
+    <!-- Markdown renderer + sanitizer -->
+    <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js" integrity="sha256-lY+zq2SWi1a2W4Xnw3QmlGiGwV6TqoTWh8nOMkQ3oC8=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js" integrity="sha256-hIYz3cHZw6O09m/FbDRyxqzeHDyAVRa2xoN/8tJ0b+g=" crossorigin="anonymous"></script>
+
+    <style>
+      .backdrop-grid { background-size: 24px 24px; background-image: radial-gradient(circle at 1px 1px, rgba(0,0,0,0.06) 1px, transparent 0) }
+      .dark .backdrop-grid { background-image: radial-gradient(circle at 1px 1px, rgba(255,255,255,0.1) 1px, transparent 0) }
+      .reveal { opacity: 0; transform: translateY(8px); transition: opacity .6s ease, transform .6s ease }
+      .reveal-visible { opacity: 1; transform: none }
+      @media (prefers-reduced-motion: reduce) { .reveal { transition: none; transform: none } }
+    </style>
+  </head>
+  <body class="bg-white text-slate-900 dark:bg-slate-950 dark:text-slate-100 font-sans selection:bg-brand-400 selection:text-white">
+    <a href="#content" class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-lg focus:bg-brand-600 focus:px-3 focus:py-2 focus:text-white">Skip to content</a>
+
+    <!-- Decorative background -->
+    <div class="pointer-events-none fixed inset-0 overflow-hidden">
+      <div class="absolute -top-32 right-[-10%] h-72 w-72 rounded-full bg-brand-600/15 dark:bg-brand-600/25 blur-3xl"></div>
+      <div class="absolute top-1/2 -left-24 h-80 w-80 -translate-y-1/2 rounded-full bg-sky-500/10 dark:bg-sky-500/20 blur-3xl"></div>
+      <div class="absolute inset-0 backdrop-grid"></div>
+    </div>
+
+    <!-- Header -->
+    <header class="sticky top-0 z-40 backdrop-blur supports-[backdrop-filter]:bg-white/70 dark:supports-[backdrop-filter]:bg-slate-950/60 border-b border-black/5 dark:border-white/10">
+      <div class="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between">
+        <div class="flex items-center gap-3">
+          <a href="index.html" class="h-10 w-10 grid place-items-center rounded-lg bg-brand-600/15 ring-1 ring-brand-500/25 shadow-glow" title="Back to index">
+            <i class="fa-solid fa-arrow-left text-brand-600 dark:text-brand-200"></i>
+          </a>
+          <div>
+            <h1 class="text-base md:text-lg font-semibold tracking-tight">Kissinger Thesis — Reader</h1>
+            <p class="text-xs text-slate-500 dark:text-slate-400">Markdown rendered with typography & dark mode</p>
+          </div>
+        </div>
+        <div class="flex items-center gap-2">
+          <button id="themeToggle" class="inline-flex items-center gap-2 rounded-lg px-3 py-2 text-sm ring-1 ring-black/10 dark:ring-white/10 hover:bg-black/5 dark:hover:bg-white/10 transition" aria-label="Toggle theme">
+            <i class="fa-solid fa-sun text-amber-500 hidden dark:inline"></i>
+            <i class="fa-solid fa-moon text-slate-700 dark:text-slate-200 inline dark:hidden"></i>
+            <span class="hidden sm:inline">Theme</span>
+          </button>
+          <a class="inline-flex items-center gap-2 rounded-lg bg-black/5 dark:bg-white/5 px-3 py-2 text-sm text-slate-700 dark:text-slate-200 ring-1 ring-black/10 dark:ring-white/10 hover:bg-black/10 dark:hover:bg-white/10 transition" href="kissinger_thesis.md" target="_blank" rel="noopener noreferrer" title="Open Markdown source">
+            <i class="fa-regular fa-file-lines"></i>
+            <span class="hidden sm:inline">Markdown</span>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <!-- Content -->
+    <main id="content" class="relative mx-auto max-w-6xl px-6 pb-20">
+      <div class="grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8">
+        <article id="reader" class="prose prose-slate max-w-none prose-headings:scroll-mt-24 dark:prose-invert prose-img:rounded-xl prose-pre:bg-slate-900/90 dark:prose-pre:bg-slate-900 prose-pre:ring-1 prose-pre:ring-black/10 dark:prose-pre:ring-white/10 prose-a:text-brand-700 dark:prose-a:text-brand-300">
+          <div id="loading" class="flex items-center gap-3 text-slate-600 dark:text-slate-300 py-12">
+            <svg class="animate-spin h-5 w-5 text-brand-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z"></path></svg>
+            <span>Loading thesis…</span>
+          </div>
+        </article>
+        <aside class="hidden lg:block sticky top-20 self-start reveal">
+          <div class="rounded-xl border border-black/5 dark:border-white/10 bg-white/70 dark:bg-white/5 p-4 ring-1 ring-inset ring-black/5 dark:ring-white/10">
+            <h2 class="text-sm font-semibold text-slate-700 dark:text-slate-300">On this page</h2>
+            <nav id="toc" class="mt-3 text-sm text-slate-600 dark:text-slate-300 space-y-2"></nav>
+          </div>
+        </aside>
+      </div>
+    </main>
+
+    <script>
+      // Theme toggle + switch HLJS theme
+      const syncHljsTheme = () => {
+        const dark = document.documentElement.classList.contains('dark');
+        const lightLink = document.getElementById('hljs-light');
+        const darkLink = document.getElementById('hljs-dark');
+        if (lightLink && darkLink) {
+          lightLink.disabled = dark;
+          darkLink.disabled = !dark;
+        }
+      };
+      document.getElementById('themeToggle')?.addEventListener('click', () => {
+        const root = document.documentElement;
+        const isDark = root.classList.toggle('dark');
+        try { localStorage.setItem('theme', isDark ? 'dark' : 'light'); } catch (_) {}
+        syncHljsTheme();
+      });
+      syncHljsTheme();
+
+      // Configure Marked
+      marked.setOptions({
+        gfm: true,
+        breaks: false,
+        mangle: false,
+        headerIds: true,
+        async: false,
+        highlight(code, lang) {
+          if (lang && hljs.getLanguage(lang)) {
+            return hljs.highlight(code, { language: lang }).value;
+          }
+          return hljs.highlightAuto(code).value;
+        }
+      });
+
+      // Load and render Markdown
+      (async function renderMD() {
+        const targets = [
+          'kissinger_thesis.md',
+          'https://raw.githubusercontent.com/Dicklesworthstone/kissinger_undergraduate_thesis/main/kissinger_thesis.md'
+        ];
+        let md = null;
+        for (const url of targets) {
+          try {
+            const res = await fetch(url, { cache: 'no-cache' });
+            if (res.ok) { md = await res.text(); break; }
+          } catch (e) { /* try next */ }
+        }
+        const reader = document.getElementById('reader');
+        const loading = document.getElementById('loading');
+        if (!md) {
+          if (loading) loading.textContent = 'Failed to load Markdown.';
+          return;
+        }
+
+        // Render + sanitize
+        const html = DOMPurify.sanitize(marked.parse(md));
+        reader.innerHTML = html;
+
+        // Set document title from first heading
+        const h1 = reader.querySelector('h1');
+        if (h1) document.title = h1.textContent + ' — Reader';
+
+        // Build TOC from h2/h3
+        const toc = document.getElementById('toc');
+        if (toc) {
+          const headings = reader.querySelectorAll('h2, h3');
+          const frag = document.createDocumentFragment();
+          headings.forEach(h => {
+            const id = h.id || h.textContent.trim().toLowerCase().replace(/[^a-z0-9\s-]/g, '').replace(/\s+/g, '-');
+            h.id = id;
+            const a = document.createElement('a');
+            a.href = '#' + id;
+            a.textContent = h.textContent;
+            a.className = (h.tagName === 'H3' ? 'block pl-4' : 'block');
+            frag.appendChild(a);
+          });
+          toc.innerHTML = '';
+          toc.appendChild(frag);
+        }
+
+        // Highlight code blocks after injection
+        document.querySelectorAll('pre code').forEach(el => hljs.highlightElement(el));
+      })();
+
+      // Reveal animations
+      const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      if (!prefersReduced && 'IntersectionObserver' in window) {
+        const io = new IntersectionObserver((entries) => {
+          for (const e of entries) {
+            if (e.isIntersecting) {
+              e.target.classList.add('reveal-visible');
+              io.unobserve(e.target);
+            }
+          }
+        }, { threshold: 0.08 });
+        document.querySelectorAll('.reveal').forEach(el => io.observe(el));
+      } else {
+        document.querySelectorAll('.reveal').forEach(el => el.classList.add('reveal-visible'));
+      }
+    </script>
+  </body>
+  </html>
+
