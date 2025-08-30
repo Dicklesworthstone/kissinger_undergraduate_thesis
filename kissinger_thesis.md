@@ -60,26 +60,13 @@ What is the meaning of necessity and where does it arise? Necessity is an attrib
 
 retrospect appear inevitable, the fact of occurrence testifies to irrevocability. Causality expresses the pattern which the mind imposes on a sequence of events in order to make their appearance comprehensible.[^arg-1] It is formulated as a law, which reveals a trend of recurrence and an assertion of comparability. Law over fights against the unique, against the personal experience, the inward bliss. Necessity recognizes only quantitative differences, and conceives of survival as its sole test of historical fitness. Necessity discovers the typical in man, the inexorable in events, the inevitable in existence. Its doctrine is the philosophy of Eternal Recurrence of which the devil tells Ivan Karamazoff," But our present earth may have been repeated a thousand times. Why it has become extinct, been frozen, cracked, broken to bits, disintegrated into its elements, again the water above the firmament, then again a comet, again a sun, again from the sun it becomes earth and on earth the same sequence may have been repeated endlessly and exactly the same to every detail..."
 
-Yet every event is not only an effect but also an inward experience. As an effect it is ruled by necessity, as an experience it reveals the unique in the personality. The desire to reconcile an experience of freedom with a determined environment is the lament of poetry and the dilemma of philosophy. Rationalism attempted to solve this problem by considering its purposes as the objective pattern of occurrences and equating freedom
+Yet every event is not only an effect but also an inward experience. As an effect it is ruled by necessity, as an experience it reveals the unique in the personality. The desire to reconcile an experience of freedom with a determined environment is the lament of poetry and the dilemma of philosophy. Rationalism attempted to solve this problem by considering its purposes as the objective pattern of occurrences and equating freedom with necessity. The British sceptics, particularly Hume, submitted these notions to rigorous criticism and denied necessity as well as purposiveness. They argued that perception involves the impact of empirical entities on a wax-like mind, whose sensations of pleasure are largely passive, whose concept of necessity describe a constant conjunction and to which freedom is meaningless.[^arg-2] The limits of thought can not be established by thought, however. Hume's scepticism caused him to abandon philosophy while still a young man and Descartes was forced to invoke God as a guarantor of external reality with the aid of the very faculty the accuracy of which he had seriously questioned.[^arg-3]
 
-[^arg-1]: This follows Kant's analysis of the categories. See post.
-with necessity. The British sceptics, particularly Hume, submitted these notions to rigorous criticism and denied necessity as well as purposiveness. They argued that perception involves the impact of empirical entities on a wax-like mind, whose sensations of pleasure are largely passive, whose concept of necessity describe a constant conjunction and to which freedom is meaningless.[^arg-2] The limits of thought can not be established by thought, however. Hume's scepticism caused him to abandon philosophy while still a young man and Descartes was forced to invoke God as a guarantor of external reality with the aid of the very faculty the accuracy of which he had seriously questioned.[^arg-3]
-
-Kant realized that only an inward experience can transcend the inexorability of completed action. He "limited knowledge to made room for belief." He affirmed that the reality that is subject to the laws of causality is given by sensuous experience and exhausted in the phenomenal world. But beyond that man has a transcendental experience of freedom which elevates him above the realm of necessity into a higher world-order which conditions all appearances. Freedom is an inward state, an attitude that accompanies all action. This disproves Hume's assertion that nothing can be definitely known, since one can always imagine the opposite of any thought. Our experience of freedom testifies to a fact of existence which no thought-process can deny and for the
-
-[^arg-2]: See post. Ch. "History and Man's Experience of Morality."
-[^arg-3]: See post. for full discussion Ch. "History and Man's Experience of Morality."
-
-demonstration of which Descartes' cogito ergo sum was not really necessary.[^arg-4] Whatever conception one may form about the inevitability of actions, their accomplishment occurred with an inward conviction of choice. Freedom is the causality that motivates man.". To conceive a men having no freedom is impossible except as a man deprived of life," says Tolstoy.
+Kant realized that only an inward experience can transcend the inexorability of completed action. He "limited knowledge to made room for belief." He affirmed that the reality that is subject to the laws of causality is given by sensuous experience and exhausted in the phenomenal world. But beyond that man has a transcendental experience of freedom which elevates him above the realm of necessity into a higher world-order which conditions all appearances. Freedom is an inward state, an attitude that accompanies all action. This disproves Hume's assertion that nothing can be definitely known, since one can always imagine the opposite of any thought. Our experience of freedom testifies to a fact of existence which no thought-process can deny and for the demonstration of which Descartes' cogito ergo sum was not really necessary.[^arg-4] Whatever conception one may form about the inevitability of actions, their accomplishment occurred with an inward conviction of choice. Freedom is the causality that motivates man.". To conceive a men having no freedom is impossible except as a man deprived of life," says Tolstoy.
 
 What is the solution to the paradox of irrevocable action accomplished with the conviction of choice? How can we reconcile the experience of freedom with our knowledge that our intentions so frequently issue forth into totally incommensurate consequences? What is the meaning of a causality that accomplishes itself under the mode of freedom?
 
-The philosophy of history has addressed itself to these problems. It testifies to humanity's yearning to understand the fatedness of life, to a mystic drive for an absolute, to an attempt to give meaning to the basic questions of existence. For this reason the philosophy of history is indissolubly connected with metaphysics; is indeed metaphysics of a very high order. The next²
-
-[^arg-4]: See post Ch. History and Man's Experience of Morality.
-2. For this reason I have avoided the usual classification of philosophies of history into cyclical and progress theories. It seems to me, that a classification in terms of metaphysical assumptions presents wider possibilities. Moreover, the philosophers discussed do not lend themselves well to such a classification. Toynbee combines the cyclical and the progress concepts. Spengler is a cyclical philosopher in Vico's tradition. Kant has a theory of progress, achieved by conflict which in its implications is very similar to Toynbee. (See post Ch. History and Man's Experience of Morality).
-
-section will examine whether history can in fact give an answer to these problems.
+The philosophy of history has addressed itself to these problems. It testifies to humanity's yearning to understand the fatedness of life, to a mystic drive for an absolute, to an attempt to give meaning to the basic questions of existence. For this reason the philosophy of history is indissolubly connected with metaphysics; is indeed metaphysics of a very high order. The next² section will examine whether history can in fact give an answer to these problems.
 
 ### 2. Is There a Meaning to History?
 
@@ -91,32 +78,15 @@ Aside from the inner contradiction of this argument, - for if history has no mea
 
 3. History has no meaning, but if freedom and rationality triumph, it will suddenly acquire content.
 
-These implications contain the dilemma of the problem of the meaning of history. Is history an open book, a set of theorems that contains in itself all the aspirations of mankind, as well as the key to the world's purpose? Or does
-
-[^arg-5]: Popper - The Open Society and its Enemies Vol. 2 p. 256.
-[^arg-6]: Popper - Op. cit. Vol. 2 p. 264.
-
-history reveal a series of meaningless incidents, a challenge for our nomative concepts, only through conformity to which it can obtain significance? Is meaning, in short, an attribute of reality or a metaphysical construction attendant on our recognition of significance?[^arg-7]
-history reveal a series of meaningless incidents, a challenge for our nomative concepts, only through conformity to which it can obtain significance? Is meaning, in short, an attribute of reality or a metaphysical construction attendant on our recognition of significance?[^arg-7]
+These implications contain the dilemma of the problem of the meaning of history. Is history an open book, a set of theorems that contains in itself all the aspirations of mankind, as well as the key to the world's purpose? Or does history reveal a series of meaningless incidents, a challenge for our nomative concepts, only through conformity to which it can obtain significance? Is meaning, in short, an attribute of reality or a metaphysical construction attendant on our recognition of significance?[^arg-7]
 
 The logical positivists accept the former alternative. Meaning results from verifying statements with empirical facts. The researches of anthropologist have, however, dispelled the hope that the meaning of assertions could be given a firmer basis by making the physical world their criterion. It has been demonstrated that each culture and to a certain extent each individual constructs his own image of "reality", and that "facts" are in no manner as absolute and unshakeable as assumed. The history of modern physics moreover, has been a continuous process of dissolving external reality and laying bare such mysterious and incompatible prime data as energy that works under the aspect of mass, as light that is demonstrably a wave, but equally certainly contains all its physical properties in an elemental particle, the photon.
 
-Moreover, on this theory, as classical logic has well realized, not only all value judgments, but all quality judgments are meaningless. The difference between affirming an object's worth, or its color, is a difference in achieving a
-
-[^arg-7]: For full discussion of the concept of "meaning" see Post Appendix A "The Concept of Meaning."
-
- 
-
-consensus, but not of empirical verifiability.
+Moreover, on this theory, as classical logic has well realized, not only all value judgments, but all quality judgments are meaningless. The difference between affirming an object's worth, or its color, is a difference in achieving a consensus, but not of empirical verifiability.
 
 Traditional logic, at any rate, was better aware of this problem. In its concepts each proposition had as its subject ultimate reality.[^arg-8] A judgment, of which the proposition constitutes the expression in words, is the act of distinguishing a particular element, the predicate, in the being of a subject that could not be thought of unless it contained some other than the predicated character. The distinguishing characteristic of a judgment is its truth or falsity. However, and this is the cardinal point, only true judgments matter, for unless a man says what he does not really think he is affirming the truth of his assertion. All propositions, therefore, besides affirming or denying the predicate of a subject imply existence. Reality is thus implied by, not requisite for judgments.
 
 The existential import theory of propositions presented too many difficulties, however. Though logicians could always argue that statements about square circles did not imply existence since they involved mutually exclusive terms, or contrast logical construction which only have a mode of being with real existence, the reconciliation of definitional reality and all possible judgments proved impossible.[^arg-9]
-
-[^arg-8]: Joseph - Introduction to logic -p. 166.
-[^arg-9]: Russell - Principles of Mathematics - p. 449.
-
- 
 
 Sentential logic abandoned the concept of the existential import of propositions.[^arg-10] Its logical primitive is a sentence, which exhibits but a grouping together of symbols which in their general characteristics represent but empirical entities. Only by being brought into relation with other physical objects, facts, do these sentences acquire meaning. Since a determination of truth and falsity obviously does not precede every statement, sentential logic was forced to invoke another predicate of propositions, truth-weight. This, however, is a purely psychological relation.
 
@@ -126,40 +96,19 @@ But even this theory stumbled on the problem of just what constituted a fact and
 2. Did only one Man write Waverly?
 3. Was this man Scott?
 
-[^arg-10]: Based on Reichenbach "Experience and Prediction."
-[^arg-11]: Prof. Scheffer has not published his theory. (See Preface).
-
- 
-
 The range of meaningful propositions is, however, not exhausted by the empirical realm. Proper criteria can be obtained for value theorems or esthetic judgments. This theory recognizes the variability of metaphysical assumptions as a condition of meaning. Meaning becomes the function of three factors: the logical expressed in the most precise formulation of the hypothesis, the psychological inherent in the act of judging, the philosophical expressed in the endorsement.¹ Universality depends on the consensus which this ascription of meaning enjoys and not in the first instance on its empirical verifiability.
 
 Thus meaning represents the emanation of a metaphysical context. Just as every man in a certain sense creates his picture of the world, just as the scientist can find in nature only what he puts in it in the formulation of his hypothesis, just as every question determines at least the range of answers, so history does not exhibit the same portent to everybody but yields only the meanings inherent in the nature of our query. Therefore, too, the philosophy of history is inseparable from metaphysics, and involves a deep awareness of the mysteries
 
-1. The endorsement in turn is composed of a metaphysical (the criterion) and an epistemological (the assertion, not the judgment of truth and falsity) element. See post - Appendix - The Concept of Meaning.
+and possibilities not only of nature but of human nature.¹ In the reaction of the various thinkers to the problems of human necessity and human freedom, in their capacity to experience depths inaccessible to reason alone, lies the answer to the meaning of history. Therefore Popper's statement that history presents merely a chronicle of crime and murder, with no awareness of the heartbreak of humanity, reveals his normative concepts but does not represent a necessary attribute of events. That other levels of meaning exist, is shown by Dostojevski and Schweitzer, Homer and Shakespeare to whom history was a deeply felt experience of transcendental import.[^arg-13]
 
- 
-
-and possibilities not only of nature but of human nature. In the reaction of the various thinkers to the problems of human necessity and human freedom, in their capacity to experience depths inaccessible to reason alone, lies the answer to the meaning of history. Therefore Popper's statement that history presents merely a chronicle of crime and murder, with no awareness of the heartbreak of humanity, reveals his normative concepts but does not represent a necessary attribute of events. That other levels of meaning exist, is shown by Dostojevski and Schweitzer, Homer and Shakespeare to whom history was a deeply felt experience of transcendental import.[^arg-13]
-
-Who is right then? Is history the self-realization of the spirit of freedom as Hegel held? Or does it represent the growth and decline of organic cultures, their essence a mystery, their moving force longing and their manifestation power as Spengler argued? Is there a deeper purpose in all this emergence and decay of civilizations, a realization of salvation by faith as Toynbee implies? Does history amount to no more than eternal recurrence, the stage for the Man who surpasses himself of Nietzsche or does it reveal the drama of a divine plan, gradually unfolding and culminating in universal
-
-[^arg-13]: See on this point, Alfred Weber. Farewell to European History.
-
-peace, as Kant asserts?[^arg-16]
+Who is right then? Is history the self-realization of the spirit of freedom as Hegel held? Or does it represent the growth and decline of organic cultures, their essence a mystery, their moving force longing and their manifestation power as Spengler argued? Is there a deeper purpose in all this emergence and decay of civilizations, a realization of salvation by faith as Toynbee implies? Does history amount to no more than eternal recurrence, the stage for the Man who surpasses himself of Nietzsche or does it reveal the drama of a divine plan, gradually unfolding and culminating in universal peace, as Kant asserts?[^arg-16]
 
 If meaning is the metaphysical context that ascribes significance does this preclude differentia by which to judge validity? These criteria exist, but they are not as obvious as the logical positivists assumed.
 
-Though the questions delimit the range of answers, we can require the answers to be relevant to the problem. Though each culture, and perhaps each individual interprets his data in an intensely personal way, we can insist that the data be adhered to. We can analyse internal consistency.² On another level we can judge the adequacy of the thinker's philosophical assumptions by their scope, by their grasp of the totality of life, instead of just its appearances.³ Newton sitting under the apple tree might have correctly concluded that apples fall when ripe. It is not a question of right or wrong, therefore, but of depth and shallowness. It does not suffice to show logically deduced theorems, as an absolute test of validity. There must also exist a relation to the pervasiveness of an inward experience which transcends phenomenal reality. For
+Though the questions delimit the range of answers, we can require the answers to be relevant to the problem. Though each culture, and perhaps each individual interprets his data in an intensely personal way, we can insist that the data be adhered to. We can analyse internal consistency.² On another level we can judge the adequacy of the thinker's philosophical assumptions by their scope, by their grasp of the totality of life, instead of just its appearances.³ Newton sitting under the apple tree might have correctly concluded that apples fall when ripe. It is not a question of right or wrong, therefore, but of depth and shallowness. It does not suffice to show logically deduced theorems, as an absolute test of validity. There must also exist a relation to the pervasiveness of an inward experience which transcends phenomenal reality. For though man is a thinking being, it does not follow that his being exhausts itself in thinking. The ultimate mysteries of life are perhaps not approachable by dissection, but may require the poet's view who grasps the unity of life, which is greater than any, however painstaking analysis of its manifestations.
 
-[^arg-16]: Kant did not ascribe the self-realization of peace to a divine plan, but to a natural unfolding. The implication, just as in Spinoza, is however of a divine order in the cosmos.
-[^arg-17]: See post: Appendix A. The Concepts of Meaning.
-[^arg-18]: This, however, involves utilization of another set of assumptions. See post Appendix A - The Concepts of Meaning.
-
-though man is a thinking being, it does not follow that his being exhausts itself in thinking. The ultimate mysteries of life are perhaps not approachable by dissection, but may require the poet's view who grasps the unity of life, which is greater than any, however painstaking analysis of its manifestations.
-
-The Philosophy of History exhibits therefore, in its metaphysical assumptions an attitude towards the basic problems of existence. They reveal whether life is approached with reverence and humility or with the assertive tool of a reason that admits no reality outside itself. The resolution of the dilemma of historical events serving as the condition for a transcendental experience or reality exhausting itself in phenomenal appearances discloses the ethical predispositions of a personality, not a property of historical data.¹
-
-1. See post Ch: The Sense of Responsibility.
+The Philosophy of History exhibits therefore, in its metaphysical assumptions an attitude towards the basic problems of existence. They reveal whether life is approached with reverence and humility or with the assertive tool of a reason that admits no reality outside itself. The resolution of the dilemma of historical events serving as the condition for a transcendental experience or reality exhausting itself in phenomenal appearances discloses the ethical predispositions of a personality, not a property of historical data.²
 
 ### The Philosophy of History as a Reflection of Basic Attitudes
 
@@ -167,21 +116,13 @@ Birth is the beginning of death, life the process of mortality. Everything exist
 
 The magic attitude towards life seeks to escape the transitoriness of its existence by conjuring its data. It attempts to find in history the necessary realization of its purposive concepts, to be classified as attributes of events. But purpose represents the emanation of a metaphysical context not a necessary deduction from phenomena. No ethical value can be ascribed to the mere survival which history exhibits. For this reason the magic attitude develops a philosophy of eternal recurrence, as a condition for its cognition. Death becomes the result of fulfillment, life exhibits merely mortality, history represents a machine continually re-producing new manifestations of power. Values are, at best, a mode of causality. The mystery of life is limited by classifiable data; it exhausts itself in the riddle
 
-of the first cause. The fact of occurence reveals the only criterion of inward fitness.[^arg-14]
 of the first cause. The fact of occurence reveals the only criterion of inward fitness.¹
 
 The prayerful attitude, on the other hand, experiences life as a vision of reconciliation as one views a vast plain from a mountain top when the haze obscures the countryside and everything merges in a total impression of peace and harmony. The inevitability exhibited to retrospection attains a deeper meaning through a transcendental experience. The recognition of necessity becomes the condition for the attainment of inward liberation. Resignation as to the purposes of the universe serves as the first step towards ethical activity and the realization ensues that the meaning of history is not confined to its mere manifestations and that no causal analysis can absolve Man from giving his own content to his own existence.[^arg-15]
 
 The philosophies of Spengler, Toynbee and Kant contain expressions of these attitudes in the quest for the apprehension of the meaning of history.
 
-Spengler asserted that progress was not a category of meaning for history. Life contains the problem of motion,
-
-[^arg-14]: See discussion of Ch III "Toynbee."
-[^arg-15]: See post- Ch - "The Sense of Responsibility." See also Schweitzer "The Philosophy of Civilization."
-
- 
-
-which results from the irrevocability of our actions and prevents us in the eternal flux of things to ever observe that which is in the act of observing itself, to ever causally determine the inner connectedness of events. This directedness of life is the source of the dual qualities of world-longing and world-dread that arises from our consciousness of mortality and our loneliness in a world in which we can never grasp the total inner meaning of others. The riddle of time opens up for Man, not to be classified as a category of Reason as Kant attempted. Space is a conception, but time represents a denotation for something inconceivable. It expresses itself in the eternal becoming that is the essence of Man and that attains pure being - pure space - only at the moment of his death. Causality applies to the stiff-forms of being; Destiny, fate dominate becoming. Destiny answers the question of when causality of how. All of life is permeated by an inner destiny that can never be defined, history discloses a majestic unfolding that one can only intuitively perceive, never causally classify. Existence constitutes a mystic relationship to the extended, especially accessible to the artist and the great statesman, the mystery and the essence of which each culture perceives in a different fashion.
+Spengler asserted that progress was not a category of meaning for history. Life contains the problem of motion, which results from the irrevocability of our actions and prevents us in the eternal flux of things to ever observe that which is in the act of observing itself, to ever causally determine the inner connectedness of events. This directedness of life is the source of the dual qualities of world-longing and world-dread that arises from our consciousness of mortality and our loneliness in a world in which we can never grasp the total inner meaning of others. The riddle of time opens up for Man, not to be classified as a category of Reason as Kant attempted. Space is a conception, but time represents a denotation for something inconceivable. It expresses itself in the eternal becoming that is the essence of Man and that attains pure being - pure space - only at the moment of his death. Causality applies to the stiff-forms of being; Destiny, fate dominate becoming. Destiny answers the question of when causality of how. All of life is permeated by an inner destiny that can never be defined, history discloses a majestic unfolding that one can only intuitively perceive, never causally classify. Existence constitutes a mystic relationship to the extended, especially accessible to the artist and the great statesman, the mystery and the essence of which each culture perceives in a different fashion.
 
 And what does Spengler see with this intuitive vision?
 
@@ -189,42 +130,19 @@ And what does Spengler see with this intuitive vision?
 
 "A boundless mass of human Beings, flowing in a stream without banks; up-stream a dark past wherein our time-sense loses all powers of definition and restless or uneasy fancy conjures up geological periods to hide away an eternally unsolvable riddle, down-stream a future even so dark and timeless"[^arg-20] - such is Spengler's view of human history. Over this surface there suddenly emerge the forms of the great cultures, organic beings with their own inner necessity and their deep logic of becoming. They go through all the stages of organic life, youth, maturity, decline and old age. Their youth is a period of infinite yearning in which every action is an augury of things to come and in which art, philosophy and politics unconsciously embody the cosmic beat. In the gradual maturity of growth the mystery of life is dissipated, its problems answered, the questions thought through, the great form lost. Irrevocably over the bodies of a humanity that can no longer but accept, Caesarism approaches embodying itself in all the traditional trappings of life. Humanity flows into cities and amidst bread and circuses, amidst a repetition of cataclysmic wars the civilization petrifies and dies.
 
-Therewith disappears not only its outward power, but also its inner meaning, of which each culture constructs its own
-
-[^arg-20]: Spengler - The Decline of the West - Volume 1. p.105.
-
- 
-
-life-symbol. Thus the Greek Gods died with the Classical soul and so the Western World has started on its slow but certain decline.
+Therewith disappears not only its outward power, but also its inner meaning, of which each culture constructs its own life-symbol. Thus the Greek Gods died with the Classical soul and so the Western World has started on its slow but certain decline.
 
 Spengler grasped the essential mystery of life that Kant found in the experience of freedom. He realized that every event represents not only an effect, but also an inward experience, the key to results incommensurable with our intentions. He affirmed that there are certain ultimate goals, which no hypothesis can prove, and no sophistry ever deny, expressed in such words as hope, love, beauty, luck, fear. These are the symbols that are veiled in mystery and no definition can get in touch with what feel when we utter these words. He knew that intuitive perception (the German erfuehlen) contains the key to some mysteries, just as causality reveals the solution to others.
 
-Yet what does Spengler experience in history? An endless unfolding of a cosmic beat that expresses itself in the sole alternatives of subject and object, a vast succession of catastrophic upheavals of which power is not only the manifestation but the exclusive aim; a stimulus of blood that not only pulses through veins but must be shed and will be shed. He feels in short only what history also demonstrates phenomenally; he has not experienced the mysteries and thereby derived a level of transcendence, he has solved them and
-
- 
-
-will see in that solution history's only meaning.¹
+Yet what does Spengler experience in history? An endless unfolding of a cosmic beat that expresses itself in the sole alternatives of subject and object, a vast succession of catastrophic upheavals of which power is not only the manifestation but the exclusive aim; a stimulus of blood that not only pulses through veins but must be shed and will be shed. He feels in short only what history also demonstrates phenomenally; he has not experienced the mysteries and thereby derived a level of transcendence, he has solved them and will see in that solution history's only meaning.¹
 
 "...........Everything is determined," the devil tells Ivan Karamazoff "and humanity is settled forever.² But as, owing to man's inveterate stupidity this can not come about for at least a thousand years, everyone who recognizes the truth even now may legitimately order his life as he pleases, on the new principles. In that sense 'all things are lawful' for him. What's more, even if this period never comes to pass, since there is anyway no God and no immortality, the new man may well become the man-god......"
 
 This discloses the true implications of Spengler's position, the dilemma of which is expressed in this striking phrase: "In the world of history the Roman caused the Galilean to be crucified - that was his Destiny. In the other world (of Causality and morality) Rome was cast for perdition and the Cross became the pledge of Redemption - that was the Will of God."³ But the Cross on the hills of Jerusalem has long disappeared, the temple is in ruins, and the Roman legions are not even a memory. Yet on roadsides all over the world, in the souls of whole civilizations the Cross still stands. Is that all that is implied by destiny then, this death and that Cross?
 
-1. This analysis holds true only if one interprets Spengler's philosophy as embodying norms of activity. Though this is the usual analysis it is by no means a necessary one. See post Ch. "Spengler". Ch: "The Sense of Responsibility."
-2. Dostojevski - The Brothers Karamazoff - The Modern Library
-3. Spengler - op.cit. Vol II. p. 116.
-
- 
-
 Spengler had a vision of the world-as-experience but his conclusions do not fill its vastness. His poetic imagination became fascinated by the mere analysis of power-phenomena. His approach through intuitive perception reveals no more than the empirical analysis of Toynbee.¹ The narrow confinement of meaning to the specific souls of each Culture seems arbitrary. There is meaning not only in the aspirations and symbols long dead, but in those that have been continued as the matrix for other civilizations. Though Spengler would reply that no Culture ever understands another in just its original connotation, he has failed to do justice to the impact the adoption of any alien form must of necessity exert on its user.² The continuity of certain aspects of ethical, aesthetic and political problemation is as significant, as its cyclical fluctuation and should have been especially accessible to a vision of history-as-inward experience. Though Spengler's insights are challenging and his predictions perhaps correct, they do not exhaust the meaning of history.
 
-Toynbee probed for this deeper meaning but looked for
-
-1. For interdependence of two philosophers - see post. Ch: Toynbee.
-2. See post. Ch. "Spengler."
-
- 
-
-empirical verification into history instead of into himself. Accepting almost completely Spengler's methodology of comparing civilizations in their political occurrences, as well as in their esthetic and theological manifestations, he attempted to solve one problem to which Spengler never addressed himself: What causes the emergence, out of formless humanity, of the genus culture?
+Toynbee probed for this deeper meaning but looked for empirical verification into history instead of into himself. Accepting almost completely Spengler's methodology of comparing civilizations in their political occurrences, as well as in their esthetic and theological manifestations, he attempted to solve one problem to which Spengler never addressed himself: What causes the emergence, out of formless humanity, of the genus culture?
 
 Toynbee finds the answer in the doctrine of challenge and response. Life presents a series of problems each a challenge to undergo an ordeal. The initial successful reaction constitutes the civilization's birth. Its growth is not determined by an organic necessity but accomplishes itself through the response to successive challenges. Each solution does not lead to an equilibrium but creates an over-balance which in turn becomes a new challenge. Progress ceases when societies fail to react to new stimuli.
 
@@ -236,13 +154,7 @@ diverts energies into other - worldly pursuits, culminating in a transcendental 
 
 Toynbee's theory of Challenge-and-Response is very similar to Hegel's dialectic. It consequently does not represent a negation of determinism but a description of its operation. The analysis of response almost exclusively in terms of challenges leads to a more refinement of the Environment theory. Since Toynbee attempts to verify theological assumptions by an empirical method, success becomes the only criterion of moral fitness. Survival reveals God's sanction to the elect. History's purpose is identical with man's aspirations.
 
-The unsatisfactoriness of Toynbee's philosophy derives from his method. Though his conclusions give an intimation of transcendental experience, they are not supported by¹
-
-1. In the Concept of Transfiguration.
-
- 
-
-his data. The attempt to find a causal realization of a divine purpose in the manifestations of political power results in such inconsistencies as the assertion that the miracle of Christianity will save the West, despite the collapse of every other civilization, and despite the fact that in Toynbee's scheme universal churches appear as concomitants of disintegration.
+The unsatisfactoriness of Toynbee's philosophy derives from his method. Though his conclusions give an intimation of transcendental experience, they are not supported by his data.¹ The attempt to find a causal realization of a divine purpose in the manifestations of political power results in such inconsistencies as the assertion that the miracle of Christianity will save the West, despite the collapse of every other civilization, and despite the fact that in Toynbee's scheme universal churches appear as concomitants of disintegration.
 
 An inward experience cannot be proved by empirical data, however. A philosophy of history without a profound metaphysics will forever juxtapose surface data and can never satisfy the totality of man's desire for meaning.
 
@@ -258,55 +170,23 @@ What is the content of this transcendental experience? This is not easy to expre
 
 Dostojevski has been called "the great criminal."¹ Yet Dostojevski's insight into the depths, his very ability to do so without flinching, rested on a saintly recognition of this transcendence, on an apprehension of the unity of mankind, expressed in the concept of love as the mystical bond of the universe.
 
-"If you love everything" says Father Zosima "you will perceive the divine mystery of things" and "What grows lives and is alive only through the feeling of its contact with²
-
-1. Thomas Mann - Introduction to Short Novels of Dostojevski.
-2. Dostojevski - The Brothers Karamasoff - p.383.
-
- 
-
-other mysterious worlds. If that feeling is lost, the heavenly growth will die away in you."
+"If you love everything" says Father Zosima "you will perceive the divine mystery of things" and "What grows lives and is alive only through the feeling of its contact with² other mysterious worlds. If that feeling is lost, the heavenly growth will die away in you."
 
 And "the Idiot" expresses the longing for a final culmination of all destinies: "What difference can it make if the tension is abnormal, if the result itself, if the moment of sensation, when remembered and examined in the healthy state, proves to be in the highest degree harmony and beauty; and gives an unheard of and undreamed of feeling of completion, of balance, of satisfaction and exultant prayerful fusion with the highest synthesis of life?"
 
-There exist two levels of historical analysis then; the empirical which classifies historical data by its phenomenal appearance and will perforce discover a cyclical pattern and the ethical which views history as a key to action. The doctrine of immanent necessity represents the outsider's view of history, the conception of a person who has not experienced the accomplishment of the event. No representation of inevitability can, however, absolve the individual from giving his own meaning to his own existence. Necessity describes the past but freedom rules the future. Purposes reveal a task to be achieved, an expression of a soul, not an attribute of historical events. The ethical
-
- 
-
-basis of conduct depends on the transcendental experience implied by Plato, Kant or Dostojevski.
+There exist two levels of historical analysis then; the empirical which classifies historical data by its phenomenal appearance and will perforce discover a cyclical pattern and the ethical which views history as a key to action. The doctrine of immanent necessity represents the outsider's view of history, the conception of a person who has not experienced the accomplishment of the event. No representation of inevitability can, however, absolve the individual from giving his own meaning to his own existence. Necessity describes the past but freedom rules the future. Purposes reveal a task to be achieved, an expression of a soul, not an attribute of historical events. The ethical basis of conduct depends on the transcendental experience implied by Plato, Kant or Dostojevski.
 
 Does this mean that mysticism contains the only key to history, with reason but an obstacle to the ultimate determination of the meaning of life? Kant has already answered the question. Morality derives from a mystic relationship to the Infinite, a personal experience which elevates man above the realm of necessity.¹ This transcendental experience, however, enables reason to give rules of general applicability. The categorical imperative is not a law in the ordinary sense but a guide to an action postulated by the experience of freedom.² Kant's philosophy of history is an emanation of this transcendence, a corollary to demonstrate the kingdom of ends, where each man is both subject and legislator, the highest concept achieved by the Western mind of the dignity of the individual.³
 
-What is the relationship then of morality to a philosophy of history? The magic attitude can find no such relation and must have recourse in the "man-god," and a deterministic psychology. Viewing the succession of growth and decay,
-
-1. Kant does not really say this. But his postulation of God, freedom and immortality imply it. For the categorical imperative can only serve as a necessity of thought to a certain attitude. See post, "History and Man's Experience of Morality."
-2. Indissolubly connected with a concept of limits see post: The Sense of Responsibility."
-3. Only in the "Eternal Peace," not in the "idea for a Universal History," see post.
-
- 
-
-the wars, the destruction of values, one is tempted to agree with Hegel "only by consoling ourselves that it would not be otherwise can we accept these enormities."¹ Life does seem just a process of dying, power does seem the criterion of values Trasymachus' question does appear unanswerable.
+What is the relationship then of morality to a philosophy of history? The magic attitude can find no such relation and must have recourse in the "man-god," and a deterministic psychology. Viewing the succession of growth and decay, the wars, the destruction of values, one is tempted to agree with Hegel "only by consoling ourselves that it would not be otherwise can we accept these enormities."¹ Life does seem just a process of dying, power does seem the criterion of values Trasymachus' question does appear unanswerable.
 
 Yet out of this unfolding of seeming inevitability, there appears to emerge a feeling of humility, a recognition by men of his limits. "Know thyself" - was the motto of the oracle of Delphi. This was not meant psycho-analytically but implied: "Know that you are a man and not God." From the acceptance of limits derives the feeling of reverence which sees history not merely as an ordeal, or mankind as a tool but as a deep fulfillment. This feeling of humility, this acknowledgement that one is Man and not God, has as its full implication the concept of tolerance, the very basis for the dignity of the moral personality of the individual.²
 
-And yet a last dilemma emerges. Even though our contemplation of history may yield as its deepest meaning a
-
-1. Hegel. The Philosophy of History. p. 35.
-2. See post Cl: The Sense of Responsibility.
-
- 
-
-feeling of limits as the basis of the ultimate moral personality of man, we are still faced with the fact that no civilization has yet been permanent, no longing completely fulfilled, no answer ever gone unchallenged. It is a difficult question and one must not reply dogmatically.
+And yet a last dilemma emerges. Even though our contemplation of history may yield as its deepest meaning a feeling of limits as the basis of the ultimate moral personality of man, we are still faced with the fact that no civilization has yet been permanent, no longing completely fulfilled, no answer ever gone unchallenged. It is a difficult question and one must not reply dogmatically.
 
 It is not easy to define what degree of permanence what hope of apocalyptic fulfillment a value or an attitude requires. Perhaps the experience of living offers a clue. We know we must die and yet live with a sense of eternity. We can never prove that our action, even a second ago, was really freely willed and yet entertain no doubt of our freedom as each new situation arises. Despite the limits of our life, we know that our actions are irrevocable and that even inactivity posits an absolute relation. We can live this dilemma only by a measure of acceptance and despite the knowledge of the transitoriness of our lot, with a mode of permanence.
 
-This acceptance is not a kismetic resignation but an active recognition of limits, which enables man to face and transcend the majesty of the flow of history and the directness of life. This is the profounder[^arg-19]
-
-[^arg-19]: For full development see post "The Sense of Responsibility."
-
- 
-
-meaning of Goethe's poem that Spengler chose as the theme of his philosophy:
+This acceptance is not a kismetic resignation but an active recognition of limits, which enables man to face and transcend the majesty of the flow of history and the directness of life. This is the profounder meaning of Goethe's poem that Spengler chose as the theme of his philosophy:[^arg-19]
 
 In the Endless, self-repeating
 flows for evermore the same.
@@ -317,6 +197,40 @@ grandest star and humblest clod.
 All the straining, all the striving
 is eternal peace in God.[^arg-21]
 
+### Footnotes
+
+[^arg-1]: This follows Kant's analysis of the categories. See post.
+
+[^arg-2]: See post. Ch. "History and Man's Experience of Morality."
+
+[^arg-3]: See post. for full discussion Ch. "History and Man's Experience of Morality."
+
+[^arg-4]: See post Ch. History and Man's Experience of Morality.
+
+[^arg-5]: Popper - The Open Society and its Enemies Vol. 2 p. 256.
+
+[^arg-6]: Popper - Op. cit. Vol. 2 p. 264.
+
+[^arg-7]: For full discussion of the concept of "meaning" see Post Appendix A "The Concept of Meaning."
+
+[^arg-8]: Joseph - Introduction to logic -p. 166.
+
+[^arg-9]: Russell - Principles of Mathematics - p. 449.
+
+[^arg-10]: Based on Reichenbach "Experience and Prediction."
+
+[^arg-11]: Prof. Scheffer has not published his theory. (See Preface).
+
+[^arg-13]: See on this point, Alfred Weber. Farewell to European History.
+
+[^arg-16]: Kant did not ascribe the self-realization of peace to a divine plan, but to a natural unfolding. The implication, just as in Spinoza, is however of a divine order in the cosmos.
+
+[^arg-17]: See post: Appendix A. The Concepts of Meaning.
+
+[^arg-18]: This, however, involves utilization of another set of assumptions. See post Appendix A - The Concepts of Meaning.
+
+[^arg-19]: For full development see post "The Sense of Responsibility."
+
 [^arg-21]:
     Wenn im Unendlichen Dasselbe
     Sich wiederholend ewig fliesst
@@ -326,6 +240,14 @@ is eternal peace in God.[^arg-21]
     Dem kleinsten, wie dem groessten Stern
     Und alles Draengen, alles Ringen
     Ist ewige Ruhe in Gott, dem Herrn
+
+1. Thomas Mann - Introduction to Short Novels of Dostojevski.
+2. Dostojevski - The Brothers Karamasoff - p.383.
+3. Kant does not really say this. But his postulation of God, freedom and immortality imply it. For the categorical imperative can only serve as a necessity of thought to a certain attitude. See post, "History and Man's Experience of Morality."
+4. Indissolubly connected with a concept of limits see post: The Sense of Responsibility."
+5. Only in the "Eternal Peace," not in the "idea for a Universal History," see post.
+6. Hegel. The Philosophy of History. p. 35.
+7. See post Cl: The Sense of Responsibility.
 
 ## History-as-Intuition (Spengler)
 
@@ -338,39 +260,17 @@ History, on the other hand, contains the problem of motion, the enigma of the ev
 
 Causality governs the become, with space as its representation. Becoming and being, Space and Time, Wisdom and Intellect, Freedom and Necessity constitute the true polarities of life, giving rise to man's interpretation of existence either under the aspect of the World-as-History or the World-as-Nature.
 
-The ordering of history into ancient, medieval and modern, the Darwinian theory of evolution, the concept of
+The ordering of history into ancient, medieval and modern, the Darwinian theory of evolution, the concept of infinite human progress become equally meaningless. Instead, there emerge the shapes of the great cultures, as the carriers of all of the meaning of humanity. Each is a product of the soil in which it grew, awakening in a moment when the fear of death and the longing for life synthesised into a picture of the world from which emerges the Grand Myth, the symbol of all the problems and all the potentialities inherent in the culture. The inward representation of this image is the culture's soul. Each culture has a determinate life-span before returning to the biological ages that spawned it in the shape of civilization, a state of absolute finishedness with the problems answered, the style lost. Philosophy of history to Spengler is not a question of industriously adding epochs to epochs, nor of the mere scientific collection of data. Data provides but the raw-material, the condition for the higher experience, the physiognomic tact, which illuminates the meaning of the symbols, and explains the stages of development. The morphology of history is Spengler's task, one eminently fit for a Faustian (Western) Thinker.[^sp-1] Cultures are compared in terms of their inner meaning. Their contemporary epochs reveal functions of identical stages in development.
 
- 
-
-infinite human progress become equally meaningless. Instead, there emerge the shapes of the great cultures, as the carriers of all of the meaning of humanity. Each is a product of the soil in which it grew, awakening in a moment when the fear of death and the longing for life synthesised into a picture of the world from which emerges the Grand Myth, the symbol of all the problems and all the potentialities inherent in the culture. The inward representation of this image is the culture's soul. Each culture has a determinate life-span before returning to the biological ages that spawned it in the shape of civilization, a state of absolute finishedness with the problems answered, the style lost. Philosophy of history to Spengler is not a question of industriously adding epochs to epochs, nor of the mere scientific collection of data. Data provides but the raw-material, the condition for the higher experience, the physiognomic tact, which illuminates the meaning of the symbols, and explains the stages of development. The morphology of history is Spengler's task, one eminently fit for a Faustian (Western) Thinker.[^sp-1] Cultures are compared in terms of their inner meaning. Their contemporary epochs reveal functions of identical stages in development.
-
-Becoming and become, destiny and causality emerge as man's problems at every stage and permeate all his creations, art, the state, religion, economics and natural-science. And
-
-[^sp-1]: See post.
-
- 
-
-at the end of the road, while Caesarism rules in the Megalopolis and man's dilemmas are thought through to steel-bright sharpness, occurs a moment of realization that after all, the analysis had not led to its goal, that man holds in his hand nothing but the early myth in another shape. At this point the second Religiousness comes over mankind and ideation in the grand style ceases in all fields of activities. The civilization petrifies, the period of fellah-existence as objects to a destiny that is no longer experienced commences.
+Becoming and become, destiny and causality emerge as man's problems at every stage and permeate all his creations, art, the state, religion, economics and natural-science. And at the end of the road, while Caesarism rules in the Megalopolis and man's dilemmas are thought through to steel-bright sharpness, occurs a moment of realization that after all, the analysis had not led to its goal, that man holds in his hand nothing but the early myth in another shape. At this point the second Religiousness comes over mankind and ideation in the grand style ceases in all fields of activities. The civilization petrifies, the period of fellah-existence as objects to a destiny that is no longer experienced commences.
 
 Since destiny is the representation of the will-to-live, dependent on the self-assurance of its exponent, an analysis of the elements of political success ensues, not in a normative framework of purposive realization but as an answer to the pragmatic problem of prevailing.[^sp-2]
 
 Prof. von Beckrath rejects Spengler's philosophy as a metaphysical creation, not in the first instance based on empirically verified observations.[^sp-3] This misses the essence of an inductive method. Not the existence, but the adequacy of metaphysical concepts, not their exclusive foundation in particular observations, but their applicability to the pervasiveness of experience must be the subject of analysis.[^sp-4]
 
-We must further decide how far Spengler is a follower of Hegel's despite his attacks on the ascription of rational
-
-[^sp-2]: Schmoller's Jahrbuch fuer Gesetzgebung Vol. 47, p. 33
-[^sp-3]: See Appendix "A" - The Concept of Meaning.
-[^sp-4]: See ante Ch. I - Introduction. Post Appendix A- The Possibility of Meaning.
-
- 
-
-purposes to history and what was his relation to Darwin, the object of his ridicule and yet the chronicler in the biological world of Spengler's political realm.
+We must further decide how far Spengler is a follower of Hegel's despite his attacks on the ascription of rational purposes to history and what was his relation to Darwin, the object of his ridicule and yet the chronicler in the biological world of Spengler's political realm.
 
 And so the last question emerges: Is it possible to describe the mere components of political success without imparting into the evaluation of its elements normative concepts? Is it possible to utilize necessity as a guide to conduct, not merely as the description of completed action? The solution to these problems can not be found in phenomena but only in a personality, expressed philosophically by its metaphysical assumptions.
-
- 
-
- 
 
 ### Metaphysics
 
@@ -380,94 +280,43 @@ And so the last question emerges: Is it possible to describe the mere components
 
 So begins Volume 2 of Spengler's Decline of the West and therein is to be found the essence of his metaphysical doctrine. Everything existing contains something cosmic, the periodicity of the seasons, the rhythm of birth, life and decay.
 
-[^sp-5]: Spengler - The Decline of the West - Vol.II p 3.
-
- 
-
- 
-
 But animals do not merely exist. They represent a unit that has separated itself from the All, and can define its position in a world-around that is felt by it as environment. They are microcosm in a macrocosm.
 
 The cosmic has rhythm, tact, the grand harmony that binds together lovers or crowds in moments of absolute wordless understanding, the pulse that unites a sequence of generations into a meaningful whole. This is Destiny, the symbol of the blood, of sex, of duration. This answers the question of when and whither, and represents the only method of approaching the problem of time. It is felt by the great artist in his moment of contemplation, it is embodied by the statesman in action and is lived by the man of the Spring-time culture. It constitutes the essence of tragedy, the problem of "too late", when a moment of the present is irrevocably consigned to the past.
 
 The microcosm contains tension and polarity, the loneliness of the individual in a world of strange significances, in which the total inner meaning of others remains an eternal riddle. Rhythm and tension, longing and fear, characterize the relationship of the microcosm to the macrocosm. Organisms contain consciousness, (Dasein-Being). Animals represent Waking-Being (Waking-Consciousness, Wachsein). Only in sleep everything existing reverts to mere Being.
 
-For Man waking-being is confined to the realm of the eye. The sounds of the night, the odor of flowers all stimulate
-
- 
-
- 
-
-a "whither" in the world of light. Of the world of scent, man knows little, of the nature of the butterfly, whose crystalline eyes focus a picture of myriad possibilities, nothing. Thus night has always been felt as akin to death and the idea of an invisible God constitutes the highest manifestation of human transcendence.
+For Man waking-being is confined to the realm of the eye. The sounds of the night, the odor of flowers all stimulate a "whither" in the world of light. Of the world of scent, man knows little, of the nature of the butterfly, whose crystalline eyes focus a picture of myriad possibilities, nothing. Thus night has always been felt as akin to death and the idea of an invisible God constitutes the highest manifestation of human transcendence.
 
 This has made the depth-experience the most significant concept in man's life. The awareness of the I depends on the recognition of the Thou, of the existence of the other in the environment. Just as the notion of Destiny is tied up with the rhythm of becoming and the felt pulse of the organic, so waking consciousness comes to the full awareness of space, extended only through the experience of death. At that moment, man first realizes his immense loneliness in the universe, the episodic nature of his existence. The animal lives in a pure present and dies without knowledge of the fact, but for man life is a short span between birth and death.
 
 The enigma of Time first appears, the realization of limits, of the transitoriness of existence. Therefore the first manifestation of higher thought occurs as a meditation upon death.
 
-Man rebels at the thought of the episodic nature of life, at its mystery and his loneliness in the universe. The enigmatic which ever threatens the existence of primitive man begins to be mastered by the act of naming objects, which serves as a limitation and an assertion of supremacy. The wish to
-
- 
-
- 
-
-transcend mortality develops into the process of conjuring the world, achieved under the aspect of cult by the religious soul and under that of technique in an age the numina of which are expressed in theory.
+Man rebels at the thought of the episodic nature of life, at its mystery and his loneliness in the universe. The enigmatic which ever threatens the existence of primitive man begins to be mastered by the act of naming objects, which serves as a limitation and an assertion of supremacy. The wish to transcend mortality develops into the process of conjuring the world, achieved under the aspect of cult by the religious soul and under that of technique in an age the numina of which are expressed in theory.
 
 In primitive societies the enigmatic is conquered by religion, which requires forms, the knowledge of which is restricted and whose rites must be exact. As a function of the soul's depth experience, religion contains the grand myth of each culture, the actualization of its prime symbol, expressed in the upward-striving forceful God of the Gothic, the spirit of God hovering in the cave-world of the Magian soul, the statuesque body of the Apollinian.[^sp-6]
 
 The reactions, which originally were total tend to become permeated by an understanding of significances. Understanding separated from sensation is called thought. Profane causality appears, supplanting the holy causality of religion, in order to withdraw from the world of becoming the data which it then dissects. Yet natural science is neither new nor self-contained, but a consequence of the religious world-picture that preceded it, all its theories merely an analysis - and even a rebuttal presupposes an object - of the lived metaphysics of the culture's youth. No matter how far natural science advances, at its edge, in the inexplicable residue, ever hovers God as everything beyond the possibility of causal analysis.
 
-[^sp-6]: For explanation of term see post. Chapter "The Souls of Each Culture".
-
- 
-
 The insolvable dilemma of time emerges: each act is unique, yet science must postulate on endless comparability of phenomena. The world reveals a process of eternal becoming, but causality can operate only on the become. The realm of becoming knows only singularly occurring facts, the world of pure being operates with eternal truths. The conflict of rhythm against tension, destiny against causality permeates existence and history.
 
 Two pictures of the world are possible: the World-as-History in which the become is ordered with reference to the becoming or the World-as-Nature in which the opposite occurs. The World-as-History presents a dynamic process of growth with the will-to-live the only criterion of success, the only source of motivation. In this world of facts only subjects and objects exist. To live for abstractions involves suffering a destiny instead of being one. Its chroniclers are those individuals whose physiognomic tact enables them to apprehend the totality of events in a poetic unity, with a clear realization of the insufficiency of a causal analysis. Its representatives are the great statesmen who embody the meaning of the occurrences, the men of blood who feel the cosmic beat and actualize it. "I feel myself driven towards an end that I do not know", Napoleon stated at the beginning of the Russian campaign. "As soon as I shall have reached it an atom will suffice to shatter me. Till then not all the forces in the world will prevail against me."[^sp-7]
 
-[^sp-7]: Spengler - op. cit. - Vol I. p. 144.
-
 Yet the World-as-Nature, too, has its triumphs. Its linkages represent man's attempt at attaining mastery over his destiny. It can achieve in its highest form liberation and freedom from the world-born fear which is the lot of waking consciousness, the Ego's loneliness in the face of impassable boundaries. It is ever the task of religion to fight against the powers of the blood, to withdraw from the world into ascetism, to realize the necessity of tension and in the end finally to love it. "Morality is a planned causality of conduct"[^sp-8] of eternal validity and by definition applicable even if man did not exist.[^sp-9] The saint must realize, however, that his victories are not of this world. If he wants temporal success the logic of events forces him to use political weapons. The meeting of Pilate and Christ[^sp-10] constitutes Spengler's poetic representation of this dilemma. The Roman asked "What is truth?" And in that question expressed the self-confidence of the State, the pride of eminent fitness, the entire meaning of history. And the answer, not indeed spoken but implicit in the actions of the prisoner was: "What is actuality?"
 
-This contains the final differentia between the two form-worlds, between becoming and being, destiny and causality, history and nature. Becoming with waking consciousness as its
-
-[^sp-8]: Spengler - op. cit. - Vol II. p. 270.
-[^sp-9]: See Kant's definition of the categorical imperative as applied to all rational being, not only to Man.
-[^sp-10]: Spengler - op. cit. - Vol II. p. 216.
-
-subject, or a waking-being that attempts to dominate destiny are the essence of the antinomy, the real alternatives of life. The politician despises the thinker and dreamer - and rightly. For the believer all worldly ambition is sham and deception - he too is right. "A ruler who attempts to improve religion in the direction of practical, worldly purposes is a fool. A sociologist-preacher who tries to bring peace, forgiveness, righteousness and peace into the world of actuality is a fool also. No faith has yet altered the world and no fact can rebut a faith .....[^sp-11] Let a man be either a hero or a saint, for between lies, not wisdom, but banality."[^sp-12]
+This contains the final differentia between the two form-worlds, between becoming and being, destiny and causality, history and nature. Becoming with waking consciousness as its subject, or a waking-being that attempts to dominate destiny are the essence of the antinomy, the real alternatives of life. The politician despises the thinker and dreamer - and rightly. For the believer all worldly ambition is sham and deception - he too is right. "A ruler who attempts to improve religion in the direction of practical, worldly purposes is a fool. A sociologist-preacher who tries to bring peace, forgiveness, righteousness and peace into the world of actuality is a fool also. No faith has yet altered the world and no fact can rebut a faith .....[^sp-11] Let a man be either a hero or a saint, for between lies, not wisdom, but banality."[^sp-12]
 
 Spengler resolved the dilemma of our experience of freedom and our knowledge of necessity into a postulate of alternatives. The opposition of becoming and being, the tension between Destiny and Causality, constitutes the metaphysical basis of Spengler's philosophy of history. The actualization of the immanent pulse achieves its highest form as long as its direction is taken for granted. Waking-consciousness achieves a gradual dominance only by reducing the lived experience of the cosmic beat. Finally man is adrift in a world whose purpose is no longer his own. The Culture turns into a Civilization, petrifies and dies.
 
-[^sp-11]: Spengler - op. cit. - Vol II. p. 216.
-[^sp-12]: Spengler - op. cit. - Vol II. p. 274.
-
 The imaginativeness of this philosophy can not hide its inner complexities, however. The opposition of becoming and being, Destiny and Causality, Necessity and Freedom seems to reduce existence to a mere vegetating. But necessity explains only past actions. Its actualization in conduct requires a waking-consciousness, which moreover operates with the inner conviction of choice. If the Cultures are distinguished by their struggle for the actualization of an idea,[^sp-13] then the specificity of history resides in an element of purposiveness, not in an inexorable destiny. The World-as-History and the World-as-Nature are, after all, merely metaphysical abstractions for the apprehension of events, not objective modes of real occurrences.[^sp-14]
 
-Spengler implies that the man-of-fact lives a destiny and thereby achieves his triumphs. But, again, this does not seem to prove the dominance of becoming over being, of History over Waking-consciousness. The recognition of the immanence depends on waking-consciousness. Instinct is no guide to political conduct. Effective leadership is always forced-whatever its motives - to represent itself as the carrier of ideas, embodying purposes. All truly great achievements in history resulted from the actualization of principles, not from the clever evaluation of political conditions.[^sp-15] Only plants are pure pragmatists. The Causality which motivates man is an
-
-[^sp-13]: Spengler op. cit., Vol. I., p. 54.
-[^sp-14]: See post Ch. "History and Man's Experience of Morality for full Discussion."
-[^sp-15]: One may, of course, define all actuality as necessary and then all events become functions of an inexorability. - See post Conclusions.
-
-experience of freedom, not derived from the physical world but from a personal, mystic relationship to the Infinite.[^sp-16]
+Spengler implies that the man-of-fact lives a destiny and thereby achieves his triumphs. But, again, this does not seem to prove the dominance of becoming over being, of History over Waking-consciousness. The recognition of the immanence depends on waking-consciousness. Instinct is no guide to political conduct. Effective leadership is always forced-whatever its motives - to represent itself as the carrier of ideas, embodying purposes. All truly great achievements in history resulted from the actualization of principles, not from the clever evaluation of political conditions.[^sp-15] Only plants are pure pragmatists. The Causality which motivates man is an experience of freedom, not derived from the physical world but from a personal, mystic relationship to the Infinite.[^sp-16]
 
 Conversely the man-of-truths, the saint, represents not merely waking-consciousness. "To restrain blood, one must have blood" says Spengler and thereby refutes himself.[^sp-17] What gives the majesty to Christ's thought and the driving force to Mohammed is not their logical consistency but their pertinency to the very basis of human longing. Why was Hus burned and why did Luther split the church? What is the real meaning of the triumph of Christianity? Because the time was ripe, Spengler would answer. Because at the time, the coming of the Messiah, the end of the world, the longing for the brotherhood of man had obliterated the Classical world-feeling and thus each man expressed in conversion his own religiousness. Yet does this not mean that self-contained being is no more possible than all-pervasive becoming? Christ may have been like a child in a strange, remote world. Perhaps the sentry under the Cross heard His anguished cry that God had forsaken him.[^sp-18] Yet is was not, as Spengler asserts, the sentry who represented the facts of history but the man on the Cross.
 
-It might be maintained, of course, that if Christ had never existed, something like his beliefs would have triumphed in the form of the mystery cults. It is in the "something",
-
-[^sp-16]: See post. Ch. The Sense of Responsibility.
-[^sp-17]: Spengler - op. cit. - Vol. II. p. 272.
-[^sp-18]: Spengler - Vol. II op. cit. p. 215.
-
- 
-
- 
-
-however, wherein lies the difference between necessity and freedom, between a tendency and the creative act. No activity, no society is without its motivations that are given in common experience and understood without affirmation. But equally common experience will not suffice to predict individual behavior. Every event is not only an effect but an inner experience. Yet the inner experience is not separated from the effect. Destiny may condition causality but equally the truths of waking-consciousness became the "facts" of history.
+It might be maintained, of course, that if Christ had never existed, something like his beliefs would have triumphed in the form of the mystery cults. It is in the "something", however, wherein lies the difference between necessity and freedom, between a tendency and the creative act. No activity, no society is without its motivations that are given in common experience and understood without affirmation. But equally common experience will not suffice to predict individual behavior. Every event is not only an effect but an inner experience. Yet the inner experience is not separated from the effect. Destiny may condition causality but equally the truths of waking-consciousness became the "facts" of history.
 
 And so we find that there is no real opposition between being and waking-being, only two connected modes of human existence, the organic and the purposive,[^sp-19] nothing but our original question in a different form: "What is this necessity that accomplishes itself under the mode of freedom?"
-
-[^sp-19]: W. Y. Elliott - The Pragmatic Revolt in Politics - p. 5.
 
 ### The Development of the Culture
 
@@ -477,24 +326,13 @@ Spengler envisioned existence as a biological process which attains meaning only
 
 Suddenly at approximately 3000 B.C. - there emerged the forms of the great cultures, organic beings with their own inner conception of destiny. They brought about so fundamental a change that Spengler postulates a transformation in the human constitution. Henceforth man constructs his world-image, his depth-experience no longer with reference to himself alone, but as part of an experienced whole. The degree of inter-relationship of this experience and its lived significance characterizes common membership in a culture.
 
- 
 Each Culture constitutes an organic being with growth, maturity, old age and death. They awaken in a moment of infinite longing, when the fear of death, the end of the world, the dark mystery of the universe oppress everybody's heart. Such was the time when at the birth of Christ, the Magian soul attained life, when the world was full of tales of a Messiah and the Classical soul was dissipating itself in Neo-platonism and the oriental mystery cults. Such was the moment when in the years 900-1000, the end of the world seemed near and out of the confused groping of the Merovingian and Carolingeen period (-Charlemagne as a "ray from Baghdad")- the upward-striving soul of the Western (Faustian) culture emerged. At these moments, in the higher minds of the young culture, the environment suddenly coalesces into a meaningful picture. All the problems and possibilities of the future history are already immanent in the formations of those early years, in the construction of its Grand Myth.
 
-Each culture begins with a great renunciation, the refusal to take over the symbols of the preceding civilization, the selection of its own appropriate representations. Even if outward manifestations of other cultures are adopted, the very selectivity and the content ascribed will be unique, solitary and essentially incommunicable to outsiders. The myth of each culture contains its image of the world, the essence of its longing, the possibility of its nature-knowledge, the basis of
-
-1. See post.
-
- 
-its religion. All of the later history reveals a process of actualizing this idea and a fight against the forces that tend to dissolve it from within (waking-consciousness) and the material dangers of the environment. Since the birth occurs in a moment of oppressive tension, all early manifestations of human endeavor are in their essence religious. Natural science emerges only as a concomitent of the gradual self-assertion of waking-consciousness. Spengler considers both manifestations of the same phenomena. "World-knowing for the man of the higher culture is a need seen as a duty of expressing his essence." [^sp-20]
+Each culture begins with a great renunciation, the refusal to take over the symbols of the preceding civilization, the selection of its own appropriate representations. Even if outward manifestations of other cultures are adopted, the very selectivity and the content ascribed will be unique, solitary and essentially incommunicable to outsiders. The myth of each culture contains its image of the world, the essence of its longing, the possibility of its nature-knowledge, the basis of its religion. All of the later history reveals a process of actualizing this idea and a fight against the forces that tend to dissolve it from within (waking-consciousness) and the material dangers of the environment. Since the birth occurs in a moment of oppressive tension, all early manifestations of human endeavor are in their essence religious. Natural science emerges only as a concomitent of the gradual self-assertion of waking-consciousness. Spengler considers both manifestations of the same phenomena. "World-knowing for the man of the higher culture is a need seen as a duty of expressing his essence." [^sp-20]
 
 The Culture grows in a landscape and remains tied to it for the remainder of its existence. In the biological period that precedes the historical era a peasantry develops that is close to the soil, and feels the rhythm of the cosmic beat. Out of the anonymous countryside develops at the beginning of each culture a feudal order whose essence is expressed in a customary ethic of which the frame of reference is not good and evil but good and bad and whose stigma attaches to vulgarity not sin. This aristocracy represents the world of facts and of the meaning of what is about to happen. The peasantry is history, the aristocracy makes history.
 
-A priesthood, too, appears born out of the world-fear
-
-[^sp-20]: Spengler - op. cit. - Vol I - p. 99.
-2. See post. The Faustian Soul.
-
-of the early period, the mediator between man and the other that is felt as enigmatic. The style and influence of that priesthood depends on the symbol of the culture and its depth experience. The Faustian man, a lonely ego in a world of infinite extent, whose God as the manifestation of omnipotent force is all pervasive, buffeted on all sides by the terrible fear of the devil requires a powerful priesthood and the possibility of understanding forgiveness. The Appellinian soul, in all essentials almost the exact opposite of the Faustian, with its feeling for pure presence, against the background of a Golden Age, its passionate denial of infinity, of necessity felt the existence of a strong priesthood as a danger and none developed. The Magian cave-world, in which the divine pneuma hovers uneasily over man who might ever fall to the forces of evil and whose salvation consists in the consensus of the believers produces a type of nation that is a church.
+A priesthood, too, appears born out of the world-fear of the early period, the mediator between man and the other that is felt as enigmatic. The style and influence of that priesthood depends on the symbol of the culture and its depth experience. The Faustian man, a lonely ego in a world of infinite extent, whose God as the manifestation of omnipotent force is all pervasive, buffeted on all sides by the terrible fear of the devil requires a powerful priesthood and the possibility of understanding forgiveness. The Appellinian soul, in all essentials almost the exact opposite of the Faustian, with its feeling for pure presence, against the background of a Golden Age, its passionate denial of infinity, of necessity felt the existence of a strong priesthood as a danger and none developed. The Magian cave-world, in which the divine pneuma hovers uneasily over man who might ever fall to the forces of evil and whose salvation consists in the consensus of the believers produces a type of nation that is a church.
 
 The existence of the Spring-time culture represents a lived metaphysics, each of its manifestations a tentative groping towards the knowledge it will have during its noon. But soon the harmony of the countryside begins to be disturbed by the emergence of towns. Initially merely market-places-though primitive peasantry ever regards even technical mastery of nature with mixed awe and terror (f.e. blacksmiths) - they develop into places from which the countryside is henceforth
 
@@ -502,40 +340,15 @@ felt as environs.[^sp-1a] This is the age when scholasticism appears, a presumpt
 
 The growth of the city involves the emancipation of the intellect.[^sp-2a] The liberated waking-consciousness begins the process of dominating the organic factor, until with the complete destruction of the great focus, a shapeless Caesarism rules all problemation. Formerly knowledge was faith supported but with the growing assurance of its powers it becomes faith controverted. The countryside fights a losing battle against the city which represents the focus of events - in the political field against democracy, in the spiritual against nationalism, in the economic against money.[^sp-3a] The spirit of the city is critical and practical. Life which used to be lived out of the self-evidence of its meaning develops into a calculation of utilitarian purposes. The great tradition itself becomes questionable.
 
-Spengler finds the same tendencies in the religious field. The political requirements of a growing culture had involved faith in the affairs of the world-of-facts. The ascetic spirit, that sees the purpose of religion in the negation of the life of this world, in the restraining of the blood, that opposes the timeless love of God to the love of the sexes, rouses itself to a final effort. Reformation stands at the end, not at the beginning, of a religious development. But where the early
+Spengler finds the same tendencies in the religious field. The political requirements of a growing culture had involved faith in the affairs of the world-of-facts. The ascetic spirit, that sees the purpose of religion in the negation of the life of this world, in the restraining of the blood, that opposes the timeless love of God to the love of the sexes, rouses itself to a final effort. Reformation stands at the end, not at the beginning, of a religious development. But where the early religion originated from the countryside, expressed the optimism of infinite longing and represented the pulse of eternal becoming, the Reformation is the product of the city, cold, brilliant, austere. The bliss of the young Culture, the peace typified by the smiling Mary is irrevocably lost. Religious fervor rises once more but it expresses now the hard intelligence, the "pedantic ecstacy" of the Neo-Phythagoreans, Islam and the Puritans.[^sp-1b] It holds on to its creation, a product of the deep inwardness of the city, with a sort of terror lest it prove unreal and is therefore impatient, pitiless, unforgiving.[^sp-2b] The lived metaphysic of the early period has in the Independent been replaced by a common devotion to a concept,[^sp-3b] a set of abstract and critical judgments on the faith that is no longer experienced. Life becomes a comprehended mechanics out of which all Puritans develop predestination as a technical guarantee for the triumph of the elect. Another fifty years and rational criticism alone remains supreme.
 
-[^sp-1a]: Spengler - op. cit. - Vol II. p. 91.
-[^sp-2a]: Note similarity of this concept to Plato's disintegration of the Republic, which begins with an assertion of a questioning selfishness.
-[^sp-3a]: Spengler - op. cit. - Vol II. p. 97.
-
-religion originated from the countryside, expressed the optimism of infinite longing and represented the pulse of eternal becoming, the Reformation is the product of the city, cold, brilliant, austere. The bliss of the young Culture, the peace typified by the smiling Mary is irrevocably lost. Religious fervor rises once more but it expresses now the hard intelligence, the "pedantic ecstacy" of the Neo-Phythagoreans, Islam and the Puritans.[^sp-1b] It holds on to its creation, a product of the deep inwardness of the city, with a sort of terror lest it prove unreal and is therefore impatient, pitiless, unforgiving.[^sp-2b] The lived metaphysic of the early period has in the Independent been replaced by a common devotion to a concept,[^sp-3b] a set of abstract and critical judgments on the faith that is no longer experienced. Life becomes a comprehended mechanics out of which all Puritans develop predestination as a technical guarantee for the triumph of the elect. Another fifty years and rational criticism alone remains supreme.
-
-This leads to the age of the Megalopolis, the world-as-city, the acme of a temporarily triumphant waking-consciousness. The countryside has long reverted to its biological state. It gazes on the strange creation of human art with uncomprehending hatred. Such is the feeling of Dostojevski towards St.
-
-[^sp-1b]: Spengler op. cit. Vol II. p. 301.
-[^sp-2b]: Spengler op. cit. Vol II. p. 301.
-[^sp-3b]: Spengler op. cit. Vol II. p. 302.
-
-Petersburg, which he felt "could vanish one day with the morning mist".[^sp-1c] All the thought and decisions of life are concentrated in the Cosmopolis. The spirit of the city is coldly practical. Philosophy frees itself from its dependence on religion and submits the whole universe including religion, to epistemological criticism. "In the period of growth life revealed itself, the city-period has life as an object".[^sp-2c] It is symbolized by the deep spirituality of Pascal against the shallow utilitarianism of Mill. Life is no longer lived as something self-evident but becomes a problem of maximum happiness. Each culture develops at this stage its own mode of spiritual extinction.
+This leads to the age of the Megalopolis, the world-as-city, the acme of a temporarily triumphant waking-consciousness. The countryside has long reverted to its biological state. It gazes on the strange creation of human art with uncomprehending hatred. Such is the feeling of Dostojevski towards St. Petersburg, which he felt "could vanish one day with the morning mist".[^sp-1c] All the thought and decisions of life are concentrated in the Cosmopolis. The spirit of the city is coldly practical. Philosophy frees itself from its dependence on religion and submits the whole universe including religion, to epistemological criticism. "In the period of growth life revealed itself, the city-period has life as an object".[^sp-2c] It is symbolized by the deep spirituality of Pascal against the shallow utilitarianism of Mill. Life is no longer lived as something self-evident but becomes a problem of maximum happiness. Each culture develops at this stage its own mode of spiritual extinction.
 
 The Appollinian soul, its ideal pure body, with the opposition of Ent and Non-Ent, its tragedy of the senseless incident buffeting man by the blind threads of Tyche, with the hero's only possibility consisting of the grand gesture develops Stoicism, a purging of the soul of whatever is alien to it, so that it emerges in its pure statuesque bodiliness.
 
 The Western will-to-power, its expression ever a commanding imperative, completes the materialization of its soul, by the mechanistic solution of Socialism.[^sp-3c]
 
-Philosophy in the great style is finished. No great thinkers developed in the Classical after the Stoics, and Western thought has been stated in its final form by Kant.
-
-[^sp-1c]: Spengler op. cit. p. 193.
-[^sp-2c]: Spengler op. cit. Vol I. p. 365.
-[^sp-3c]: Spengler op. cit. Vol I. p. 341.
-
-All the 19th century accomplished was the mechanization of his concepts in the spirit of a utilitarian will-to-life. Formerly profound thinking was associated with mathematics, now it becomes socio-political. The metaphysics of the Baroque develops into the critique of society of Hegel, Schoppenhauer and Nietzsche. Dimly man yearns for a return to Nature. It is not the landscape of early Gothic, however, but the conceptual definition of Rousseau, the natural relation of Marx. Kant had a vision of the world as appearance or phenomena, but to Schoppenhauer it is merely a brain-phenomenon with utilitarian connotations.[^sp-1d] The change from the tragic view to the plebeian, from the felt intuition of Goethe, from the inward necessity of Shakespeare, to the frog-perspective of Marx is complete.[^sp-2d] "Poets build but no longer sing, shapes are called into being not to be but to prove something."[^sp-3d] The Darwinian theory of evolution, which imports the Manchester School theories into the world of destiny and replaces the inward harmony of the Gothic with the mechanistic conception of Aims called progress is the necessary product of that period. But every deeper thinker of the 19th Century is Socialistic defined by Spengler as the imposition of one's views on behalf of all "with attention directed towards that welfare of mankind that Goethe and Kant never spent a moment's thought on."[^sp-4a] Frances of
-
-[^sp-1d]: Spengler op. cit. Vol. I. p. 393.
-[^sp-2d]: Spengler op. cit. Vol. I. p. 368.
-[^sp-3d]: Spengler op. cit. Vol. I. p. 156.
-[^sp-4a]: Spengler op. cit. Vol. I. p. 370.
-
-Assissi and the Saints of the Culture's youth could think of renouncing, the Socialist conceives only of distributing temporal possession.
+Philosophy in the great style is finished. No great thinkers developed in the Classical after the Stoics, and Western thought has been stated in its final form by Kant. All the 19th century accomplished was the mechanization of his concepts in the spirit of a utilitarian will-to-life. Formerly profound thinking was associated with mathematics, now it becomes socio-political. The metaphysics of the Baroque develops into the critique of society of Hegel, Schoppenhauer and Nietzsche. Dimly man yearns for a return to Nature. It is not the landscape of early Gothic, however, but the conceptual definition of Rousseau, the natural relation of Marx. Kant had a vision of the world as appearance or phenomena, but to Schoppenhauer it is merely a brain-phenomenon with utilitarian connotations.[^sp-1d] The change from the tragic view to the plebeian, from the felt intuition of Goethe, from the inward necessity of Shakespeare, to the frog-perspective of Marx is complete.[^sp-2d] "Poets build but no longer sing, shapes are called into being not to be but to prove something."[^sp-3d] The Darwinian theory of evolution, which imports the Manchester School theories into the world of destiny and replaces the inward harmony of the Gothic with the mechanistic conception of Aims called progress is the necessary product of that period. But every deeper thinker of the 19th Century is Socialistic defined by Spengler as the imposition of one's views on behalf of all "with attention directed towards that welfare of mankind that Goethe and Kant never spent a moment's thought on."[^sp-4a] Frances of Assissi and the Saints of the Culture's youth could think of renouncing, the Socialist conceives only of distributing temporal possession.
 
 Art, too, has become formless. The early religious self-assurance, the great style which represented a rhythm of self-implementation is becoming ever less well defined, the self-consciousness ever greater. To Michelangelo, Leonardo, Rembrandt, Bach and Beethoven the great style was an aid, the schools of art produced a high average. It liberated the artist from struggling with form, enabling him to pour the essence of his soul into the creation. But with Wagner and Pergamos the style is felt as a hindrance. Everything becomes huge, ever more esoteric and abstract in the Western, ever more ornate and hovering in the Appollinian Culture. Finally the great style is lost and instead of ideas there are continually new art-problems coaxed out of an inwardly meaningless creativeness. Instead of a school, the only criterion is taste.
 
@@ -543,64 +356,27 @@ Natural-science had begun by dissecting the religious world picture, both a prod
 
 Yet since nature is what man constructs for himself out of his depth experience, that which we are observing lives with us in the process of observation.[^sp-1e] Moreover, every scientific result is the consequence of a method and the method presupposes a belief in its conclusiveness. "Descartes meant to doubt everything but certainly not the value of his doubting."[^sp-2e] No Western thinker would question the efficacy of empirical observation, just as no Magian scientist needs to invoke the aid of a miracle to explain phenomena not amenable to causal analysis. Thus there came into existence the Western science of dynamics with an assertive mastery over nature and the Magian alchemy which tends to wheedle its results from a substance which in the final analysis represents only a different mode of the immanently divine.
 
-But after a period of easy optimism when both critical philosophy and scientific research reign supreme the old enigmas re-appear. That which had brought natural-science to a maximum of inner fulfillment suddenly operates as a solvent.[^sp-3e] Each culture discovers that the ultimate questions are unanswerable causally; the problem of motion remains unresolved. Force as the source or the cause of motion represents the Western dilemma, the perfect form of substance, the causality of its movement the Classical. The hypothesis grow progressively
-
-[^sp-1e]: Spengler op. cit. Vol. I. p. 388.
-[^sp-2e]: Spengler op. cit., Vol. II. p. 12.
-[^sp-3e]: Spengler cp. cit. Vol. I. p. 417.
-
-more abstract and inclusive the various fields of knowledge converge ever closer. In a moment of painful clarity it becomes apparent that amidst all the abstruseness, the ever sharper definition of conceptual quantities, which moreover like the concept of Force determine the structure of the experiment a priori, there emerges nothing but the myths of the spring-time in modern form.[^sp-1f] Then in the grey light of the beginning civilization man realizes that the tension created by his waking-consciousness has become too great, that the quest for knowledge is without end and his tired soul plunges into the peace of the Second Religiousness.
+But after a period of easy optimism when both critical philosophy and scientific research reign supreme the old enigmas re-appear. That which had brought natural-science to a maximum of inner fulfillment suddenly operates as a solvent.[^sp-3e] Each culture discovers that the ultimate questions are unanswerable causally; the problem of motion remains unresolved. Force as the source or the cause of motion represents the Western dilemma, the perfect form of substance, the causality of its movement the Classical. The hypothesis grow progressively more abstract and inclusive the various fields of knowledge converge ever closer. In a moment of painful clarity it becomes apparent that amidst all the abstruseness, the ever sharper definition of conceptual quantities, which moreover like the concept of Force determine the structure of the experiment a priori, there emerges nothing but the myths of the spring-time in modern form.[^sp-1f] Then in the grey light of the beginning civilization man realizes that the tension created by his waking-consciousness has become too great, that the quest for knowledge is without end and his tired soul plunges into the peace of the Second Religiousness.
 
 Yet where the early religion was the grand symbolism of an emerging soul, the citizen of the Megalopolis, with the cosmic beat in him ever decreasing clings desperately to his cults, his Theosophy, his religious fads. In the Springtime reason was felt as a support of faith, in the maturity faith was conceived as subject to critical analysis and an enlightened waking-consciousness sought to find its own position towards-life (Weltanschauung), but now faith alone is the criterion. The flight from reason prevails, the belief that there is some mystic constitution of actuality as to which formal proofs are barren.[^sp-2f]
 
-As the Culture turns itself into a civilization and the
-
-[^sp-1f]: Spengler op. cit. Vol. I. p. 425.
-[^sp-2f]: Spengler op. cit. Vol. II. p. 310.
-
-masses of the world-city seek to find release from the polarities in their soul in Panem et circenses, in nigger-dances and sports, Caesarism emerges in the political organization replacing democracy which has become an empty shell and ending the dictatorship of money which is by now the real master of political life.[^sp-1g] [^sp-2g] It represents the eventual triumph of the blood, of being, over the strained waking-consciousness of the Megapolis. Pure power, the coursing rhythm of ever-becoming re-assert themselves and despite traditional trappings, even because of them, a formless force permeates all aspects of political life.
+As the Culture turns itself into a civilization and the masses of the world-city seek to find release from the polarities in their soul in Panem et circenses, in nigger-dances and sports, Caesarism emerges in the political organization replacing democracy which has become an empty shell and ending the dictatorship of money which is by now the real master of political life.[^sp-1g] [^sp-2g] It represents the eventual triumph of the blood, of being, over the strained waking-consciousness of the Megapolis. Pure power, the coursing rhythm of ever-becoming re-assert themselves and despite traditional trappings, even because of them, a formless force permeates all aspects of political life.
 
 Nothing, according to Spengler, can save the dying civilization. The sterility of all late man ensues, a metaphysical turn towards death.[^sp-3f] The tragic symbolism which in Shakespeare could lift an incident into a destiny has in Ibsen become the problemation of social events. Woman, whom the man of the Spring-time culture conceives as the mother of his children constitutes for the Cosmopolitan a companion for life, an object for the blending of dispositions. No attempt, however frantic can arrest the decline in population. Neither the marriage laws of Augustus, nor the wholesale adoptions, nor the incessant implantation of barbarians, availed to check this process in the Hellenic world.[^sp-4b]
 
-[^sp-1g]: See post Chapter: Politics, Economics, the Machine.
-[^sp-2g]: See post Chapter: Politics, Economics, the Machine.
-[^sp-3f]: Spengler op. cit. Vol II. p. 105.
-[^sp-4b]: Spengler op. cit. Vol II. p. 106.
-
 "When reasons have to be put forward in a question of life, life itself has become problematical."[^sp-1h] The animal element, the strained waking-consciousness has eaten up the plant side and the drive into the future which binds together a sequence of generations into a purposeful organism is at an end. The population returns to a fellah-type state such as the Egyptians at the time of the Romans and the Chinese and Indians today. Here all growth has ceased and the biological sequence of generations with millenia for time-span re-emerges. Waking-consciousness has succeeded in stiffening the becoming, in petrifying the great symbolism. As in the living Culture the estate and race are in antithesis as the impersonal and the personal, so in the fellah-state the opposition is between the mass and the caste as the formal against the formless. The intellectuality, subtlety and dignity of this form world may be considerable attested by the heights from which an Indian Brahmin looks down on a Westerner. But history has ceased for the Civilization. It has become an object for Cultures and peoples who will to be a destiny and the period of contending States has left it physically and morally exhausted.[^sp-2h]
 
-"And so high history lays itself down weary to sleep. Man becomes a plant again, adhering to the soil, dumb and enduring. The timeless village and the eternal peasant re-appear,
+"And so high history lays itself down weary to sleep. Man becomes a plant again, adhering to the soil, dumb and enduring. The timeless village and the eternal peasant re-appear, begetting children and burying in Mother Earth - a busy, not in-adequate swarm, over which the tempest of soldier-emperors passingly blows. In the midst of the land lie the old world-cities, empty receptacles of an extinguished soul, in which a history-less mankind slowly nests itself. Men live from hand to mouth, with petty thrifts and petty fortunes and endure. Masses are trampled on in the conflict of the conquerors who contend for the power and the spoil of this world, but the survivors fill up the gap with primitive fertility and suffer on. And while in high places there is the eternal alternation of victory and defeat, those in the depth pray, pray with that mighty piety of the Second Religiousness that has overcome all doubts forever. There, in the souls, world-peace, the peace of God, the bliss of grey-haired monks and hermits is become actual-and there alone. It has awakened that depth in the endurance of suffering which the historical man in the thousand years of his development has never known. Only with the end of grand History does holy, still being reappear. It is a drama noble in its aimlessness, noble and aimless as the course of the stars, the rotation of the earth, and the alternance of land and sea, of ice and virgin forest upon its face. We may marvel at it or we may lament it - but it is there".[^sp-1i]
 
-[^sp-1h]: Spengler op. cit. Vol II. p. 106.
-[^sp-2h]: Spengler op. cit. Vol II. p. 108.
+Spengler rejected the theory, that history revealed the causal working out of rational plans. He substituted a morphology of history, the world-as-experience, evoked by images of compelling power and great inward beauty. Cultures are organisms, their life-span, extent and death implicit in the very problems of their youth. The soul of each Culture, a function of its depth experience, constructs an image of the world which binds it to the soil in which it grow, sets the limits for the possibilities of its natural-science and religion, determines the problems that must be answered. Gradually the tensions created by the dominance of waking-being becomes too great, the form is lost, the Culture transforms itself into a Civilization. Slowly, it stiffens and dies, returning to the biological ages that spawned it, its inner meaning fulfilled, no longer the master but the object of destiny.
 
-begetting children and burying in Mother Earth - a busy, not in-adequate swarm, over which the tempest of soldier-emperors passingly blows. In the midst of the land lie the old world-cities, empty receptacles of an extinguished soul, in which a history-less mankind slowly nests itself. Men live from hand to mouth, with petty thrifts and petty fortunes and endure. Masses are trampled on in the conflict of the conquerors who contend for the power and the spoil of this world, but the survivors fill up the gap with primitive fertility and suffer on. And while in high places there is the eternal alternation of victory and defeat, those in the depth pray, pray with that mighty piety of the Second Religiousness that has overcome all doubts forever. There, in the souls, world-peace, the peace of God, the bliss of grey-haired monks and hermits is become actual-and there alone. It has awakened that depth in the endurance of suffering which the historical man in the thousand years of his development has never known. Only with the end of grand History does holy, still being reappear. It is a drama noble in its aimlessness, noble and aimless as the course of the stars, the rotation of the earth, and the alternance of land and sea, of ice and virgin forest upon its face. We may marvel at it or we may lament it - but it is there".[^sp-1i]
-
-Spengler rejected the theory, that history revealed the
-
-[^sp-1i]: Spengler, op. cit. Vol. II. p. 435.
-
-causal working out of rational plans. He substituted a morphology of history, the world-as-experience, evoked by images of compelling power and great inward beauty. Cultures are organisms, their life-span, extent and death implicit in the very problems of their youth. The soul of each Culture, a function of its depth experience, constructs an image of the world which binds it to the soil in which it grow, sets the limits for the possibilities of its natural-science and religion, determines the problems that must be answered. Gradually the tensions created by the dominance of waking-being becomes too great, the form is lost, the Culture transforms itself into a Civilization. Slowly, it stiffens and dies, returning to the biological ages that spawned it, its inner meaning fulfilled, no longer the master but the object of destiny.
-
-Yet the brilliance of this picture and its in many ways psychological depth, cannot overcome the difficulties inherent in the underlying metaphysical assumptions which frequently fail to meet our twin tests of consistency and relevancy.[^sp-1j] They fall short of the former because Spengler never makes clear what exactly he means by Destiny or the experience of Time. In the biological ages which precede the Culture and in the fellah state that follow waking-consciousness is at a minimum. Does this enduring mankind represent the essence of the Destiny-experience? The life of the Culture constitutes a process of actualizing
-
-[^sp-1j]: See post Appendix A, Concepts of Meaning p.
-
-the possible,[^sp-1k] all its manifestation profound symbols of its view of the world. Yet the soul of the culture, its depth experience, is given symbolic expression by making consciousness. It appears that everything which gives deeper meaning to the culture and lifts it above the level of primitive societies results from an aware purposiveness, not a purely organic destiny. "The Culture had bound all forces in a strict form. Now they were released - and Nature broke forth",[^sp-2i] seems an admission that the creative aspect of growth reveals the construction of waking consciousness.
+Yet the brilliance of this picture and its in many ways psychological depth, cannot overcome the difficulties inherent in the underlying metaphysical assumptions which frequently fail to meet our twin tests of consistency and relevancy.[^sp-1j] They fall short of the former because Spengler never makes clear what exactly he means by Destiny or the experience of Time. In the biological ages which precede the Culture and in the fellah state that follow waking-consciousness is at a minimum. Does this enduring mankind represent the essence of the Destiny-experience? The life of the Culture constitutes a process of actualizing the possible,[^sp-1k] all its manifestation profound symbols of its view of the world. Yet the soul of the culture, its depth experience, is given symbolic expression by making consciousness. It appears that everything which gives deeper meaning to the culture and lifts it above the level of primitive societies results from an aware purposiveness, not a purely organic destiny. "The Culture had bound all forces in a strict form. Now they were released - and Nature broke forth",[^sp-2i] seems an admission that the creative aspect of growth reveals the construction of waking consciousness.
 
 Each Culture not only goes through similar phases of youth, maturity, age and decline but its political and artistic embodiment at each stage is identical.[^sp-3g] This too is difficult to accept. If each soul constitutes a counter-concept to the world and its life-span represents the gradual realization of its immanence, one would expect the historical development to differ according to the vision of its environment and the idea attempted to be actualized. Though everything organic has its periods of youth, growth and decay, these phenomena do not embody themselves in identical form. "Western History was willed and Classical history happened"[^sp-4c] means nothing if we postulate the necessity of a political development that has the same political organization at each stage.[^sp-5a]
-
-[^sp-1k]: Spengler's definition of the soul - Vol I. p. 54.
-[^sp-2i]: Spengler Vol II. op. cit. p. 418.
-[^sp-3g]: Or morpologous as Spengler calls functional inter-relationship.
-[^sp-4c]: Spengler op. cit. Vol I. p. 125.
-[^sp-5a]: Spenger op.cit. Vol II. p. 296.
 
 As a matter of fact, Spengler is hard put to find uniformity, even between the Classical and Western Cultures, resulting in the definition of the Athenian poli as the Classical equivalent of dynastic feeling. But granting Spengler's thesis of identical political institutionalization two conclusions seem inescapable. To begin with, reality as an emanation of the Ego may not present totally different aspects to each culture, but contain a modicum of continuity of problemation. In this sense significance attaches not only to the newly adopted symbols, not only to the "Great renunciation" but also to the taking over of symbols and institutions and their recurrence at similar stages of development.[^sp-1l]
 
 Furthermore, Spengler's empirical data is confined almost exclusively to the Appollinian, Magian and Faustian cultures, with contemporary periods in other cultures frequently merely postulated. The very possibility of making an analysis of the "soul" of a culture implies a degree of inner correlation. The divergences between the cultures may merely hide an underlying unity, expressing itself in a continuity of problemation. These problems emerge more clearly in Spenglers elaboration of the souls of the Culture.
-
-[^sp-1l]: On test of relevancy - see post - Ch. II The Concepts of Meaning.
 
 The Souls of the Culture - The Appollinian Soul - Image.[^sp-1m]
 
@@ -608,34 +384,17 @@ Spengler - in obvious reliance on Kant - calls his philosophy a Copernican revol
 
 Yet what is the soul? Spengler finds his answer in the belief of every philosopher or scientist in the existence of something subject to rational analysis.[^sp-3h] "The question of whether the forms of thought are ever approachable by thought," which to the layman might appear dubious, is nevertheless held as an article of faith by every psychologist. The barrenness of technical psychology results from the impossibility of conceptually dissecting the inwardly certain, of importing definitional notions into the world of becoming. No system can offer analytical criterion for such realities as jealousy, regret or artistic intention.[^sp-4d]
 
-[^sp-1m]: In order to maintain the unity of Spengler's development, I have placed all my comments, post at the end of the section Magian soul.
-[^sp-2j]: Spengler op. cit. Vol. I. p. 94.
-[^sp-3h]: Spengler op. cit. Vol. II. p. 311.
-[^sp-4d]: Spengler op. cit. Vol. I. p. 299.
-
 Spengler's metaphysical antinomies reappear. Causality can serve for the apprehension of phenomena only insofar as nature is conceived as eternally possible. The soul, however, not a phenomena, but an image derived from the primary and continuing experience of life and death. Every free moving being must understand the world around it as a condition for survival. The knowledge of the macrocosm as a technical and empirical mastery is the World-as-Nature. But beyond the enrivonment, man divines the presence of a "something other" in both himself and others, which by virtue of its physiognomically impressive powers evokes the desire to know and is anxiously pondered. Thus the notion of the soul arises, as an image of everything in man which can never be causally known, as a counterworld to nature, as a mode of visualizing what will always be inaccessible by the light-world of the eye.
 
-The soul's representation reflects Spengler's metaphysical scheme. Its image is a myth pondered religiously by the spirituality that still sees God in nature and analyzed conceptually as soon as Nature comes to be observed critically. Just as Time constitutes a counter-concept to Space, so the notion of a soul is the inverse of the picture of the world. "Every psychology becomes a counter-physics."[^sp-1n] This prevents an exact science of the soul, of universal applicability, since such an analysis is a function of the depth experience of its
-
-[^sp-1n]: Spengler op. cit. - Vol. I. p. 301.
-
-culture. The Apollinian constructed its inner world as a group of excellent parts. The Western thinker conceives his image as forces of thinking, feeling, willing. The Magian psychologist views his soul as an airy substance (nepesh,ruach) in conjunction with a bodily substance, both deriving reality only from an infusion of the divine pneuma.
+The soul's representation reflects Spengler's metaphysical scheme. Its image is a myth pondered religiously by the spirituality that still sees God in nature and analyzed conceptually as soon as Nature comes to be observed critically. Just as Time constitutes a counter-concept to Space, so the notion of a soul is the inverse of the picture of the world. "Every psychology becomes a counter-physics."[^sp-1n] This prevents an exact science of the soul, of universal applicability, since such an analysis is a function of the depth experience of its culture. The Apollinian constructed its inner world as a group of excellent parts. The Western thinker conceives his image as forces of thinking, feeling, willing. The Magian psychologist views his soul as an airy substance (nepesh,ruach) in conjunction with a bodily substance, both deriving reality only from an infusion of the divine pneuma.
 
 Spengler defines the image of the soul as the possible and the World as the actual.[^sp-1o] Thus life is the process of actualizing the possible, the history of each culture constituting a ripening and deepening of its soul-picture. This accounts for the profound symbolism of all manifestations of activity of Cultures, and the complete lack of inner meaning of every creation of both the primitive and fellah state.
 
-Since the waking-consciousness arrives at self-knowledge through the experience and fear of death, the rites of burial, the disposal of the bodies serve as profound indications of the depth-experience of the different cultures. Because all art is an expression of world-longing and all natural science an analysis of the religious world-picture, the grand symbolism of the culture includes all their manifestations, with the proviso that the maturity and decline will see a diminuition of the cosmic beat, its emanations over more uncertain and inconclusive until the inevitable approach of the fellah state at the
-
-[^sp-1o]: Spengler op. cit. - Vol. I. p. 54.
-
-end of the Civilization.
+Since the waking-consciousness arrives at self-knowledge through the experience and fear of death, the rites of burial, the disposal of the bodies serve as profound indications of the depth-experience of the different cultures. Because all art is an expression of world-longing and all natural science an analysis of the religious world-picture, the grand symbolism of the culture includes all their manifestations, with the proviso that the maturity and decline will see a diminuition of the cosmic beat, its emanations over more uncertain and inconclusive until the inevitable approach of the fellah state at the end of the Civilization.
 
 The Classical or Appollinian soul conceived of existence as exhausting itself in a pure present against the background of the Golden Age. Its passionate denial of infinity came to expression at its inception in the great refusal to take over the form-world and architectural style of the Minoan world. Suddenly, about 1100 B.C., with the emergence of the Mycennean culture great architecture ceased. The barrow for the burial of the dead - is supplanted by the burning of the corpses. Wood replaces stone as building-material despite an abundance of quarries in Hellas. Existence consists of a denial of infinity, an emphasis on pure being. Thucydides states in his "History of the Peloponesian War" that before the year 400, his time, not much of importance had happened in Greece.
 
-Life, in the Appollinian world constituted a spiritual static.[^sp-1p] The Greek word for personality is persona which does not express the concept of character but describes the public mien, the "gesture" of its carrier. The ideal of the Classical was Cosmos, the perfectly defined, absolute Ent, in opposition to which space was felt, not as a challenge, but as Non-Ent, Chaos, the not-yet-formed. The self asserting Ego of the Western culture, or its forceful, all-pervasive God would have been equally alien to the Appollinian world-feeling. Man as a body
-
-[^sp-1p]: Spengler op. cit. Vol. I. p. 316.
-
-achieves reality through his relation to other bodies, with the Gods as the upper limit and the slave as the lower. This explains Aristotle's statement that only a fool or a God could live alone and makes the idea of an Athenian Robinson Crusoe unthinkable.[^sp-1q] The Gods were merely perfectly formed bodies of more than average powers, though equally subject with other bodies to the blind working of Tyche. Zeus in the Iliad holds up the scale, not to determine, but to learn Hector's fate.
+Life, in the Appollinian world constituted a spiritual static.[^sp-1p] The Greek word for personality is persona which does not express the concept of character but describes the public mien, the "gesture" of its carrier. The ideal of the Classical was Cosmos, the perfectly defined, absolute Ent, in opposition to which space was felt, not as a challenge, but as Non-Ent, Chaos, the not-yet-formed. The self asserting Ego of the Western culture, or its forceful, all-pervasive God would have been equally alien to the Appollinian world-feeling. Man as a body achieves reality through his relation to other bodies, with the Gods as the upper limit and the slave as the lower. This explains Aristotle's statement that only a fool or a God could live alone and makes the idea of an Athenian Robinson Crusoe unthinkable.[^sp-1q] The Gods were merely perfectly formed bodies of more than average powers, though equally subject with other bodies to the blind working of Tyche. Zeus in the Iliad holds up the scale, not to determine, but to learn Hector's fate.
 
 The Platonic conception of the soul, as a sum of excellent parts, with Reason in the Olympian commanding position, emerges as the classical image just as its yearning for concreteness constructed a scientific theory of static mechanics. The problem of the relation between the knower and the known Plato resolved as a matter-of-course into a passage of knowledge to the recipient. His captives in the cave were really captives, objects of the light from the common sun, not - as in Kant egos - imposing their forms on the world, not suns themselves irradiating the universe.[^sp-2k]
 
@@ -650,9 +409,6 @@ Classical architecture was ever forced to fight against the assertiveness of pur
 
 Since Natural Science is the outward expression of the soul-image, the causal description of the religious view, a static mechanics resulted. The human tendency to reduce its nature-picture to the minimal forms capable of intellectual manipulation issued in an atomic theory, of small, perfectly elastic bodies, of unpredictable motion operating through shock and countershock. Motion became not a spatial force but an attribute of bodies.[^sp-3i] Thus the greatest creation of the Classical
 
-[^sp-1r]: Spengler op. cit. Vol. I. p. 325.
-[^sp-2l1]: Spengler op. cit. Vol. I. p. 316.
-[^sp-3i]: Spengler op. cit. Vol. I. p. 385.
 
 scientific mind was Euclidian geometry, the measurement and circumscription of concrete representations.
 
@@ -687,7 +443,6 @@ Yet this world of purity, bliss and happiness involved at the same time the coun
 This explains the sense of guilt that permeats all Gothic longing. The cathedrals rose ever more pleadingly towards heaven,
 
 1. Spengler op. cit. Vol II. p. 279.
-[^sp-2n]: Spengler op. cit. Vol II. p. 293.
 
 the vaulting turned into hands folded in prayer and little help came to man through the stained windows into the semi-darkness of the naves. Men was a lonely Ego, lost in the infinite, with the powers of darkness-all-around. "For Magian man heaven was impending, but to the Faustian heaven was infinitely far."[^sp-1v] There arose the ever finer differentiation of notions the desire to lose selfness, the universal, cry for the Grace that unbinds the will.[^sp-2o]
 
@@ -695,9 +450,6 @@ To be able to will freely is the highest desire of Faustian transcendence. The s
 
 The sacrament of Contrition represents the noblest manifestation of the Faustian world-longing. Baptism one receives by virtue of one's humanity, contrition is the recognition of the uniqueness of the personality, which alone determines the value of the act. Each man can search only his own conscience. The release and bliss given by this sacrament constitutes one of the profoundest creations of all religious effort, a release from the dark clouds of unresolved doubts that ever remain in the big crisis of life. The insecurity resulting from the decline
 
-[^sp-1w]: Spongler op. cit. Vol I. p. 290.
-[^sp-2p]: Spengler op. cit. Vol II. p. 292.
-[^sp-3j]: Spengler op. cit. Vol II. p. 293.
 
 of this sacrament caused the Mary world of light to fade out. Only the world of the devil remained. "The concept of the priesthood of all believers, is one to which a few strong souls can win through, but only as the part of priesthood that involves duties not powers, for no man ever confesses to himself with the inward certainty of absolution."[^sp-1x] So the Faustian yearning for release from its longing, for an expression of its conviction that "tout comprendre c'est tout pardonner", to overcome the inner warfare within its soul, calls on its contemporaries instead of the infinite as judges and priests.[^sp-2q] Thus is born the auto-biographical art of Rembrandt's self-portraits, of Bach's and above all Beethoven's music, each a confession of a tortured soul seeking release. But in this tension, too, the concern with the Ego causes a loss of the felt unity of the universe, a symptom of the beginning of the "Late" stage of the Culture.
 
@@ -705,16 +457,11 @@ Thus arises the Faustian feeling that evaluates the act with reference to the do
 
 Faustian art, too, is an embodiment of this yearning for infinity. Though its early manifestation was architectural, stone with its affirmation of the body could never serve as the final expression of the Western soul. Michelangelo passionately
 
-[^sp-1]: Spengler op. cit. Vol. II p. 294.
-[^sp-2]: Spengler op. cit. Vol II. p. 295.
 
 fought with its limitations, each of his creations a battle frozen in stone. But only the advent of perspective painting began to give release. One stands before a Greek frescoe, but one sinks into a Rembrandt painting. The depth-experience of the Western culture, which experiences everything as mere centers of gravity in a spatial dynamics is expressed in the Western perspective which directs the position of the spectator and pulls him into its space treatment.[^sp-4] But the true Western art, that represents the eternal straining of its restless soul is that of contrapunctal music. This completes the disembodiment of space, expressed the upsoaring drive, filled the cathedrals in Bach and burst beyond into space in Mozart, Haydn and Beethoven. But with Wagner, size is no longer the inward representation of greatness but the dissimulation of its absence and just as Pergamos, it heralds the end of the great tradition.[^sp-5]
 
 Faustian natural-science represents a mere mirror of these tendencies. What is felt as God in religious experience, becomes the concept of all-pervasive Force in physics. Where the Appollinian world-feeling consists of a passionate assertion of the bodiliness of its objects, the Western soul tends towards a denial of all substantiality. Space itself is felt as a force, expressed by Newton as gravity and stated by atomic physics in the form of quanta of energy.[^sp-6] Natural science
 
-[^sp-4]: Spengler op. cit. Vol. I. p. 241 and p. 330.
-[^sp-5]: Spengler op. cit. Vol. I. p. 291.
-[^sp-6]: Spengler op. cit. Vol. I. p. 385.
 
 becomes ever more esoteric and abstract, dissolving in its hypothesis all sense-experience of phenomenal reality. The infinite space of the universe postulated by astronomy, the endless geological periods are not empirical observations, but a resolve of the soul, that considers the recognition of limits a denial of its existence. It is the spirit that motivated the invention of gun-powder - action-a-distance and discovered independently by the Chinese, whose destiny idea is comparable to the Western, at a contemporary stage of development.
 
@@ -722,7 +469,6 @@ This is the mentality that produces dynasties as the objects of reverence, the e
 
 The Faustian will-to-power expresses the inner need of a Culture that recognizes toleration only as the non-interference with a field of activity, which ever attempts to impose its views on behalf of mankind. This accounts for the loneliness
 
-[^sp-7]: See post Chapter "Politics, Economics, The Machine".
 
 of Faustian man, of which Lear on the Heath buffeted by man and Nature, and Hamlet are the tragic exponents. Where the lament of the hero expresses the easence of the Appollinian dramatic intention the inner distance of Shakespearean heroes is unbridgeable.
 
@@ -740,11 +486,7 @@ Pseudo-Morphosis
 
 Historical pseudo-morphosis Spengler defines as the process in which an alien Culture hangs so heavily over the birth-place of a young Culture, that the latter can not attain its own inner development. Its spirituality is forced into strange forms, which are infused with new meaning, but at the same time serve to stifle the inner drive of the Culture's Youth. Such Cultures can only look on the strange form with all-consuming hatred, spending their latent creativity in half-hearted efforts, ever ready to burst through the fetters in a violent orgy.
 
-Such - for Spengler - was the case of Petrine Russia
-
-[^sp-9]: Spengler op. cit. Vol II. p. 189.
-
-which accepted a dynastic form of government in imitation of a Culture from which it was inwardly remote. Only the formless power of the early Romanovs could have succeeded in guiding this young soul, which felt the large cities as effervescent illusions and which remained a peasantry longing for the soil no matter how large the cosmopolis. Thus there developed no aristocracy that embodied a destiny, only a senseless aping of alien practices. The intelligentsia grew up as an adjunct to the Court, ever bent on discovering problems that were not felt against the background of a peasantry that mixed a hatred for the alien form that was stifling the culture, with a disgust with its own overgrowth.[^sp-10] Dostojevski, the peasent, and Tolstoi, the man of Western society represent this opposition. "The one could never in his soul get away from the land, the other, in spite of his desperate efforts, could never get near it".[^sp-11] Tolstoi is the spokesman of Petrinism - even in his denial. His rejection of society is intellectual, his hatred of property based on economics. The very inability to shake off the West leads to his hatred of all existing forms and he therefore becomes the true precursor of Bolshevism. For Bolshevism is merely the rebellion of the lowest strata of the Petrine society, that has ever talked about Christ, but in its heart, meant Marx. It represents the final debasing of the metaphysical
+Such - for Spengler - was the case of Petrine Russia which accepted a dynastic form of government in imitation of a Culture from which it was inwardly remote. Only the formless power of the early Romanovs could have succeeded in guiding this young soul, which felt the large cities as effervescent illusions and which remained a peasantry longing for the soil no matter how large the cosmopolis. Thus there developed no aristocracy that embodied a destiny, only a senseless aping of alien practices. The intelligentsia grew up as an adjunct to the Court, ever bent on discovering problems that were not felt against the background of a peasantry that mixed a hatred for the alien form that was stifling the culture, with a disgust with its own overgrowth.[^sp-10] Dostojevski, the peasent, and Tolstoi, the man of Western society represent this opposition. "The one could never in his soul get away from the land, the other, in spite of his desperate efforts, could never get near it".[^sp-11] Tolstoi is the spokesman of Petrinism - even in his denial. His rejection of society is intellectual, his hatred of property based on economics. The very inability to shake off the West leads to his hatred of all existing forms and he therefore becomes the true precursor of Bolshevism. For Bolshevism is merely the rebellion of the lowest strata of the Petrine society, that has ever talked about Christ, but in its heart, meant Marx. It represents the final debasing of the metaphysical
 
 [^sp-10]: Spengler op. cit. Vol. II p. 194.
 [^sp-11]: Spengler op. cit. Vol. II p. 194.
@@ -753,19 +495,9 @@ by the social and becomes thereby a new form of the Pseudo-morphosis.[^sp-12]
 
 Dostojevski is the true enemy of this upheaval representing in his soul the future of Russia. All agitation about social reform, all technical schemes for world betterment remain equally meaningless to him. Just as Christ, he would have felt no difference between working for one's own material benefit or the mere social betterment of others. For how can Communism aid the agony of the soul?[^sp-13] Thus Dostojevski embodies the destiny of Russia, the victim now of the last stages of its Pseudomorphosis, the forms of which are ever filled with the deep spirituality of the boundless plain and which will be swept away just as its predecessor, without hatred, by the inner logic of the actualizing of the Russian soul.[^sp-14]
 
-So it was with the Magian soul which grew up in the forms of the Classical after Actium. All the mystic longing of that East, where strange tales of a Messiah were current, which felt the existence of an immanent God, a Yahwe, Ahuramadza or Marduk-Baal with the certainty of an apocalyptic fulfillment had to realize itself in the West in the forms of the Classical cult. The Appollinian gods were deities of places, bodies of the sensuously near. Each locality possessed its divinity to
+So it was with the Magian soul which grew up in the forms of the Classical after Actium. All the mystic longing of that East, where strange tales of a Messiah were current, which felt the existence of an immanent God, a Yahwe, Ahuramadza or Marduk-Baal with the certainty of an apocalyptic fulfillment had to realize itself in the West in the forms of the Classical cult. The Appollinian gods were deities of places, bodies of the sensuously near. Each locality possessed its divinity to which homage was due. This explains the altar to the unknown Gods, which Paul as a child of the Pseudo-morphosis misunderstood in a monotheistic sense. This was designed for gods not known by name whom the foreign sailors at the great seaports worshipped.[^sp-15] Thus Classical toleration could extend to all sects that made no claim to exclusive validity and any transgression of these limits resulted in the intermittent persecution of the Stoa in Athens and the Christians in Rome.
 
-[^sp-12]: Spengler op. cit. Vol. II. p. 195.
-[^sp-13]: Spengler op. cit. Vol. II. p. 217.
-[^sp-14]: Attention is drawn to the description by Bedell Smith of Christmas mass in Moscow. - B. Smith - My Three Years in Moscow.
-
-which homage was due. This explains the altar to the unknown Gods, which Paul as a child of the Pseudo-morphosis misunderstood in a monotheistic sense. This was designed for gods not known by name whom the foreign sailors at the great seaports worshipped.[^sp-15] Thus Classical toleration could extend to all sects that made no claim to exclusive validity and any transgression of these limits resulted in the intermittent persecution of the Stoa in Athens and the Christians in Rome.
-
-This explains, too, the change of world-feeling implied by the universal law of reason of the Stoa and the mystery-cults typified by the cult of Mithras. Formerly the god was conceived as adhering to the place of worship but now a community of any two believers constituted a church. The Spirit of God hovering in the above, ever ready to descend into his elect is the universal production of this age. Only the incomparable symbolism of the person of Christ, representing the very essence of the opposition between fact and truth, Time and Space, History and Causality distinguishes Neo-Platonism, Mithraism and Christianity. A Magian nation is a consensus of believers. When Constantine recognized Christianity as the official religion, he did not acknowledge a cult but established a new community. But long before, the spirit of the East had permeated Roman institutions, symbolized by the transfer of the capital to Byzantium and the Divus cult, which made the Roman Emperors
-
-[^sp-15]: Spengler op. cit. Vol. I. p. 404.
-
-the first Caliphs.
+This explains, too, the change of world-feeling implied by the universal law of reason of the Stoa and the mystery-cults typified by the cult of Mithras. Formerly the god was conceived as adhering to the place of worship but now a community of any two believers constituted a church. The Spirit of God hovering in the above, ever ready to descend into his elect is the universal production of this age. Only the incomparable symbolism of the person of Christ, representing the very essence of the opposition between fact and truth, Time and Space, History and Causality distinguishes Neo-Platonism, Mithraism and Christianity. A Magian nation is a consensus of believers. When Constantine recognized Christianity as the official religion, he did not acknowledge a cult but established a new community. But long before, the spirit of the East had permeated Roman institutions, symbolized by the transfer of the capital to Byzantium and the Divus cult, which made the Roman Emperors the first Caliphs.[^sp-15]
 
 Yet the spirit of the West was that of a Civilization, cold, highly conceptualized. The direction of Christianity under the guidance of Paul, who preached in the cities, remained ever aloof from the apocalyptic feeling of the countryside in the East. The attempt of conceptually defining the Logos idea led to the violent secession of the Monophysites and Nestorians. And when Islam appeared it was greeted as liberator by the spirit which recognized its own inner essence and spread with the rapidity of a soul that was robbed of its youth and feels its time is limited.
 
@@ -773,37 +505,19 @@ The Magian Soul
 
 Spengler's symbol for the Magian world image is a cavern, filled with dim light. In the uneasy tensions of waking consciousness, the opposition of becoming and being, that the Classical conceived as beam and load, and the Faustian felt as force and Mass, consists for the Magian of an unsure swaying of substantial realities. Up and down, heaven and earth are substances that contend with one another in a cosmos revealing the Divine. Death is not the end of life but a death substance that struggles with a life-substance for the mastery of man.[^sp-16] Out of this basic yearning, with man the theater of battles between the powers of darkness and evil, emerges the Concept of God the Divine Mediator who transforms this state from torment into bliss.[^sp-17]
 
-Man consists of a soul and body, both different modes of the same substance deriving their reality and participating in the light only through the infusion of the Divine Pneuma, which serves as the condition for the heroic deeds of a Samson, the holy wrath of Elijah, the enlightenment of Solomon. This infusion of the divine into the bodies of the faithful, binds the community of believers into a consensus and makes it at one with the enigmatic power above. Thus man as body and soul belongs to himself alone. But at the same time he contains something else, something higher, an emanation of God, which
-
-[^sp-16]: Spengler op. cit. Vol. II. p. 237.
-[^sp-17]: Spengler op. cit. Vol. II. p. 236.
-
-precludes error but also makes totally meaningless a self-asserting Ego. Will and thought are not prime-phenomena, but already manifestations of the divine in Man.[^sp-18]
+Man consists of a soul and body, both different modes of the same substance deriving their reality and participating in the light only through the infusion of the Divine Pneuma, which serves as the condition for the heroic deeds of a Samson, the holy wrath of Elijah, the enlightenment of Solomon. This infusion of the divine into the bodies of the faithful, binds the community of believers into a consensus and makes it at one with the enigmatic power above. Thus man as body and soul belongs to himself alone. But at the same time he contains something else, something higher, an emanation of God, which precludes error but also makes totally meaningless a self-asserting Ego. Will and thought are not prime-phenomena, but already manifestations of the divine in Man.[^sp-18]
 
 God is immanent in every manifestation of phenomenal appearance, the one Cause immediately underlying all visible workings. Magian science concerns itself with apprehending the substance which appears in only different modes in actuality, with purging it of its "foreign" element, with alchemy.
 
 Time, too, is cavernlike. The thrusting outward into infinity of the Faustian soul, develops into the divine plan for salvation, into the essence of which any inquiry constitutes profanation. The Magian soul, first identified the story of the world with the history of Man, into inexorable stages of world-beginning, world-development and a world catastrophe, which contains the sanction of the moral history of humanity.[^sp-19] The operation of the autocratic will, precludes not only individual causes and effects, not only obviates the concept of the miraculous but also denies any necessary relation between sin and punishment, any claim to reward for virtue. Man's reality consists of his participation in the divine pneuma, which after its infusion allows only will-less resignation (Islam-resignation) into the mysterious working out of God's plan. "Magian man received Grace, but did not acquire it."[^sp-20] Job is the Magian Faust.
 
-[^sp-18]: Spengler op. cit. Vol. II. p. 235.
-[^sp-19]: Spengler op. cit. Vol. II. p. 240.
-[^sp-20]: Spengler op. cit. Vol. II. p. 241.
-
 Three emanations of the divine occur, God, the Word of God, the Spirit of God. The consensus of the faithful, imbued with the Spirit of God, is beyond the possibility of deception. "My people can never agree in error", said Mohammed.[^sp-21] This explains the early church-council, which the West in its re-valuation of all things Magian, transformed into a political concept for the limitation of a dynamic Papacy. The God-as-Word represents the substantial infusion of the divine into the sacred texts. This form of Revelation is the rule in the Magian religion. The only change that an unalterable Koran permits is commentary, leading to the development of an exegis with mystical undermeanings, the Halaka of which the Gospels in early Christianity and the Talmud of Judaism are examples.[^sp-22]
 
 It follows that a separation of Church and state is impossible in the Magian culture. The consensus is itself a church, its law in the sacred book the only idea of nationality open to the believers. But also the development of a strong priesthood is precluded. Man stands in direct relation to the divine in so far as he participates in the pneuma and beyond that nothing avails. The true priest of the Magian culture is the hermit, the true bliss of its religion ecstacy when the soul is at one with God and the dark forces of materiality are defeated.
 
-Yet until the coming of Islam this Magian world had to live under the forms of the Classical which it gradually
+Yet until the coming of Islam this Magian world had to live under the forms of the Classical which it gradually infused with its own spirituality. The pillars of the temple moved inside the mosque, a cupola replaced the flat roof, giving the impression of space, but a space enclosed in the cave. Into it a window in the roof let the dim light that, reflected from the gold-ground walls, created an atmosphere of fairy-land un-reality, the scene for the operation of an omnipotent, ever-present God. Such was St. Sophia and the Pantheon in Rome.[^sp-23] This, too, is the world of Spinoza, whose causa sui, represents the immanent Deity and to whom inner certainty was the only criterion of knowledge, the geometric method representing merely a manifestation of Western Pseudomorphosis. It is the world that Christ knew and that Faustian religion can scarcely comprehend. It petrified around 800 and since the Crusades has persisted in the fellah-state of unchanging dogmatism and creative impotence.
 
-[^sp-21]: Spengler op. cit. Vol. II. p. 243.
-[^sp-22]: Spengler op. cit. Vol. II. p. 245.
-
-infused with its own spirituality. The pillars of the temple moved inside the mosque, a cupola replaced the flat roof, giving the impression of space, but a space enclosed in the cave. Into it a window in the roof let the dim light that, reflected from the gold-ground walls, created an atmosphere of fairy-land un-reality, the scene for the operation of an omnipotent, ever-present God. Such was St. Sophia and the Pantheon in Rome.[^sp-23] This, too, is the world of Spinoza, whose causa sui, represents the immanent Deity and to whom inner certainty was the only criterion of knowledge, the geometric method representing merely a manifestation of Western Pseudomorphosis. It is the world that Christ knew and that Faustian religion can scarcely comprehend. It petrified around 800 and since the Crusades has persisted in the fellah-state of unchanging dogmatism and creative impotence.
-
-Spengler's metaphors on the forms of the soul are deeply suggestive and yet they rest on an intuition striving for absolutes, ever expressing itself in the crasest possible manner. His evocation of the souls of the cultures is of a persuasiveness that makes abstract criticism appear dogmatic. Still one must ask whether he was not describing tendencies, instead of unchangeable relations. Achilles is hardly a body, placed in a position he did not choose, nor does the Iliad assume constancy of personality. Indeed the very essence of its tragedy
-
-[^sp-23]: Spengler op. cit., Vol. II. p. 229.
-
-consists of the efforts of a man to master fate, to exact conditions from this world and of the final acceptance of his humanity, his recognition of limits. Polybius, moreover, wrote a philosophy of history that compares favorably with many creations of the "historical" Faustian Culture, and the scheme of which is very similar to Spengler's concepts of gradual, inevitable degeneration. Spinoza, may be a product of the Magian soul, but Friedrich has characterized him with equal persuasiveness as a product of the Calvinist concept of pre-destination,[^sp-24] his conatus God's sanction to the "elect".[^sp-25] The idea of a consensus represents perhaps an emanation of the Magian soul, but not exclusively so. The history of the Law of Nature in Western philosophy demonstrates the pervasiveness of his concept; Rousseau's General Will reveals its theoretical application to politics.
+Spengler's metaphors on the forms of the soul are deeply suggestive and yet they rest on an intuition striving for absolutes, ever expressing itself in the crasest possible manner. His evocation of the souls of the cultures is of a persuasiveness that makes abstract criticism appear dogmatic. Still one must ask whether he was not describing tendencies, instead of unchangeable relations. Achilles is hardly a body, placed in a position he did not choose, nor does the Iliad assume constancy of personality. Indeed the very essence of its tragedy consists of the efforts of a man to master fate, to exact conditions from this world and of the final acceptance of his humanity, his recognition of limits. Polybius, moreover, wrote a philosophy of history that compares favorably with many creations of the "historical" Faustian Culture, and the scheme of which is very similar to Spengler's concepts of gradual, inevitable degeneration. Spinoza, may be a product of the Magian soul, but Friedrich has characterized him with equal persuasiveness as a product of the Calvinist concept of pre-destination,[^sp-24] his conatus God's sanction to the "elect".[^sp-25] The idea of a consensus represents perhaps an emanation of the Magian soul, but not exclusively so. The history of the Law of Nature in Western philosophy demonstrates the pervasiveness of his concept; Rousseau's General Will reveals its theoretical application to politics.
 
 Thus the eloquence of the soul-images is nevertheless unable to hide the fact that alternative explanations of equal conviction are possible. This does not disprove Spengler's concepts but it does cast doubt on the inexorability of a development which constitutes a function of these soul-images.
 
@@ -870,55 +584,52 @@ But "the effects of truths are always different from their tendency".[^sp-37] Ab
 
 belongs to the world of facts, and intellect to the realm-of-truths with the inevitable consequences. "Intellect rejects - money directs" characterizes the last phase of each Culture. The tragic irony of this period resides in the fact that the theorists of freedom are in the final analysis only assisting money to be effective. At the end of this development stands Napoleonism.
 
-Spengler finds in England the laboratory in which both sides of Third-Estate politics, the ideal and the real, graduated. Here the Fronde triumphed and so the bourgoisie could grow up in the strong forms of the First Estate, which disarmed it with its inner superiority and never allowed training to be substituted for breeding in the development of its tradition. Basing its actions on the self-evidence of England's greatness, it substituted the absolutism of class-delegation for the absolutism of the State, which in Britain never attained the symbolism of an inward idea. Its place was taken by "society", as the symbol of the nation being "in form" under the class-regime; a word which in the French rationalists became the vehicle for the expression of their hatred of authority. In England, however, authority was well-defined. It
+Spengler finds in England the laboratory in which both sides of Third-Estate politics, the ideal and the real, graduated. Here the Fronde triumphed and so the bourgoisie could grow up in the strong forms of the First Estate, which disarmed it with its inner superiority and never allowed training to be substituted for breeding in the development of its tradition. Basing its actions on the self-evidence of England's greatness, it substituted the absolutism of class-delegation for the absolutism of the State, which in Britain never attained the symbolism of an inward idea. Its place was taken by "society", as the symbol of the nation being "in form" under the class-regime; a word which in the French rationalists became the vehicle for the expression of their hatred of authority. In England, however, authority was well-defined. It resided in the Parliament, which as a creation of the Baroque embodied the cosmic flow of the Culture's maturity and therefore had music in it. The genealogical principle was represented by the upper stratum of society, which divided itself according to the relative predominance of the power or the booty outlook, into a "respectable" and a "fashionable" party. Though the State's care for all was replaced by a frank assertion of class-interest, the organization of the major parties was such that they represented all effective members of society. The Parliamentary style represented the British equivalent of Cabinet diplomacy.
+
+On the other hand, there never occurred any confusion of the intellectual concepts and practical politics. "The successful utilization of the bourgeois catchwords in politics presupposes the shrewd eye of a ruling class for the intellectual constitution of the stratum which intends to attain power, but will not be capable of wielding it when attained."[^sp-44] Consequently in England the generations of "free" opinion was most highly developed by the press and political campaigns as well as Parliament, were systematically managed.
+
+It was different on the Continent. There the two sides of liberalism-freedom from the restrictions of soilbound life,
 
 [^sp-41]: Spengler op. cit. Vol. II. p. 402.
 [^sp-42]: Spengler op. cit. Vol. II. p. 444.
 [^sp-43]: Spengler op. cit. Vol. II. p. 392.
-
-resided in the Parliament, which as a creation of the Baroque embodied the cosmic flow of the Culture's maturity and therefore had music in it. The genealogical principle was represented by the upper stratum of society, which divided itself according to the relative predominance of the power or the booty outlook, into a "respectable" and a "fashionable" party. Though the State's care for all was replaced by a frank assertion of class-interest, the organization of the major parties was such that they represented all effective members of society. The Parliamentary style represented the British equivalent of Cabinet diplomacy.
-
-On the other hand, there never occurred any confusion of the intellectual concepts and practical politics. "The successful utilization of the bourgeois catchwords in politics presupposes the shrewd eye of a ruling class for the intellectual constitution of the stratum which intends to attain power, but will not be capable of wielding it when attained." Consequently in England the generations of "free" opinion was most highly developed by the press and political campaigns as well as Parliament, were systematically managed.
-
-It was different on the Continent. There the two sides of liberalism-freedom from the restrictions of soilbound life,
-
 [^sp-44]: Spengler op. cit. Vol. II. p. 403.
 [^sp-45]: Spengler op. cit. Vol. II. p. 392.
 [^sp-46]: Spengler op. cit. Vol. II. p. 403.
 
-freedom of the intellect for all criticism and of money for any business activity, operated as solvent of all form. There the distrust of authority felt by the Third-Estate was so great that it was ready to resure its freedom by means of a dictatorship. This represents the panic felt by any multitude that no longer feels itself "in condition". The waking-consciousness of which has so dominated the destiny aspect that it is ready to salvage its inner cohesiveness by submission to an authority that would never be tolerated, if legitimate. This is the essence of the second Tyrannis, of Alexander, of Napoleon. The self-evident basis for new creativeness has disappeared and naked power becomes the criterion for success.
+freedom of the intellect for all criticism and of money for any business activity, operated as solvent of all form.[^sp-45] There the distrust of authority felt by the Third-Estate was so great that it was ready to resure its freedom by means of a dictatorship. This represents the panic felt by any multitude that no longer feels itself "in condition". The waking-consciousness of which has so dominated the destiny aspect that it is ready to salvage its inner cohesiveness by submission to an authority that would never be tolerated, if legitimate. This is the essence of the second Tyrannis, of Alexander, of Napoleon. The self-evident basis for new creativeness has disappeared and naked power becomes the criterion for success.
 
-Out of the depths of the Megalopolis, emerges at this stage, in Rome, in Paris, a formless mass, that expresses itself no longer as mere opposition to traditional values, but is the very embodiment of nihilistic power - to which various languages attach equally contemptuous labels: Canaille, Poepel, Mob. Its influence is out of proportion to its numbers, since it is always present, forcing its way into the forefront of events, overshadowing all political activity by its threat. The bourgeoisie henceforth risks its inner cohesiveness at any moment, both because of its smaller effective numbers, the absence of a positive guiding idea and the inferiority of its determination. The fear of the mass causes a turn by the
+Out of the depths of the Megalopolis, emerges at this stage, in Rome, in Paris, a formless mass, that expresses itself no longer as mere opposition to traditional values, but is the very embodiment of nihilistic power - to which various languages attach equally contemptuous labels: Canaille, Poepel, Mob.[^sp-38] Its influence is out of proportion to its numbers, since it is always present, forcing its way into the forefront of events, overshadowing all political activity by its threat. The bourgeoisie henceforth risks its inner cohesiveness at any moment, both because of its smaller effective numbers, the absence of a positive guiding idea and the inferiority of its determination. The fear of the mass causes a turn by the
 
 [^sp-38]: Spengler op. cit. Vol. II. p. 404.
 [^sp-39]: Spengler op. cit. Vol. II. p. 405.
 [^sp-40]: Spengler op. cit. Vol. II. p. 400.
 
-Third Estate at the beginning of each Civilization to a Constitutional monarchy of which the most extreme form is the Republic. Here in the Estate-state, the British model could be copied to advantage.
+Third Estate at the beginning of each Civilization to a Constitutional monarchy of which the most extreme form is the Republic.[^sp-39] Here in the Estate-state, the British model could be copied to advantage.
 
-Two inner contradictions ever harassed the nineteenth century parliamentary state, however; the genealogical principal of such strength, that it saw in the state an embodiment of a dynasty that no longer existed and the cold intellect that only recognized the perfect form of government. This again symbolized the opposition of Time, Space, becoming and being. "While in England the parties were distinguished by their possession of different though well-tested modes of Government, on the Continent the criterion was the direction towards which the Constitution was to be changed-tradition or theory." In this contest it was forgotten that foreign policy is the ultimate standard of inward fitness. The domestic and diplomatic service developed in opposite directions and the real victor of the dilemma was abstract money.
+Two inner contradictions ever harassed the nineteenth century parliamentary state, however; the genealogical principal of such strength, that it saw in the state an embodiment of a dynasty that no longer existed and the cold intellect that only recognized the perfect form of government. This again symbolized the opposition of Time, Space, becoming and being. "While in England the parties were distinguished by their possession of different though well-tested modes of Government, on the Continent the criterion was the direction towards which the Constitution was to be changed-tradition or theory."[^sp-46] In this contest it was forgotten that foreign policy is the ultimate standard of inward fitness. The domestic and diplomatic service developed in opposite directions and the real victor of the dilemma was abstract money.
 
-This involves the reason for the decay of democracy. The Third Estate attains political effectiveness as a party, to which one adheres because of agreement with its conceptual program, but to which one does not inwardly belong. Only the bourgeoisie is "in form" as a party. The aristocracy, though as a defensive action it may thus constitute itself and[^sp-1] values and does not count and therefore merely adopts liberal methods as a mode of survival. The Marxists, also forced into bourgeois forms exhibit a continual conflict between their will, which is of necessity outside constitutionalism and is defined by Spengler as civil war and its appearance. But the growth of party entails the eventual degeneration into interest groups, the reason for the cohesiveness of the bourgeoisie having disappeared with the elimination of the political eminence of the First Estate. For democracy to work as intended by its theorists requires the almost total absence of interested leadership. Yet a tendency that has once embodied itself in political form not only motivates parties but becomes its tool. "At first parties came into existence for the sake of the program. Then they are held on to defensively as a tool for power and booty. Finally the program is forgotten and the organization exists for its own sake." This Spengler calls Caesarism, the dominance of formless power.
+This involves the reason for the decay of democracy. The Third Estate attains political effectiveness as a party, to which one adheres because of agreement with its conceptual program, but to which one does not inwardly belong. Only the bourgeoisie is "in form" as a party. The aristocracy, though as a defensive action it may thus constitute itself and values and does not count and therefore merely adopts liberal methods as a mode of survival.[^sp-40] The Marxists, also forced into bourgeois forms exhibit a continual conflict between their will, which is of necessity outside constitutionalism and is defined by Spengler as civil war and its appearance. But the growth of party entails the eventual degeneration into interest groups, the reason for the cohesiveness of the bourgeoisie having disappeared with the elimination of the political eminence of the First Estate. For democracy to work as intended by its theorists requires the almost total absence of interested leadership. Yet a tendency that has once embodied itself in political form not only motivates parties but becomes its tool. "At first parties came into existence for the sake of the program. Then they are held on to defensively as a tool for power and booty. Finally the program is forgotten and the organization exists for its own sake." This Spengler calls Caesarism, the dominance of formless power.
 
-Thus the rights of the people and the influence of the people must be sharply differentiated, according to Spengler. Indeed, the influence of the electorate varies inversely with the degree of universality of the franchise. The people's fundamental right of choosing its own representatives is in practice denied, for[^sp-2][^sp-3] every fully developed organization recruits itself. The effective control of politics reverts to the party leadership, the limit of its capabilities determined by the availability of money. For money emerges as the dominating force in the final stages of democracy. Elections require funds, and public opinion must be made amenable by campaigns. In this phase, free formation of public opinion is impossible. The Press becomes an independent force manipulating minds by the constant repetition of party-slogans, suppressing hostile or financially ineffective criticism by its Conspiracy of Silence and forestalling the possible adverse effects of occasional books by reviewing them.
+Thus the rights of the people and the influence of the people must be sharply differentiated, according to Spengler. Indeed, the influence of the electorate varies inversely with the degree of universality of the franchise. The people's fundamental right of choosing its own representatives is in practice denied, for every fully developed organization recruits itself. The effective control of politics reverts to the party leadership, the limit of its capabilities determined by the availability of money. For money emerges as the dominating force in the final stages of democracy. Elections require funds, and public opinion must be made amenable by campaigns. In this phase, free formation of public opinion is impossible. The Press becomes an independent force manipulating minds by the constant repetition of party-slogans, suppressing hostile or financially ineffective criticism by its Conspiracy of Silence and forestalling the possible adverse effects of occasional books by reviewing them.
 
-This is magnified by the particular dynamism of Faustian man, who already in Scholasticism achieved a willed unity that allowed no hostile criticism. This state it ever strives for. The dictatorship of the party-machines supports itself on the Press. Election campaigns become civil wars fought with the ballot. "To preserve the form even if it contradicts the advantage", forms the theoretical basis of democracy, but this is exactly what the non-Estate finds itself incapable of doing. Gradually the feeling grows that the Constitution contains no effective guarantees and the rights that the Grandparents died for, cease to be meaningful to the descendants. People become tired of the gleaming concepts and turn to the release afforded[^sp-4][^sp-5][^sp-6] by the Second Religiousness. The political form-world has been thought to completion, and Destiny begins to reassert itself over dogmatic causality. The West has produced no political theorist with an ability to reach the souls since Marx. Democracy then represents not a summit of achievement but an inevitable stage on the road from Napoleonism to that of Caesarism, which for the last time concentrates in itself all that remains of blood, of dynastic feeling, of the idea of the State.
+This is magnified by the particular dynamism of Faustian man, who already in Scholasticism achieved a willed unity that allowed no hostile criticism. This state it ever strives for. The dictatorship of the party-machines supports itself on the Press. Election campaigns become civil wars fought with the ballot. "To preserve the form even if it contradicts the advantage", forms the theoretical basis of democracy, but this is exactly what the non-Estate finds itself incapable of doing. Gradually the feeling grows that the Constitution contains no effective guarantees and the rights that the Grandparents died for, cease to be meaningful to the descendants. People become tired of the gleaming concepts and turn to the release afforded by the Second Religiousness. The political form-world has been thought to completion, and Destiny begins to reassert itself over dogmatic causality. The West has produced no political theorist with an ability to reach the souls since Marx. Democracy then represents not a summit of achievement but an inevitable stage on the road from Napoleonism to that of Caesarism, which for the last time concentrates in itself all that remains of blood, of dynastic feeling, of the idea of the State.
 
-The period of Caesarism is preceded by an age of gigantic conflict, the "period of Contending States" lasting from Alexander to Ceasar in the Classical and beginning with Napoleon in the West. This epoch exhibits in the crassest shape the opposition between the great form and the great individual. The loss of the felt relation to the cosmic beat opens opportunities for private individuals who will have power at any price and who as embodiments of force can shape the destiny of a Culture. The great tradition, which made genius dispensable, there is replaced by great fact-men, whose accidental appearance can elevate an era into an epoch and whose death can cause the total collapse of all their enterprise. To be sure, the transition period from the Culture to the Civilization also had its phenomena of pure force-Napoleon or Alexander.[^sp-7][^sp-8] But there was always the strong tradition of the Baroque at its back and the pulse of being had not yet completely died out. The Culture had bound up all forces in a strict form. But with the appearance of Napoleonism, they were released - and in time Nature broke forth. Cabinet diplomacy had been conducted within definite rules. The wars of the 18th century consisted of the maneuvers of small armies under well-understood conditions. But the era preceding Caesarism replaces the absolute state with a battling society of states. This is the dawn of the great individual beginning in the Classical with Hannibal and in the West with the World War.
+The period of Caesarism is preceded by an age of gigantic conflict, the "period of Contending States" lasting from Alexander to Ceasar in the Classical and beginning with Napoleon in the West. This epoch exhibits in the crassest shape the opposition between the great form and the great individual. The loss of the felt relation to the cosmic beat opens opportunities for private individuals who will have power at any price and who as embodiments of force can shape the destiny of a Culture. The great tradition, which made genius dispensable, there is replaced by great fact-men, whose accidental appearance can elevate an era into an epoch and whose death can cause the total collapse of all their enterprise. To be sure, the transition period from the Culture to the Civilization also had its phenomena of pure force-Napoleon or Alexander. But there was always the strong tradition of the Baroque at its back and the pulse of being had not yet completely died out. The Culture had bound up all forces in a strict form. But with the appearance of Napoleonism, they were released - and in time Nature broke forth. Cabinet diplomacy had been conducted within definite rules. The wars of the 18th century consisted of the maneuvers of small armies under well-understood conditions. But the era preceding Caesarism replaces the absolute state with a battling society of states. This is the dawn of the great individual beginning in the Classical with Hannibal and in the West with the World War.
 
 Wars become ever more violent and uncompromising. Until the beginning of civilization the technique of War had always been subsidiary to the development of craftsmanship. But now the requirements of continuous war or potential war require the subservience of all mechanical means to instruments of destruction and largely condition technical progress by its assumed fitness for military operations. Universal military service, mass-charges dominate battles that would to contemporaries of Frederick the Great have appeared madness.
 
-The ruthlessness of the peace-conditions matches the expenditure of force. Starting with Napoleon the conventions of 18th century warfare began to be violated. Only the physical restrictions tend to limit the exploitation of military[^sp-9][^sp-10] successes. The Treaty of Versailles deliberately avoided final conditions of peace, enabling the victors to modify their demands with the changing-situation.
+The ruthlessness of the peace-conditions matches the expenditure of force. Starting with Napoleon the conventions of 18th century warfare began to be violated. Only the physical restrictions tend to limit the exploitation of military successes. The Treaty of Versailles deliberately avoided final conditions of peace, enabling the victors to modify their demands with the changing-situation.
 
 Imperialism is the inevitable product of Civilization an outward thrust to hide the inner void. After the formlessness of the early conflicts, the most self-assured power, emerges as the dominating force. The vacuum created by the collapse of all inner meaning has such strength that it does not matter whether a people wills to assume this role. It is seized and pushed into it. Rome did not conquer its Empire, it condensed itself into that form and despite Scipio's awareness of the dangers Rome could not escape its destiny. So it will be with the West. The power centers will become ever fewer, the tensions ever greater, the wars more violent. The great foci of power will decide the fate of continents until Caesarism in its political form will supervene and life gradually slip back into biological periods.
 
-In the souls of the people, arises at this stage a great desire for peace. Every civilization knows the cry for reconciliation and universal understanding. But the logic of the age of Caesarism will not allow it. "The Hague Conference of 1907 was a prelude to the World War; the Washington Conference of 1922 will have been that of others."[^sp-11] A civilization[^sp-12][^sp-13] does not permit a people to choose its mode of life, judging it by its fitness for the struggle. In this task whatever remains of old traditions, representing the organic factors, such as the U.S. constitution, acquires tremendous force and can bring about historical results of great magnitude.
+In the souls of the people, arises at this stage a great desire for peace. Every civilization knows the cry for reconciliation and universal understanding. But the logic of the age of Caesarism will not allow it. "The Hague Conference of 1907 was a prelude to the World War; the Washington Conference of 1922 will have been that of others."[^sp-11] A civilization does not permit a people to choose its mode of life, judging it by its fitness for the struggle. In this task whatever remains of old traditions, representing the organic factors, such as the U.S. constitution, acquires tremendous force and can bring about historical results of great magnitude.
 
-Money at the beginning of this period permeated public life. Economics, the activity which belongs to the spindle-side of being, its mere preserving aspects, is the primary mode of thought in the young Cosmopolis. Ethics becomes social-engineering. "Property is theft" representing the ultra-materialistic conception of the thought: "What shall it profit a man if he shall gain the whole world and lose his own soul." But money is merely a form of thought, ordering all activity with reference to itself. Like all problems of the Culture it will reach a state of absolute inner finishedness, no matter how powerful its present manifestations. The dynamic economics of the Faustian Culture, symbolized by double-entry bookkeeping, a pure spatial analysis of an economic condition and in which the true values are production and work not as mistakenly assumed gold, has reached the limit of its inner possibilities.[^sp-14] Just as at the time of Diocletian, thinking in terms of money[^sp-15][^sp-16][^sp-17] will gradually cease and the force of law, the power aspect of becoming triumph over the mere acquisitive side.
+Money at the beginning of this period permeated public life. Economics, the activity which belongs to the spindle-side of being, its mere preserving aspects, is the primary mode of thought in the young Cosmopolis. Ethics becomes social-engineering. "Property is theft" representing the ultra-materialistic conception of the thought: "What shall it profit a man if he shall gain the whole world and lose his own soul." But money is merely a form of thought, ordering all activity with reference to itself. Like all problems of the Culture it will reach a state of absolute inner finishedness, no matter how powerful its present manifestations. The dynamic economics of the Faustian Culture, symbolized by double-entry bookkeeping, a pure spatial analysis of an economic condition and in which the true values are production and work not as mistakenly assumed gold, has reached the limit of its inner possibilities.[^sp-14] Just as at the time of Diocletian, thinking in terms of money will gradually cease and the force of law, the power aspect of becoming triumph over the mere acquisitive side.
 
 This, Spengler believes, may be the fate, too, of that prime-symbol of the West, the Machine. No other Culture has constructed its relationship to the macrocosm, in such masterful fashion, or achieved such a thoroughgoing revision of its environment. The working-hypothesis ever exhibits the Faustian attitude towards the universe. Work and deed are the great ethical concepts of this Culture, Kant's categorical imperative a command of activity. But technical knowledge will be of no avail, to a soul that has lost its meaning. If the best young minds of the future will no longer see life's purpose in practical pursuit and withdraw into mysticism, if the succeeding generations become obsessed with the Satanism of their creations, then nothing can stop the decay of this prime symbol, a creation of the intellect and not of pure labor as Marx supposed.
 
-This will be the stage of pure Caesarism, the formless force, which whatever its outward trappings will depend on the personal power of its possessor. The huge citizen-militia is replaced by the chief's followings, private armies whose destinies depend on their leaders as in the time of Caesar, Pompey and Octavian. The real focus of events becomes the Megalopolis in which wars of infinite bloodiness because of their private[^sp-18][^sp-19] nature herald the beginning of the final contest for power. The victorious Caesarism will then constitute the last attempt by the powers of the blood, doomed to petrification because the fire in the soul of the Civilization has long died out. Its outward manifestations are mere appearance. People's rights take the place of the scepter and crown in constitutional monarchy. They are carefully paraded for the multitudes to hide their total lack of real meaning. With power without tradition as its last manifestation, with waking-consciousness defeated by itself, the Civilization turns itself into a fellah state where time is meaningless, and history at an end:
+This will be the stage of pure Caesarism, the formless force, which whatever its outward trappings will depend on the personal power of its possessor. The huge citizen-militia is replaced by the chief's followings, private armies whose destinies depend on their leaders as in the time of Caesar, Pompey and Octavian. The real focus of events becomes the Megalopolis in which wars of infinite bloodiness because of their private nature herald the beginning of the final contest for power. The victorious Caesarism will then constitute the last attempt by the powers of the blood, doomed to petrification because the fire in the soul of the Civilization has long died out. Its outward manifestations are mere appearance. People's rights take the place of the scepter and crown in constitutional monarchy. They are carefully paraded for the multitudes to hide their total lack of real meaning. With power without tradition as its last manifestation, with waking-consciousness defeated by itself, the Civilization turns itself into a fellah state where time is meaningless, and history at an end:
 
 "And so the drama of a high culture-that wondrous world of deities, arts, thoughts, battles, cities - closes with the return of the pristine facts of the blood eternal that is one and the same as the ever-circling cosmic flow. The bright imaginative Waking-Being submerges itself into the silent service of Being, as the Chinese and Roman empires tell us. Time triumphs over Space, and it is Time whose inexorable movement embeds the ephemeral incident of the Culture, on this planet, in the incident of man - a form wherein the incident life flows on for a time, while behind it all the streaming horizons of geological and stellar histories pile up in the light-world of our eyes.
 
@@ -930,6 +641,8 @@ Spengler's metaphysical dilemma permeats his political theory, which contains ma
 
 Again, if religion is a construction of waking-consciousness one should expect its early manifestations to be hesitant, unsure of themselves, attaining ever greater mastery of form with the emancipation of the waking-consciousness in the development of the Culture. In fact, exactly the opposite is true in Spengler's scheme. The period of greatest religious creative force occurs at the beginning of the Culture and Caesarism finds religion just as all other problemation devoid of any symbolic significance.
 
+[^sp-20]: These arguments are presented at considerably greater length at the end of the respective chapters.
+
 The nobility as the prime estate appears unable by itself to achieve that inner purposiveness which Spengler considers the outstanding characteristic of the State. Indeed the State comes into existence only over its opposition. If the symbolism of the state finds its expression in an idea, which transcends mere becoming, it seems evident that this idea is a function of waking-consciousness not of an immanent destiny. Moreover, as Spengler points out, the Magian cultures articulate themselves almost exclusively through the symbolism of a Priesthood, with the nobility playing a subsidiary role.
 
 The conclusion appears again, despite many striking insights, that the strict separation of becoming and being into a postulate of alternatives has no standing in reality. Both are merely tendencies, the relative predominance of which, characterizes modes of world-experience.
@@ -937,6 +650,11 @@ The conclusion appears again, despite many striking insights, that the strict se
 Purposiveness without an organic framework is meaningless.[^sp-21] Pure existence describes an animal state. All creativity requires waking-consciousness, but effective leadership will take into account the unconscious factors of motivation. It must be admitted that in many respects Spengler acknowledges this. In the chapter on mathematics, he explicitly affirms the inter-relationship. The confrontation of Pilate and Christ, of profound and compelling beauty, contains a poetic implication not only of the opposition but also the connection of these aspects of life. But ever the temptation to shock and the approach to history as a machine perpetually reproducing new manifestations of power, which man is impotent to influence, gains the upper hand and leads to the elaboration of the opposition between Time and Space, Destiny and Causality, the World-as-History and the World-as-Nature.
 
 "Luther was the creation, not of intellectual necessity but of destiny."[^sp-22] It would be better to say that destiny embodies itself in intellectual necessity. Political conduct reveals not just an inexorable immanence but a process of becoming consciously evaluated. Luther was consequently more than the creation of historical necessity, but the shaper of a tendency, the inspiration of a dimly felt longing. Life reveals not merely activity, but purposeful activity. Politics is not a simple problem of living the organic immanence, but of recognizing the possibilities of the situation. This recognition,[^sp-23] however, constitutes the emanation of a normative framework. Necessity can only serve as a foil for the transcendental experience of freedom, not as a guide to action.[^sp-24]
+
+[^sp-21]: See post Chapter "History and Man's Experience of Morality", Ch. "The Sense of Responsibility" for full development.
+[^sp-22]: These arguments are presented at considerably greater length at the end of the respective chapters.
+[^sp-23]: See post Ch. "History and Man's Experience of Morality" for complete analysis.
+[^sp-24]: In any philosophical discussion one must sharply distinguish the philosophical assumptions from their argument. A refutation of the latter may merely mean that the metaphysical postulates are capable of stronger supporting formulation. Logic can aid in evaluating internal consistency and relevance but is no test for the metaphysical assumptions which can be analyzed only by utilizing another set of assumptions, not an objective standard of validity. It is possible, therefore, to offer different explanations for all of Spengler's symbols of soul-images without refuting the concept of the soul of a culture. (See Appendix A - The Concepts of Meaning).
 
 ### Conclusions
 
@@ -950,28 +668,19 @@ On the other hand, if the life of each culture represents an effort to actualize
 
 Spengler's denial of the interrelationship of Cultures and their inability to ever understand each other's symbols is thus refuted by his approach. If the symbols of another Culture must always remain inwardly remote, it is difficult to see what governs the continuation of any ideation. If, however, most
 
-1. For more complete analysis see ante discussion at end of previous section.
-
 Cultures begin by taking over foreign symbols then it can hardly be asserted that these forms did not condition their users. Though Christianity may have been adapted to fit the needs of the Faustian soul, the whole history of the West was permeated by the particular spirituality of this well-organized institution, with its heritage of the Greeco-Roman tradition. The infusion of new meaning into old forms involves a different process than spontaneous creativity.
 
 Spengler's political theory contains similar inconsistencies. It proved impossible to reconcile the metaphysical postulate of alternative modes of behavior with a political symbolism expressed in Estates. The nobility as the representative of an inexorable destiny appears to have no scope for creativity and the Priesthood, as the exponent of pure waking-consciousness lacks symbolism. Spengler's difficulty derives from the resolution of tendencies whose relative predominance characterizes modes of world-experience into incompatible alternatives. He forgot that the World-as-History and the World-as-Nature are merely symbolic representations of possible apprehensions of reality, not objective attributes of existence. History and Causality represent types of analysis concerned respectively with noumenal and phenomenal occurrences. This does not prove their opposition, however. It merely indicates levels of
 
-1. These arguments are presented at considerably greater length at the end of the respective chapters.
-2. See post Ch. History and Man's Experience of Morality for complete analysis.
-
 meaning for events which can be understood only as a unity, as destiny purposively evaluated, as history consciously lived.
 
-Purely analytical criticism of Spengler will, however, never discover the profounder levels of his philosophy. These reside in his evocation of those elements of life that will ever be the subject of an inner experience, in his intuition of a mystic relationship to the infinite that expresses personality. Spengler's vision encompassed an approach to history which - whatever our opinion of his conclusions-transcended the mere causal analysis of data and the shallow dogmatism of many progress theories. No discussion of internal structure can invalidate the force of Spengler's description of Christ's journey to Jerusalem or the dramatic quality of the exposition of the dilemma in Michelangelo's soul. After all has been said, the conviction remains that Spengler has found a poetry in life which rises the/ above barren systematization of its manifestations.
+Purely analytical criticism of Spengler will, however, never discover the profounder levels of his philosophy. These reside in his evocation of those elements of life that will ever be the subject of an inner experience, in his intuition of a mystic relationship to the infinite that expresses personality. Spengler's vision encompassed an approach to history which - whatever our opinion of his conclusions-transcended the mere causal analysis of data and the shallow dogmatism of many progress theories. No discussion of internal structure can invalidate the force of Spengler's description of Christ's journey to Jerusalem or the dramatic quality of the exposition of the dilemma in Michelangelo's soul. After all has been said, the conviction remains that Spengler has found a poetry in life which rises above barren systematization of its manifestations.
 
 To be sure, such an approach presents dangers. The latent anti-intellectualism may well lead to a cult of sheer
-
-1. In any philosophical discussion one must sharply distinguish the philosophical assumptions from their argument. A refutation of the latter may merely mean that the metaphysical postulates are capable of stronger supporting formulation. Logic can aid in evaluating internal consistency and relevance but is no test for the metaphysical assumptions which can be analyzed only by utilizing another set of assumptions, not an objective standard of validity. It is possible, therefore, to offer different explanations for all of Spengler's symbols of soul-images without refuting the concept of the soul of a culture. (See Appendix A - The Concepts of Meaning).
 
 power, of which recent history has seen many examples. But the fact that certain arguments if pressed to an extremity involve unacceptable consequences does not necessarily disprove their validity. It indicates rather that in the ultimate problems of life Man must find the sanction for his conduct within himself, not in technical solutions. Every event is not merely an effect but also an experience. As an effect it is subject to causal determination; as an experience it contains the meaning of freedom and the essence of personality. This accounts for the unsatisfactoriness of ethical systems such as Northrop's, who conceives values as approachable by mere methodology. It was not, after all, Spinoza's geometrical method that led to his ethical concepts but his inner attitude which a priori directed the method.
 
 It was Spengler's merit that he understood this, as well as the underlying unity of all manifestations of human endeavor, though his poetic imagination caused him to overvalue the realm of necessity and underestimate the purposive element. Perhaps the most serious criticism to be made against Spengler consists
-
-1. Dante has illustrated, in perhaps the only way possible, the interdependence of reason and inner experience, causality and grace. On the climb to the top of Mount Purgatory, he has absorbed the essence of human wisdom. Henceforth only an inner experience can conduct him. When Beatrice appears he turns for guidance to Virgil, but reason is here powerless. Just as Plato's Idea of the Good, just as Kant's experience of freedom, the final attainment of human transcendence, is a matter of inner illumination not technical manipulation. See post for full development of this idea. Ch. "The Sense of Responsibility".
 
 of his uneasy swaying between the world-as-experience, which is the only approach to an apprehension of purposiveness and his vision of it as mere repetition of power-phenomena. He constantly stresses the uniqueness of experience and yet finds in history no more than the generality of phenomena. The totality of man's longing can not, however, achieve a sanction through a mere cataloguing of appearances, but must attain meaning through the specific in Man's experiences. Spengler attempts to resolve these difficulties by his emphasis on the historical rather than the moral aspects of existence. He is ever concerned with an evaluation of the elements of success, which really represents a manifestation of a will-to-system from a pragmatic rather than an ethical point-of-view. This emphasis on success leads to that strict separation of History and Causality, of which the person of Christ constitutes not a proof but a contradiction. But no truth is without its historical tendency and every effective conduct implies some normative element.
 
@@ -1002,13 +711,13 @@ Scholarly criticism of Spengler has been sporadic and frequently besides the poi
 
 The most profound analysis is probably that of Eduard Meyer, who, though accepting many of Spengler's conclusions, opposes to the concept of the organic culture of definite extends and fixed duration, that of overlapping culture-circles, whose capability of absorbing alien influences as well as their possibility of different development is manifold and whose decline is a result not a cause of excessive involvement in imperialistic ventures. Thus a purposive element of choice is imported into Spengler's development, its fatedness the result, at least in part, of human volition.
 
-Is Spengler a determinist? This question is not as absurd as might appear from a cursory reading of his philosophy.[^sp-35][^sp-36][^sp-37][^sp-38][^sp-39]
+Is Spengler a determinist? This question is not as absurd as might appear from a cursory reading of his philosophy.[^sp-35]
 
-Determinism is, after all, a flexible concept. Freedom can never mean unlimited choice, nor determinism plantlike dependence. Any manifestation of the problems of necessity and freedom, constitutes a question of the relative weight of tendencies rather than a crass assertion of incompatibles. Spengler took this into account, though his enthusiasm leads to a formulation that seems to negate his theoretical awareness. Incident and destiny are the differentia which represent the opposition. The historical direction which is fixed and unalterable, inescapable as death-constitutes Destiny. Its embodiment in actuality, however, depends on Incident. It was an Incident that Columbus discovered America as the agent of the Spanish rather than the French throne and that thereby the style of politics of the next centuries was set by Madrid instead of Paris. But it was a destiny, that the late period of the West should accomplish itself through absolutism to a Revolution. That this revolution occurred in France was an Incident, but it was a Destiny that Napoleonism should accompany the turn of the culture into a civilization. There are personal Incidents when a great man such as Napoleon concentrates the whole meaning of an epoch in himself and thereby accomplishes in a few years, what under the impersonal Incident of an epoch it took the Classical decades to achieve. The inner logic of events is fixed, the general tendencies of the development determined, but[^sp-40][^sp-41] its incidental appearance is the result of the self-assurance and the work of people who can live a destiny rather than suffer it.
+Determinism is, after all, a flexible concept. Freedom can never mean unlimited choice, nor determinism plantlike dependence. Any manifestation of the problems of necessity and freedom, constitutes a question of the relative weight of tendencies rather than a crass assertion of incompatibles. Spengler took this into account, though his enthusiasm leads to a formulation that seems to negate his theoretical awareness. Incident and destiny are the differentia which represent the opposition. The historical direction which is fixed and unalterable, inescapable as death-constitutes Destiny. Its embodiment in actuality, however, depends on Incident. It was an Incident that Columbus discovered America as the agent of the Spanish rather than the French throne and that thereby the style of politics of the next centuries was set by Madrid instead of Paris. But it was a destiny, that the late period of the West should accomplish itself through absolutism to a Revolution. That this revolution occurred in France was an Incident, but it was a Destiny that Napoleonism should accompany the turn of the culture into a civilization. There are personal Incidents when a great man such as Napoleon concentrates the whole meaning of an epoch in himself and thereby accomplishes in a few years, what under the impersonal Incident of an epoch it took the Classical decades to achieve. The inner logic of events is fixed, the general tendencies of the development determined, but its incidental appearance is the result of the self-assurance and the work of people who can live a destiny rather than suffer it.[^sp-40]
 
 This leads to the dilemma inherent in all philosophy of history that stresses the organic aspect as a postulate of action: the connection between the necessary and the possible. It is a problem which Kant too considered and failed to solve completely. In order to establish the validity of his categorical imperative as a foundation of eternal peace, Kant was forced to demonstrate the possibility of its application. But his proof of feasibility became a dictum of necessity and seems to negate the moral basis of the categorical imperative.
 
-Similarly Spengler concluded by posing the alternatives of doing the necessary or doing nothing. Yet this is the description of a psychological state rather than a guide to action. Just as the pleasure principle in psychology it ascribes a definitional motivation to past action but is totally useless as a standard for the prediction of future[^sp-42][^sp-43] events. Man may ever desire to do the necessary or pleasurable, if in varying the fields of activity and though the emphasis may be on either the moral or material aspect of life. However, not the postulate of necessity but the content ascribed to it constitutes the real criterion for motivated activity. Spengler's only standard for a necessary action is its success. Apart from the fact that this represents no aid whatever in the really crucial personal or political decisions - for what makes them problematical is the existence of difficult alternatives - he offers no standard for what he means by success. Christ died on the Cross and his mission to Jerusalem was a miserable momentary failure. Was his action, therefore historically unnecessary? Huss was burned in Constance and Luther split the Church. Whose action embodied necessity? Was Luther possible without Huss? Some day, Protestant Christianity may disappear[^sp-44] from the face of the earth. Will that reduce Luther to a meaningless Incident? Moreover, since history is itself a function of the soul-image of a Culture and its awareness a result of its symbolism, it appears that Destiny and Incident, necessary and accidental are merely transitory manifestations of a particular depth-experience and not applicable as a guide to activity.
+Similarly Spengler concluded by posing the alternatives of doing the necessary or doing nothing. Yet this is the description of a psychological state rather than a guide to action. Just as the pleasure principle in psychology it ascribes a definitional motivation to past action but is totally useless as a standard for the prediction of future events.[^sp-42] Man may ever desire to do the necessary or pleasurable, if in varying the fields of activity and though the emphasis may be on either the moral or material aspect of life. However, not the postulate of necessity but the content ascribed to it constitutes the real criterion for motivated activity. Spengler's only standard for a necessary action is its success. Apart from the fact that this represents no aid whatever in the really crucial personal or political decisions - for what makes them problematical is the existence of difficult alternatives - he offers no standard for what he means by success. Christ died on the Cross and his mission to Jerusalem was a miserable momentary failure. Was his action, therefore historically unnecessary? Huss was burned in Constance and Luther split the Church. Whose action embodied necessity? Was Luther possible without Huss? Some day, Protestant Christianity may disappear from the face of the earth.[^sp-44] Will that reduce Luther to a meaningless Incident? Moreover, since history is itself a function of the soul-image of a Culture and its awareness a result of its symbolism, it appears that Destiny and Incident, necessary and accidental are merely transitory manifestations of a particular depth-experience and not applicable as a guide to activity.
 
 Two misconceptions seem to be involved in the problem of necessity as a sanction of conduct: a confusion of the doer and the action, and of the intent with the tendency. No activity can in retrospect be proved to have resulted from free will-the fact of action indicating a preponderance of factors on one side. In this view all actions are determined. On the other hand only deeds embodying the logic of history are necessary. How can one reconcile this dilemma?
 
@@ -1018,17 +727,17 @@ The greater the interval between the event and the analysis, the more determined
 
 Undoubtedly, the frustrated soul of a suddenly traditionless Germany in the 1920's cried out for something to hold on to. But none of Hitler's lieutenants, as evidence abundantly shows, could have unleashed the demoniac forces that were eventually produced by the Fuehrer. Yet Hitler's fate hung on a thread many times. Ever some little incident saved him, always in the minds of the chief actors there existed meaningful alternatives. Whatever our view of the necessity of these events today, the key question is in how far necessity could have served either as a guide to action or for the prediction of events in 1933. Similarly Spengler's analysis of the British political development contains many challenging observations. He has not explained, however, why it was the Fronde and not the State which triumphed in the 17th century.
 
-This demonstrates the essential characteristic of historical necessity. No matter what we may think of its compelling quality, it ever appears to man in the guise of freedom. There always seem to exist alternatives, between which one can[^sp-46] choose, and without such alternatives life would be unthinkable. This is perhaps the profoundest meaning of the union of the categorical imperative with historical necessity in Kant. Necessity as a guide to action is useless, even for a pragmatist. The number of historical figures who died believing themselves to have failed, and yet represented the future of their culture is legion, as is the number of those whose pinnacle of temporary success merely served to hide the historical hollowness of their position.
+This demonstrates the essential characteristic of historical necessity. No matter what we may think of its compelling quality, it ever appears to man in the guise of freedom. There always seem to exist alternatives, between which one can choose, and without such alternatives life would be unthinkable.[^sp-46] This is perhaps the profoundest meaning of the union of the categorical imperative with historical necessity in Kant. Necessity as a guide to action is useless, even for a pragmatist. The number of historical figures who died believing themselves to have failed, and yet represented the future of their culture is legion, as is the number of those whose pinnacle of temporary success merely served to hide the historical hollowness of their position.
 
 The question of conceptual historical necessity can be safely left unsettled then for it is prejudged by our experience of freedom. Freedom is not a definitional quantity, but an inner experience of life as a process of deciding meaningful alternatives. This, it must be repeated, does not mean unlimited choice. Everybody is a product of an age, a nation, and environment. But, beyond that, he constitutes what is essentially unapproachable by analysis, the form of the form, the creative essence of history, the moral personality. However we may explain actions in retrospect, their accomplishment occurred with the inner conviction of choice.
 
-This is not to say that Spengler's view of the development of the culture through youth, maturity, to decline and death is without merit. To life belongs death, in history, as[^sp-47] in individuals. No culture has yet been permanent, no striving completely fulfilled. It is not given to man to choose his age, or to the statesman the condition of his time. But the form taken by the particular period, the meaning given to life is the task of each generation. Man can find the sanction for his actions only within himself, not in the discovery of purposes in phenomena. It is a responsibility correctly seen by Kant as a duty since even inactivity postulates an absolute norm.
+This is not to say that Spengler's view of the development of the culture through youth, maturity, to decline and death is without merit. To life belongs death, in history, as in individuals.[^sp-47] No culture has yet been permanent, no striving completely fulfilled. It is not given to man to choose his age, or to the statesman the condition of his time. But the form taken by the particular period, the meaning given to life is the task of each generation. Man can find the sanction for his actions only within himself, not in the discovery of purposes in phenomena. It is a responsibility correctly seen by Kant as a duty since even inactivity postulates an absolute norm.
 
-And so we come to the final problem in Spengler that of Youth and Age. Can one ascribe organic periods to Cultures? In how far is the analogy to organic experience valid? It seems certain that to man the problem of age is closely tied to a physiological state. After a certain period of life the knowledge of a limit becomes ever more definite, the inexorability of development in the light of one's past inevitable. The knowledge of the transitoriness of existence is responsible for much consistency in action, and gives rise to the tragedy of the man who must live out an essentially meaningless belief, only to[^sp-48][^sp-49] give content to his past. This is the drama of Rubashov in "Darkness at Noon", and of Ivan Karamazoff who confesses, not indeed because he committed the murder, but because the crime was implicit in his previous life, which could acquire meaning only through this sacrifice.
+And so we come to the final problem in Spengler that of Youth and Age. Can one ascribe organic periods to Cultures? In how far is the analogy to organic experience valid? It seems certain that to man the problem of age is closely tied to a physiological state. After a certain period of life the knowledge of a limit becomes ever more definite, the inexorability of development in the light of one's past inevitable. The knowledge of the transitoriness of existence is responsible for much consistency in action, and gives rise to the tragedy of the man who must live out an essentially meaningless belief, only to give content to his past.[^sp-48] This is the drama of Rubashov in "Darkness at Noon", and of Ivan Karamazoff who confesses, not indeed because he committed the murder, but because the crime was implicit in his previous life, which could acquire meaning only through this sacrifice.
 
 Yet age is not exclusively a physiological state. Life exhibits an eternal recurrence of problems, the settlement of each conditioning and weakening the ability to respond to others.
 
-It is a dilemma in which abstract argument can not go much further. The physiological analogy is not tenable with cultures, yet the existence of civilizations may be conceived as a succession of dilemmas. Toynbee correctly analyzed the challenge and response element, but turned it into a mechanistic method for material salvation. It appears, that the solution of each problem takes away something of the ability to experience its inner meaning, gradually lessening the intensity of the response. The League of Nations was a dream, the United Nations is merely a technical clearing house, perhaps therefore of longer duration as its inner idea is dissipated. Ageing in a Culture may well be the gradual solution of the problems immanent in its existence, their death a form of disenchantment. Abstract argument can give no aid, because the fact of existence forces a position towards life regardless of the state of the Culture in which one lives and because the very certainty of[^sp-50][^sp-51] transitoriness can enable man to give a meaning to his existence.
+It is a dilemma in which abstract argument can not go much further. The physiological analogy is not tenable with cultures, yet the existence of civilizations may be conceived as a succession of dilemmas. Toynbee correctly analyzed the challenge and response element, but turned it into a mechanistic method for material salvation. It appears, that the solution of each problem takes away something of the ability to experience its inner meaning, gradually lessening the intensity of the response. The League of Nations was a dream, the United Nations is merely a technical clearing house, perhaps therefore of longer duration as its inner idea is dissipated. Ageing in a Culture may well be the gradual solution of the problems immanent in its existence, their death a form of disenchantment. Abstract argument can give no aid, because the fact of existence forces a position towards life regardless of the state of the Culture in which one lives and because the very certainty of transitoriness can enable man to give a meaning to his existence.[^sp-50]
 
 All the Cultures Spengler treats have disintegrated. It is of no avail to charge pessimism. Immortality can not be achieved by postulate. But behind the physical decay that seems the lot of everything existing emerges a level of meaning which embodies a type of attainable permanence. In its death each Culture bequeathed forms to the successor which, whatever Spengler's assertion, were the condition precedent to all subsequent problemation and the foundation of future greatness.
 
@@ -1036,11 +745,7 @@ Mommsen has stated it well: "We are faced with the end of the Roman Republic. Fo
 
 Thus Spengler's philosophy of history, with its challenging intuitions and broad vistas represents an attempt at the resolution of the enigmas of existence. He clearly realized the necessity of an explicit metaphysical foundation for the apprehension of History-as-an-Intuition.
 
-Though his philosophical assumptions do not always stand up under analytical criticism, and though alternative interpretations can be offered for some of his data, Spengler's poetic imagination pointed the way towards insights of profound and compelling beauty. The world-as-experience represents a construction which takes full cognizance of the organic factors of existence. There is considerable merit in his articulation of the two possible modes of cognition and existence, Destiny and Causality, Time and Space. The interdependence of religion and natural science constitutes a poetic vision of great depth. However, Destiny can not merely consist of vegetation and all activity implies purposes. No mere assertion of necessity can relieve
-
-1. Theodore Mommsen - The History of Rome - Vol. VI p. 614. (German edition - Verlag der Weidmannschen Buchhandlung). My translation.
-
-a Culture from the responsibility giving own meaning to its own existence. Whatever the tragedy of life, its content constitutes the creation of an individual soul, the reaction to its immanence contains the essence of personality.
+Though his philosophical assumptions do not always stand up under analytical criticism, and though alternative interpretations can be offered for some of his data, Spengler's poetic imagination pointed the way towards insights of profound and compelling beauty. The world-as-experience represents a construction which takes full cognizance of the organic factors of existence. There is considerable merit in his articulation of the two possible modes of cognition and existence, Destiny and Causality, Time and Space. The interdependence of religion and natural science constitutes a poetic vision of great depth. However, Destiny can not merely consist of vegetation and all activity implies purposes. No mere assertion of necessity can relieve a Culture from the responsibility giving own meaning to its own existence. Whatever the tragedy of life, its content constitutes the creation of an individual soul, the reaction to its immanence contains the essence of personality.
 
 Spengler thought that he had resolved this problem by a postulation of alternatives. But at each aspect of his philosophical exposition, this dilemma has accounted for lack of consistency and inability to account for a wide range of phenomena. It is strange that a Transcendentalist should have found no deeper meaning in history than its mere manifestations.
 
@@ -1101,16 +806,9 @@ And so the poetic beauty of Spengler's psychology presents a challenge for other
 [^sp-34]: Spengler's striking counterpart is Vico's philosophy of history, which however is never mentioned in "The Decline of the West". Vico, too, saw in history a cyclical recurrence of civilizations, their growth exhibiting discrete phases of activity. The occult wisdom of the early stage bases itself on a religious experience. But as the mystery of life disappears, reason becomes dominant. The philosophical wisdom of the Culture's maturity expresses the claims of a rationality fully conscious of its power. No stage of development can be maintained, however. The necessary realization of a Culture's immance follows an inevitable pattern. Vico is thus the modern precursor of a systematic cyclical theory of history.
 
 [^sp-35]: Sabine - Western Political Thought p. 705.
-[^sp-36]: Open Court Vol. 47; 253, p. 8 June 1933.
-[^sp-37]: Schroeter - "Der Streit um Spengler" presents primarily an analysis of conflicting points of view.
-[^sp-38]: Eduard Meyer - Spengler's Untergang des Abendlandes - Curtis Verlag, Berlin.
-[^sp-39]: Though, of course, it can be argued that this volition is itself a function of destiny.
-
 [^sp-40]: Spengler op. cit. Vol. I. p. 139 et seq.
-[^sp-41]: Spengler op. cit. Vol. I. p. 149.
 
 [^sp-42]: This refutes the argument that Spengler's later work "The House of Decision" represents a logical inconsistency. He merely describes in that book the possible lines of actions open to the Western Culture in its present stage of development.
-[^sp-43]: See post. Ch. History and Man's Experience of Morality.
 
 [^sp-44]: The difficulty of the pleasure principle derives from the hedonistic implications of the word in everyday language. For what is really meant by the pleasure principle? The psychologist counters arguments that most persons are incapable of striking a rational balance between various possible sources of satisfaction with an assertion of the unconscious factor of motivation. Since it is a fact that many persons commit acts which are actually painful, the psychologist finds refuge in a balance of greater and lesser pain. But what he is really saying is that every action must have a preponderance of motives for its performance and he is thus describing motivated activity - if not merely activity - not pleasure. Of course, a scientist has a perfect right to adopt any definition suitable (see Appendix A) provided that he stays within the conventional meaning of his terms. Moreover the equating of pleasure and motive is really no help at all for it merely shifts the main problem from a definition of motive to a definition of pleasure. It is never clear whether actions result from pleasure or whether pleasure is that form which actions result and in the final analysis both conceptions must be used. The same argument holds for the "necessity concept."
 
@@ -1118,17 +816,123 @@ And so the poetic beauty of Spengler's psychology presents a challenge for other
 
 [^sp-46]: See Gisevius - To the Bitter End. Vol. II. Chapter 1.
 
-[^sp-47]: This, however, can not serve as the ultimate reconciliation of this inconsistency in Kant. See post Ch IV "History and Man's Experience of Morality."
-
 [^sp-48]: On this point see also Schweitzer "The Philosophy of Civilization" p. 271 et. seq.
-[^sp-49]: For full discussion of these generalities see post Ch. "The Sense of Responsibility".
 
 [^sp-50]: See post Ch. IV. The Sense of Responsibility for limitation of a theory of action, which attempts to derive its attainability from phenomenal reality.
-[^sp-51]: See post. "The Sense of Responsibility" for Development of this Concept.
 
 [^sp-52]: Theodore Mommsen - The History of Rome - Vol. VI p. 614. (German edition - Verlag der Weidmannschen Buchhandlung). My translation.
 
-1. See post Ch. "The Sense of Responsibility". Also Appendix A "The Concept of Meaning."
+[^sp-36]: Open Court Vol. 47; 253, p. 8 June 1933.
+
+[^sp-37]: Schroeter - "Der Streit um Spengler" presents primarily an analysis of conflicting points of view.
+
+[^sp-38]: Eduard Meyer - Spengler's Untergang des Abendlandes - Curtis Verlag, Berlin.
+
+[^sp-39]: Though, of course, it can be argued that this volition is itself a function of destiny.
+
+[^sp-41]: Spengler op. cit. Vol. I. p. 149.
+
+[^sp-43]: See post. Ch. History and Man's Experience of Morality.
+
+[^sp-47]: This, however, can not serve as the ultimate reconciliation of this inconsistency in Kant. See post Ch IV "History and Man's Experience of Morality."
+
+[^sp-49]: For full discussion of these generalities see post Ch. "The Sense of Responsibility".
+
+[^sp-51]: See post. "The Sense of Responsibility" for Development of this Concept.
+
+[^sp-1]: See post.
+
+[^sp-2]: Schmoller's Jahrbuch fuer Gesetzgebung Vol. 47, p. 33
+
+[^sp-3]: See Appendix "A" - The Concept of Meaning.
+
+[^sp-4]: See ante Ch. I - Introduction. Post Appendix A- The Possibility of Meaning.
+
+[^sp-5]: Spengler - The Decline of the West - Vol.II p 3.
+
+[^sp-6]: For explanation of term see post. Chapter "The Souls of Each Culture".
+
+[^sp-8]: Spengler - op. cit. - Vol II. p. 270.
+
+[^sp-9]: See Kant's definition of the categorical imperative as applied to all rational being, not only to Man.
+
+[^sp-10]: Spengler - op. cit. - Vol II. p. 216.
+
+[^sp-11]: Spengler - op. cit. - Vol II. p. 216.
+
+[^sp-12]: Spengler - op. cit. - Vol II. p. 274.
+
+[^sp-13]: Spengler op. cit., Vol. I., p. 54.
+
+[^sp-14]: See post Ch. "History and Man's Experience of Morality for full Discussion."
+
+[^sp-15]: One may, of course, define all actuality as necessary and then all events become functions of an inexorability. - See post Conclusions.
+
+[^sp-16]: See post. Ch. The Sense of Responsibility.
+
+[^sp-17]: Spengler - op. cit. - Vol. II. p. 272.
+
+[^sp-18]: Spengler - Vol. II op. cit. p. 215.
+
+[^sp-19]: W. Y. Elliott - The Pragmatic Revolt in Politics - p. 5.
+
+[^sp-1a]: Spengler - op. cit. - Vol II. p. 91.
+
+[^sp-2a]: Note similarity of this concept to Plato's disintegration of the Republic, which begins with an assertion of a questioning selfishness.
+
+[^sp-3a]: Spengler - op. cit. - Vol II. p. 97.
+
+[^sp-1b]: Spengler op. cit. Vol II. p. 301.
+
+[^sp-2b]: Spengler op. cit. Vol II. p. 301.
+
+[^sp-3b]: Spengler op. cit. Vol II. p. 302.
+
+[^sp-1c]: Spengler op. cit. p. 193.
+
+[^sp-2c]: Spengler op. cit. Vol I. p. 365.
+
+[^sp-3c]: Spengler op. cit. Vol I. p. 341.
+
+[^sp-1d]: Spengler op. cit. Vol. I. p. 393.
+
+[^sp-2d]: Spengler op. cit. Vol. I. p. 368.
+
+[^sp-3d]: Spengler op. cit. Vol. I. p. 156.
+
+[^sp-4a]: Spengler op. cit. Vol. I. p. 370.
+
+[^sp-1e]: Spengler op. cit. Vol. I. p. 388.
+
+[^sp-2e]: Spengler op. cit., Vol. II. p. 12.
+
+[^sp-20]: Spengler - op. cit. - Vol I - p. 99.
+
+[^sp-1r]: Spengler op. cit. Vol. I. p. 325.
+
+[^sp-2l1]: Spengler op. cit. Vol. I. p. 316.
+
+[^sp-3i]: Spengler op. cit. Vol. I. p. 385.
+
+[^sp-2n]: Spengler op. cit. Vol II. p. 293.
+
+[^sp-1w]: Spongler op. cit. Vol I. p. 290.
+
+[^sp-2p]: Spengler op. cit. Vol II. p. 292.
+
+[^sp-3j]: Spengler op. cit. Vol II. p. 293.
+
+[^sp-1]: Spengler op. cit. Vol. II p. 294.
+
+[^sp-2]: Spengler op. cit. Vol II. p. 295.
+
+[^sp-4]: Spengler op. cit. Vol. I. p. 241 and p. 330.
+
+[^sp-5]: Spengler op. cit. Vol. I. p. 291.
+
+[^sp-6]: Spengler op. cit. Vol. I. p. 385.
+
+[^sp-7]: See post Chapter "Politics, Economics, The Machine".
 
 ## History-as-an-Empirical-Science (Toynbee)
 
@@ -1248,42 +1052,26 @@ Toynbee's philosophy of history begins with a query: What are the smallest meani
 
 Toynbee considers the civilizations intelligible fields of study because they are the representatives of the evolutionary rhythm that premeats existence. Here his biological approach comes to full expression. The dynamic activity of civilizations is but a prelude to a new level of integration, which in good time will serve as the
 
-[^to-2]: See post "Conclusions".
-[^to-3]: Toynbee op. cit. Vol. I. p. 131 - The Egyptian and the Andean civilizations are the unrelated civilizations.
 
 jumping off point for a fresh advance. Their common task serves as the condition for the comparability of civilizations. For this reason, Toynbee rejects the view that any one civilization can represent an ultimate stage of development. This assumption derives from the ego-centric delusion which equates the influence of a civilization in its growth phase with the total meaning of history. It reflects an attitude which considers its point of observation as normative instead of accidental, a method discarded by the physical sciences since the Copernican revolution.[^to-4] Moreover, the integration of the world into a Western pattern is confined to the economic and perhaps the political plane. The contributions of the Syriac civilization to Western ideation, the edifice of Chinese philosophy, the profundity of Sumeric astronomy all testify to levels of achievement which make the attribution of ultimacy to any one civilization meaningless.
 
 Toynbee therefore disagrees with the periodization of history into ancient, medieval and modern. Civilizations do not reveal stages of an uninterrupted progress but a common effort, the success of which can be judged only by the attainment of a new level of integration. All civilizations are consequently philosophically contemporary. Compared to the life of the earth, the difference in age between civilizations becomes negligible, the youth of the species in term of its own time-scale apparent.[^to-5]
 
-[^to-4]: Toynbee op. cit. Vol. I. p. 160. See obvious reliance on Kant and even more pronouncedly on Spengler.
-[^to-5]: Toynbee op. cit. Vol. I. p. 17 (For Toynbee's assumptions as to the age span of the earth.
-
-The uncertainty about the outcome of the evolutionary process prevents an evaluation of the intrinsic merit of civil[^to-6]izations. This is compounded by the insignificance of any achievement compared to the common goal.[^to-7] Toynbee utilizes the analogy of a one-way street to illustrate the philosophical equivalence of civilizations. The direction of the street forces dynamic activity and prevents reversing or even stopping the vehicle. Nevertheless none of the twenty-one civilizations which have entered the thorough-fare has succeeded in passing out by the further exit. Fourteen have reversed in violation of the rule and seven exhibit various stages of breakdown.[^to-8] The furthest points of penetration lie so close together that an evaluation either absolutely, or in terms of distance from the exit, becomes a philosophical impossibility.
+The uncertainty about the outcome of the evolutionary process prevents an evaluation of the intrinsic merit of civilizations.[^to-6] This is compounded by the insignificance of any achievement compared to the common goal.[^to-7] Toynbee utilizes the analogy of a one-way street to illustrate the philosophical equivalence of civilizations. The direction of the street forces dynamic activity and prevents reversing or even stopping the vehicle. Nevertheless none of the twenty-one civilizations which have entered the thorough-fare has succeeded in passing out by the further exit. Fourteen have reversed in violation of the rule and seven exhibit various stages of breakdown.[^to-8] The furthest points of penetration lie so close together that an evaluation either absolutely, or in terms of distance from the exit, becomes a philosophical impossibility.
 
 Civilizations thus represent intelligible fields of study and geni of a species in an evolutionary process. Their relation in time constitutes an aspect of the deepening of religious ideation,[^to-9] but does not result in successive stages of a uniform advance. They are philosophically equivalent, functionally contemporary and allow a comparison for the determination of the laws governing historical processes.
 
 If the civilizations represent geni of a new species,
 
-[^to-6]: This statement from Toynbee op. cit. Vol. I. p. 175 is in flat contradiction with the whole tendency of Vol. V and Vol. VI. See conclusion for discussion.
-[^to-7]: This assumes that Toynbee is aware of the goal and presents another inconsistency in an empirical scheme.
-[^to-8]: Toynbee op. cit. Vol. I. p. 176 see also post for discussion of this inconsistency.
-[^to-9]: See post.
 
 what accounts for their genesis? Toynbee endeavors to locate a principle which distinguishes primitive societies and civilizations in order to find a clue for the solution of this problem. He rejects the view that the possession of institutions, or the articulation of the division of labour, can serve as a criterion. These occur in very elaborate form in all types of historical existence. Toynbee finds the distinguishing feature in mimesis, a generic feature of social life, defined as "the acquisition through imitation of social assets which the acquisitors have not originated for themselves and which they might never have come to possess if they had not encountered and imitated other people in whose possession these assets were to be found."[^to-10] Mimesis is a social drill, its direction towards the past characteristic of primitive societies, its utilization for new creativity the mark of civilizations.
 
-This raises the question whether the difference between civilizations and primitive societies is permanent and fundamental. Toynbee's metaphysical assumption of cyclical progress, determines the reply. Since all existence exhibits not only a process of growth but testifies to a mode of evolutionary survival, civilizations can represent merely the most recent stage of historical development. The transformation of Sub-Man into Man, which must of necessity have occurred in a social environment, is postulated by Toynbee as having been accomplished[^to-11]
-
-[^to-10]: Toynbee, op. cit. Vol. I. p. 191.
-[^to-11]: Which in this view becomes almost indistinguishable from biological processes.
-
-under the aegis of primitive societies.[^to-12] This testifies to a level of dynamic creativeness for surpassing any achievement of the more recent species of civilizations.
+This raises the question whether the difference between civilizations and primitive societies is permanent and fundamental. Toynbee's metaphysical assumption of cyclical progress, determines the reply. Since all existence exhibits not only a process of growth but testifies to a mode of evolutionary survival, civilizations can represent merely the most recent stage of historical development. The transformation of Sub-Man into Man, which must of necessity have occurred in a social environment, is postulated by Toynbee as having been accomplished under the aegis of primitive societies.[^to-11][^to-12] This testifies to a level of dynamic creativeness for surpassing any achievement of the more recent species of civilizations.
 
 The present static condition of primitive societies is therefore deceptive. It does not exhibit uninspired torpor but the last stage of integration. Mankind's task is likened by Toynbee to the climbing of a mountain of vast extend, surrounded by ledges. The exertion required for climbing its steep sides issues forth in a feverish activity that sometimes produces strength sufficient for reaching the next ledge, but more often results in a loss of the grip and a drop to the death on a lower level. The limitations of the human vision confine it to scanning only one perpendicular and one horizontal surface.[^to-13] The exhausted figures on the ledge are therefore frequently mistaken for paralytics and the climbers as the apprehension of activity. But reflection will reveal that the figures on the ledge could have attained it only by prodigious efforts and that many ledges below must be strewn with the corpses of failures of a previous dynamism.
 
 The difference between primitive societies and civilizations is neither fundamental nor permanent then, but the accident of a time and place of observation. The present static condition of primitive societies merely calls to mind past motion, just as the activity of civilizations will cease when Man has
 
-[^to-12]: Toynbee op. cit. Vol. I. p. 192.
-[^to-13]: Note correspondence of this picture with Dante's Mt. Purgatory.
 
 been turned into Superman.[^to-14]
 
@@ -1291,8 +1079,6 @@ Toynbee's biological approach overrides any mere postulation of purposiveness. H
 
 This explains the nature of the genesis of civilizations but not their particular appearance at a definite time. What are the factors that lift these entities out of the stream of humanity? What accounts for the long interval of Yin before the climb up the precipe commences? True to his empirical method Toynbee examines all possible causes before drawing conclusions. He finds the negative factor which retards activity in the vis inertia, the "cake of custom", the inherent tendency towards stability.
 
-[^to-14]: Toynbee op. cit. Vol. I. p. 194
-[^to-15]: Toynbee op. cit. Vol. I. p. 204. Note the similarity of this concept with Spengler and its inconsistency with the emphasis on pure volition.
 
 This serves as the foil for the creative act, the condition to be overcome before differentiation can set in.
 
@@ -1300,8 +1086,6 @@ Two obvious alternatives present themselves as the positive factors. The mutatio
 
 Race is a construction of human prejudice, another facet of the ego-centric delusion, for which no scientific criteria can be found. Its general acceptance in the West, derives from the Protestant concept of pre-destination which considers material success an indication of divine sanction and ascribes an insuperable deficiency to all disbelievers. It is reinforced by the racial theories developed from de Gobineau, whose primary concern had not been the validation of natural phenomena but political polemic. Against the self-evidence of the first assumption, can be set the fact that race feeling represents a relatively recent Western phenomena. In the medieval period the potential equality of all humanity constituted a cornerstone of popular belief. Moreover, no connection can be established between the pigmentation of the skin and the creative tendency that issues into the Yang state.[^to-17] An empirical survey
 
-[^to-16]: Toynbee op. cit. Vol. I. p. 208.
-[^to-17]: Toynbee Vol. I. p. 227.
 
 indicates that all races except the Negro race have at one time or another produced a civilization. The simile of the climbers on the precipe proves, however, that this deficiency need not be inherent but may result from the comparative Youth of the species.[^to-18]
 
@@ -1309,8 +1093,6 @@ The Environmental theory fares no better. Its only conclusive proof, according t
 
 If both the race and environmental theories are discredited what does account for the genesis of civilizations? Toynbee finds the solution in a combination of the two
 
-[^to-18]: For a discussion of empirical proof by simile see Conclusions.
-[^to-19]: Toynbee op. cit. Vol. I. p. 253. For a discussion of the conclusiveness of such a proof see Conclusions. That these environments might yet produce civilizations is indicated by Toynbee's assertion that the Minoan Island-Empire was not repeated in Indonesia. Recent history may have demonstrated the weakness of this argument.
 
 factors. Race, while not itself the cause, represents the manifestation of an immanence that the philosophers call Elan Vital and the mystics God.[^to-20] The Environment, again constitutes an omnipresent obstacle thwarting this force and challenging it to battle. The interaction between Race and Environment, God and the Devil exhibits the plot of the Book of Job, of Goethe's Faust, of life and of history.
 
@@ -1318,11 +1100,6 @@ The genesis of civilizations is not due to one factor, but to several. It result
 
 The plot begins with a perfect state of Yin.[^to-24] The perfect
 
-[^to-20]: Toynbee, op. cit. Vol. I. p. 270.
-[^to-21]: For the validity of conclusions from mythology see Conclusions.
-[^to-22]: Note the reliance of this argument on Spengler's metaphysical postulate.
-[^to-23]: Toynbee op. cit. Vol. I. p. 274.
-[^to-24]: The operation of challenge-and-response is described at such length because it is central to Toynbee's argument and will be utilized to illustrate limitations of his method - See post conclusions.
 
 knowledge of Faust, the perfect goodness of Job, the perfect innocence of Adam and Eve can change into Yang only through the intervention of an external agent. It is the task of this factor to supply the inner creative force with that stimulus most like to evoke the most potently creative response.[^to-25] This essentially expresses the function of the climactic factor in certain variations of the environment theory.[^to-26]
 
@@ -1330,8 +1107,6 @@ In Mythology the intrusion of the Devil into God's realm supplies the impetus fo
 
 Does this mean that God has cheated the devil and bet without risking anything? That would negate the essence of the encounter and could not therefore produce its vast consequences. Toynbee replies that the Devil's intervention suffices to disturb the equilibrium but can not achieve a new level of integration. God who has been yearning for an opportunity for fresh creation but could find none in the perfection of His
 
-[^to-25]: Toynbee op. cit. Vol. I. p. 278.
-[^to-26]: This contradicts previous approach to that theory. See post Conclusions.
 
 previous effort, is now enabled to restore the equilibrium on a new and higher plane. In this act of creation, no demon can participate.[^to-27]
 
@@ -1339,8 +1114,6 @@ On the mundane plane, the human protagonist constitutes the theater for this act
 
 Toynbee's positive factor then, that explains the genesis of civilizations and the emerging differentiation is the relation of Challenge-and-Response. Life presents a series of problems, each a challenge to undergo an ordeal. No calculation, however prudent of quantitative phenomena can serve for the prediction of historical events. For nobody can know the
 
-[^to-27]: Toynbee op. cit. Vol. I. p. 284.
-[^to-28]: Toynbee op. cit. Vol. I. p. 298.
 
 "unknown God",[^to-29] the reaction of the protagonist when the ordeal actually occurs.
 
@@ -1348,8 +1121,6 @@ Despite this analysis of the imponderability of the response, Toynbee engages in
 
 The intensity of the response represents a function of the severity of the stimulus. Ease is inimical to civilizations.[^to-30] The stimulus of hard countries led to the superiority
 
-[^to-29]: Toynbee op. cit. Vol. I. p. 302.
-[^to-30]: Illustrated by examples from the Odyssey, Capua, Roman Campagna. For limitations of this methodology see post "Conclusions."
 
 of Brandenburg over the Rhineland, of the Yellow river basin over that of the Yangtse and the triumph of New England over its rivals in the colonization of North America.
 
@@ -1361,19 +1132,14 @@ Thus Toynbee distinguishes responses due to the stimulus of hard countries, to t
 
 If an increase in the severity of the stimulus yields
 
-[^to-31]: Toynbee op. cit. Vol. II. p. 166. For a discussion of Toynbee's data see post Conclusions.
 
 a correspondingly successful response, can this process be continued indefinitely? Toynbee denies this and postulates an optimum challenge defined as the Golden Mean, of sufficient intensity to elicit the maximum potential of creativity, though not so oppressive as to be stifling.[^to-32] The "Law of Compensation" expresses his mechanical formulation of this principle. It states that an excessive challenge by either the physical or the human environment must be compensated by an alleviation of the alternate factor.[^to-33] Such was the case of Switzerland and Holland, both of which mastered a prohibitive physical environment in exchange for the lessening of the human pressures.
 
 The concept of the Golden Mean raises formidable problems in methodology. For how is a challenge proved excessive? The unsuccessful response to a particular challenge may merely indicate a lack of inner reactive ability. Toynbee offers two approaches. An excessive challenge can be proved by a relation in three terms, of which, in comparable conditions, the Golden Mean of severity produced the optimum response.[^to-34] Toynbee's second proof examines the abortive civilizations which collapsed soon upon attaining birth under the formidableness of their challenges. Thus the Far Western Civilization of the Celtic
 
-[^to-32]: For a discussion of the essential meaninglessness of this adaptation of an Aristotelian concept see post Conclusions.
-[^to-33]: Toynbee op. cit. Vol. II. p. 274.
-[^to-34]: Toynbee op. cit. Vol. I. p. 290. For illustrations see p. 291-322. This argument, of course, does not really resolve the original dilemma, since all terms mutually define each other.
 
-fringe experienced a brief bloom which for a time indicated that the style of Christianity might be set from Ionia instead of Rome. Irish missionaries ranged far over the Continent and Scotus Eregina represented merely one example of brilliant Celtic learning. Yet the dual challenge offered by the superior discipline of the Roman Church and the impact of the Scandinavian Voelkerwanderung was too severe. The Synod of Whitby (A.D. 664) settled the issue and led to the isolation of Ireland from the rest of Christianity. The invasions by the Norsemen had hardly been overcome when Henry II invaded the Celtic fringe with Papal sanction. These two successive blows presented a challenge of such severity that an effective response proved impossible and thus the Far Western Civilization, whose incep[^to-35]tion was so promising, proved abortive.
+fringe experienced a brief bloom which for a time indicated that the style of Christianity might be set from Ionia instead of Rome. Irish missionaries ranged far over the Continent and Scotus Eregina represented merely one example of brilliant Celtic learning. Yet the dual challenge offered by the superior discipline of the Roman Church and the impact of the Scandinavian Voelkerwanderung was too severe. The Synod of Whitby (A.D. 664) settled the issue and led to the isolation of Ireland from the rest of Christianity. The invasions by the Norsemen had hardly been overcome when Henry II invaded the Celtic fringe with Papal sanction. These two successive blows presented a challenge of such severity that an effective response proved impossible and thus the Far Western Civilization, whose inception[^to-35] was so promising, proved abortive.
 
-[^to-35]: This footnote reference appears at a line break where "inception" was hyphenated in the original text.
 
 The concept of challenge-and-response represents an affirmation of purposiveness in history. Its distinguishing characteristic is the creative imponderable that prevents the prediction of the reaction to the ordeal. The level of integration of Yin is disturbed and the dynamic activity (Yang) of which suffering represents Man's lot, leads back to the inner reconciliation with God and the recognition of His Love.
 
@@ -1383,11 +1149,9 @@ success pattern which makes the recognition of God's love dependent on the new l
 
 Toynbee's distinction between discrete phases of Yin and Yang raises many problems. If integration represents organic being and Yang purposive creation, must those two stages operate successively? Life never seems to exhibit perfect states of either absolute integration or absolute differentiation. It appears likely that the static condition of primitive societies results from the same ego-centric delusion that considers one civilization the acme of all achievement. Similarly the dynamism of civilized life does not represent a purposiveness that completely transcends tradition, the organic factor.
 
-[^to-1]: See post Ch. History and Man's Experience of Morality (Kant).
 
 Spengler resolved the problem of necessity and freedom by postulating alternative modes of behavior, in separate realms. History was ruled in its main tendencies by an immanent Destiny not to be influenced by human volition. Toynbee, on the other hand, argues for successive stages in an evolutionary, biological process ruled by mimesis. But is this social drill not based on a uniformity in history for which no warranty can be found in empirical data? It seems that drill is hardly a preparation for the creative individual whose appearance is conceived as of "almost unimaginable rarity."[^to-2] These are the problems to consider in the subsequent development of Toynbee's philosophy.
 
-[^to-2]: Toynbee op. cit. Vol. III. p. 272
 
 ### The Growth of Civilizations
 
@@ -1395,7 +1159,6 @@ The growth of civilizations in Toynbee's scheme does not exhibit an immanent ine
 
 Once the genesis of civilizations has been accomplished and the dangers inherent in birth overcome, must their subsequent development follow a uniform pattern? Does every civilization, which avoids being abortive, exhibit identical symptoms of growth? Toynbee denies the necessity of uninterrupted growth and distinguishes a third specimen of the genus, the arrested civilizations as an illustration.[^to-3] All the arrested civilizations have been petrified in response to a challenge of such severity that its solution
 
-[^to-3]: Toynbee op. cit. Vol. LLL. p. 3
 
 required a tour de force. The entire strength of the society was required for responding to this oppressive stimulus, a task achieved only at the price of pegging the civilization at a level of inflexible readiness for one crisis.
 
@@ -1403,7 +1166,6 @@ Such was the case of the Polynesians who had responded to the challenge of the P
 
 This, too, is Toynbee's conception of the history of the Nomads whose existence results from a successful response to the recurrent challenge of desiccation.[^to-4] The drought forces the cultivators of the soil to either withdraw to more fertile regions or to launch themselves on the inhospitable and steppe, no longer the domesticators of plants, but of animals. Manifestly the latter is a higher art, more comparable to Industrialism than to agriculture. It substitutes the indirect utilization of vegetation for the planting of crops. By means of grazing animals the sparse produce of the Steppe is transformed into food and clothing. This involves a Division of Labor and a hierarchy of specialization articulated into the nomad, his animal auxiliaries ( the dog, camel, etc.) and the herds of cattle. The survival of the group depends on a finely
 
-[^to-4]: Toynbee op. cit. Vol. III. p. 12.
 
 tempered adaptation in an environment which leaves no margin for lax discipline and severely limits the range of possible responses.[^to-5]
 
@@ -1411,14 +1173,11 @@ The explosion of the Nomads into settled areas results from a further increase i
 
 But while the composite society constituted by the Nomads and their flock represents the most efficient mode of survival on the steppe, their division of labor the condition of everybody's survival, the Nomad acts as an incubus in an environment of fields and cities. The organization of society into Nomads and indigenous human cattle is economically unsound and parasitic. From shepherds keeping their flocks, the Nomads turn
 
-[^to-5]: These passages are presented at such length because they represent the happiest examples of a successful use of the empirical method, as well as Toynbee's practical application of Challenge and Response.
-[^to-6]: Toynbee op. cit. Vol. III. p. 22.
 
 into drones exploiting their working-bees. This accounts for the empherability of Nomad empires established on a base of sedentary people. The virtues that led to the Nomad's early successes, self-reliance and physical toughness, atrophy in an environment that no longer provides the necessary stimulus. The degeneration of the conquerors is paralleled by an increase in stature of the sedentary settlers to whom the existence of foreign domination constitutes a constant challenge. The end of Nomad empires is like their beginning, violent, sudden, total.
 
-Some Nomad conquerors such as the Osmanlis, succeeded in the tour de force of imposing a lasting empire on a sedentary population, but only at the price of arresting their own civilization. Catapulted out of the steppe into the Balkans by the pressure of the Mongols, the Osmanlis' political beginning was auspicious for they provided that universal state, which the Balkan offshot of Orthodox Christianity had been unable to achieve for itself. The duration of the Ottoman empire was, however, the result of a successful response to the extraordin[^to-43]ary challenge constituted by the human environment. The Osmanlis remembered that successful utilization of animal flocks depended not only on the relation of the shepherd to the herd but also on the employment of animal auxiliaries, the dog, horse and camel. This lesson they applied to their Balkan Empire. Instead of animals they took advantage of human auxiliaries, recruited forcibly from their Christian subjects. The employment
+Some Nomad conquerors such as the Osmanlis, succeeded in the tour de force of imposing a lasting empire on a sedentary population, but only at the price of arresting their own civilization. Catapulted out of the steppe into the Balkans by the pressure of the Mongols, the Osmanlis' political beginning was auspicious for they provided that universal state, which the Balkan offshot of Orthodox Christianity had been unable to achieve for itself. The duration of the Ottoman empire was, however, the result of a successful response to the extraordinary[^to-43] challenge constituted by the human environment. The Osmanlis remembered that successful utilization of animal flocks depended not only on the relation of the shepherd to the herd but also on the employment of animal auxiliaries, the dog, horse and camel. This lesson they applied to their Balkan Empire. Instead of animals they took advantage of human auxiliaries, recruited forcibly from their Christian subjects. The employment
 
-[^to-43]: Toynbee op. cit. Vol. III. p. 27.
 
 of slaves as soldiers and administrators, the Janissaries in the Ottoman case, has been the tour de force by which all successful Nomad Empires over sedentary people have maintained themselves. This response had two consequences. By excluding the Osmanlis from any administrative and political responsibility their moral fibre degenerated, in the absence of any effective stimulus. The Janissaries could maintain their efficiency only as long as their numbers were small, in itself a tour de force. Eventually the loss of public spirit by the ruling Osmanlis led to a dilution of the Janissaries and the arrested civilization represented by the Ottoman Empire expired as the "sick man of Europe" in 1918.
 
@@ -1426,19 +1185,16 @@ Thus the history of Nomad Empires illustrates the manner in which civilizations 
 
 Two corollary conditions characterize arrested civilizations, caste and specialization. Survival in a severe environment is purchased only at the price of that proficiency in one excellence which stifles creativity in all other fields. The Centaur, the man grown to the horse, represents the outsider's view of the Nomad raider. It contains the symbolism of the return to animalism which constitutes another facet of the arrested civilization. Their reactive ability has become
 
-[^to-44]: For other illustrations see Toynbee op. cit. Vol. III p. 22-79.
 
 concentrated on one challenge, which is indeed mastered, but which first reduces and then prevents the proper response to the inevitable new challenges inherent in existence. Utopias, by definition attempts to peg societies at a certain level, exhibit most clearly this tendency towards caste and specialization. The arrested civilizations thus disprove both the uniformity of the civilisations' development as well as the necessity for constant growth.
 
 If growth is not the necessary concomitant of a civilization's existence but depends on a balanced response to a series of challenges what is its nature? Toynbee again bases his answer on mythology. Aeschylus' Prometheus Bound, contains his symbolic representation of the conditions attending growth. Having attained dominance over Olympus, Zeus is chiefly concerned with maintaining his mastery. Any change can merely detract from the absoluteness of his power. Yet Zeus did not achieve his eminence unaided. His Titanic ally Prometheus, the apprehension of creativity, the embodiment of the Elan Vital, works constantly for progress against arrest, represents thought against force. No amount of physical compulsion can avail to wrest Prometheus' secret from him and in the end there is reconciliation. Zeus admits the creativity as a condition for his own survival. He had not been what he seemed.[^to-45]
 
-[^to-45]: Toynbee op. cit. Vol. III p. 117. See a discussion of this method of utilizing mythology see historical proof see post Conclusions.
 
 Toynbee sees in Aeschylus' trilogy a poetic chronicle of Hellenic history. Just as Zeus avoided the fate of the arrested civilizations by being galvanized into activity by Prometheus so Hellas' growth testified to a series of successful responses to recurrent challenges. The first challenge, offered by the barbarian highlanders evoked the response of mastery over the brigands. This victory decided that Hellas should be a world of cities and agriculture, not of villages and pasturelands. The limit of maximum density of population supportable by agriculture proved to be inelastic, however. The Malthusian problem served initially as a stimulus for overseas expansion. But the impact of Hellenic imperialism evoked the reaction of greater unity among the Mediterranean peoples and set an effective limit to Greek colonization.
 
 This challenge of overpopulation was finally solved by Athens, which became the "education of Hellas".[^to-46] Under its
 
-[^to-46]: It is doubtful whether Pericles meant his reference to Athens as the education of Hellas in an economic sense.
 
 guidance Greek expansion was transformed to indirect methods, with commerce and production the key methods of continuing survival. Aeschylus' trilogy serves as a testimony to the intensity of the Athenian response.
 
@@ -1454,17 +1210,11 @@ Why should the era of greatest expansion coincide with the period of decline? To
 
 Increasing command over the physical environment can not serve as a criterion of growth for Toynbee since it represents merely another emanation of the ego-centric delusion. In the present stage of Western civilization, a conception of history as a uniform development of increasing technical mastery fits too precisely the prejudices of the age to be objectively
 
-¹ This is, of course, in direct contradiction to the doctrine of the stimulus of new ground.
-² For the danger of arguing from physical phenomena see post Conclusions.
-³ This leans rather heavily on Spengler.
 
 considered. ¹ Moreover, the division of history into periods distinguished by technological labels, such as Bronze age, Iron age, etc., has no standing in empirical data. At every stage the new technique can only have been the property of the creative few, from whom it was acquired by the rest of mankind through mimesis and by a very gradual process. Thus there probably never existed a Paleolithic age. ² Moreover, no support can be found in history for a necessary connection between technical proficiency and a civilization's growth. The transition from the Paleolithic to the Neolithic age witnessed an improvement in technique accompanied by a degeneration of wisdom, ideation and style. ³
 
 The interregnum between the collapse of the apparented and the appearance of the affiliated civilization also exhibits a deficiency in inward stature despite a superior technique. Such was the case of Rome. The improvement in agricultural techniques made large-scale agriculture profitable and resulted in the introduction of plantation-slavery in the Hellenic world. The destruction of the free peasantry and the consequential rise of a parasite proletariat in Rome served as an incubus which in time strangled the Hellenic civilization. Finally the technological improvement in military weapons is relatively constant,
 
-¹ Though this argument limits inference from universal assent, it can hardly be utilized to disprove the thesis of uniform progress.
-² This argument, holds good only for the origination of the technique and says nothing about the condition after its general acceptance.
-³ Toynbee op. cit. Vol. III. p. 173.
 
 proceeding in inverse ratio to the civilization's growth.
 
@@ -1472,11 +1222,8 @@ Increasing command over the environment does not disclose any criterion for prog
 
 The progressive simplification of fashions parallels the economy of hypothesis for the explanation of natural phenomena. The Copernican system replaces the Ptolemaic, accounting in far simpler terms for the same range of phenomena. Einstein, again, has provided a theory which synthesizes the laws of gravity, radiation and Magnetism.[^to-8]
 
-This simplification does not, however, reveal a nega[^to-9]tion or omission, but the liberation of energy for higher tasks. Its human representatives are Socrates who in a Platonic dialogue transfers his attentions from the physical to the psychic sphere
+This simplification does not, however, reveal a negation[^to-9] or omission, but the liberation of energy for higher tasks. Its human representatives are Socrates who in a Platonic dialogue transfers his attentions from the physical to the psychic sphere
 
-[^to-7]: Toynbee, op. cit. Vol. III. p. 174.
-[^to-8]: Toynbee, op. cit. Vol. III. p. 181.
-[^to-9]: This is another illustration of Toynbee's normative pattern.
 
 by means of an inner experience[^to-10] and Ghandi whose appeal for the return to handiwork expresses the symbolism of a spiritual plane. In its deepest sense the process of etherealization exhibits a shift of this field of activity from the macrocosm to the microcosm. Toynbee's criterion of growth then applies to a progressive internalization of the field in which challenge-and-response occurs. The growing civilization tends to become its own environment and the subsequent ordeal takes place within its own body.
 
@@ -1484,8 +1231,6 @@ Thus in Hellenic history the earliest challenges were offered by an external env
 
 Similarly in the West the external challenge of the Norsemen, preceded the domestic problem of the replacement of the Feudal system by an organization of Sovereign states. The most recent stage of Western history exhibits in the phenomena of Bolshevism the ultimate proof of its absorptive power.
 
-[^to-10]: Phaedo 96-7.
-[^to-11]: Toynbee op. cit. Vol. III. p. 197. This contradicts the earlier assertion that overpopulation, an internal factor, constitutes earliest challenge.
 
 Marxism which transferred Russia's capital to Moscow as a symbolic repudiation of the West, has been forced by its emphasis on technique and electrification into the pattern of Western civilizations. Thus the challenge of Communism, as also Gandhi's who ever draws his inspiration for economic self-sufficiency from Europe, is an internal problem of the Western civilization.[^to-12]
 
@@ -1493,8 +1238,6 @@ Growth, for Toynbee, constitutes a pattern of the progressive etherealization of
 
 If growth exhibits an increase of self-determination by what mechanism does it accomplish itself? Toynbee examines two common arguments, the theory of the atomistic independence of individuals and the conception of society as a biological organism. He refutes the former by referring to the Odyssey's description of the Cyclops and the postulate that language and therefore thought can be developed only in society. Toynbee
 
-[^to-12]: Toynbee op. cit. Vol. III. p. 216. For the weakness of this argument see post Conclusions. Toynbee here confuses an alien inspiration with an area of activity.
-[^to-13]: Note the dependence of this concept on Hegel.
 
 dogmatically denies Spengler's conception of the Culture as a super-organism, without adducing any supporting data except the assertion that man can act only as an individual, not as part of an organism.
 
@@ -1502,49 +1245,29 @@ For Toynbee, society represents a community of individuals, each of whom constit
 
 Toynbee considers creativity the attribute of suddenly inspired individuals. They arise with unpredictable rarity and express the essence of evolution, the force that changes the state of Yin into the activity of Yang. These men of genius push back the vistas of human intelligence and serve as the guide-posts on the road of history. Their illumination is achieved in a mystic ecstacy which transforms the essence of their soul and indicates the necessity for fresh creation. They represent the future state of Yin, and an intrinsic superiority comparable to the eminence of the civilizations over primitive societies.
 
-The appearance of these "saints", "geniuses", or "supermen"[^to-14] presents society with a dilemma. Though they are the
-
-[^to-14]: Toynbee op. cit. Vol. III. p. 243.
-
-leaven which galvanizes society into activity, the uncreative majority can follow them but with difficulty. The most satisfactory leadership would rely on the direct illumination of the mass by contact with the saints. This, however, can be achieved only at the end of the process, at the new level of integration.[^to-15]
+The appearance of these "saints", "geniuses", or "supermen"[^to-14] presents society with a dilemma. Though they are the leaven which galvanizes society into activity, the uncreative majority can follow them but with difficulty. The most satisfactory leadership would rely on the direct illumination of the mass by contact with the saints. This, however, can be achieved only at the end of the process, at the new level of integration.[^to-15]
 
 Thus social drill, mimesis, replaces inspiration utilizing an existing faculty by merely changing its orientation. This generic feature of social life is henceforth directed towards the creative minority, no longer restrained by the "cake of custom". Mimesis, constitutes a short-cut fraught with danger for the mechanicalness of its drill might be channelled into immoral directions. Yet it reveals the only condition for social growth, its risk the problem of mortality.
 
 The Saint can not achieve his mystic ecstacy in society, however. Only in solitude can he attain through suffering that clarity of vision, that inner tempering which enables him to lead his people out of the wilderness into the Promised Land. This is Withdrawal-and-Return, the plot of the fables of many civilizations, the story of the foundling who grew to greatness, the tale of the re-birth of the agricultural God, Christ's sojourn in the Wilderness.
 
-The intuition that the withdrawal obtains its moral sanction from the return to this world exhibits Christianity; moral superiority over Hellenism. Life is Action, and a
-
-[^to-15]: Note correspondence with Dante's concept. See post.
-
-transformation of the microcosm must work itself out in the macrocosm.[^to-16] The Greek philosophers considered withdrawal as the ultimate state of bliss. Plato's captives return to the cave with a heavy heart. Christianity, on the other hand, sees the test of the ordeal in the quality of the return, that will lead the captives towards the light.
+The intuition that the withdrawal obtains its moral sanction from the return to this world exhibits Christianity; moral superiority over Hellenism. Life is Action, and a[^to-15] transformation of the microcosm must work itself out in the macrocosm.[^to-16] The Greek philosophers considered withdrawal as the ultimate state of bliss. Plato's captives return to the cave with a heavy heart. Christianity, on the other hand, sees the test of the ordeal in the quality of the return, that will lead the captives towards the light.
 
 Here Toynbee's mythology of the genesis of civilizations recurs. The state of Yin is disturbed in the microcosm, which suffers its crisis in solitude and whose inner reconciliation enables the macrocosm to participate in creativity. Growth exhibits beats of the universal rhythm of which withdrawal-and-return represent subsidiary pulsations. Peace results from activity, reconciliation from suffering, harmony from discord.
 
-This is the meaning for Toynbee of the lifes of Dante, Hindenburg, Saint Paul and almost all creative personalities.[^to-17] This, too, describes the role played by Athens in the second part of Hellenic history and by England in the third chapter of the Western development. At a time, when most Greek polis were engaged in overseas expansion, Athens withdrew into isolation and there developed a solution to the most serious Hellenic problem, that of overpopulation. Basing her greatness on a commerce achieved by specialization and manufacture, Athens signaled her return to the Greek scene by throwing down the gauntlet to
-
-[^to-16]: Toynbee op. cit. Vol. III. p. 235.
-[^to-17]: Toynbee op. cit. Vol. III. p. 217-333; For the essential incommensurability of most of Toynbee's illustrations see post "Conclusions" (Discussion of Methodology).
-
-the Archaemenian Empire. For over two hundred years Athen's role was the exact antithesis of its previous condition of apparent hibernation. The institutions developed during the withdrawal proved their superiority over their Spartan counterpart which had broken down while Athens became the "education of Hellas".
+This is the meaning for Toynbee of the lifes of Dante, Hindenburg, Saint Paul and almost all creative personalities.[^to-17] This, too, describes the role played by Athens in the second part of Hellenic history and by England in the third chapter of the Western development. At a time, when most Greek polis were engaged in overseas expansion, Athens withdrew into isolation and there developed a solution to the most serious Hellenic problem, that of overpopulation. Basing her greatness on a commerce achieved by specialization and manufacture, Athens signaled her return to the Greek scene by throwing down the gauntlet to the Archaemenian Empire. For over two hundred years Athen's role was the exact antithesis of its previous condition of apparent hibernation. The institutions developed during the withdrawal proved their superiority over their Spartan counterpart which had broken down while Athens became the "education of Hellas".
 
 Similarly England's insular position enabled her to find the solution to the most serious challenge of the 17th century Western civilization. By breaking down feudal barriers within her domain and substituting democratic government for aristocratic dominance, she achieved the transformation of an agricultural to an industrial society. When the Glorious Revolution brought England's return to the European scene, the Continental powers found there a model for their adaptation of Italian Transalpine efficiency to nation states.[^to-18]
 
 This, Toynbee believes, may be Russia's role in the Western world. The early Communist tendencies of absolute isolation may well constitute that withdrawal which finds the proper response to the all-pervasive Western challenge of nationalism. Brought by technology into the Western pattern, Russia will perhaps return to serve as the creative minority in the next stage of Western development.[^to-19]
 
-Growth accomplishes itself through the agency of a creative
-
-[^to-18]: Toynbee op. cit. Vol. III. p. 377 et seq.
-[^to-19]: It is difficult to see how Russia can serve as the creative minority of a civilization which meets Toynbee's every criterion for disintegration. See post "Conclusions."
-
-minority the withdrawal of which results in an inward tempering and which becomes effective through its return. It leads by mimesis, a social drill, in the absence of the direct inspiration which will be attained at the next level of integration. Life presents a series of problems, each a challenge to undergo an ordeal. Yet each problem is essentially unique, each response singular. Moreover the successful solution of one problem exposes the civilization to a new challenge, the nature of which is largely determined by the previous response. Spengler asserted that each Culture possessed a soul, which revealed itself in the selection of its appropriate symbolism and which contained the key to the understanding of the culture's history. This Toynbee denies. He opts for a willed direction, based on a series of overbalances, each successful response creating a fresh challenge. Differentiation is achieved by growth, not through a determined immanence.[^to-20]
+Growth accomplishes itself through the agency of a creative minority the withdrawal of which results in an inward tempering and which becomes effective through its return. It leads by mimesis, a social drill, in the absence of the direct inspiration which will be attained at the next level of integration. Life presents a series of problems, each a challenge to undergo an ordeal. Yet each problem is essentially unique, each response singular. Moreover the successful solution of one problem exposes the civilization to a new challenge, the nature of which is largely determined by the previous response. Spengler asserted that each Culture possessed a soul, which revealed itself in the selection of its appropriate symbolism and which contained the key to the understanding of the culture's history. This Toynbee denies. He opts for a willed direction, based on a series of overbalances, each successful response creating a fresh challenge. Differentiation is achieved by growth, not through a determined immanence.[^to-20]
 
 The Growth of civilizations, in Toynbee's scheme, exhibits that purposiveness which his metaphysical assumptions postulate. The dependence of Toynbee's concepts on Dante is striking. Toynbee's precipe resembles nothing so much as Dante's Mount Purgatory. The direct mutual illumination in the new state of Yin parallels the ability of the denizen of Dante's Paradise to read each other's thoughts.
 
 Yet again the empirical method leads to the logical inconsistencies and philosophical difficulties observed previously.
 
-[^to-20]: Toynbee op. cit. Vol. III. p. 377.
-
-If etherealization exhibits the liberation of energy for higher tasks then this assertion finds no warranty in historical data. Higher and lower - as Kant already pointed out in his Refuta[^to-21]tion of Ethical Hedonism - do not constitute categories of empirical experience, but normative patterns of rationality. On the other hand, empiricism sees etherealization as merely a technical transfer of a field of activity brought about by the physical expansion of the civilization.
+If etherealization exhibits the liberation of energy for higher tasks then this assertion finds no warranty in historical data. Higher and lower - as Kant already pointed out in his Refutation[^to-21] of Ethical Hedonism - do not constitute categories of empirical experience, but normative patterns of rationality. On the other hand, empiricism sees etherealization as merely a technical transfer of a field of activity brought about by the physical expansion of the civilization.
 
 In fact, Toynbee sways uneasily between his theological conception of inner self-determination and the etherealization which is merely a product of the civilization's growth (Environmental). Toynbee the empiricist sees the problems of Western civilization as consequences of a technological mastery, (though the inconsistence implicit in at one point postulating that an improvement in technology accompanies simplification and at another considering Gandhi's return to the spinning wheel as a symptom of a yearning for simplicity can not be overlooked). Toynbee the theologian views the criteria of growth as emanations of a soul's self-articulation. What is the connection between these realms of necessity and freedom? Do arrested civilizations result from an insuperable challenge or a deficient res-²ponse?
 
@@ -1612,13 +1335,12 @@ Social readjustments have to contend with the vis inertia that attempts at all t
 [^to-31]: See post "The Disintegration of Civilizations."
 [^to-32]: Toynbee op. cit. Vol. IV. p. 133. See post "Conclusions".
 
-intensity of which is proportional to the anachronism to be overcome. Social enormities utilize old institutions for purposes they were never meant to fit. If the response accomplishes itself through adjustments, growth is assured. Revolutions, too, may assist growth by removing impediments to progress, though the resort to force ever constitutes a moral blight. Enormities are the very embodiments of social breakdown, however, their perversion of institutions resulting in that rigidity of outlook which characterizes arrested and declining civil[^to-33]izations.
+intensity of which is proportional to the anachronism to be overcome. Social enormities utilize old institutions for purposes they were never meant to fit. If the response accomplishes itself through adjustments, growth is assured. Revolutions, too, may assist growth by removing impediments to progress, though the resort to force ever constitutes a moral blight. Enormities are the very embodiments of social breakdown, however, their perversion of institutions resulting in that rigidity of outlook which characterizes arrested and declining civilizations.[^to-33]
 
 Toynbee ascribes a large measure of the inconstancy of human fortunes, the recurrent growth and decline of civilizations, to the nemesis of creativity. Creative responses to successive challenges are extremely rare. Indeed, it seems that the successful solution of one problem severely limits the reactive capacity to the next ordeal. The insight and uprightness which enabled the Pharisees to guide Jewry in its Babylonian captivity, failed them when faced with the greater treasure of a supra-mundane kingdom promised by Christ.
 
 This, too, is the motif of the Attic drama which ascribes the sudden change in human fortunes to the envy of the Gods. Herodotus' fable of the ring of Polycrates exhibits the
 
-[^to-33]: For illustrations see Vol. IV p. 137-245, for discussion of incommensurability of illustrations see post "Conclusions".
 
 sudden negation of being brought on by Divine disfavor. But in the legend of the end of Croesus emerges a deepening of the understanding. And in Aeschylus the total collapse of all human aspirations results not from the aberration of a fickle Deity, but from a deficiency in the soul of the sufferer. Sin, not Envy dooms human endeavor. The sinners' blight follows an inner alienation from the Divine love, which makes him unworthy to continue as God's instrument. The nemesis of creativity constitutes one aspect of this drama of the doom of Man, with God's role merely passive, revealing the inevitable consequence of sinful conduct.
 
@@ -1637,7 +1359,7 @@ Enormities result from the idolization of an ephemeral institution exhibited by 
 [^to-34]: Toynbee op. cit. Vol. IV. p. 263.
 [^to-35]: Toynbee op. cit. Vol. IV. p. 273. This illustrations Toynbee's confusion of the normative and the empirical. See post "Conclusions". Further illustrated p. 274-303.
 
-civilization. Even after disintegration had run its course and the barbarians had occupied Rome, Justinian attempted to invoke the Ghost of the Roman Empire for Belisarius' campaign in Italy. This futile effort so depleted the resources of Anatolia, that the Sanassid Empire succeeded in annexing most of Byzantium's Eastern territories and caused the breakdown of that civiliza[^to-36]tion. Similarly, the Parliament of Westminster, is performing functions for which it is organizationally unsuited. The representation of territorial units is the most effective democratic device in an agricultural society. The complexities of modern industrialism, on the other hand, require a Parliament based on a corporate structure. Yet the worship of this ephemeral institution will in all likelihood prevent England from finding a solution to this 20th century challenge.
+civilization. Even after disintegration had run its course and the barbarians had occupied Rome, Justinian attempted to invoke the Ghost of the Roman Empire for Belisarius' campaign in Italy. This futile effort so depleted the resources of Anatolia, that the Sanassid Empire succeeded in annexing most of Byzantium's Eastern territories and caused the breakdown of that civilization.[^to-36] Similarly, the Parliament of Westminster, is performing functions for which it is organizationally unsuited. The representation of territorial units is the most effective democratic device in an agricultural society. The complexities of modern industrialism, on the other hand, require a Parliament based on a corporate structure. Yet the worship of this ephemeral institution will in all likelihood prevent England from finding a solution to this 20th century challenge.
 
 The arrested civilizations testify to the final nemesis of idolatry, the idolization of ephemeral techniques. They possess biological counterparts in those organism, whose overly successful adaptation to an environment has accounted for their retardation on the evolutionary scale. In the industrial sphere an initial technological advantage is often purchased at the price of flexibility exemplified by the gradual decline of Manchester's commercial position. The excessive reliance on an ephemeral military technique leads to that sudden collapse of an apparent collossus, of which David's encounter with Goliath
 
@@ -1694,12 +1416,83 @@ The analysis of the disintegration of civilizations represents the culmination o
 
 Toynbee's metaphysical dilemmas are ever present, however. How can the accidental consequence of social breakdown embody the meaning of history? How can an empiricist evaluate
 
-[^to-1]: Or the sanction of evolution. Toynbee sways between the biological and the theological interpretation of history.
 
 
 the possible inward reactions to a state of disintegration? Indeed, what does the soul's anguish matter except as it embodies itself institutionally? Toynbee's empiricism forces him to consider permanence a criterion for inward fitness. This raises the key problems of his philosophy. Does the growth and decay of civilizations contain the moral sanction of history, from which Man can learn rules not only for moral but at the same time of successful conduct? Does salvation or hope reside in phenomenal appearance or inner experience? It is the Kant's query again, the original dilemma restated, containing our metaphysical standard for the interpretation of Toynbee.[^to-2]
 
 If breakdown reveals a failure of self-determination must it inevitably lead to disintegration? Toynbee turns to his "well-tried empirical method" for a solution. Just as birth did not necessarily involve growth - so breakdown does not inevitably lead to collapse. The alternative of disintegration is petrification, a state of creative impotence. Its dominant political form is a totalitarianism which accentuates the timeless evenness of existence, under which philosophy and art languish, but natural-science continues to grow.[^to-3]
+
+#### Footnotes
+
+[^to-2]: See post "Conclusions".
+[^to-3]: Toynbee op. cit. Vol. I. p. 131 - The Egyptian and the Andean civilizations are the unrelated civilizations.
+[^to-4]: Toynbee op. cit. Vol. I. p. 160. See obvious reliance on Kant and even more pronouncedly on Spengler.
+[^to-5]: Toynbee op. cit. Vol. I. p. 17 (For Toynbee's assumptions as to the age span of the earth.
+[^to-6]: This statement from Toynbee op. cit. Vol. I. p. 175 is in flat contradiction with the whole tendency of Vol. V and Vol. VI. See conclusion for discussion.
+[^to-7]: This assumes that Toynbee is aware of the goal and presents another inconsistency in an empirical scheme.
+[^to-8]: Toynbee op. cit. Vol. I. p. 176 see also post for discussion of this inconsistency.
+[^to-9]: See post.
+[^to-10]: Toynbee, op. cit. Vol. I. p. 191.
+[^to-11]: Which in this view becomes almost indistinguishable from biological processes.
+[^to-12]: Toynbee op. cit. Vol. I. p. 192.
+[^to-13]: Note correspondence of this picture with Dante's Mt. Purgatory.
+[^to-14]: Toynbee op. cit. Vol. I. p. 194
+[^to-15]: Toynbee op. cit. Vol. I. p. 204. Note the similarity of this concept with Spengler and its inconsistency with the emphasis on pure volition.
+[^to-16]: Toynbee op. cit. Vol. I. p. 208.
+[^to-17]: Toynbee Vol. I. p. 227.
+[^to-18]: For a discussion of empirical proof by simile see Conclusions.
+[^to-19]: Toynbee op. cit. Vol. I. p. 253. For a discussion of the conclusiveness of such a proof see Conclusions. That these environments might yet produce civilizations is indicated by Toynbee's assertion that the Minoan Island-Empire was not repeated in Indonesia. Recent history may have demonstrated the weakness of this argument.
+[^to-20]: Toynbee, op. cit. Vol. I. p. 270.
+[^to-21]: For the validity of conclusions from mythology see Conclusions.
+[^to-22]: Note the reliance of this argument on Spengler's metaphysical postulate.
+[^to-23]: Toynbee op. cit. Vol. I. p. 274.
+[^to-24]: The operation of challenge-and-response is described at such length because it is central to Toynbee's argument and will be utilized to illustrate limitations of his method - See post conclusions.
+[^to-25]: Toynbee op. cit. Vol. I. p. 278.
+[^to-26]: This contradicts previous approach to that theory. See post Conclusions.
+[^to-27]: Toynbee op. cit. Vol. I. p. 284.
+[^to-28]: Toynbee op. cit. Vol. I. p. 298.
+[^to-29]: Toynbee op. cit. Vol. I. p. 302.
+[^to-30]: Illustrated by examples from the Odyssey, Capua, Roman Campagna. For limitations of this methodology see post "Conclusions."
+[^to-31]: Toynbee op. cit. Vol. II. p. 166. For a discussion of Toynbee's data see post Conclusions.
+[^to-32]: For a discussion of the essential meaninglessness of this adaptation of an Aristotelian concept see post Conclusions.
+[^to-33]: Toynbee op. cit. Vol. II. p. 274.
+[^to-34]: Toynbee op. cit. Vol. I. p. 290. For illustrations see p. 291-322. This argument, of course, does not really resolve the original dilemma, since all terms mutually define each other.
+[^to-35]: This footnote reference appears at a line break where "inception" was hyphenated in the original text.
+[^to-1]: See post Ch. History and Man's Experience of Morality (Kant).
+[^to-2]: Toynbee op. cit. Vol. III. p. 272
+[^to-3]: Toynbee op. cit. Vol. LLL. p. 3
+[^to-4]: Toynbee op. cit. Vol. III. p. 12.
+[^to-5]: These passages are presented at such length because they represent the happiest examples of a successful use of the empirical method, as well as Toynbee's practical application of Challenge and Response.
+[^to-6]: Toynbee op. cit. Vol. III. p. 22.
+[^to-43]: Toynbee op. cit. Vol. III. p. 27.
+[^to-44]: For other illustrations see Toynbee op. cit. Vol. III p. 22-79.
+[^to-45]: Toynbee op. cit. Vol. III p. 117. See a discussion of this method of utilizing mythology see historical proof see post Conclusions.
+[^to-46]: It is doubtful whether Pericles meant his reference to Athens as the education of Hellas in an economic sense.
+[^to-7]: Toynbee, op. cit. Vol. III. p. 174.
+[^to-8]: Toynbee, op. cit. Vol. III. p. 181.
+[^to-9]: This is another illustration of Toynbee's normative pattern.
+[^to-10]: Phaedo 96-7.
+[^to-11]: Toynbee op. cit. Vol. III. p. 197. This contradicts the earlier assertion that overpopulation, an internal factor, constitutes earliest challenge.
+[^to-12]: Toynbee op. cit. Vol. III. p. 216. For the weakness of this argument see post Conclusions. Toynbee here confuses an alien inspiration with an area of activity.
+[^to-13]: Note the dependence of this concept on Hegel.
+[^to-14]: Toynbee op. cit. Vol. III. p. 243.
+[^to-15]: Note correspondence with Dante's concept. See post.
+[^to-16]: Toynbee op. cit. Vol. III. p. 235.
+[^to-17]: Toynbee op. cit. Vol. III. p. 217-333; For the essential incommensurability of most of Toynbee's illustrations see post "Conclusions" (Discussion of Methodology).
+[^to-18]: Toynbee op. cit. Vol. III. p. 377 et seq.
+[^to-19]: It is difficult to see how Russia can serve as the creative minority of a civilization which meets Toynbee's every criterion for disintegration. See post "Conclusions."
+[^to-20]: Toynbee op. cit. Vol. III. p. 377.
+[^to-21]: Critique of Practical Reason. op. cit. p. 111.
+[^to-29]: Toynbee op. cit. Vol. IV. p. 128.
+[^to-30]: See post. This according to Toynbee is the condition of the arrested civilizations.
+[^to-31]: See post "The Disintegration of Civilizations."
+[^to-32]: Toynbee op. cit. Vol. IV. p. 133. See post "Conclusions".
+[^to-33]: For illustrations see Vol. IV p. 137-245, for discussion of incommensurability of illustrations see post "Conclusions".
+[^to-34]: Toynbee op. cit. Vol. IV. p. 263.
+[^to-35]: Toynbee op. cit. Vol. IV. p. 273. This illustrations Toynbee's confusion of the normative and the empirical. See post "Conclusions". Further illustrated p. 274-303.
+[^to-36]: Toynbee op. cit. Vol. IV. p. 320-404. This contradicts an earlier assertion that the Bulgar war caused the breakdown of the Orthodox-Christian civilization.
+[^to-37]: For other illustrations see Toynbee op. cit. Vol. IV. p. 423-465.
+[^to-38]: Toynbee op. cit. Vol. IV. p. 250.
 
 Growth reveals a process of differentiation. The uniqueness of each challenge as a function of the previous response
 
@@ -1748,112 +1541,92 @@ The ethos of the administrator develops from the dominant minority's most spirit
 
 The Original Sin of Militarism constantly reappears, not to be avoided by even the most high-minded rulers such as Marcus and Julian.[^to-11]
 
+[^to-14]: Toynbee op. cit. Vol. III. p. 243.
+[^to-15]: Note correspondence with Dante's concept. See post.
+[^to-16]: Toynbee op. cit. Vol. III. p. 235.
+[^to-17]: Toynbee op. cit. Vol. III. p. 217-333; For the essential incommensurability of most of Toynbee's illustrations see post "Conclusions" (Discussion of Methodology).
+[^to-18]: Toynbee op. cit. Vol. III. p. 377 et seq.
+[^to-19]: It is difficult to see how Russia can serve as the creative minority of a civilization which meets Toynbee's every criterion for disintegration. See post "Conclusions."
+[^to-20]: Toynbee op. cit. Vol. III. p. 377.
+[^to-21]: Kant - Critique of Practical Reason. op. cit. p. 111.
+¹ The fact that Toynbee's mimesis is very close to a concept of the soul will be developed see post "Conclusions".
+² See post Conclusions for further developments of this point.
+¹ Toynbee wavers on the question of Western civilization but on the whole seems to include it among the decaying societies.
+² This seems an unhappy choice for the refutation of the very likely, untenable race theory. The Risorgimento is hardly comparable in creative effectiveness to the Renaissance.
+³ Toynbee op. cit. Vol. IV. p. 35.
+⁴ This argument does not however, refute the necessity of a civilization's decline. However purposeful the movement of the shuttle in objective terms, subjectively it involves the growth and decline of civilizations. See post Conclusions.
+² These arguments are presented at such length because without some glimpse of his methodology, Toynbee's philosophy becomes meaningless.
+¹ Toynbee op. cit. Vol. IV. p. 89.
+[^to-29]: Toynbee op. cit. Vol. IV. p. 128.
+[^to-30]: See post. This according to Toynbee is the condition of the arrested civilizations.
+[^to-31]: See post "The Disintegration of Civilizations."
+[^to-32]: Toynbee op. cit. Vol. IV. p. 133. See post "Conclusions".
+[^to-34]: Toynbee op. cit. Vol. IV. p. 263.
+[^to-35]: Toynbee op. cit. Vol. IV. p. 273. This illustrations Toynbee's confusion of the normative and the empirical. See post "Conclusions". Further illustrated p. 274-303.
+[^to-36]: Toynbee op. cit. Vol. IV. p. 320-404. This contradicts an earlier assertion that the Bulgar war caused the breakdown of the Orthodox-Christian civilization.
+[^to-37]: For other illustrations see Toynbee op. cit. Vol. IV. p. 423-465.
+[^to-38]: Toynbee op. cit. Vol. IV. p. 250.
+⁵ Toynbee op. cit. Vol. IV. p. 491. This contradicts the concept that expansion is a symptom of decay.
+⁶ Toynbee op. cit. Vol. IV. p. 505.
+⁷ Toynbee op. cit. Vol. IV. p. 506. This seems a better illustration for the passive aberration.
+⁸ On this point see Quotation cited post "Conclusion" p.
+[^to-2]: For full discussion see post "Conclusions" And Appendix A - The Concepts of Meaning.
+[^to-3]: Toynbee op. cit. Vol. V. p. 10. This relies heavily on a combination of Spengler's Caesarism and fellah-state.
+[^to-4]: Toynbee Vol. V. p. 13. This is another instance of Toynbee's use of the word "soul" for a civilization. See post "Conclusions".
+[^to-5]: Toynbee op. cit. Vol. V. p. 15.
+[^to-6]: Toynbee op. cit. Vol. V. p. 25.
+[^to-7]: Toynbee Vol. V. p. 26 (op. cit.)
+[^to-8]: This is the return-phase.
+[^to-9]: Toynbee op. cit. Vol. V. p. 41. This seems to date the disintegration of the Western civilization several centuries before even Spengler.
+[^to-10]: Toynbee op. cit. Vol. V. p. 39.
+[^to-11]: Toynbee op. cit. Vol. V. p. 42.
+
 The schools of philosophy express an attitude born of frustration, a reaction to the inadequacies of life. Their ideal is Detachment, the contemplation that knows no social responsibility,[^to-12] the withdrawal which is conceived as an end, the return which exhibits an inner sacrifice. They find refuge from the oppressive present in an assertion of determinism, of which the triumph of Astrology in the Hellenic and Babylonian world furnish the most notable examples.[^to-13] Philosophy does not represent the ultimate answer to the inner void of the civilization. It may, however, assist the dialectical formulation of the only true solution, the higher religion. Finally when disintegration has run its course, only the universal church remains as the chrysalis of a new civilization into the body of which the dominant minority merges and disappears.
 
-Toynbee conceives the internal proletariat as the product of a state of mind, not of an economic condition. It is inspired by a consciousness of having been deprived of its rightful place in the community, of being in but not of a society, of being un-
-
-[^to-11]: Toynbee op. cit. Vol. V. p. 79 (f.n.) See post "Conclusions" for discussion of this concept.
-[^to-12]: This criticism of Detachment seems contradicted by the very existence of Plato and Aristotle's political philosophy, which indicates some concern with the affairs of this world.
-[^to-13]: Toynbee op. cit. Vol. V. p. 58 considers Cartesianism the Western counterpart of Determinism.
-
-
-wanted and useless. Its resentment inspires a constant application of repressive measures which only serve to accentuate the rift.
+Toynbee conceives the internal proletariat as the product of a state of mind, not of an economic condition. It is inspired by a consciousness of having been deprived of its rightful place in the community, of being in but not of a society, of being unwanted and useless. Its resentment inspires a constant application of repressive measures which only serve to accentuate the rift.
 
 All declining societies contain an internal proletariat recruited from three distinct sources: The disinherited and up-rooted members of its own body social, the partially disinherited components of alien conquered civilizations who are exploited in their native environment and the doubly disinherited conscripts from subject populations whose exploitation involves their transplantation.[^to-14] The destruction of the Hellenic peasantry by the introduction of the Latafundias is paralleled in the West by the pernicious consequences of the Enclosure movement. The indigeneous Syriac internal proletariat of the Hellenic civilization has its counterpart in the Indian component of the Western Great Society.[^to-15] The institution of slavery blighted both civilizations.
 
-All the typical reactions of the dominant minority to the pervasive sense of futility manifest themselves in the internal proletariat, as well. The arbitrariness of the rulers evokes the rebellion of the oppressed. The "violent" response however, can not succeed because of the dominant minority's monopoly of force. Out of the bloody suppression of the slave rebellions in
-
-[^to-14]: Toynbee op. cit. Vol. V. p. 66.
-[^to-15]: There seems no warranty for including India and other colonial dependencies in the Western society. The only connection between India and the West is on the technical (economic) and political plane. This, in Toynbee's terms, is a consequence of Western disintegration not of Indian inclusion in the Western Civilization.
-
-
-Sicily and the peasant and Anabaptist revolts in the West emerges an alternative response. The gentle attitude, exhibiting a provisional recognition of limits issues in a religion which is at once faced with the crucial dilemma of its existence. It must decide whether to use its hold on the hearts of the internal proletariat for the satisfaction of immediate political aims or whether to confine itself to the satisfaction of the greater spiritual wants.
+All the typical reactions of the dominant minority to the pervasive sense of futility manifest themselves in the internal proletariat, as well. The arbitrariness of the rulers evokes the rebellion of the oppressed. The "violent" response however, can not succeed because of the dominant minority's monopoly of force. Out of the bloody suppression of the slave rebellions in Sicily and the peasant and Anabaptist revolts in the West emerges an alternative response. The gentle attitude, exhibiting a provisional recognition of limits issues in a religion which is at once faced with the crucial dilemma of its existence. It must decide whether to use its hold on the hearts of the internal proletariat for the satisfaction of immediate political aims or whether to confine itself to the satisfaction of the greater spiritual wants.
 
 Judaism chose the first alternative. Its nemesis became the futile search for a Messiah to actualize a parochial state. But Christ set Christianity firmly on the other path. His reprimand of Peter exhibits a final level of transcendental reconciliation which guaranteed the eventual triumph of Christianity.[^to-16] Similarly, Jewish survival, was not assured until the realization that the Kingdom of God was not an external state and that Man must abstain from all attempts to promote the Divine plan.[^to-17]
 
 The spiritual superiority of the internal proletariat over the dominant minority becomes apparent in their comparative institutional embodiments. The Universal state is a child of militarism; the universal church exhibits a new level of inner reconciliation. The dominant minority's gentle response issues in a philosophy which preaches Detachment as the highest state of bliss and an idolatrous religion of self-worship in the form of the Divus cult.[^to-18]
 
-[^to-16]: Toynbee op. cit. Vol. V. p. 75.
-[^to-17]: Toynbee op. cit. Vol. V. p. 76.
-[^to-18]: This is a good illustration of Toynbee's normative concepts.
-
-
 Toynbee finds most of these symptoms of disintegration in the Western civilization as well. The dominant minority has failed to solve the problem of the internecine warfare of parochial states, the increasing violence of which multiplies the internal proletariat. Its gentle response is a meaningless theosophy, a re-emerging astrology and the idolateous adoration of nation-states.
 
-The internal proletariat on the other hand, after its unsuccessful violence in the Peasant's revolt, has learned in many respects the ways of gentleness. The Quakers illustrated by their prosperity that "the meek shall inherit the earth" and "that honesty is the best policy".[^to-19] The violence of Marxism has been tempered until it has been transformed into a likeness of the dominant minority's totalitarian worship of the state. But the miracle of Christianity represents the deepest manifestation of Western Gentleness. In the souls of races but a generation removed from slavery, Christianity has been revitalized and again becomes a living force. The hold of the neopagan dominant minority is visibly lessening and hope again flows through the branches of Western Christendom.[^to-20] Toynbee expressed the belief that this tottering civilization, which has been reduced to its present state by the intoxication of victory over Physical Nature,
-
-[^to-19]: Toynbee op. cit. Vol. V. p. 174. See post for discussion of this argument.
-[^to-20]: Toynbee op. cit. Vol. V. p.193.
-
-
-may become the first to escape its nemesis, to find peace through gentleness and life through Christ.[^to-21]
+The internal proletariat on the other hand, after its unsuccessful violence in the Peasant's revolt, has learned in many respects the ways of gentleness. The Quakers illustrated by their prosperity that "the meek shall inherit the earth" and "that honesty is the best policy".[^to-19] The violence of Marxism has been tempered until it has been transformed into a likeness of the dominant minority's totalitarian worship of the state. But the miracle of Christianity represents the deepest manifestation of Western Gentleness. In the souls of races but a generation removed from slavery, Christianity has been revitalized and again becomes a living force. The hold of the neopagan dominant minority is visibly lessening and hope again flows through the branches of Western Christendom.[^to-20] Toynbee expressed the belief that this tottering civilization, which has been reduced to its present state by the intoxication of victory over Physical Nature, may become the first to escape its nemesis, to find peace through gentleness and life through Christ.[^to-21]
 
 The external proletariat constitutes itself in response to the flagging inspiration of the civilization. During the growth phase the barbarian's mimesis had been directed towards the creative minority's cultural achievements. The area of contact between the two societies had been fluid, the extend of cultural radiation determined by the civilization's inner energy. But the emergence of the dominant minority sees a secession by the barbarians who now form the external proletariat. The boundary becomes fixed and the two antagonists face each other across a limes in an uneasy truce before the inevitable clash.
 
 The external proletariat may continue to adopt the civilization's still superior technique, but the inner relationship has ceased and conflict is the unavoidable climax. For the external proletariat possesses effective means of physical resistance. In contrast to the internal proletariat, the majority of its members are outside the dominant minority's direct control. Moreover, the dominant minority is exposed to all the nemesis of creativity, while the external proletariat experiences constant additions in strength from the ranks of the ever more disgruntled barbarians.
 
-Violence is therefore the most typical reaction of the
+Violence is therefore the most typical reaction of the external proletariat. Its institutional embodiment are the barbarian war-bands, whose penetration of the civilization's territory heralds the beginning of the interregnum. The external proletariat's religion reflects its change of outlook. The religion of Primitive Mankind exhibits a worship of the community in all its manifestations of which procreation and military defense are the most important. Thus the Goddess of fertility constitutes the primary religious symbolism of the earliest stage of development while the god of destruction plays a very subsidiary role. The emergence of a military frontier, however, engenders a social revolution. The energies of the community are henceforth directed towards conquest, with a consequent inversion of the relative importance of the procreative and destructive activities. The God of war appears as the Divinity towards which the worship of the external proletariat begins to be directed, a testimony to its choice of the attitude of Violence.
 
-[^to-21]: For other illustrations see Toynbee op. cit. Vol. V. p. 76-194.
-
-
-external proletariat. Its institutional embodiment are the barbarian war-bands, whose penetration of the civilization's territory heralds the beginning of the interregnum. The external proletariat's religion reflects its change of outlook. The religion of Primitive Mankind exhibits a worship of the community in all its manifestations of which procreation and military defense are the most important. Thus the Goddess of fertility constitutes the primary religious symbolism of the earliest stage of development while the god of destruction plays a very subsidiary role. The emergence of a military frontier, however, engenders a social revolution. The energies of the community are henceforth directed towards conquest, with a consequent inversion of the relative importance of the procreative and destructive activities. The God of war appears as the Divinity towards which the worship of the external proletariat begins to be directed, a testimony to its choice of the attitude of Violence.
-
-Even this period is not without its creativeness however. The Homeric poems testify to a profoundity of vision which was to be repeated in the English and Sandinavian epics.[^to-22] The external proletariat's conquests achieve permanence only after the barbarian war bands have accepted the universal church of the internal proletariat and under its gentle guidance created a new civilization. And so the history of the external proletariat, too, reveals the ultimate victory of Gentleness over
-
-[^to-22]: Toynbee op. cit. Vol. V. p. 233.
-
-
-Violence, the attainment of peace through strife. The City of Destruction appears as ephemeral as the universal state and out of its ashes rises the inner meaning of history, to which even the barbarians must bow, the Universal Church.
+Even this period is not without its creativeness however. The Homeric poems testify to a profoundity of vision which was to be repeated in the English and Sandinavian epics.[^to-22] The external proletariat's conquests achieve permanence only after the barbarian war bands have accepted the universal church of the internal proletariat and under its gentle guidance created a new civilization. And so the history of the external proletariat, too, reveals the ultimate victory of Gentleness over Violence, the attainment of peace through strife. The City of Destruction appears as ephemeral as the universal state and out of its ashes rises the inner meaning of history, to which even the barbarians must bow, the Universal Church.
 
 The analysis of the disintegration of civilizations exhibits the happiest application of Toynbee's pragmatic method. For the inner contradictions of his metaphysical pattern are here at a minimum. Whatever the cause of society's breakdown its issue into disintegration discloses that inevitability, that "standardization",[^to-23] for the apprehension of which an empirical approach is ideally suited. All disintegration proceeds through the agency of a dominant minority, a seceding internal proletariat and invading barbarian war-bands. The schism in the body social becomes ever wider, the frustration in the soul unbridgeable. The possible reactions to this dilemma are limited and confined to alternative violent or gentle responses. However only the gentle responses contain the seeds of creativeness, only the Universal Church possesses a future.
 
-Yet even here Toynbee's normative pattern and its irreconcilability with the historical data emerges. The truth of the Universal Church seems in the final analysis merely founded on its future, the evil of the repressive measures of the universal state on their futility. "Honesty is the best policy" becomes
-
-[^to-23]: Toynbee op. cit. Vol. V. p. 13.
-
-
-in Toynbee's interpretation of the Quakers primarily a maxim of prudent conduct. It is not apparent whether an inner attitude or a physical location characterizes the internal proletariat. Though Toynbee's emphasis on purposiveness makes him opt for the proletarization by willed secession, the account of the proletariat's recruitment supports the theory of geographical accident. The miracle of Christianity may cause its embodiment in the Universal of a second decaying civilization but this can have no bearing on the fate of the Western Civilization. For the essence of a Universal Church is the supra-mundane plane of reality. Its full meaning is only realized after disintegration has run its course and barbarian war bands toppled the City of Destruction. Christianity could then become the chrysalis-in Toynbee's scheme-of a new civilizations. But its conception as the material salvation of the West repeats that very sin for which Toynbee castigates Athens, the idolization of an ephemeral Self.
+Yet even here Toynbee's normative pattern and its irreconcilability with the historical data emerges. The truth of the Universal Church seems in the final analysis merely founded on its future, the evil of the repressive measures of the universal state on their futility. "Honesty is the best policy" becomes in Toynbee's interpretation of the Quakers primarily a maxim of prudent conduct.[^to-23] It is not apparent whether an inner attitude or a physical location characterizes the internal proletariat. Though Toynbee's emphasis on purposiveness makes him opt for the proletarization by willed secession, the account of the proletariat's recruitment supports the theory of geographical accident. The miracle of Christianity may cause its embodiment in the Universal of a second decaying civilization but this can have no bearing on the fate of the Western Civilization. For the essence of a Universal Church is the supra-mundane plane of reality. Its full meaning is only realized after disintegration has run its course and barbarian war bands toppled the City of Destruction. Christianity could then become the chrysalis-in Toynbee's scheme-of a new civilizations. But its conception as the material salvation of the West repeats that very sin for which Toynbee castigates Athens, the idolization of an ephemeral Self.
 
 
 ### The Disintegration of Civilizations - Schism in the Soul
 
 The mere description of the institutional manifestations of disintegration can never, for Toynbee, exhaust the essence of that process. Just as growth was revealed as a rhythm of progressive etherealization independent of the material conditions of command over the environment, just as breakdown resulted from failure in the capacity to respond successfully to recurrent challenges, so disintegration hides a deeper meaning. The schism in the body social represents merely a symptom of that profounder schism of the soul which is the real cause of society's collapse. The growth phase of the civilization had witnessed a consistent directedness in all fields of behavior, feeling and life.[^to-24] But with disintegration the possible reactions become polarized into inconclusive alternatives. A choice between the active and the passive option is the only freedom left to the soul which has lost its creativeness and which participates, either as villain or victim, in the social disintegration.[^to-25]
 
-This aspect of Toynbee's philosophy results in a total breakdown of his method. The state of a soul is approachable in terms of empirical analysis only in its institutional embodiments. The interpretation of their inner meaning must remain a metaphysical construction.[^to-26] An attempt to derive historical laws from a categorization of states of mind which are really
-
-[^to-24]: Toynbee op. cit. Vol. VI. p. 375.
-[^to-25]: For discussion of this ambiguity see post "Conclusions".
-[^to-26]: See appendix A. The Concepts of Meaning.
-
-
-emanations of theological view-points, can not claim to base itself on the surface manifestations of phenomenal appearance. The full implications of Toynbee's concept of the Promethean elan reveal themselves. Its immanent working had always seemed to contradict the purposiveness postulated by challenge-and-response. It now appears that any conscious attempt to change the present condition constitutes the sin of archaism or futurism, the penalty for which is disintegration. We are back with Hegel's "whatever is, is right". We have not really transcended Spengler. The problem of freedom and necessity remains unsolved.[^to-27]
+This aspect of Toynbee's philosophy results in a total breakdown of his method. The state of a soul is approachable in terms of empirical analysis only in its institutional embodiments. The interpretation of their inner meaning must remain a metaphysical construction.[^to-26] An attempt to derive historical laws from a categorization of states of mind which are really emanations of theological view-points, can not claim to base itself on the surface manifestations of phenomenal appearance. The full implications of Toynbee's concept of the Promethean elan reveal themselves. Its immanent working had always seemed to contradict the purposiveness postulated by challenge-and-response. It now appears that any conscious attempt to change the present condition constitutes the sin of archaism or futurism, the penalty for which is disintegration. We are back with Hegel's "whatever is, is right". We have not really transcended Spengler. The problem of freedom and necessity remains unsolved.[^to-27]
 
 Disintegration reflects the schism in a soul, which has destroyed its creativity and whose collapse is approaching amidst mounting frustration. Every aspect of life exhibits this inward dilemma, no part of society can escape it. Yet since the problems faced by each component vary, the schism will reveal itself in a different form in the typical reactions of each class.
 
-Toynbee distinguishes several symptoms of inward frustration on the planes of behavior, feeling and life. On the plane of behavior the loss of creativity evokes the alternatives of abandon and self-control, each an attempt to coax out of nature the inspiration which has been wantonly destroyed. While the dominant minority endeavors to recapture the charm of its youth, either by giving reign to the passions or by their strict control,
-
-[^to-27]: For full discussion see post Conclusions.
-
-
-the internal proletariat seeks a substitute for the lost art of mimesis. The lack of leadership accentuates the inner helplessness of the mass. Its alternatives are truancy and martyrdom, a shirking of responsibility made possible by the breakdown of discipline or a conscious quest for a death that will finally end all uncertainty.
+Toynbee distinguishes several symptoms of inward frustration on the planes of behavior, feeling and life. On the plane of behavior the loss of creativity evokes the alternatives of abandon and self-control, each an attempt to coax out of nature the inspiration which has been wantonly destroyed. While the dominant minority endeavors to recapture the charm of its youth, either by giving reign to the passions or by their strict control,[^to-27] the internal proletariat seeks a substitute for the lost art of mimesis. The lack of leadership accentuates the inner helplessness of the mass. Its alternatives are truancy and martyrdom, a shirking of responsibility made possible by the breakdown of discipline or a conscious quest for a death that will finally end all uncertainty.
 
 On the plane of feeling the reactions occur to a reversal of the Promethean elan by which growth had accomplished itself.[^to-28] The sense of drift exhibits the passive response, a resignation to the enigmatic Universe which under either the aspect of chance of Necessity accentuates the impotence of Man. When the failure is viewed subjectively the sense of sin appears, a recognition of an inward failure to master life, an admission of inadequacy, the condition for salvation.
 
 The breakdown of growth is accompanied by a cessation of the differentiation which had produced the civilization's style. The sick soul loses its sense of form and gives vent to a feeling of promiscuity, expressed in the blending of incompatible values, the emergence of a cosmopolitan language, the syncretism of religion and philosophy. Yet the profounder souls of each society sense a profound meaning in the loss of style, an apprehension of unity behind the growth and decay of ephemeral institutions. The sense of unity conjures a Cosmos of eternal validity out of the chaotic appearance of the phenomenal world.
 
-[^to-28]: Toynbee op. cit. Vol. V. p. 380.
-
-
 On the plane of life, the transfer of the field of action from the Macrocosm to the Microcosm, the etherealization, is replaced by two pairs of alternative modes of behavior. On this plane, however, there exists an option between a pair of violent and a pair of gentle responses, between the attempt of realizing one's aspirations on the material level or the apprehension of a deeper truth transcending mere appearance. Archaism and Futurism constitute the violent options, a projection of longing in Time, the quest for a Utopia which evades the challenge presented by the change in spiritual climate.[^to-29] The doom of this endeavor causes a violent eruption of the pent-up frustration and seals the doom of the society. When all material hopes are disappointed the gentle response re-emerges, the recognition by man of his limits, the humility which transcends itself, the faith that moves mountains.[^to-30] Detachment and Transfiguration, the bliss of contemplation and the salvation through God's love appear, the guarantee, at the eleventh hour, of the continuation of the meaning of life.
 
-Any society contains creative personalities, agents of dynamic activity, embodiments of the new level of Yin. But a disintegrating society offers no obvious field of activity for leadership. Mimesis has broken down and attempts at revitalization are bound to be tentative and uncertain. As the schism in
-
-[^to-29]: Toynbee op. cit. Vol. V. p. 383.
-[^to-30]: Toynbee op. cit. Vol. V. p. 391.
-
-
-the soul of the civilization becomes wider, the inspired individuals appear in the role of Saviours, their effectiveness<sup>1</sup> determined by the attitude of life they represent. For Gentleness will always triumph over Violence, peace over discord, faith over materialism. God's love, the motive force of the Universe, shines as a beacon of mercy through the gloom of collapse.
+Any society contains creative personalities, agents of dynamic activity, embodiments of the new level of Yin. But a disintegrating society offers no obvious field of activity for leadership. Mimesis has broken down and attempts at revitalization are bound to be tentative and uncertain. As the schism in the soul of the civilization becomes wider, the inspired individuals appear in the role of Saviours, their effectiveness determined by the attitude of life they represent. For Gentleness will always triumph over Violence, peace over discord, faith over materialism. God's love, the motive force of the Universe, shines as a beacon of mercy through the gloom of collapse.
 
 Abandon and self-control constitute Toynbee's conception of the reactions of a soul which attempts to claim the sanction of nature for the absence of its creativeness. Abandon ascribes the loss of its inspiration to the inner separation from a state of nature and attempts to recapture its youth by giving free reign to all spontaneous appetites. Its representatives are Thrasymachus and Alcibiades in the Hellenic civilization, Rousseau and Machiavelli in the West.
 
@@ -1867,71 +1640,32 @@ Truancy and martyrdom represent the alternatives by which a leaderless mass seek
 
 shirking of danger so truancy in a disintegrating society appears as an alternative to the purposiveness which has become oppressive. This was the reaction of Sparta and Athens at a time when only unity could prevent a Roman hegemony over Greece. This, too, is the meaning of the "irreligious toleration" of the West which has cut itself off from its spiritual heritage and substituted a secular idol in the form of the national state for the spiritual basis of its greatness.
 
-Yet the sceptre of defeat may cause other minds to attempt to salvage their ideals by courting death without any hope of material reward. Socrates refused all chances to play truant and met a martyr's death. In its hour of trial, the Christian church steadfastly refused the very tempting and very easy escape of formal allegiance to the Divus. The blood of her martyrs furnished the condition of her eventual triumph. As an indication that the spirit of the martyrs is yet with us, Wolsey and Moore chose death rather than the ignominy of truancy.<sup>1</sup>
+Yet the sceptre of defeat may cause other minds to attempt to salvage their ideals by courting death without any hope of material reward. Socrates refused all chances to play truant and met a martyr's death. In its hour of trial, the Christian church steadfastly refused the very tempting and very easy escape of formal allegiance to the Divus. The blood of her martyrs furnished the condition of her eventual triumph. As an indication that the spirit of the martyrs is yet with us, Wolsey and Moore chose death rather than the ignominy of truancy.
 
 Toynbee turns next to an examination of the impact of disintegration on the plane of feeling. The loss of the Promethean elan of growth faces the soul with the very negation of existence, from which the sense of drift and the sense of Sin represent antithetical methods of refuge. The feeling of drift appears as the consequence of an idolatry of Necessity or Chance,
-
-<sup>1.</sup> Toynbee op. cit. Vol. V. p. 411. For a discussion of these illustrations see post Conclusions.
 
 
 a sin which inevitably leads to breakdown. Necessity and Chance are correlative as the expressions of a soul which represents its defeats subjectively as blind disorder and its objective operation under the aspect of Inevitability. The West has worshipped Chance since laissez-faire was elevated into an ethical principle. But Fate, too, has been the subject of adoration. The Calvinist doctrine of predestination, the counterpart of the Hellenic Tyche, introduced determinism into the lives and fortunes of human beings.<sup>1</sup>
 
-But while an idolatry of Fate may serve as an opiate in instilling in the soul an acquiescence in a disaster assumed to have its root in external circumstances, its counterpart, the sense of sin acts as a powerful stimulus. Man turns inward for an explanation of his failure and attempts to make himself worthy of receiving God's grace. The road from an unconquerable Necessity to a conquerable Sin is the saving truth which prevented Judaism from rushing headlong into disaster through the idolization of an Ephemeral Self.<sup>2</sup> The Hellenic Civilization had to discover this great truth slowly, but the West was fortunate in growing out of the chrysalis of a higher religion. Nothing illustrates the perversity of human nature better than the Western hostility to its noble heritage, the repudiation of which may well doom the Great Society. Only by repenting can
-
-<sup>1.</sup> Toynbee op. cit. Vol. V. p. 430. For the lack of inner relationship between Tyche and Calvin see post "Conclusions". It would seem to fit much better under Sense of Sin.
-<sup>2.</sup> See ante p.
-
-
-Western man save himself from the nemesis of his ate.<sup>1</sup>
+But while an idolatry of Fate may serve as an opiate in instilling in the soul an acquiescence in a disaster assumed to have its root in external circumstances, its counterpart, the sense of sin acts as a powerful stimulus. Man turns inward for an explanation of his failure and attempts to make himself worthy of receiving God's grace. The road from an unconquerable Necessity to a conquerable Sin is the saving truth which prevented Judaism from rushing headlong into disaster through the idolization of an Ephemeral Self. The Hellenic Civilization had to discover this great truth slowly, but the West was fortunate in growing out of the chrysalis of a higher religion. Nothing illustrates the perversity of human nature better than the Western hostility to its noble heritage, the repudiation of which may well doom the Great Society. Only by repenting can Western man save himself from the nemesis of his ate.
 
 A sense of promiscuity appears as the passive substitute for the sense of style which has disappeared with the breakdown of society. Toynbee finds its influence in all spheres of activity and in all social classes. The dominant minority exhibits the most pronounced tendencies towards promiscuity. Its military technique is usually an amalgam of the successful methods of neighboring civilizations.<sup>2</sup> An extensive dilution accompanies the expansion of the army the insatiable requirements of which are the consequence of the campaigns for attaining the universal state. Common military service vulgarizes the dominant minority. The lack of inward strength forces the dominant minority to follow the immediate trend. When Christianity was small and without popular support, the persecutions of Rome were persistent, if half-hearted. But once Christianity had achieved a position of eminence, the dominant minority reluctantly followed the internal proletariat's lead, by announcing its own conversion.<sup>3</sup>
 
-The dominant minority's barbarization matches its vulgarization. The establishment of a military frontier across which the external proletariat ever threatens to erupt testifies
-
-<sup>1.</sup> Toynbee op. cit. Vol. V. p. 439.
-<sup>2.</sup> Toynbee op. cit. Vol. V. p. 439. This of course may be the secret of their success.
-<sup>3.</sup> Toynbee op. cit. Vol. V. p.456.
-
-
-to a barbarian war-band's feat-of-arms. Since the moral fiber of the dominant minority is steadily degenerating the balance along the limes inclines in the barbarian's favor. The attempt to solve this challenge by enrolling the barbarian war-bands in the universal state's military service ends with the dominant minority a prisoner in its own house. This was the case in Rome, and may occur with the Indian army, the large majority of which is recruited from the external proletariat.
+The dominant minority's barbarization matches its vulgarization. The establishment of a military frontier across which the external proletariat ever threatens to erupt testifies to a barbarian war-band's feat-of-arms. Since the moral fiber of the dominant minority is steadily degenerating the balance along the limes inclines in the barbarian's favor. The attempt to solve this challenge by enrolling the barbarian war-bands in the universal state's military service ends with the dominant minority a prisoner in its own house. This was the case in Rome, and may occur with the Indian army, the large majority of which is recruited from the external proletariat.
 
 Vulgarity in Art and Manners is a concomitant of disintegration. The Western artist consciously turns his back on his great tradition, as did his Hellenic predecessor. Nigger dances and a Byzantian architecture constitute expressions which must remain ever foreign to the souls of a true Western creator, dooming their present improvisators to sterility.<sup>1</sup> In the field of language the sense of promiscuity reveals itself in the replacement of a local distinctiveness by a general confusion of tongues.<sup>2</sup> The requirements of communication in a universal state lead to the emergence of a lingue franche, such as Aramaic and Latin in the Hellenic and English in the Western civilization.
 
-Religious syncretism, too, is a manifestation of the sense of promiscuity which arises from the Schism of the Soul in an age of disintegration.<sup>3</sup> The history of all universal states exhibits a convergence towards a common type in both religion and philosophy. The Stoa dominated all philosophic
-
-<sup>1.</sup> Toynbee op. cit. Vol. V. p. 481. Note dependence of this concept on Spengler.
-<sup>2.</sup> Toynbee op. cit. Vol. V. p. 494.
-<sup>3.</sup> Toynbee op. cit. Vol. V. p. 527.
-
-
-discussion during Rome's last centuries and there was little difference between the various religious cults.
+Religious syncretism, too, is a manifestation of the sense of promiscuity which arises from the Schism of the Soul in an age of disintegration. The history of all universal states exhibits a convergence towards a common type in both religion and philosophy. The Stoa dominated all philosophic discussion during Rome's last centuries and there was little difference between the various religious cults.
 
 The final manifestation of the sense of promiscuity is the syncretism between religion and philosophy which announces the impending triumph of the internal proletariat's universal church. Philosophy offers little more than the dialectic underpinning for the proper formulation of church dogma. The oppressiveness of the void in the souls of both the dominant minority and the internal proletariat, the similarity of their frustration will of necessity issue in a common religious experience. Yet this identity of feeling can not be maintained. The philosophies degenerate into mere superstition because their appeal is too exclusively directed towards the intellectual faculties. The universal church attains that depth of understanding which enables it to serve as repository of all the hopes and the guarantor of the fulfillment of the disintegrating civilization.
 
-Since Toynbee postulates alternative responses to the frustrations of feeling, the sense of promiscuity can not constitute the only reaction to the civilization's loss of style. While the blending of all forms during the period of disintegration exhibits to weak souls an immanent Chaos, the steadier spiritual vision may regard this trend as the revelation of an underlying unity.[^to-42] The phenomenal world reveals flickering
+Since Toynbee postulates alternative responses to the frustrations of feeling, the sense of promiscuity can not constitute the only reaction to the civilization's loss of style. While the blending of all forms during the period of disintegration exhibits to weak souls an immanent Chaos, the steadier spiritual vision may regard this trend as the revelation of an underlying unity.[^to-42] The phenomenal world reveals flickering manifestations which only serve to hide the eternal truth just below the surface. The first intuition of the sense of unity arises through the appearance of the universal state. The Saviour with the Sword strives for that unification of mankind, which Alexander denoted with concordia.[^to-43] However, the violence of its creation seals the doom of the universal state. It is ever plagued by the militarism that created it, externally through constant warfare, and internally through the intermittent persecution of its minorities. Its inner contradictions cause the collapse of the universal state and bring to naught the enterprise of the Saviour with the Sword.
 
-[^to-42]: Toynbee op. cit. Vol. VI. p. 1.
-
-
-manifestations which only serve to hide the eternal truth just below the surface. The first intuition of the sense of unity arises through the appearance of the universal state. The Saviour with the Sword strives for that unification of mankind, which Alexander denoted with concordia.[^to-43] However, the violence of its creation seals the doom of the universal state. It is ever plagued by the militarism that created it, externally through constant warfare, and internally through the intermittent persecution of its minorities. Its inner contradictions cause the collapse of the universal state and bring to naught the enterprise of the Saviour with the Sword.
-
-The apprehension of unity remains, magnified in the hearts of the members of the internal proletariat whose specific national existence has been destroyed. The religions of even primitive societies reveal the truth that the terrestial plane can never satisfy man's striving for universality, expressed in a solidarity of the savage's soul with the tribal God in a super-human dimension.[^to-44] Mundane reality can not achieve the unity of brotherly love without the common recognition of the kingdom of God. The gradual realization of the importance of the celestial plane is strengthened through the oppression by the Universal state. The tribal God whose initial function had consisted of the protection of physical existence, now becomes the sole guarantee of tribal individuality, the chief hope for deliverance.
-
-[^to-43]: Toynbee op. cit. Vol VI. p. 178.
-[^to-44]: Toynbee op. cit. Vol. VI. p. 13.
-
-
-since conditions clearly do not warrant the expectation of liberation, the apocalyptic vision of a God arises, whose judgment contains the moral sanction of history. The immediate attainment of material hopes is renounced, though the ultimate realization of the exclusive validity of the supra-mundane plane still awaits a profounder vision.
+The apprehension of unity remains, magnified in the hearts of the members of the internal proletariat whose specific national existence has been destroyed. The religions of even primitive societies reveal the truth that the terrestial plane can never satisfy man's striving for universality, expressed in a solidarity of the savage's soul with the tribal God in a super-human dimension.[^to-44] Mundane reality can not achieve the unity of brotherly love without the common recognition of the kingdom of God. The gradual realization of the importance of the celestial plane is strengthened through the oppression by the Universal state. The tribal God whose initial function had consisted of the protection of physical existence, now becomes the sole guarantee of tribal individuality, the chief hope for deliverance. Since conditions clearly do not warrant the expectation of liberation, the apocalyptic vision of a God arises, whose judgment contains the moral sanction of history. The immediate attainment of material hopes is renounced, though the ultimate realization of the exclusive validity of the supra-mundane plane still awaits a profounder vision.
 
 Two conceptions of unity permeate the Universal state, derived from its political organization. The omnipotence of the ruler leads to the exaltation of the transcendence of God and the uniformity of justice to the postulation of the Supremacy of Law. The dominant minority is acutely conscious of the potency of law which constitutes not merely an engine of administration, but a force in itself.[^to-45] With the exaltation of Law, the personality of God grows progressively fainter. This was the condition of the Achaemenian Empire, of Babylon and of the West since the triumph of Physical Science.[^to-46]
 
-The other representation of the unity of the Universe as the work of an omnipotent God, with the Law as merely an emanation of God's will discloses the typical reaction of the internal proletariat. The various tribal Gods of the subject internal proletariat tend to develop a standard type, for they are now all alike exposed to the oppression of the same human monarch. In the contest of the Gods of the internal proletariat the most exclusive God usually triumphs, for in his exclusiveness resides
-
-[^to-45]: Toynbee op. cit. Vol. VI. p. 18.
-[^to-46]: Toynbee op. cit. p. 19.
-
-
-the proof of his living existence, and in his jealousy the certainty of maintaining an unimpaired identity. Thus Yahwe outran all competitors for the soul of the internal proletariat of the Hellenic world enabled Christianity to develop its apprehension of the unity of One True God into a Universal Church.[^to-47]
+The other representation of the unity of the Universe as the work of an omnipotent God, with the Law as merely an emanation of God's will discloses the typical reaction of the internal proletariat. The various tribal Gods of the subject internal proletariat tend to develop a standard type, for they are now all alike exposed to the oppression of the same human monarch. In the contest of the Gods of the internal proletariat the most exclusive God usually triumphs, for in his exclusiveness resides the proof of his living existence, and in his jealousy the certainty of maintaining an unimpaired identity. Thus Yahwe outran all competitors for the soul of the internal proletariat of the Hellenic world enabled Christianity to develop its apprehension of the unity of One True God into a Universal Church.[^to-47]
 
 On the plane of life Toynbee distinguishes the same incompatibility of reactions that the planes of behavior and feeling exhibited. Here, however, two pairs of violent and gentle response arise, each containing an antinomy of possible attitudes. Archaism and futurism constitute the violent pair. Archaism Toynbee defines as the attempt to remount the stream of time in the hope of attaining the happy condition of a happier period which now appears as the Golden Age. It operates in the same fields as promiscuity, Conduct, Art, Language and Religion. But while promiscuity reveals a spontaneous feeling resulting from the loss of style, archaism represents a conscious effort, strenuously pursued of recreating institutions of a happier time. In politics the reintroduction of the Roman censorship in 250 is paralleled by the veneration accorded to the English kingship. Archaism in art expresses itself in the neo-Gothic building style of the West, in the adoration by the Renaissance of the past. In the field of language a tour de force results. The frantic attempt to purge all words of foreign origin from
 
@@ -1946,96 +1680,37 @@ Where archaism attempts to remount the stream of Time, futurism rushes headlong 
 
 Futurism "fares better than it has any right to expect".[^to-51]
 
-[^to-48]: Toynbee on. cit. Vo. VI. p. 63
-[^to-49]: Toynbee op. cit. Vol. VI. p. 97. This concept is discussed in post "Conclusions".
-<sup>3.</sup> Toynbee op. cit. Vol. VI. p. 109. These examples seem to prove the success of futurism.
-<sup>4.</sup> Toynbee op. cit. Vol. VI. p. 101.
-
 
 it constitutes the reaction of a transplanted internal proletariat, prevented forever from returning to its former state. Goaded into physical revolt by the dominant minority's oppression, it sets an apocalyptic vision before its eyes to take courage in the desperate enterprise. Its fulfillment will be nothing less than an inversion of the present order, a change of roles between the slaves and the masters. This was the Jewish reaction to the Roman and Persian occupations, the conjuring up of a Messiah who would transform the agony into bliss by the establishment of an Israeli Commonwealth. The mundane world remains the center of hope.<sup>1</sup> It took the catastrophic defeats of the Maccabees to teach Jewry the lesson of deeper spiritual insight, the recognition that the True Kingdom of God does not lie in this world. This intuition is transfiguration, the apprehension of the supra-mundane plane of reality.
 
-The practioneers of archaism and futurism appear on the scene as saviours with the time-machine.<sup>2</sup> They arise in all classes of the disintegrating society. The external proletariat develops its savior-archaists who seek to return to the happy days before the civilization's impact and whose reaction is violence. The dominant minority also produces saviour-archaists. When they act in the field of foreign relations, their policy results in a fiasco, such as Justinian's attempt to revive the ghost of the Western Roman Empire. When they attempt to remedy
+The practioneers of archaism and futurism appear on the scene as saviours with the time-machine. They arise in all classes of the disintegrating society. The external proletariat develops its savior-archaists who seek to return to the happy days before the civilization's impact and whose reaction is violence. The dominant minority also produces saviour-archaists. When they act in the field of foreign relations, their policy results in a fiasco, such as Justinian's attempt to revive the ghost of the Western Roman Empire. When they attempt to remedy social conditions they are disowned by their own class for the internal proletariat's loss has been the dominant minority's gain. These outlaw-saviours include frequently some of the noblest souls of the dominant minority. They are joyously received by the internal proletariat whose vague ideology attains form under their influence. The disappointment of the Internal Proletariat's futuristic hopes is given meaning by these outlaw saviours. The City of Destruction is transcended, the City of God brought into view.
 
-<sup>1.</sup> Toynbee op. cit. Vol. VI. p. 131.
-<sup>2.</sup> Toynbee op. cit. Vol. VI. p. 213.
-
-
-social conditions they are disowned by their own class for the internal proletariat's loss has been the dominant minority's gain.<sup>1</sup> These outlaw-saviours include frequently some of the noblest souls of the dominant minority. They are joyously received by the internal proletariat whose vague ideology attains form under their influence. The disappointment of the Internal Proletariat's futuristic hopes is given meaning by these outlaw saviours. The City of Destruction is transcended, the City of God brought into view.<sup>2</sup>
-
-Archaism and Futurism reveal the pair of violent responses to the emptiness of life. Detachment and Transfiguration furnish the gentle variations in Toynbee's scheme. Just as the experience of the impracticability of futurism leads to self-transcendence, so the frustration of archaism issues in the Philosophy of Detachment.<sup>3</sup> The sorrow of a disintegrating society is evaded by a withdrawal from life, a quest for salvation through meditation. It finds bliss in a willless resignation, an escape from existence in which Death appears as welcome oblivion. Detachment implies not only a rejection of life, but a love of its negation. As an intellectual achievement, Toynbee considers this philosophy imposing but its moral consequences are repulsive.<sup>4</sup> For Detachment implies a purging of all passions,
-
-<sup>1.</sup> Toynbee op. cit. Vol. VI. p. 237.
-<sup>2.</sup> Toynbee op. cit. Vol. VI. p. 241. Toynbee included Lenin in the category of out-law saviors.
-<sup>3.</sup> This contradicts previous assertion that archaism leads to futurism.
-<sup>4.</sup> Toynbee op. cit. Vol. V. p. 132.
+Archaism and Futurism reveal the pair of violent responses to the emptiness of life. Detachment and Transfiguration furnish the gentle variations in Toynbee's scheme. Just as the experience of the impracticability of futurism leads to self-transcendence, so the frustration of archaism issues in the Philosophy of Detachment. The sorrow of a disintegrating society is evaded by a withdrawal from life, a quest for salvation through meditation. It finds bliss in a willless resignation, an escape from existence in which Death appears as welcome oblivion. Detachment implies not only a rejection of life, but a love of its negation. As an intellectual achievement, Toynbee considers this philosophy imposing but its moral consequences are repulsive. For Detachment implies a purging of all passions,
 
 
 of pity and love as well as the baser emotions.
 
-The Stoic ideal of indifference to suffering, repeated in Budhism, involves the reason for the defeat of Detachment. By appealing to the head to the exclusion of the heart the Philosopher tears asunder what God has joined together.<sup>1</sup> For failing to divine this truth, the philosophy of Detachment is superseded by the mystery of Transfiguration.<sup>2</sup>
+The Stoic ideal of indifference to suffering, repeated in Budhism, involves the reason for the defeat of Detachment. By appealing to the head to the exclusion of the heart the Philosopher tears asunder what God has joined together. For failing to divine this truth, the philosophy of Detachment is superseded by the mystery of Transfiguration.
 
-The Philosopher marked by a king represents Toynbee's conception of the creative personality of this attitude of life. The ambiguity of his position dooms the philosopher's endeavor. The universal state in which such individuals appear is the product of force and the sin of Violence ever haunta its steps. Even if the sword is temporarily sheathed, internal tensions will force its reappearance. Indeed the Platonic philosophy implies the necessity of the use of force. Though basing the republic on a recognition by everyone of the division of labor, Plato negates this lip service to popular consent by uniting the executive and the military. The philosopher's direct inspiration can reach but a few, leadership of a social organization must always rely on mimesis. The philosopher masked by a king can not provide the real saviour of society. By acting politically he trespasses on the king's proper field of ruthless deeds, while the king stultifies himself in attempting to practice Detachment.<sup>3</sup> His acts of violence turns him into a Saviour with the
-
-<sup>1.</sup> Toynbee op. cit. Vol. VI. p. 138.
-<sup>2.</sup> Toynbee op. cit. Vol. VI. p. 242.
-<sup>3.</sup> Toynbee op. cit. Vol. VI. p. 259. This seems to confirm Spengler's two worlds. World-as-History and World-as-Nature. See post Conclusions.
-
-
-of pity and love as well as the baser emotions.
-
-The Stoic ideal of indifference to suffering, repeated in Budhism, involves the reason for the defeat of Detachment. By appealing to the head to the exclusion of the heart the Philosopher tears asunder what God has joined together.<sup>1</sup> For failing to divine this truth, the philosophy of Detachment is superseded by the mystery of Transfiguration.<sup>2</sup>
-
-The Philosopher marked by a king represents Toynbee's conception of the creative personality of this attitude of life. The ambiguity of his position dooms the philosopher's endeavor. The universal state in which such individuals appear is the product of force and the sin of Violence ever haunts its steps. Even if the sword is temporarily sheathed, internal tensions will force its reappearance. Indeed the Platonic philosophy implies the necessity of the use of force. Though basing the republic on a recognition by everyone of the division of labor, Plato negates this lip service to popular consent by uniting the executive and the military. The philosopher's direct inspiration can reach but a few, leadership of a social organization must always rely on mimesis. The philosopher masked by a king can not provide the real saviour of society. By acting politically he trespasses on the king's proper field of ruthless deeds, while the king stultifies himself in attempting to practice Detachment.<sup>3</sup> His acts of violence turns him into a Saviour with the
-
-<sup>1.</sup> Toynbee op. cit. Vol. VI. p. 138.
-<sup>2.</sup> Toynbee op. cit. Vol. VI. p. 242.
-<sup>3.</sup> Toynbee op. cit. Vol. VI. p. 259. This seems to confirm Soengler's two worlds. World-as-History and World-as-Nature. See post Conclusions.
-
-
-Sword. Detachment offers no ultimate solution to the schism in the soul and only transfiguration remains, the experience which contains the true meaning of history.
+The Philosopher marked by a king represents Toynbee's conception of the creative personality of this attitude of life. The ambiguity of his position dooms the philosopher's endeavor. The universal state in which such individuals appear is the product of force and the sin of Violence ever haunts its steps. Even if the sword is temporarily sheathed, internal tensions will force its reappearance. Indeed the Platonic philosophy implies the necessity of the use of force. Though basing the republic on a recognition by everyone of the division of labor, Plato negates this lip service to popular consent by uniting the executive and the military. The philosopher's direct inspiration can reach but a few, leadership of a social organization must always rely on mimesis. The philosopher masked by a king can not provide the real saviour of society. By acting politically he trespasses on the king's proper field of ruthless deeds, while the king stultifies himself in attempting to practice Detachment. His acts of violence turns him into a Saviour with the Sword. Detachment offers no ultimate solution to the schism in the soul and only transfiguration remains, the experience which contains the true meaning of history.
 
 When the soul's quest for relief from the tensions of disintegration has been stymied at every turn, there emerges a deeper level of historical existence, the recognition of the Kingdom of God.<sup>1</sup> Christ Crucified, will always constitute a stumbling block for futurists, because He offers no guarantee of material reward. He will remain foolishness for the philosophers who can not grasp the reason for a return to the world after such a hard-won withdrawal. The Kingdom of God, of which Christ Crucified is King, nevertheless has meaning, though its dimensions are not commensurable with any mundane criterion. It exists in this world though not of it, extending into Eternity and the Infinite, in a supra-mundene, spiritual sense.<sup>2</sup>
 
 The connecting link between the two planes is Christ Jesus, exhibiting both a divine and a human nature. Yet how can these two natures be present in a single person? Toynbee assumes that the accessibility of the Divine essence depends on the possession of a faculty common to God and Man. Since love is man's noblest faculty, its absence in God, would make Him a spiritually inferior being (quod ad absurdum). Thus the very emotion which
 
-<sup>1.</sup> Transfiguration has been fully explained ante-Metaphysics.
-<sup>2.</sup> Toynbee op. cit. Vol. VI. p. 156-162. Toynbee discusses at length how something can exist in this world though not of it. See f.n. ante Section "Metaphysics".
+the philosophers attempt to excoriate guarantees the realization of God's purposes. Love, flowing from God to Man and evoking an answering response that on earth runs in the channel of a feeling of brotherhood constitutes the essence of transfiguration, the assurance of the supra-mundane plane.[^1670-1]
 
+The Kingdom of God contains the hope for salvation from the schism in the soul, the sole condition for inward peace. The only Saviour whose claims Toynbee considers of eternal validity is the God Incarnate in Man.[^1670-2] He arises in all civilizations, though in various guises. In the Hellenic world He first appeared as a blind Necessity which offered the no hope and found no lasting acceptance. The demi-god who endures human suffering reveals a profounder understanding. But the longing of humanity has concentrated on the God who appears as a Man, on the Fatherhood of God, whose love was so great that He sacrificed His son to give blessedness to his own.[^1670-3] For salvation can only be attained by suffering and the Saviour-God must experience the depths of human agony. This represents the symbolism of Heracles and Orpheus, of Tamus and Osiris, of Attis and Christ. Yet Toynbee applies a final criterion. Though all these gods suffered on behalf of humanity the ultimate merit of the sacrifice resides in the spirit in which it was endured. Of all the Gods-Incarnate-in-Man only Christ meets this test. His death is not suffered in resignation or in sadness but reveals that transcendental Love with which God loves this world, "so that whosoever believeth in Him should not perish but have everlasting life".
 
-the philosophers attempt to excoriate guarantees the realization of God's purposes. Love, flowing from God to Man and evoking an answering response that on earth runs in the channel of a feeling of brotherhood constitutes the essence of transfiguration, the assurance of the supra-mundane plane.<sup>1</sup>
+The road to Christ, to the Kingdom of God, contains the only lasting hope of mankind, the true purpose of history, the condition of eternal life. "The member of the disintegrating society who has taken this road has a surer hope and therefore a deeper happiness than the merely 'once-born' member of a mundane society that is still in growth; for he has learned the saving truth that the Most High hath not made one world, but two, and that the human wayfarer who still finds himself a sojourner in This World is not on that account beyond the pale of the Other World but is travelling all the time within the Kingdom of God and is at liberty to live as a citizen of that omnipresent commonwealth her and now, if he is willing with all his heart to pay allegiance to Christ the King and to take upon himself those obligations of citizenship which Christ has consecrated by fulfilling them in person. This entry into the Kingdom of God is a second birth, and, for the once-born denizen of This World, the discovery that it is possible to obtain this freedom is like finding treasure hid in a field, or finding one pearl of a great price".[^1678-1]
 
-The Kingdom of God contains the hope for salvation from the schism in the soul, the sole condition for inward peace. The only Saviour whose claims Toynbee considers of eternal validity is the God Incarnate in Man.<sup>2</sup> He arises in all civilizations, though in various guises. In the Hellenic world He first appeared as a blind Necessity which offered the no hope and found no lasting acceptance. The demi-god who endures human suffering reveals a profounder understanding. But the longing of humanity has concentrated on the God who appears as a Man, on the Fatherhood of God, whose love was so great that He sacrificed His son to give blessedness to his own.<sup>3</sup> For salvation can only be attained by suffering and the Saviour-God must experience the depths of human agony. This represents the symbolism of Heracles and Orpheus, of Tamus and Osiris, of Attis and Christ. Yet Toynbee applies a final criterion. Though all these gods suffered on behalf of humanity the ultimate merit of the sacrifice resides in the spirit in which it was endured. Of all the Gods-Incarnate-in-Man only Christ meets this test. His death is not
-
-<sup>1.</sup> Toynbee op. cit. Vol. VI. p. 166.
-<sup>2.</sup> Toynbee op. cit. Vol. V. p. 259.
-<sup>3.</sup> Toynbee op. cit. Vol. VI. p. 272-275. Toynbee engages in a long syllogism on the question of the Son's birth whether by procreation of adoption. For discussion see post "Conclusions".
-
-
-suffered in resignation or in sadness but reveals that transcendental Love with which God loves this world, "so that whosoever believeth in Him should not perish but have everlasting life".
-
-The road to Christ, to the Kingdom of God, contains the only lasting hope of mankind, the true purpose of history, the condition of eternal life. "The member of the disintegrating society who has taken this road has a surer hope and therefore a deeper happiness than the merely 'once-born' member of a mundane society that is still in growth; for he has learned the saving truth that the Most High hath not made one world, but two, and that the human wayfarer who still finds himself a sojourner in This World is not on that account beyond the pale of the Other World but is travelling all the time within the Kingdom of God and is at liberty to live as a citizen of that omnipresent commonwealth her and now, if he is willing with all his heart to pay allegiance to Christ the King and to take upon himself those obligations of citizenship which Christ has consecrated by fulfilling them in person. This entry into the Kingdom of God is a second birth, and, for the once-born denizen of This World, the discovery that it is possible to obtain this freedom is like finding treasure hid in a field, or finding one pearl of a great price".<sup>1</sup>
-
-Toynbee's journey through history ends with a paean of
-
-<sup>1.</sup> Toynbee op. cit. Vol. VI. p. 168.
-
-
-mysticism, a rejection of This World, a hope for salvation through Christ. The theological foundation of his philosophy appears in full clarity. The defeated soul of a disintegrating civilization has exhausted all alternatives for healing its schism. Finally the "truth" emerges that true blessedness is not attained in this world, but results from a recognition of the Kingdom of God, of infinite extend and eternal duration. This is Transfiguration, an emanation of God's love, the apprehension of the supra-mundane plane of reality. Its achievement and the recognition of the subsidiary importance of This World does not constitute an act of truancy but a withdrawal according to a plan in which the God incarnate as Man, the Saviour, leads Humanity towards a New Jerusalem.<sup>1</sup>
+Toynbee's journey through history ends with a paean of mysticism, a rejection of This World, a hope for salvation through Christ. The theological foundation of his philosophy appears in full clarity. The defeated soul of a disintegrating civilization has exhausted all alternatives for healing its schism. Finally the "truth" emerges that true blessedness is not attained in this world, but results from a recognition of the Kingdom of God, of infinite extend and eternal duration. This is Transfiguration, an emanation of God's love, the apprehension of the supra-mundane plane of reality. Its achievement and the recognition of the subsidiary importance of This World does not constitute an act of truancy but a withdrawal according to a plan in which the God incarnate as Man, the Saviour, leads Humanity towards a New Jerusalem.[^1680-1]
 
 The reliance on Dante is obvious. With transfiguration the Pilgrim has reached Paradise. Now his mind is at one with the Love of God and terrestial bonds fall away. Here everything is bliss, with will and necessity harmonized, with Time at a standstill and Space no longer an obstacle. The greater "truth" appears to man, of the insignificance of mundane affairs, of the transcendental reprieve which God gives to those who repent.
 
-But the nobility of this conception is marred by an empirical method which recognizes no mysteries and imposes its causal patterns on all spiritual manifestations. The alternative ways of behavior, feeling and life are metaphysical emanations of a theological viewpoint, which will not be buttressed
+But the nobility of this conception is marred by an empirical method which recognizes no mysteries and imposes its causal patterns on all spiritual manifestations. The alternative ways of behavior, feeling and life are metaphysical emanations of a theological viewpoint, which will not be buttressed by any, however vast, amount of empirical data. Christ's moral superiority in the "Battle of the Gods" is derived from his readiness to sacrifice himself. This, however, represents a value judgment not a necessary conclusion from historical events.[^1684-1] The alternative, seem to fit all conditions of life with no necessary relation to disintegration.[^1684-2] The supporting data includes such incommensurables as Hitler's abolition of the old administrative system, Peter's shearing off of beards, Japan's modernization, all as symptoms of a suicidal futurism. Nothing could illustrate better the frustration of an empirical documentation that must ever confine itself to the mere phenomenal appearance which reflect the noumena, the soul.
 
-<sup>1.</sup> Toynbee op. cit. Vol. VI. p. 279.
-
-
-by any, however vast, amount of empirical data. Christ's moral superiority in the "Battle of the Gods" is derived from his readiness to sacrifice himself. This, however, represents a value judgment not a necessary conclusion from historical events.<sup>1</sup> The alternative, seem to fit all conditions of life with no necessary relation to disintegration.<sup>2</sup> The supporting data includes such incommensurables as Hitler's abolition of the old administrative system, Peter's shearing off of beards, Japan's modernization, all as symptoms of a suicidal futurism. Nothing could illustrate better the frustration of an empirical documentation that must ever confine itself to the mere phenomenal appearance which reflect the noumena, the soul.
-
-The assertion of purposiveness of the first five volumes has disappeared. Nothing can really save This World. Indeed should it be saved? For only through the disintegration of Civilizations, in Toynbee's terms, does Man learn to know God.<sup>3</sup>
-
-<sup>1.</sup> Unless, of course, one attempts to equate morality with success.
-<sup>2.</sup> See post "Conclusions".
-<sup>3.</sup> See post "Conclusions", for full discussion of these points.
+The assertion of purposiveness of the first five volumes has disappeared. Nothing can really save This World. Indeed should it be saved? For only through the disintegration of Civilizations, in Toynbee's terms, does Man learn to know God.
 
 
 ### Conclusions
@@ -2044,87 +1719,146 @@ Toynbee's philosophy represents an attempt to transcend the conception of histor
 
 All progress results from the civilizations whose birth heralded a new stage in an evolutionary rhythm which permeates all existence. Civilizations are not organic beings whose destiny determines their history but merely fields of activity, the
 
-<sup>1.</sup> Limitations of space have forced me to confine the discussion to a criticism of Toynbee's philosophical position and those concepts central to Toynbee's scheme. Therefore, I did not explore inconsistencies which do not affect Toynbee's central argument such as Toynbee's hint that Russia may be the new creative minority of the West (a growth criterion) while spending considerable effort in implying that the West is in a stage of breakdown. A similar contradiction is the argument that geographical expansion accompanies breakdown if set against a previous description of the stimulus of new ground. Again, Toynbee proves that a civilization's influence over neighboring societies is greatest during the period of decline, while at the same time including India in the Western civilization because of her adoption of Western technology. These inconsistencies while reflecting on Toynbee's exactness of thinking, do not however, invalidate his central position. (For my criteria see Appendix A - The Concepts of Meaning. - For other inconsistencies see my foot-notes on previous sections.)
+### Footnotes
+
+[^1670-1]: Transfiguration has been fully explained ante-Metaphysics.
+[^1670-2]: Toynbee op. cit. Vol. VI. p. 156-162. Toynbee discusses at length how something can exist in this world though not of it. See f.n. ante Section "Metaphysics".
+[^1670-3]: Toynbee op. cit. Vol. VI. p. 166.
+[^1678-1]: Toynbee op. cit. Vol. VI. p. 168.
+[^1680-1]: Toynbee op. cit. Vol. VI. p. 279.
+[^1684-1]: Unless, of course, one attempts to equate morality with success.
+[^1684-2]: See post "Conclusions".
+[^1837-1]: Toynbee's categories of archaism, futurism and promiscuity lead to this conclusion. It is obvious that all activity must fit one of these classifications. For example, Toynbee castigates the Renaissance for its traditionalism and the Modern West for its rejection of traditional art-styles. Similarly, Peter's reforms in Russia, Japan's modernization, Napoleon's administrative reforms are criticized as symptoms of a suicidal futurism while the retention of the British King and the organization of the Parliament of Westminster on the basis of territory instead of corporations is described as the emanation of an archaism doomed to self-destruction.
+[^1846-1]: For example of the utilization in terms of mundane success of even the concept of Transfiguration see the following quote: Toynbee Vol. VI. p. 321. "What response to this challenge is Christian to make? Is he going to look this way or that as if he would run, yet stand still because he can not tell which way to go until the fire from heaven duly descends upon the City of Destruction and the wretched hoverer perishes in a holocaust which he has so dismally foreboded without ever bringing himself to the point of fleeing from the wrath to come. Or will he begin to run - and run on crying 'Life! Life! Eternal Life!' with his eyes set on a shining light and his feet bound for a distant wicked - gate? If the answer to this question depended on nobody but Christian himself, our knowledge of the uniformity of human nature might induce us to predict that Christian's imminent destiny was Death and not Life. But in the classic version of the myth we are told that the human protagonist was not left entirely to his own resources in the hour that was decisive for his fate. According to John Bunyan, Christian was saved by his encounter with the Evangelist. And, inasmuch as it can not be supposed that God's nature is less constant than Man's, we may and must pray that a reprieve which God has granted to our society once will not be refused if we ask for it again in a contrite spirit and with a broken heart."
+[^1851-1]: On this point see Friedrich-- Inevitable Peace - p. 111.
+[^1851-2]: Also Friedrich - Althusius. See ante for my criticism of this concept.
+[^1851-3]: Toynbee op. cit. Vol. VI.
+[^1870-1]: Spengler op. cit. Vol. II. p. 216.
+[^1870-2]: It may be interesting to compare Spengler's quotation with the following statement by Toynbee: "In fact the philosopher-king is bound to fail because he is attempting to unite two contradictory natures in a single person. The philosopher stultifies himself by trespassing on the king's field of ruthless action, while conversely the king stultifies himself by trespassing on the philosopher's field of loveless and pitiless contemplation."
+[^1878-1]: Though even this is highly debatable point.
+[^1880-1]: Toynbee op. cit. Vol. II. p. 304.
+[^1882-1]: For full development see post "The Sense of Responsibility". Also Collingwood, "Idea of History" p. 169.
+[^1893-1]: Toynbee op. cit. Vol. VI. p. 288.
+[^1878-2]: See post Ch. "The Sense of Responsibility". Also Appendix A "The Concepts of Meaning".
+[^1880-2]: Toynbee op. cit. Vol. I. p. 302.
+[^1880-3]: Toynbee's syllogism goes like this: A civilization is that which develops from a challenge. A challenge is that from which a civilization develops. This however, merely shifts the problem of definition from "development" to "challenge".
+[^2014]: In Toynbee's definition of Transfiguration.
+[^2015]: Since religions only arise as by-products of the schism in the body social in Toynbee's scheme.
+[^2211-1]: Toynbee utilizes the same misstatement to refute Spengler.
+[^2211-2]: See post Ch. "History as Intuition". (Conclusions).
+[^2220-1]: Toynbee Vol. III. p. 5.
+[^2222-1]: See post Ch. "The Sense of Responsibility" for full development. Also Ch: "History and Man's Experience of Morality".
+[^2231-1]: Spengler op. cit. Vol. I. p. 300.
+[^2231-2]: Indeed the choice of the word "generic" indicates an organic factor.
+[^2232-1]: It also is implied by Toynbee's concept that the idolization of an ephemeral self by Athens was so pervasive that the Byzantine empress of Athenian birth who was involved in the iconoclastic controversy exhibited the same perversity which once before had led the Athenians to reject Paul.
+[^2236-1]: Toynbee op. cit. Vol. VI. p. 97.
+[^2238-1]: Toynbee op. cit. Vol. III. p. 272.
+[^2238-2]: Toynbee op. cit. Vol. IV. p. 132.
+[^2242-1]: Toynbee specifically considers the reliance on mimesis as dooming the philosopher masked by a King. Toynbee op. cit. Vol. VI. p. 255.
+[^1890-1]: Toynbee op. cit. Vol. III. p. 272.
+[^1884-1]: Spengler op. cit. Vol. I. p. 300.
+[^1884-2]: Indeed the choice of the word "generic" indicates an organic factor.
+[^1890-2]: Toynbee specifically considers the reliance on mimesis as dooming the philosopher masked by a King. Toynbee op. cit. Vol. VI. p. 255.
+[^1899-1]: It also is implied by Toynbee's concept that the idolization of an ephemeral self by Athens was so pervasive that the Byzantine empress of Athenian birth who was involved in the iconoclastic controversy exhibited the same perversity which once before had led the Athenians to reject Paul.
+
+[^to-11]: Toynbee op. cit. Vol. V. p. 79 (f.n.) See post "Conclusions" for discussion of this concept.
+[^to-12]: This criticism of Detachment seems contradicted by the very existence of Plato and Aristotle's political philosophy, which indicates some concern with the affairs of this world.
+[^to-13]: Toynbee op. cit. Vol. V. p. 58 considers Cartesianism the Western counterpart of Determinism.
+[^to-14]: Toynbee op. cit. Vol. V. p. 66.
+[^to-15]: There seems no warranty for including India and other colonial dependencies in the Western society. The only connection between India and the West is on the technical (economic) and political plane. This, in Toynbee's terms, is a consequence of Western disintegration not of Indian inclusion in the Western Civilization.
+[^to-16]: Toynbee op. cit. Vol. V. p. 75.
+[^to-17]: Toynbee op. cit. Vol. V. p. 76.
+[^to-18]: This is a good illustration of Toynbee's normative concepts.
+[^to-19]: Toynbee op. cit. Vol. V. p. 174. See post for discussion of this argument.
+[^to-20]: Toynbee op. cit. Vol. V. p.193.
+[^to-21]: For other illustrations see Toynbee op. cit. Vol. V. p. 76-194.
+[^to-22]: Toynbee op. cit. Vol. V. p. 233.
+[^to-23]: Toynbee op. cit. Vol. V. p. 13.
+[^to-24]: Toynbee op. cit. Vol. VI. p. 375.
+[^to-25]: For discussion of this ambiguity see post "Conclusions".
+[^to-26]: See appendix A. The Concepts of Meaning.
+[^to-27]: For full discussion see post Conclusions.
+[^to-28]: Toynbee op. cit. Vol. V. p. 380.
+[^to-29]: Toynbee op. cit. Vol. V. p. 383.
+[^to-30]: Toynbee op. cit. Vol. V. p. 391.
+[^to-42]: Toynbee op. cit. Vol. VI. p. 1.
+[^to-43]: Toynbee op. cit. Vol VI. p. 178.
+[^to-44]: Toynbee op. cit. Vol. VI. p. 13.
+[^to-45]: Toynbee op. cit. Vol. VI. p. 18.
+[^to-46]: Toynbee op. cit. p. 19.
+[^to-47]: Toynbee op. cit. Vol. VI. p. 49.
+[^to-48]: Toynbee on. cit. Vo. VI. p. 63
+[^to-49]: Toynbee op. cit. Vol. VI. p. 97. This concept is discussed in post "Conclusions".
+[^to-50]: Toynbee op. cit. Vol. VI. p. 109. These examples seem to prove the success of futurism.
+[^to-51]: Toynbee op. cit. Vol. VI. p. 101.
+
+### Additional Notes
+
+1. Toynbee op. cit. Vol. VI. p. 175.
+2. Toynbee op. cit. Vol. V. p. 403.
+3. Toynbee op. cit. Vol. V. p. 411. For a discussion of these illustrations see post Conclusions.
+4. Toynbee op. cit. Vol. V. p. 430. For the lack of inner relationship between Tyche and Calvin see post "Conclusions". It would seem to fit much better under Sense of Sin.
+5. See ante p.
+6. Toynbee op. cit. Vol. V. p. 439.
+7. Toynbee op. cit. Vol. V. p. 439. This of course may be the secret of their success.
+8. Toynbee op. cit. Vol. V. p.456.
+9. Toynbee op. cit. Vol. V. p. 481. Note dependence of this concept on Spengler.
+10. Toynbee op. cit. Vol. V. p. 494.
+11. Toynbee op. cit. Vol. V. p. 527.
+12. Toynbee op. cit. Vol. VI. p. 131.
+13. Toynbee op. cit. Vol. VI. p. 213.
+14. Toynbee op. cit. Vol. VI. p. 237.
+15. Toynbee op. cit. Vol. VI. p. 241. Toynbee included Lenin in the category of out-law saviors.
+16. This contradicts previous assertion that archaism leads to futurism.
+17. Toynbee op. cit. Vol. V. p. 132.
+18. Toynbee op. cit. Vol. VI. p. 138.
+19. Toynbee op. cit. Vol. VI. p. 242.
+20. Toynbee op. cit. Vol. VI. p. 259. This seems to confirm Spengler's two worlds. World-as-History and World-as-Nature. See post Conclusions.
+21. Transfiguration has been fully explained ante-Metaphysics.
+22. Toynbee op. cit. Vol. VI. p. 156-162. Toynbee discusses at length how something can exist in this world though not of it. See f.n. ante Section "Metaphysics".
+23. Toynbee op. cit. Vol. VI. p. 166.
+24. Toynbee op. cit. Vol. V. p. 259.
+25. Toynbee op. cit. Vol. VI. p. 272-275. Toynbee engages in a long syllogism on the question of the Son's birth whether by procreation of adoption. For discussion see post "Conclusions".
+26. Toynbee op. cit. Vol. VI. p. 168.
+27. Toynbee op. cit. Vol. VI. p. 279.
+28. Unless, of course, one attempts to equate morality with success.
+29. See post "Conclusions".
+30. See post "Conclusions", for full discussion of these points.
+
+*Limitations of space have forced me to confine the discussion to a criticism of Toynbee's philosophical position and those concepts central to Toynbee's scheme. Therefore, I did not explore inconsistencies which do not affect Toynbee's central argument such as Toynbee's hint that Russia may be the new creative minority of the West (a growth criterion) while spending considerable effort in implying that the West is in a stage of breakdown. A similar contradiction is the argument that geographical expansion accompanies breakdown if set against a previous description of the stimulus of new ground. Again, Toynbee proves that a civilization's influence over neighboring societies is greatest during the period of decline, while at the same time including India in the Western civilization because of her adoption of Western technology. These inconsistencies while reflecting on Toynbee's exactness of thinking, do not however, invalidate his central position. (For my criteria see Appendix A - The Concepts of Meaning. - For other inconsistencies see my foot-notes on previous sections.)*
 
 
 common ground of action of their constituents. Their dynamism expresses itself in the direction of mimesis, a social drill, which serves as a substitute for the direct absorption of inspiration from the creative minority. Yet the process of growth is fraught with dangers. Mimesis breaks down because of its mechanicalness and the creative minority succumbs to the nemesis of the idolatry of the ephemeral instead of the eternally true. Civilizations do not break down because of an inevitable fatality, but commit suicide.
 
 The repeated failure to respond to a challenge leads to disintegration the first manifestations of which appear as a schism in the body social. The creative minority substitutes force for charm, and evokes a correspondingly violent reaction from the seceding internal proletariat. The barbarians beyond the borders constitute themselves as an external proletariat whose constant threat across a military frontier gradually saps the energy of the dominant minority.
 
-The schism in the body social is paralleled by a schism in the soul. All alternative ways of behavior, feeling and life are doomed. Then out of the collapse of material hopes arises the vision of the ultimate meaning of human suffering, the real embodiment of historical existence, the Kingdom of God, with Christ as King. The soul which had defeated itself on the mundane plane understands the immanence of God's love and through
-
-
-repentance and humility may win its way to salvation.
+The schism in the body social is paralleled by a schism in the soul. All alternative ways of behavior, feeling and life are doomed. Then out of the collapse of material hopes arises the vision of the ultimate meaning of human suffering, the real embodiment of historical existence, the Kingdom of God, with Christ as King. The soul which had defeated itself on the mundane plane understands the immanence of God's love and through repentance and humility may win its way to salvation.
 
 Toynbee's common-sense approach, which pretends to derive its conclusions from a vast and impressive collection of empirical data hides great complexities. The incommensurability of his metaphysics and the empirical data, the logical antinomy of his position present themselves at every stage of Toynbee's philosophy. The realm of theology and the field of natural laws can be reconciled only with extreme difficulty. Does history reveal the gradual unfolding of a divine purpose? Or is history a natural force, obeying well-understood laws of evolution, through which a rhythm of self-implementation appears for the discerning? Does history, finally, constitute merely the common field of activity of the constituent civilizations, its standard purposive self-determination, with disintegration the penalty for an inward failure?
 
 These three questions exhibit Toynbee's conflicting tendencies. The assertion of purposiveness in the first two volumes is soon revealed as but the emanation of a biological evolutionary development which proceeds from Yin to Yang, from Integration to Differentiation. In these terms Challenge-and-Response constitute merely beats of an elemental rhythm and a description of the operation of inevitability, not a denial of its necessity.
 
-Toynbee's metaphysical assumptions derive from a theology in the medieval tradition of Dante, in which Love constitutes
+Toynbee's metaphysical assumptions derive from a theology in the medieval tradition of Dante, in which Love constitutes the motive-force of the universe and This World is conceived as but the preparation for the Kingdom of God. For this reason He submits the evolutionary manifestations of the Elan Vital to a normative criticism which rejects militarism as an original sin and which judges all actions by their aptness for the attainment of the Kingdom of God. The criticism of the typical attitudes of a soul are less descriptions of the alternatives of a disintegrating society than the denial of the substantiality of all secular activity.[^1837-1] In the final analysis only the Kingdom of God matters. Mundane success hides the inner hollowness of political institutions, the existence of which ever depends on violence.
 
+The difficulties of Toynbee's position are compounded by the utilization of an empirical approach whose exhibition of deep learning tends to obscure its methodological shallowness. Empirical analysis relies on a recognition of recurrent situations. The formulation of laws requires a comparability of phenomena. The inner meaning of these manifestations can not enter into calculations, the uniqueness of experience constitutes a contradiction in terms. An empirical method is therefore unsuited for the demonstration of a theological view which must of necessity rest on a transcendental experience. To be sure, a philosophy of history based on theology is feasible, as Bossuet and Niebuhr demonstrate. Yet their formulation derives, in the first instance, from a frank recognition of a normative pattern and a profound metaphysics.
 
-the motive-force of the universe and This World is conceived as but the preparation for the Kingdom of God. For this reason He submits the evolutionary manifestations of the Elan Vital to a normative criticism which rejects militarism as an original sin and which judges all actions by their aptness for the attainment of the Kingdom of God. The criticism of the typical attitudes of a soul are less descriptions of the alternatives of a disintegrating society than the denial of the substantiality of all secular activity.<sup>1</sup> In the final analysis only the Kingdom of God matters. Mundane success hides the inner hollowness of political institutions, the existence of which ever depends on violence.
+Two consequences result from Toynbee's attempt to combine his theological and biological approach. Survival, which in an evolutionary development becomes the only criterion of inner fitness is given divine sanction. Sin denotes the Causality of which failure constitutes the phenomenal manifestation. Success represents the reward for moral action.[^1846-1] This Calvinist concept is, of course, not inconsistent with an assertion of purposiveness, for the only indication of God's favor in a world of dark uncertainties is the temporal eminence achieved by strenuous exertion.[^1851-1] It does, however, define morality in terms of ability to prevail and hardly differs from Spengler's concept of necessity as the sole guide to action.[^1851-2]
 
-The difficulties of Toynbee's position are compounded by the utilization of an empirical approach whose exhibition of deep learning tends to obscure its methodological shallowness. Empirical analysis relies on a recognition of recurrent situations. The formulation of laws requires a comparability of phenomena. The inner meaning of these manifestations can not
+On the other hand, the impossibility of uniting general laws with the unique merit of Christianity issues in a rejection of phenomenal reality. All possible attitudes towards life are seen to fail in achieving that permanence which alone can indicate the attainment of the Kingdom of God. Throughout Toynbee's analysis of the schism in the soul,[^1851-3] the tendency to reject all worldly ambition as sham becomes more pronounced. The doom of mutability, the transitoriness of existence, the unresolved mystery of the decline of civilizations all derive meaning from an affirmation of the eternal validity of the Kingdom of God.
 
-<sup>1.</sup> Toynbee's categories of archaism, futurism and promiscuity lead to this conclusion. It is obvious that all activity must fit one of these classifications. For example, Toynbee castigates the Renaissance for its traditionalism and the Modern West for its rejection of traditional art-styles. Similarly, Peter's reforms in Russia, Japan's modernization, Napoleon's administrative reforms are criticized as symptoms of a suicidal futurism while the retention of the British King and the organization of the Parliament of Westminster on the basis of territory instead of corporations is described as the emanation of an archaism doomed to self-destruction.
+The biological and theological view are found to be irreconcilable, after all. The Elan Vital operating through challenge-and-response leads a succession of climbers upwards on a precipe towards a ledge where the species becomes transformed into superman and the inspiration of the mundane creative minority unnecessary. Yet the failure to successfully reach this new level of integration produces as a concomitant of disintegration the universal church, the repository of the only true meaning of existence. This implies, that either the evolutionary process is a chimera, the very unattainability of which teaches man his limitations or that the new state of Yin by definition excludes the necessary validity of the higher religions. No compromise between these two attitudes is possible. The pervasiveness of the elemental rhythm reduces the universal church to the incidental by-product of disintegration.[^to-1] The eternal applicability of Christianity denies the substantiality of worldly endeavor and makes the precipe a stage of transitory futility.[^to-2] If man succeeds in transforming himself he will never have known a higher faith. The appearance of religion, again, signals the doom of worldly endeavor. What is the real tragedy in Toynbee, the birth of civilizations or their disintegration?
 
+Toynbee has not resolved Spengler antinomies but sharpened them by an insistence, whatever his denials, on a hint from God, expressed in success, regarding the merit of activity. The two realms of History and Causality, of Time and Space, of Destiny and Morality remain incommensurable. For Spengler, too, had admitted a religious experience, but explicitly affirmed its distinctness from history or in Toynbee's terms its rejection of mundane success: "My kingdom is not of this world. This is the final word which admits of no gloss and on which each must check the course wherein birth and nature have set him. Pulsation or tension, history or nature, politics or religion - here it is one or the other, there is no honest way of compromise. A statesman can be deeply religious, a pious man can die for his country - but they must, both, know on which side they are really standing. There is no bridge between directional Time and timeless Eternity, between the course of history and the existence of a divine world-order. This is the final meaning of the moment in which Pilate and Christ confronted one another."[^1870-1] This, in the abrupt language of Spengler, expresses the full implication of Toynbee's concept of transfiguration.[^1870-2]
 
-enter into calculations, the uniqueness of experience constitutes a contradiction in terms. An empirical method is therefore unsuited for the demonstration of a theological view which must of necessity rest on a transcendental experience. To be sure, a philosophy of history based on theology is feasible, as Bossuet and Niebuhr demonstrate. Yet their formulation derives, in the first instance, from a frank recognition of a normative pattern and a profound metaphysics.
+Toynbee's methodology adds to these inconsistencies. It offers no support for the assumption of an Elan Vital manifesting itself in progress. It structures all historical appearances into a Causality, the essence of which is expressed by temporal or spatial succession. Thus Toynbee ascribes the decline of the Holy Roman Empire to the gradual displacement of the ruling dynasty from the frontier marshes to the interior provinces, the reduced challenge of which impaired the intensity of the response. This seems to mistake what represented at best a manifestation of inner weakness[^1878-1] for its cause. Moreover, though the Hohenstauffen were perhaps instrumental in bringing about the nadir of the Imperial position, and though their ancestral territories lay rather in the center of the Empire, their doom can hardly be said to have resulted from a deficiency in reactive ability.
 
-Two consequences result from Toynbee's attempt to combine his theological and biological approach. Survival, which in an evolutionary development becomes the only criterion of inner fitness is given divine sanction. Sin denotes the Causality of which failure constitutes the phenomenal manifestation. Success represents the reward for moral action.<sup>1</sup> This Calvinist concept
+Again, Toynbee considers the sudden decrease in cultivation and prosperity upon crossing the German-Lithuanian frontier a demonstration of the existence of an excessive climatic challenge.[^1880-1] The very occurrence of an abrupt transformation should have cautioned Toynbee against postulating climatic change as the key factor, however. An examination of history, moreover, will disclose a variety of reasons for the deficiency in economic development of this border region between Catholic and Orthodox Christianity, the West and the Slavs.
 
-<sup>1.</sup> For example of the utilization in terms of mundane success of even the concept of Transfiguration see the following quote: Toynbee Vol. VI. p. 321. "What response to this challenge is Christian to make? Is he going to look this way or that as if he would run, yet stand still because he can not tell which way to go until the fire from heaven duly descends upon the City of Destruction and the wretched hoverer perishes in a holocaust which he has so dismally foreboded without ever bringing himself to the point of fleeing from the wrath to come. Or will he begin to run - and run on crying 'Life! Life! Eternal Life!' with his eyes set on a shining light and his feet bound for a distant wicked - gate? If the answer to this question depended on nobody but Christian himself, our knowledge of the uniformity of human nature might induce us to predict that Christian's imminent destiny was Death and not Life. But in the classic version of the myth we are told that the human protagonist was not left entirely to his own resources in the hour that was decisive for his fate. According to John Bunyan, Christian was saved by his encounter with the Evangelist. And, inasmuch as it can not be supposed that God's nature is less constant than Man's, we may and must pray that a reprieve which God has granted to our society once will not be refused if we ask for it again in a contrite spirit and with a broken heart."
-
-
-is, of course, not inconsistent with an assertion of purposiveness, for the only indication of God's favor in a world of dark uncertainties is the temporal eminence achieved by strenuous exertion.<sup>1</sup> It does, however, define morality in terms of ability to prevail and hardly differs from Spengler's concept of necessity as the sole guide to action.<sup>2</sup>
-
-On the other hand, the impossibility of uniting general laws with the unique merit of Christianity issues in a rejection of phenomenal reality. All possible attitudes towards life are seen to fail in achieving that permanence which alone can indicate the attainment of the Kingdom of God. Throughout Toynbee's analysis of the schism in the soul,<sup>3</sup> the tendency to reject all worldly ambition as sham becomes more pronounced. The doom of mutability, the transitoriness of existence, the unresolved mystery of the decline of civilizations all derive meaning from an affirmation of the eternal validity of the Kingdom of God.
-
-The biological and theological view are found to be irreconcilable, after all. The Elan Vital operating through challenge-and-response leads a succession of climbers upwards on a precipe towards a ledge where the species becomes transformed into superman and the inspiration of the mundane creative minority unnecessary. Yet the failure to successfully reach this new level of integration produces as a concomitant of disintegration the universal church, the repository of the only true
-
-<sup>1.</sup> On this point see Friedrich-- Inevitable Peace - p. 111.
-<sup>2.</sup> Also Friedrich - Althusius. See ante for my criticism of this concept.
-<sup>3.</sup> Toynbee op. cit. Vol. VI.
-
-
-meaning of existence. This implies, that either the evolutionary process is a chimera, the very unattainability of which teaches man his limitations or that the new state of Yin by definition excludes the necessary validity of the higher religions. No compromise between these two attitudes is possible. The pervasiveness of the elemental rhythm reduces the universal church to the incidental by-product of disintegration.[^to-1] The eternal applicability of Christianity denies the substantiality of worldly endeavor and makes the precipe a stage of transitory futility.[^to-2] If man succeeds in transforming himself he will never have known a higher faith. The appearance of religion, again, signals the doom of worldly endeavor. What is the real tragedy in Toynbee, the birth of civilizations or their disintegration?
-
-Toynbee has not resolved Spengler antinomies but sharpened them by an insistence, whatever his denials, on a hint from God, expressed in success, regarding the merit of activity. The two realms of History and Causality, of Time and Space, of Destiny and Morality remain incommensurable. For Spengler, too, had admitted a religious experience, but explicitly affirmed its distinctness from history or in Toynbee's terms its rejection of mundane success: "My kingdom is not of this world. This is the final word which admits of no gloss and on which each must check the course wherein birth and nature have set him. Pulsation or
-
-<sup>1.</sup> In Toynbee's definition of Transfiguration.
-<sup>2.</sup> Since religions only arise as by-products of the schism in the body social in Toynbee's scheme.
-
-
-tension, history or nature, politics or religion - here it is one or the other, there is no honest way of compromise. A statesman can be deeply religious, a pious man can die for his country - but they must, both, know on which side they are really standing. There is no bridge between directional Time and timeless Eternity, between the course of history and the existence of a divine world-order. This is the final meaning of the moment in which Pilate and Christ confronted one another."<sup>1</sup> This, in the abrupt language of Spengler, expresses the full implication of Toynbee's concept of transfiguration.<sup>2</sup>
-
-Toynbee's methodology adds to these inconsistencies. It offers no support for the assumption of an Elan Vital manifesting itself in progress. It structures all historical appearances into a Causality, the essence of which is expressed by temporal or spatial succession. Thus Toynbee ascribes the decline of the Holy Roman Empire to the gradual displacement of the ruling dynasty from the frontier marshes to the interior provinces, the reduced challenge of which impaired the intensity of the response. This seems to mistake what represented at best
-
-<sup>1.</sup> Spengler op. cit. Vol. II. p. 216.
-<sup>2.</sup> It may be interesting to compare Spengler's quotation with the following statement by Toynbee: "In fact the philosopher-king is bound to fail because he is attempting to unite two contradictory natures in a single person. The philosopher stultifies himself by trespassing on the king's field of ruthless action, while conversely the king stultifies himself by trespassing on the philosopher's field of loveless and pitiless contemplation."
-
-
-a manifestation of inner weakness<sup>1</sup> for its cause. Moreover, though the Hohenstauffen were perhaps instrumental in bringing about the nadir of the Imperial position, and though their ancestral territories lay rather in the center of the Empire, their doom can hardly be said to have resulted from a deficiency in reactive ability.
-
-Again, Toynbee considers the sudden decrease in cultivation and prosperity upon crossing the German-Lithuanian frontier a demonstration of the existence of an excessive climatic challenge.<sup>2</sup> The very occurrence of an abrupt transformation should have cautioned Toynbee against postulating climatic change as the key factor, however. An examination of history, moreover, will disclose a variety of reasons for the deficiency in economic development of this border region between Catholic and Orthodox Christianity, the West and the Slavs.
-
-Yet such a single-factor analysis is the logical consequence of the application of the methods of natural science to historical phenomena. Historical events represent unique occurrences, products of the impact of creative personalities on an organic environment to be analyzed causally only in their determined aspects.<sup>3</sup> Though Toynbee realized this in theory, his emphasis is ever on a quest for the apprehension of immutable laws, of which his Law of Race or Law of Compensation furnish
-
-<sup>1.</sup> Though even this is highly debatable point.
-<sup>2.</sup> Toynbee op. cit. Vol. II. p. 304.
-<sup>3.</sup> For full development see post "The Sense of Responsibility". Also Collingwood, "Idea of History" p. 169.
-
-
-examples. The tendency to consider all manifestations comparable triumphs over the mere postulation of the unpredictability of events. But comparability for natural science implies qualitative equivalence. Only quantitative differences exist for the empiricist.
+Yet such a single-factor analysis is the logical consequence of the application of the methods of natural science to historical phenomena. Historical events represent unique occurrences, products of the impact of creative personalities on an organic environment to be analyzed causally only in their determined aspects.[^1882-1] Though Toynbee realized this in theory, his emphasis is ever on a quest for the apprehension of immutable laws, of which his Law of Race or Law of Compensation furnish examples. The tendency to consider all manifestations comparable triumphs over the mere postulation of the unpredictability of events. But comparability for natural science implies qualitative equivalence. Only quantitative differences exist for the empiricist.
 
 This leads to a superficiality of classification which draws conclusions from mere surface phenomena. Thus because a universal state preceded disintegration in most civilizations, each appearance of an inclusive political organization heralds the breakdown of its society. The Empire of the Romanoffs represents as certain a criterion for the decline of the Russian civilization, as the appearance of Augustine's creation for the impending disintegration of Hellenic civilization. For this reason, too, the introduction of the Western alphabet by Mustapha Kemal, the abolition of the Laender system by Hitler, the administrative reforms of the French revolution, the political creation of Peter the Great are all considered emanations of the same futurism, equally doomed to self-destruction.
 
-Since each disintegrating society has an external proletariat, all attacks from beyond a civilization's borders must fit this category. The Sassanid Empire's onslaught on declining Byzantism is paralleled by the incessant warfare in the Russian forest between the Kazhar Empire and Scandinavian War-bands.<sup>1</sup> Again the "gentle" reaction postulated by Toynbee as a possible attitude for the external proletariat, manifested itself on the
-
-<sup>1.</sup> Toynbee op. cit. Vol. VI. p. 288.
-
-
-one hand in the person of Attawulf and on the other in the appearance of Islam. It requires no extended argument to show that the only common feature of these phenomena is their occurrence outside the civilizations borders, a classification into which the Kazhar Empire fit only with difficulty. [^1]
+Since each disintegrating society has an external proletariat, all attacks from beyond a civilization's borders must fit this category. The Sassanid Empire's onslaught on declining Byzantism is paralleled by the incessant warfare in the Russian forest between the Kazhar Empire and Scandinavian War-bands.[^1893-1] Again the "gentle" reaction postulated by Toynbee as a possible attitude for the external proletariat, manifested itself on the one hand in the person of Attawulf and on the other in the appearance of Islam. It requires no extended argument to show that the only common feature of these phenomena is their occurrence outside the civilizations borders, a classification into which the Kazhar Empire fit only with difficulty. [^1]
 
 Toynbee's analysis of the range of endurable challenges exhibits his inability to make qualitative distinctions. [^2] He refutes the theory of the excessiveness of the Hellenic challenge, by the success of the Teuton response after the Celtic disaster. Similarly, Islam triumphantly met the challenge represented by the Roman intrusion into the Syriac civilization despite the abortive Jewish and Zoroastrian revolts. Yet it must be apparent that the only connection between these challenges is supplied by their Hellenic origin. The impact of Rome on the Celts occurred at the height of Roman power, aided by the proximity of the Po Valley to the center of its strength. It is at least debatable whether the Teutons could have successfully resisted the Roman challenge had it been offered under comparable conditions. The catastrophe of Judaism and Zoroastrianism also took place at a much earlier stage in historical development. Moreover, Islam hardly represented the response to a Roman stimulus. Yet Toynbee's empiricism allows him to distinguish challenges only by their origin and magnitude, not by their inner meaning.
 
@@ -2137,61 +1871,31 @@ The process of withdrawal and return by which the creative minority accomplishes
 
 their opportunity in 1917, than the Swiss exile of their leader. Mohammed's withdrawal to Mecca, Machiavelli's exile from Florence, Kant's seclusion in Koenigsberg, the life of the Buddha, constitute phenomena without any inner connection. Withdrawal-and-return has become a technical classification of surface phenomena, a mechanistic description of definitional concepts. [^1]
 
-The empirical method breaks down completely when applied to such concepts as progress and purpose, which must ever remain metaphysical constructions. Toynbee attempts, through a pyramiding of metaphors to make the transition from the biological to the theological realm. But analogies can not serve as substitutes for demonstration. They assume the proof and merely illustrate the essential similarity of divergent manifestations. An empiricist, whose field of vision is restricted to a ledge and a precipice has no warranty for postulating a continuity of geological strata. A pragmatist, who lets himself be instructed by his data can not assert that any vehicle will succeed in negotiating the exit of a one-way street, in the face of uniform disaster nor can he consistently claim that the break-downs are due to a "reversal in violation of the rules". In empirical terms if all automobiles have in fact reversed, that seems to be the rule. The loom of history may utilize the backward and forward movements of a shuttle to spin its design, but in subjective terms each downswing marks the end of a civilization and the pattern will not be apparent until the end of time. Progress
+The empirical method breaks down completely when applied to such concepts as progress and purpose, which must ever remain metaphysical constructions. Toynbee attempts, through a pyramiding of metaphors to make the transition from the biological to the theological realm. But analogies can not serve as substitutes for demonstration. They assume the proof and merely illustrate the essential similarity of divergent manifestations. An empiricist, whose field of vision is restricted to a ledge and a precipice has no warranty for postulating a continuity of geological strata. A pragmatist, who lets himself be instructed by his data can not assert that any vehicle will succeed in negotiating the exit of a one-way street, in the face of uniform disaster nor can he consistently claim that the break-downs are due to a "reversal in violation of the rules". In empirical terms if all automobiles have in fact reversed, that seems to be the rule. The loom of history may utilize the backward and forward movements of a shuttle to spin its design, but in subjective terms each downswing marks the end of a civilization and the pattern will not be apparent until the end of time. Progress and purpose represent the resolution of a soul, the rebellion against transitoriness, the hope for permanence. No technical manipulation of empirical data can wrest an assurance out of phenomena, the final attainment of which man can only find within himself.[^1878-2]
 
-[^1]: Machiavelli and Dante did not "return"; Kant neither "withdrew" nor "returned" but lived all his life in Koenigsberg. It might further be asked how withdrawal differs from the truancy which Toynbee condemns.
+Toynbee thought that he had transcended Spengler by an assertion of purposiveness. Life presents a succession of problems, each a challenge to undergo an ordeal. Challenge-and-response, the interaction of race and environment, the opportunity presented by the Devil to God for further creative activity reveal the mechanism by which freedom accomplishes itself in the world. The prediction of historical events is impossible for the reaction of the protagonist to the ordeal must remain the unknown quantity.[^1880-2]
 
-and purpose represent the resolution of a soul, the rebellion against transitoriness, the hope for permanence. No technical manipulation of empirical data can wrest an assurance out of phenomena, the final attainment of which man can only find within himself. [^1]
+Freedom, can not be proved syllogistically, however.[^1880-3] An inner experience, again, remains inaccessible to the empiricist. Toynbee's actual analysis defines the response exclusively in terms of challenge. This constitutes but a restatement of the Environment theory. For, after all, no environmentalist would claim - as Toynbee implies - that climatic or topographical conditions spontaneously produce civilizations in the manner of the Giants growing out of the earth.[^2211-1] Toynbee's analysis of challenges involves the same difficulties of Spengler's postulate of historical necessity as a guide to action.[^2211-2] For what constitutes a challenge? Toynbee replies that which produces a civilization. A challenge is proved excessive by a comparison in three terms, of which the middle term represents successful adaptation. The Golden Mean exhibits that challenge which evokes the most potently creative act. Yet Toynbee here defines these concepts syllogistically in terms of each other and explains not challenge, but the fact of survival. Just as the "pleasure principle", just as the "necessary" dictum, challenge-and-response assigns conceptual quantities to past action.
 
-Toynbee thought that he had transcended Spengler by an assertion of purposiveness. Life presents a succession of problems, each a challenge to undergo an ordeal. Challenge-and-response, the interaction of race and environment, the opportunity presented by the Devil to God for further creative activity reveal the mechanism by which freedom accomplishes itself in the world. The prediction of historical events is impossible for the reaction of the protagonist to the ordeal must remain the unknown quantity. [^2]
+Challenge-and-Response to be meaningful as an assertion of purposiveness would have to examine the personal in the response, the unique in the reaction to the ordeal. But this is precisely what Toynbee's method does not permit. His empiricism implies that every event can only result from a commensurate causality defined as Challenge, classifiable as a phenomena subject to well-understood laws. This is illustrated by his survey of the genesis of civilizations, postulated as the consequence of the stimulus of hard countries. It becomes apparent, however, that among Toynbee's twenty-one civilizations all climates and all topographical conditions are represented. This indicates that it is not the challenge which structures the response, but the response which finds its challenge.
 
-Freedom, can not be proved syllogistically, however. [^3] An inner experience, again, remains inaccessible to the empiricist. Toynbee's actual analysis defines the response exclusively in terms of challenge. This constitutes but a restatement of the Environment theory. For, after all, no environmentalist would claim - as Toynbee implies - that climatic or topographical conditions spontaneously produce civilizations in the manner
+Freedom is not the nice balance of external factors which will evoke the most suitable reaction but an inner state which seeks its own stimulus. For what else can account for the decline of the Easter-Islanders?[^2220-1] They had conquered the sea, if not with any margin of safety and achieved a considerable cultural level. But then the ocean ceased to be traversed, and Easter Island disappeared into an oblivion from which it re-emerged as but a Colonial dependency in the nineteenth century. Yet what happened? The severity of the sea did not change, the stimulus of the environment did not lessen. But the capacity to experience the ocean as a challenge, the inner state that had utilized the infinite as a foil did diminish and therein lay the doom of Easter Island.
 
-[^1]: See post. Ch. "The Sense of Responsibility". Also Appendix A "The Concepts of Meaning".
-[^2]: Toynbee op. cit. Vol. I. p. 302.
-[^3]: Toynbee's syllogism goes like this: A civilization is that which develops from a challenge. A challenge is that from which a civilization develops. This however, merely shifts the problem of definition from "development" to "challenge".
+Toynbee recognized the purposive element, but the ambiguity of his method resulted in a definition of the operation of necessity. Freedom, however, is not to be found in the apprehension of external relations. Nor, will it develop from an engineering into society of a maximum of alternatives. Freedom depends less on the existence, than on the recognition of alternatives, not on a set of conditions, but an inward experience.[^2222-1]
 
-of the Giants growing out of the earth. [^1] Toynbee's analysis of challenges involves the same difficulties of Spengler's postulate of historical necessity as a guide to action. [^2] For what constitutes a challenge? Toynbee replies that which produces a civilization. A challenge is proved excessive by a comparison in three terms, of which the middle term represents successful adaptation. The Golden Mean exhibits that challenge which evokes the most potently creative act. Yet Toynbee here defines these concepts syllogistically in terms of each other and explains not challenge, but the fact of survival. Just as the "pleasure principle", just as the "necessary" dictum, challenge-and-response assigns conceptual quantities to past action.
+The assertion of pervasive purposiveness led Toynbee to deny the existence of any organic factor in the development of civilizations. Societies do not represent organisms but the common field of activity of their members, the medium of communications of their constitutents. Their growth is accomplished by mimesis, a social drill, through which the Saints, as the apprehension of the new life, lead the uncreative majority on the roads towards increased etherealization. Breakdowns exhibit a failure of self-determination not an inexorable fatality. Sin constitutes the causality by which the nemesis of creativity accomplishes itself.
 
-Challenge-and-Response to be meaningful as an assertion of purposiveness would have to examine the personal in the response, the unique in the reaction to the ordeal. But this is precisely what Toynbee's method does not permit. His empiricism implies that every event can only result from a commensurate causality defined as Challenge, classifiable as a phenomena subject to well-understood laws. This is illustrated by his survey of the genesis of civilizations, postulated as the consequence of the stimulus of hard countries. It becomes apparent, however, that among Toynbee's twenty-one civilizations all climates and all topographical conditions are represented. This indicates that it is not the challenge which structures the response, but the
+Yet again the mere postulation of freedom is not enough. Toynbee rejected the concept of a civilization's soul, but his empiricism merely issues in its definition. For what else is mimesis? Spengler, after all, had not used the word "soul" in a literal sense, but defined it as the "image of a counterworld, the mode of visualizing that which remains eternally alien to the physical eye".[^1884-1] If social drill constitutes a generic feature of social life, if it exhibits those relations which require no formal institutions because of their self-evidence, then Toynbee has merely shifted the emphasis from the manifestations of the organic aspect to a description of its operation.[^1884-2] How does mimesis differ from the beat of self-implementation by which Spengler's soul actualizes itself?
 
-[^1]: Toynbee utilizes the same misstatement to refute Spengler.
-[^2]: See post Ch. "History as Intuition". (Conclusions).
-
-response which finds its challenge.
-
-Freedom is not the nice balance of external factors which will evoke the most suitable reaction but an inner state which seeks its own stimulus. For what else can account for the decline of the Easter-Islanders? [^1] They had conquered the sea, if not with any margin of safety and achieved a considerable cultural level. But then the ocean ceased to be traversed, and Easter Island disappeared into an oblivion from which it re-emerged as but a Colonial dependency in the nineteenth century. Yet what happened? The severity of the sea did not change, the stimulus of the environment did not lessen. But the capacity to experience the ocean as a challenge, the inner state that had utilized the infinite as a foil did diminish and therein lay the doom of Easter Island.
-
-Toynbee recognized the purposive element, but the ambiguity of his method resulted in a definition of the operation of necessity. Freedom, however, is not to be found in the apprehension of external relations. Nor, will it develop from an engineering into society of a maximum of alternatives. Freedom depends less on the existence, than on the recognition of alternatives, not on a set of conditions, but an inward experience. [^2]
-
-The assertion of pervasive purposiveness led Toynbee to deny the existence of any organic factor in the development of
-
-[^1]: Toynbee Vol. III. p. 5.
-[^2]: See post Ch. "The Sense of Responsibility" for full development. Also Ch: "History and Man's Experience of Morality".
-
-civilizations. Societies do not represent organisms but the common field of activity of their members, the medium of communications of their constitutents. Their growth is accomplished by mimesis, a social drill, through which the Saints, as the apprehension of the new life, lead the uncreative majority on the roads towards increased etherealization. Breakdowns exhibit a failure of self-determination not an inexorable fatality. Sin constitutes the causality by which the nemesis of creativity accomplishes itself.
-
-Yet again the mere postulation of freedom is not enough. Toynbee rejected the concept of a civilization's soul, but his empiricism merely issues in its definition. For what else is mimesis? Spengler, after all, had not used the word "soul" in a literal sense, but defined it as the "image of a counterworld, the mode of visualizing that which remains eternally alien to the physical eye". [^1] If social drill constitutes a generic feature of social life, if it exhibits those relations which require no formal institutions because of their self-evidence, then Toynbee has merely shifted the emphasis from the manifestations of the organic aspect to a description of its operation. [^2] How does mimesis differ from the beat of self-implementation by which Spengler's soul actualizes itself?
-
-Toynbee ascribes the breakdown of civilizations to two contradictory factors, the nemesis of creativity and the mechanicalness of mimesis. This raises formidable difficulties in
-
-[^1]: Spengler op. cit. Vol. I. p. 300.
-[^2]: Indeed the choice of the word "generic" indicates an organic factor.
-
-logic. If mimesis results from the inability of the uninspired majority to absorb directly the inspiration of the Saints, then the "claim" of the leaders can not reside in their creativity. How will the mass recognize the Saints? Indeed, their appearance is itself an event of "such unimaginable rarity", [^1] that a social drill, the efficacy of which must depend on a certain uniformity, can hardly develop from so uncertain a phenomena. The breakdown of mimesis moreover is a mechanical failure and bears no relation to a deficient self-determination, Toynbee's usual criterion for decline.
+Toynbee ascribes the breakdown of civilizations to two contradictory factors, the nemesis of creativity and the mechanicalness of mimesis. This raises formidable difficulties in logic. If mimesis results from the inability of the uninspired majority to absorb directly the inspiration of the Saints, then the "claim" of the leaders can not reside in their creativity. How will the mass recognize the Saints? Indeed, their appearance is itself an event of "such unimaginable rarity",[^1890-1] that a social drill, the efficacy of which must depend on a certain uniformity, can hardly develop from so uncertain a phenomena. The breakdown of mimesis moreover is a mechanical failure and bears no relation to a deficient self-determination, Toynbee's usual criterion for decline.
 
 Again if the loss of inspiration by the creative minority accounts for society's disintegration and the secession of the internal proletariat, by what standard is that deficiency apprehended? If the uncreative majority possessed a criterion for creativity, it would not require mimesis. If mimesis constitutes the generic feature of social life, Toynbee can not complain about its direction and his attempts to describe breakdown in terms of purposiveness fails.
 
-Toynbee maintains that compulsion replaces charm as the social bond in the early stages of breakdown. The philosopher masked by a king is doomed to frustration for his efficiency depends on the implied threat of force. Mimesis to be effective, must, however, rely on this threat. [^2] Thus it appears that society's breakdown is, after all, inevitable, its fatality
-
-[^1]: Toynbee op. cit. Vol. III. p. 272.
-[^2]: Toynbee specifically considers the reliance on mimesis as dooming the philosopher masked by a King. Toynbee op. cit. Vol. VI. p. 255.
-
-the function of the feature which distinguishes a civilization from primitive societies.
+Toynbee maintains that compulsion replaces charm as the social bond in the early stages of breakdown. The philosopher masked by a king is doomed to frustration for his efficiency depends on the implied threat of force. Mimesis to be effective, must, however, rely on this threat.[^1890-2] Thus it appears that society's breakdown is, after all, inevitable, its fatality the function of the feature which distinguishes a civilization from primitive societies.
 
 Toynbee replaces the theory of the organic nature of civilizations by the assertion that relations can possess no soul. This will hardly be contested. Yet he has not shown that civilizations represent no more than mere relations. His geometric analogy demonstrates the appearance of such a relation but not its existence. The question arises of what the civilization constitute the common field activity? If they represent the medium of communication of their component political communities, then the original difficulty reappears in different form. For since the constituent societies are themselves merely relations, they manifestly can not exhibit dynamic fields. If, on the other hand civilizations represent the totality of their individual members, then the withdrawal-and-return by which Athens, Italy and England grew in stature and the mimesis of the civilization's creative minority remains to be explained.
 
-Toynbee can, in fact, never escape these difficulties. For since he leans to the conception of the civilization as the common field of action of the component political communities, he must perforce consider these units organic entities. This forms the basis for the assertion that Athens played truant at the crucial stage of Hellenic history. [^1] This, too, is implied
+Toynbee can, in fact, never escape these difficulties. For since he leans to the conception of the civilization as the common field of action of the component political communities, he must perforce consider these units organic entities. This forms the basis for the assertion that Athens played truant at the crucial stage of Hellenic history.[^1899-1] This, too, is implied
 
 [^1]: It also is implied by Toynbee's concept that the idolization of an ephemeral self by Athens was so pervasive that the Byzantine empress of Athenian birth who was involved in the iconoclastic controversy exhibited the same perversity which once before had led the Athenians to reject Paul.
 
@@ -2256,9 +1960,6 @@ Spengler had a vision of the world-as-experience but instead of the uniqueness o
 
 Over a hundred years before Spengler and Toynbee, in the provincial Prussian town of Koenigsberg, the problem of the meaning of life, the paradox of our experience of freedom in a world of causal laws received its profoundest formulation. Kant was faced with the heritage of a philosophy which had reduced freedom and morality either to the technical knowledge of objective necessity or to a mere catalogue of pleasing perceptions. The opposition of Rationalism and Empiricism is analogous to the conflict between Spengler and Toynbee. Spengler's dictum that man's freedom consists of doing the necessary or doing nothing, might have been uttered by Spinoza. [^1] Toynbee's implication that survival embodies a mode of morality, corresponds to Hume's concept of the pleasure induced by utility, of benevolence as an inherent trait. [^2]
 
-[^1]: Though of course giving it a different content.
-[^2]: Since survival is an indication of utility. See post.
-
 But Kant refused to admit the validity of these assertions. He affirmed that besides the realm of necessity, there existed a realm of freedom as the repository of the meaning of occurrences. In part a reaction to Empiricism and Rationalism, in part their synthesis, Kant's philosophy transcended both in reformulating the possibilities of human knowledge. And because possibility implies the notion of limit, and since metaphysics can be defined as tracing the boundaries of the knowable, Kant achieved a resolution of our enigma of the antinomy of freedom and necessity in which metaphysical paradoxes are solved though not known by ethical postulates.
 
 Kant limited knowledge to make room for belief. He maintained that the mind imposed certain forms on appearances as a condition for its cognitive action. By analyzing these categories which structure all knowledge, he made phenomenal reality the emanation of pure reason. But at the same time Kant asserted that reality was not exhausted by its appearances, that profounder levels of meaning existed, revealed to man in his esthetic, theological and, above all, moral experiences. The transcendental intuition of freedom opens vistas of the noumena, the things-in-themselves, which no causal analysis can ever reach. The meaning given to life discloses a personality, whose moral sanction does not reside in specific attributes such as moderation or self-control but in the disposition of the will. The merit of conduct depends on its conformity to a rule which
@@ -2304,28 +2005,15 @@ Virtue as the capacity for self-maintenance at the highest level is attained by 
 
 Virtue is thus attained by knowledge, by understanding the inexorability of events and by the correct evaluation of one's true advantage. The similarity to Spengler (and to Hobbes) is striking, however different their conclusions. Both agree that an inevitable necessity rules existence, for which causality constitutes a shallow and inadequate explanation. Both find the key to comprehension in an intuitive grasp of the immanence that produces all occurrences. [^2] Spinoza - just as Spengler - conceives the state as engaged in a fight for sheer survival
 
-[^1]: Friederich in - Inevitable Peace - p. 149 et. seq. has characterized Spinoza as the logical philosophy of Calvinism.
-[^2]: Spinoza's sole criterion is inward certainty. See Essay on Human Understanding.
-
 in which to keep promises on fancied moral grounds represents the only real Sin. Freedom is the apprehension of an objective necessity to which man imparts but little. [^1]
 
 Yet the difficulties of a concept that required intuitive insight, backed merely by Reason were too great. An era of new scientific discovery, particularly in physics, seemed to demonstrate that the true source of knowledge was not the mind but nature, indeed that the mind is instructed by nature. Locke, founding the school of British Empiricists, conceived of the mind as a blank tablet endowed with a wax-like capacity of receiving sensuous impressions. Thus the other implication of Descartes was developed, into an assertion of the primary of the physical substance, into a rejection of any innate ideas.
 
 Carried to its ultimate conclusion by Hume, this led to a total metaphysical scepticism. Knowledge was based on experience, reasoning revealed the habitual expectation of recurrent situations. Cause and effect constituted but the representation of a constant conjunction of events, so that the appearance of event A, leads to the anticipation of event B. Yet one can not postulate a necessary connection between A and B. Space and time merely exhibit the result of certain regularities or juxtapositions of empirical entities. Thus innate ideas were non-existent, the concept of ultimate reality meaningless.
 
-Hume's ethics reflect his metaphysical assumptions.
+Hume's ethics reflect his metaphysical assumptions. Morality was based on a pleasing sensibility, the faculty of benevolence whereby humane impulses receive inward approbation. Social institutions depend in part on habit, in part on the pleasure derived from their utility. Thus morality became an attribute of external reality, however conceived, pleasure the only source of motivation. The similarity in the conclusions of the empiricists Toynbee and Hume illustrates the effect of metaphysical assumptions. [^1] In each case survival is given moral sanction, conceived as an indication of utility by Hume, as an emanation of Divine grace by Toynbee. But where Hume's metaphysical scepticism shrinks from ascribing ultimate purposes to phenomena, Toynbee's theological convictions enable him to find a divine imprint in historical events.
 
-[^1]: See post The Sense of Responsibility for implication of Spinoza's concept of intellectual love of God which makes this analysis provisional. The fact that Spinoza opted for peace and Spengler for strife reveals their personalities but is in no sense a logical necessity of their system. See post.
-
-Morality was based on a pleasing sensibility, the faculty of benevolence whereby humane impulses receive inward approbation. Social institutions depend in part on habit, in part on the pleasure derived from their utility. Thus morality became an attribute of external reality, however conceived, pleasure the only source of motivation. The similarity in the conclusions of the empiricists Toynbee and Hume illustrates the effect of metaphysical assumptions. [^1] In each case survival is given moral sanction, conceived as an indication of utility by Hume, as an emanation of Divine grace by Toynbee. But where Hume's metaphysical scepticism shrinks from ascribing ultimate purposes to phenomena, Toynbee's theological convictions enable him to find a divine imprint in historical events.
-
-Kant's dilemma then is but a restatement of our original paradox: What is the meaning of this necessity that accomplishes itself under the mode of freedom? The rationalists had asserted the supremacy of reason, limiting freedom to the recognition of objective necessity, conceiving manipulatory knowledge as the only ethical criterion. [^2] Their theory of knowledge was based on analytic a priori judgments, intuitively derived, which contained the whole truth within themselves and claimed their self evidence as the objective pattern of reality. [^3] Yet the attempt
-
-[^1]: See post "Appendix A" The Concepts of Meaning.
-[^2]: For a distinction between objective and subjective or inward necessity see post "The Sense of Responsibility".
-[^3]: Kant calls this a determinative judgment in his "Critique of Judgment.
-
-to achieve certainty by an analysis of innate ideas was doomed to failure, despite many great achievements of internal consistency. The Rationalists were ever forced to abstract from the uniqueness of experience in order to achieve the minimal forms capable of intellectual manipulation. The problem of the objective existence of external reality and its relation to innate ideas was in this formulation insolvable. The irony of the rationalist position is best expressed by their ultimate recourse to an inward experience, subjective certainty, as the final criterion of the validity of their judgments.
+Kant's dilemma then is but a restatement of our original paradox: What is the meaning of this necessity that accomplishes itself under the mode of freedom? The rationalists had asserted the supremacy of reason, limiting freedom to the recognition of objective necessity, conceiving manipulatory knowledge as the only ethical criterion. [^2] Their theory of knowledge was based on analytic a priori judgments, intuitively derived, which contained the whole truth within themselves and claimed their self evidence as the objective pattern of reality. [^3] Yet the attempt to achieve certainty by an analysis of innate ideas was doomed to failure, despite many great achievements of internal consistency. The Rationalists were ever forced to abstract from the uniqueness of experience in order to achieve the minimal forms capable of intellectual manipulation. The problem of the objective existence of external reality and its relation to innate ideas was in this formulation insolvable. The irony of the rationalist position is best expressed by their ultimate recourse to an inward experience, subjective certainty, as the final criterion of the validity of their judgments.
 
 Empiricism, on the other hand, faced the dilemma that despite the acuteness of its analysis of ordinary thought, its judgments lacked the universality which forms the foundation of profound ideation. To base cognition on mere experience is to risk the overthrow of one's concepts with each new experience. In the field of ethics, conduct could obtain sanction only through a cataloguing of pleasing perceptions.
 
@@ -2341,11 +2029,7 @@ Kant's Metaphysical Theory.
 
 Kant addressed himself to his central problem of the implication of the transcendental experience of freedom by re-examining the metaphysical presuppositions of both the rationalists and the empiricists. [^1] The rationalists had reduced freedom to a technical mastery of natural relations because their analytic judgments a priori had made impossible recourse to experience. The empiricists had approached morality as a problem of analyzing the pleasing perceptions of benevolence or utility because their synthetic judgments a posteriori had denied the possibility of universal validity. Yet experience without concepts is blind, while concepts without precepts are meaningless.
 
-Kant solved this dilemma by what he termed his Copernican revolution. Perhaps the problem of how to achieve a relation between ideas and external reality, which had led Descartes and Spinoza to invoke God as the connecting link, one in the sense of guaranteed reliability and the other in the sense of all-pervasiveness, and which, on the other hand, had forced Hume into total scepticism, perhaps this problem was so intractable because its basic epistemological assumptions were incorrectly stated. Just as Copernicus when he could not account for certain physical phenomena on the assumption that the sun revolved around the earth was finally forced to reverse this formulation, so Kant restated the dilemma of how the mind which is abstract can
-
-[^1]: The Sense of Responsibility will discuss what is implied by a transcendental experience.
-
-conform to concrete external reality.
+Kant solved this dilemma by what he termed his Copernican revolution. Perhaps the problem of how to achieve a relation between ideas and external reality, which had led Descartes and Spinoza to invoke God as the connecting link, one in the sense of guaranteed reliability and the other in the sense of all-pervasiveness, and which, on the other hand, had forced Hume into total scepticism, perhaps this problem was so intractable because its basic epistemological assumptions were incorrectly stated. Just as Copernicus when he could not account for certain physical phenomena on the assumption that the sun revolved around the earth was finally forced to reverse this formulation, so Kant restated the dilemma of how the mind which is abstract can conform to concrete external reality.
 
 He revolutionized metaphysics by insisting that instead of the mind conforming to external reality, physical objects can only be understood if they conform to certain patterns and rules imposed by the mind. He emphasized, however, that reality in its entirety can never be comprehended. Man's knowledge extends only to phenomena in sensuous experience. Ultimate reality, the things-in-themselves, are not disclosed to the cognitive faculties. If this is true, then Critical philosophy by analyzing the essential structure of the thought processes can attempt a definition of the forms by which external reality is apprehended by pure reason and synthetic a priori judgment will be possible. These judgments state nothing less than that all phenomenal experience must conform to certain patterns for the constitution of the human mind prevents cognition in any other context.
 
@@ -2388,33 +2072,19 @@ As in his Critique of Pure Reason Kant rejects the views of both the Rationalist
 
 If neither rationalism nor empiricism provide a foundation for a universal law, how can humanity give effect to its experience of morality? Kant finds the answer in the very constitution of man. If everything in nature is created with a maximum of economy and the means chosen most apt, then happiness conceived as desire-satisfaction can not represent the purpose of a rational being. [^1] Instinct would suffice for the achievement of pleasure in the hedonistic sense. But man is endowed with reason and above all a practical reason that issues forth into action, and seemingly multiplies motivations. The faculty of rationality must consequently be designed to implement the moral experience.
 
-But how can a personal experience contain a universal obligation? Just as the metaphysical dilemma was resolved only with the aid of synthetic a priori judgments, so Kant gives effect to man's experience of freedom by a priori principles that determine the will by their own inner necessity. Moral sanction consequently does not attach to such laudable qualities as moderation, self-control, or calm deliberation for in villains these very qualities tend to accentuate evil. The merit of conduct is determined solely by the disposition of a will which
-
-[^1]: This teleogical concept depends on Kant's Critique of Judgment. See post.
-
-acts out of a concept of duty expressed as respect for the moral law. This precludes inclination as a guide to action but prevents equally the definition of morality as a technical knowledge of naturalistic relations.
+But how can a personal experience contain a universal obligation? Just as the metaphysical dilemma was resolved only with the aid of synthetic a priori judgments, so Kant gives effect to man's experience of freedom by a priori principles that determine the will by their own inner necessity. Moral sanction consequently does not attach to such laudable qualities as moderation, self-control, or calm deliberation for in villains these very qualities tend to accentuate evil. The merit of conduct is determined solely by the disposition of a will which acts out of a concept of duty expressed as respect for the moral law. This precludes inclination as a guide to action but prevents equally the definition of morality as a technical knowledge of naturalistic relations.
 
 How then is the will determined by reason? In a holy will which acts of necessity according to the moral law such a determination is unnecessary. The human will, however, torn by desires, requires an imperative, a representation of a ground of action expressed by the word 'ought'. It is a hypothetical imperative if represented as a means to an end, a categorical imperative if an end in itself. But the moral law stems from a transcendental experience from a recognition of an ultimate reality beyond phenomenal appearances. It can therefore be implemented only by the categorical imperative, the maxims of which assure universality.
 
-Kant's first formulation of the categorical imperative derives from the conception of the moral law determining the will by its own inward necessity from a priori principles. It states: "Act as if the maxims of thy action could become by thy will, universal laws of nature." Morality in this sense results from a point of view which recognizes that by its actions it gives maxims of universal applicability. The difference between morality and expediency, between inward compulsion of duty and inclination becomes immediately apparent. Kant cites the example of borrowing with the knowledge that its repayment is impossible. Whatever the expediency of this action it is
-
-impossible to will it as a universal law of nature. [^1] The key to an immoral action resides in the willingness to make an exception in favor of inclination to a moral law recognized as of universal validity.
+Kant's first formulation of the categorical imperative derives from the conception of the moral law determining the will by its own inward necessity from a priori principles. It states: "Act as if the maxims of thy action could become by thy will, universal laws of nature." Morality in this sense results from a point of view which recognizes that by its actions it gives maxims of universal applicability. The difference between morality and expediency, between inward compulsion of duty and inclination becomes immediately apparent. Kant cites the example of borrowing with the knowledge that its repayment is impossible. Whatever the expediency of this action it is impossible to will it as a universal law of nature. [^1] The key to an immoral action resides in the willingness to make an exception in favor of inclination to a moral law recognized as of universal validity.
 
 Kant's second formulation relies on the distinction between the categorical imperative as an end in itself and the hypothetical imperative in which the motivation is but a means. "So act, as to treat humanity whether in your own person or in that of others as an end only and never as a means". This concept expresses the recognition of the ultimacy of man's moral personality, the apprehension of tolerance which sets limits to one's activity out of respect for the divine in humanity. Its goal is the kingdom of ends in which the autonomy of the wills precludes any personal inclination in the carrying out of moral laws. Here every man is both legislator of universal maxims and subject to the rules created by the autonomy of others. Here the dignity of man, flowing from an awareness of his responsibility to mankind, provides the foundation for a heteronomy of wills in whom the transcendental vision of freedom has kindled the spark that has led to the common experience of the moral law.
 
-But how can the categorical imperative furnish a conception of its possibility? If man forms part of nature - as all experience indicates - he is ruled by causality. This raises
-
-[^1]: For the discussion of this argument see post. It is not, of course impossible to will this, but it is impossible to secure a reciprocal recognition of this volition.
-
-a series of other antinomies. Man attempts to achieve morality, yet the goal is distant and intuitively one feels the impossibility of its attainment. Man longs for the Summum Bonum - happiness commensurate with virtue, but no guarantee for a necessary connection exists in the phenomenal world. Duty seems the only motive that can guide humanity in its quest for morality.
+But how can the categorical imperative furnish a conception of its possibility? If man forms part of nature - as all experience indicates - he is ruled by causality. This raises a series of other antinomies. Man attempts to achieve morality, yet the goal is distant and intuitively one feels the impossibility of its attainment. Man longs for the Summum Bonum - happiness commensurate with virtue, but no guarantee for a necessary connection exists in the phenomenal world. Duty seems the only motive that can guide humanity in its quest for morality.
 
 Again Kant returns to the distinction in the Critique of Pure Reason between the noumenal and the phenomenal world. In so far as man participates in the realm of necessity - as a phenomena - he is indeed determined. But morality does not describe an order of nature, but has its origins in a mystic attitude within us. [^1] Ethics testify to an experience which raises man above himself out of the world of senses, into the noumenal reality of the Divine design. Freedom the possibility of which speculative reason asserted is now postulated by practical reason. The striving for perfection induced by the moral law implies immortality to give effect to an endeavor impossible of fulfillment in a finite time. God appears as the guarantor of the Summum Bonum. [^2] The postulates of God, Freedom and immortality represent an assertion of the pervasiveness of man's moral experience. The transcendental experience of freedom overcomes all obstacles offered by the empirical realm. Theory and practice are united in the categorical imperative, the possibility of whose implementation derives from its very conception. [^3]
 
-[^1]: For interpretation of this attitude see post "The Sense of Responsibility".
-[^2]: N. Kemp. Smith - A Commentary to Kant's Critique of Pure Reason p. 603 points out that in later life Kant considered this an overly theoretical proof of God's existence and asserted instead that God speaks directly through the categorical imperative.
-[^3]: [This footnote is not present in the original text, but a superscript `3` is.]
-
-through his moral experience - not through any analysis of empirical reality - man attains a vision of a higher world-order and of the meaning of occurrences.
+Through his moral experience - not through any analysis of empirical reality - man attains a vision of a higher world-order and of the meaning of occurrences.
 
 This enables Kant to redefine Christianity on the basis of a transcendental intuition without attempting - like Toynbee - to claim the sanction of external reality for this effort. The moral law is holy and presupposes a will directly determined by its commands. Yet all man can achieve in this life is a rightful disposition arising out of respect for the law. The yearning for the bliss of holiness therefore postulates eternity. The order of nature can offer no happiness as an inducement for the performance of the moral law. But the Christian concept of the Kingdom of God opens vistas of a profounder plane, in which terrestial striving dissolves in the blessedness of inward peace. In the same sense Kant understands the biblical command of loving God and of loving one's neighbor as oneself. Pathological love can not be commanded. But a feeling of respect for the experience of the moral law, a liking to do one's duty based on an a priori conception expressed in the categorical imperative, an approach to man as an end, these constitute the true meaning of ethical love.
 
@@ -2424,12 +2094,7 @@ moral experience. The transcendental experience of freedom gave meaning to the c
 
 The rationalistic formulation of Kant's ethical philosophy tends to obscure its profound visions. Morality is found to reside in a mystic relationship to a supersensuous world-order, in a transcendental experience which alone makes the categorical imperative possible. For the necessity of the categorical imperative applies only to a specific attitude, its universality presupposes the prior experience of the moral law. This must be kept in mind in considering the criticism of Kant's ethics by Schweitzer and Satre. Though they differ in their point-of-view their arguments are remarkably alike. Schweitzer maintains that the validity of ethics issues from the necessity attending their thought. [^1] Kant's moral philosophy achieves universality at the cost of vitality, according to Schweitzer. The content of the categorical imperative becomes so vague as to lose all meaning.
 
-Satre restates this argument in practical terms. [^2] He cites the case of a young Frenchman torn between the desire of joining De Gaulle's forces and thereby exposing his mother to possible German retaliation or staying and losing his self-respect. Kant's categorical imperative offers no solution to
-
-[^1]: Schweitzer - The Philosophy of Civilization p. 182 et. seq.
-[^2]: Sartre - Existentialism p. 28 et. seq.
-
-this dilemma according to Satre. Whatever the lad's decision, he would treat somebody, either himself or his mother as but a means.
+Satre restates this argument in practical terms. [^2] He cites the case of a young Frenchman torn between the desire of joining De Gaulle's forces and thereby exposing his mother to possible German retaliation or staying and losing his self-respect. Kant's categorical imperative offers no solution to this dilemma according to Satre. Whatever the lad's decision, he would treat somebody, either himself or his mother as but a means.
 
 Despite the impreciseness of the example it illustrates well the confusion involved in this interpretation of Kant's moral philosophy. Both Schweitzer and Satre argue as if moral philosophy should be a manual of action supplying technical solutions to all the problems of existence. But the dilemmas of life are not to be reconciled by manipulation. Ethical conduct to be meaningful must reveal a personality, not a mastery of causal connections. Kant understood this and based his whole moral philosophy on a transcendental experience. This implies, however, that the categorical imperative can give conditions only to a prior moral experience. Its universality expresses a feeling of responsibility towards humanity, its obligation testifies to a vision of an ultimate reality.
 
@@ -2504,61 +2169,31 @@ The process of withdrawal and return by which the creative minority accomplishes
 
 their opportunity in 1917, than the Swiss exile of their leader. Mohammed's withdrawal to Mecca, Machiavelli's exile from Florence, Kant's seclusion in Koenigsberg, the life of the Buddha, constitute phenomena without any inner connection. Withdrawal-and-return has become a technical classification of surface phenomena, a mechanistic description of definitional concepts. [^1]
 
-The empirical method breaks down completely when applied to such concepts as progress and purpose, which must ever remain metaphysical constructions. Toynbee attempts, through a pyramiding of metaphors to make the transition from the biological to the theological realm. But analogies can not serve as substitutes for demonstration. They assume the proof and merely illustrate the essential similarity of divergent manifestations. An empiricist, whose field of vision is restricted to a ledge and a precipice has no warranty for postulating a continuity of geological strata. A pragmatist, who lets himself be instructed by his data can not assert that any vehicle will succeed in negotiating the exit of a one-way street, in the face of uniform disaster nor can he consistently claim that the break-downs are due to a "reversal in violation of the rules". In empirical terms if all automobiles have in fact reversed, that seems to be the rule. The loom of history may utilize the backward and forward movements of a shuttle to spin its design, but in subjective terms each downswing marks the end of a civilization and the pattern will not be apparent until the end of time. Progress
+The empirical method breaks down completely when applied to such concepts as progress and purpose, which must ever remain metaphysical constructions. Toynbee attempts, through a pyramiding of metaphors to make the transition from the biological to the theological realm. But analogies can not serve as substitutes for demonstration. They assume the proof and merely illustrate the essential similarity of divergent manifestations. An empiricist, whose field of vision is restricted to a ledge and a precipice has no warranty for postulating a continuity of geological strata. A pragmatist, who lets himself be instructed by his data can not assert that any vehicle will succeed in negotiating the exit of a one-way street, in the face of uniform disaster nor can he consistently claim that the break-downs are due to a "reversal in violation of the rules". In empirical terms if all automobiles have in fact reversed, that seems to be the rule. The loom of history may utilize the backward and forward movements of a shuttle to spin its design, but in subjective terms each downswing marks the end of a civilization and the pattern will not be apparent until the end of time. Progress and purpose represent the resolution of a soul, the rebellion against transitoriness, the hope for permanence. No technical manipulation of empirical data can wrest an assurance out of phenomena, the final attainment of which man can only find within himself.[^1878-2]
 
-[^1]: Machiavelli and Dante did not "return"; Kant neither "withdrew" nor "returned" but lived all his life in Koenigsberg. It might further be asked how withdrawal differs from the truancy which Toynbee condemns.
+Toynbee thought that he had transcended Spengler by an assertion of purposiveness. Life presents a succession of problems, each a challenge to undergo an ordeal. Challenge-and-response, the interaction of race and environment, the opportunity presented by the Devil to God for further creative activity reveal the mechanism by which freedom accomplishes itself in the world. The prediction of historical events is impossible for the reaction of the protagonist to the ordeal must remain the unknown quantity.[^1880-2]
 
-and purpose represent the resolution of a soul, the rebellion against transitoriness, the hope for permanence. No technical manipulation of empirical data can wrest an assurance out of phenomena, the final attainment of which man can only find within himself. [^1]
+Freedom, can not be proved syllogistically, however.[^1880-3] An inner experience, again, remains inaccessible to the empiricist. Toynbee's actual analysis defines the response exclusively in terms of challenge. This constitutes but a restatement of the Environment theory. For, after all, no environmentalist would claim - as Toynbee implies - that climatic or topographical conditions spontaneously produce civilizations in the manner of the Giants growing out of the earth.[^2211-1] Toynbee's analysis of challenges involves the same difficulties of Spengler's postulate of historical necessity as a guide to action.[^2211-2] For what constitutes a challenge? Toynbee replies that which produces a civilization. A challenge is proved excessive by a comparison in three terms, of which the middle term represents successful adaptation. The Golden Mean exhibits that challenge which evokes the most potently creative act. Yet Toynbee here defines these concepts syllogistically in terms of each other and explains not challenge, but the fact of survival. Just as the "pleasure principle", just as the "necessary" dictum, challenge-and-response assigns conceptual quantities to past action.
 
-Toynbee thought that he had transcended Spengler by an assertion of purposiveness. Life presents a succession of problems, each a challenge to undergo an ordeal. Challenge-and-response, the interaction of race and environment, the opportunity presented by the Devil to God for further creative activity reveal the mechanism by which freedom accomplishes itself in the world. The prediction of historical events is impossible for the reaction of the protagonist to the ordeal must remain the unknown quantity. [^2]
+Challenge-and-Response to be meaningful as an assertion of purposiveness would have to examine the personal in the response, the unique in the reaction to the ordeal. But this is precisely what Toynbee's method does not permit. His empiricism implies that every event can only result from a commensurate causality defined as Challenge, classifiable as a phenomena subject to well-understood laws. This is illustrated by his survey of the genesis of civilizations, postulated as the consequence of the stimulus of hard countries. It becomes apparent, however, that among Toynbee's twenty-one civilizations all climates and all topographical conditions are represented. This indicates that it is not the challenge which structures the response, but the response which finds its challenge.
 
-Freedom, can not be proved syllogistically, however. [^3] An inner experience, again, remains inaccessible to the empiricist. Toynbee's actual analysis defines the response exclusively in terms of challenge. This constitutes but a restatement of the Environment theory. For, after all, no environmentalist would claim - as Toynbee implies - that climatic or topographical conditions spontaneously produce civilizations in the manner
+Freedom is not the nice balance of external factors which will evoke the most suitable reaction but an inner state which seeks its own stimulus. For what else can account for the decline of the Easter-Islanders?[^2220-1] They had conquered the sea, if not with any margin of safety and achieved a considerable cultural level. But then the ocean ceased to be traversed, and Easter Island disappeared into an oblivion from which it re-emerged as but a Colonial dependency in the nineteenth century. Yet what happened? The severity of the sea did not change, the stimulus of the environment did not lessen. But the capacity to experience the ocean as a challenge, the inner state that had utilized the infinite as a foil did diminish and therein lay the doom of Easter Island.
 
-[^1]: See post. Ch. "The Sense of Responsibility". Also Appendix A "The Concepts of Meaning".
-[^2]: Toynbee op. cit. Vol. I. p. 302.
-[^3]: Toynbee's syllogism goes like this: A civilization is that which develops from a challenge. A challenge is that from which a civilization develops. This however, merely shifts the problem of definition from "development" to "challenge".
+Toynbee recognized the purposive element, but the ambiguity of his method resulted in a definition of the operation of necessity. Freedom, however, is not to be found in the apprehension of external relations. Nor, will it develop from an engineering into society of a maximum of alternatives. Freedom depends less on the existence, than on the recognition of alternatives, not on a set of conditions, but an inward experience.[^2222-1]
 
-of the Giants growing out of the earth. [^1] Toynbee's analysis of challenges involves the same difficulties of Spengler's postulate of historical necessity as a guide to action. [^2] For what constitutes a challenge? Toynbee replies that which produces a civilization. A challenge is proved excessive by a comparison in three terms, of which the middle term represents successful adaptation. The Golden Mean exhibits that challenge which evokes the most potently creative act. Yet Toynbee here defines these concepts syllogistically in terms of each other and explains not challenge, but the fact of survival. Just as the "pleasure principle", just as the "necessary" dictum, challenge-and-response assigns conceptual quantities to past action.
+The assertion of pervasive purposiveness led Toynbee to deny the existence of any organic factor in the development of civilizations. Societies do not represent organisms but the common field of activity of their members, the medium of communications of their constitutents. Their growth is accomplished by mimesis, a social drill, through which the Saints, as the apprehension of the new life, lead the uncreative majority on the roads towards increased etherealization. Breakdowns exhibit a failure of self-determination not an inexorable fatality. Sin constitutes the causality by which the nemesis of creativity accomplishes itself.
 
-Challenge-and-Response to be meaningful as an assertion of purposiveness would have to examine the personal in the response, the unique in the reaction to the ordeal. But this is precisely what Toynbee's method does not permit. His empiricism implies that every event can only result from a commensurate causality defined as Challenge, classifiable as a phenomena subject to well-understood laws. This is illustrated by his survey of the genesis of civilizations, postulated as the consequence of the stimulus of hard countries. It becomes apparent, however, that among Toynbee's twenty-one civilizations all climates and all topographical conditions are represented. This indicates that it is not the challenge which structures the response, but the
+Yet again the mere postulation of freedom is not enough. Toynbee rejected the concept of a civilization's soul, but his empiricism merely issues in its definition. For what else is mimesis? Spengler, after all, had not used the word "soul" in a literal sense, but defined it as the "image of a counterworld, the mode of visualizing that which remains eternally alien to the physical eye".[^1884-1] If social drill constitutes a generic feature of social life, if it exhibits those relations which require no formal institutions because of their self-evidence, then Toynbee has merely shifted the emphasis from the manifestations of the organic aspect to a description of its operation.[^1884-2] How does mimesis differ from the beat of self-implementation by which Spengler's soul actualizes itself?
 
-[^1]: Toynbee utilizes the same misstatement to refute Spengler.
-[^2]: See post Ch. "History as Intuition". (Conclusions).
-
-response which finds its challenge.
-
-Freedom is not the nice balance of external factors which will evoke the most suitable reaction but an inner state which seeks its own stimulus. For what else can account for the decline of the Easter-Islanders? [^1] They had conquered the sea, if not with any margin of safety and achieved a considerable cultural level. But then the ocean ceased to be traversed, and Easter Island disappeared into an oblivion from which it re-emerged as but a Colonial dependency in the nineteenth century. Yet what happened? The severity of the sea did not change, the stimulus of the environment did not lessen. But the capacity to experience the ocean as a challenge, the inner state that had utilized the infinite as a foil did diminish and therein lay the doom of Easter Island.
-
-Toynbee recognized the purposive element, but the ambiguity of his method resulted in a definition of the operation of necessity. Freedom, however, is not to be found in the apprehension of external relations. Nor, will it develop from an engineering into society of a maximum of alternatives. Freedom depends less on the existence, than on the recognition of alternatives, not on a set of conditions, but an inward experience. [^2]
-
-The assertion of pervasive purposiveness led Toynbee to deny the existence of any organic factor in the development of
-
-[^1]: Toynbee Vol. III. p. 5.
-[^2]: See post Ch. "The Sense of Responsibility" for full development. Also Ch: "History and Man's Experience of Morality".
-
-civilizations. Societies do not represent organisms but the common field of activity of their members, the medium of communications of their constitutents. Their growth is accomplished by mimesis, a social drill, through which the Saints, as the apprehension of the new life, lead the uncreative majority on the roads towards increased etherealization. Breakdowns exhibit a failure of self-determination not an inexorable fatality. Sin constitutes the causality by which the nemesis of creativity accomplishes itself.
-
-Yet again the mere postulation of freedom is not enough. Toynbee rejected the concept of a civilization's soul, but his empiricism merely issues in its definition. For what else is mimesis? Spengler, after all, had not used the word "soul" in a literal sense, but defined it as the "image of a counterworld, the mode of visualizing that which remains eternally alien to the physical eye". [^1] If social drill constitutes a generic feature of social life, if it exhibits those relations which require no formal institutions because of their self-evidence, then Toynbee has merely shifted the emphasis from the manifestations of the organic aspect to a description of its operation. [^2] How does mimesis differ from the beat of self-implementation by which Spengler's soul actualizes itself?
-
-Toynbee ascribes the breakdown of civilizations to two contradictory factors, the nemesis of creativity and the mechanicalness of mimesis. This raises formidable difficulties in
-
-[^1]: Spengler op. cit. Vol. I. p. 300.
-[^2]: Indeed the choice of the word "generic" indicates an organic factor.
-
-logic. If mimesis results from the inability of the uninspired majority to absorb directly the inspiration of the Saints, then the "claim" of the leaders can not reside in their creativity. How will the mass recognize the Saints? Indeed, their appearance is itself an event of "such unimaginable rarity", [^1] that a social drill, the efficacy of which must depend on a certain uniformity, can hardly develop from so uncertain a phenomena. The breakdown of mimesis moreover is a mechanical failure and bears no relation to a deficient self-determination, Toynbee's usual criterion for decline.
+Toynbee ascribes the breakdown of civilizations to two contradictory factors, the nemesis of creativity and the mechanicalness of mimesis. This raises formidable difficulties in logic. If mimesis results from the inability of the uninspired majority to absorb directly the inspiration of the Saints, then the "claim" of the leaders can not reside in their creativity. How will the mass recognize the Saints? Indeed, their appearance is itself an event of "such unimaginable rarity",[^1890-1] that a social drill, the efficacy of which must depend on a certain uniformity, can hardly develop from so uncertain a phenomena. The breakdown of mimesis moreover is a mechanical failure and bears no relation to a deficient self-determination, Toynbee's usual criterion for decline.
 
 Again if the loss of inspiration by the creative minority accounts for society's disintegration and the secession of the internal proletariat, by what standard is that deficiency apprehended? If the uncreative majority possessed a criterion for creativity, it would not require mimesis. If mimesis constitutes the generic feature of social life, Toynbee can not complain about its direction and his attempts to describe breakdown in terms of purposiveness fails.
 
-Toynbee maintains that compulsion replaces charm as the social bond in the early stages of breakdown. The philosopher masked by a king is doomed to frustration for his efficiency depends on the implied threat of force. Mimesis to be effective, must, however, rely on this threat. [^2] Thus it appears that society's breakdown is, after all, inevitable, its fatality
-
-[^1]: Toynbee op. cit. Vol. III. p. 272.
-[^2]: Toynbee specifically considers the reliance on mimesis as dooming the philosopher masked by a King. Toynbee op. cit. Vol. VI. p. 255.
-
-the function of the feature which distinguishes a civilization from primitive societies.
+Toynbee maintains that compulsion replaces charm as the social bond in the early stages of breakdown. The philosopher masked by a king is doomed to frustration for his efficiency depends on the implied threat of force. Mimesis to be effective, must, however, rely on this threat.[^1890-2] Thus it appears that society's breakdown is, after all, inevitable, its fatality the function of the feature which distinguishes a civilization from primitive societies.
 
 Toynbee replaces the theory of the organic nature of civilizations by the assertion that relations can possess no soul. This will hardly be contested. Yet he has not shown that civilizations represent no more than mere relations. His geometric analogy demonstrates the appearance of such a relation but not its existence. The question arises of what the civilization constitute the common field activity? If they represent the medium of communication of their component political communities, then the original difficulty reappears in different form. For since the constituent societies are themselves merely relations, they manifestly can not exhibit dynamic fields. If, on the other hand civilizations represent the totality of their individual members, then the withdrawal-and-return by which Athens, Italy and England grew in stature and the mimesis of the civilization's creative minority remains to be explained.
 
-Toynbee can, in fact, never escape these difficulties. For since he leans to the conception of the civilization as the common field of action of the component political communities, he must perforce consider these units organic entities. This forms the basis for the assertion that Athens played truant at the crucial stage of Hellenic history. [^1] This, too, is implied
+Toynbee can, in fact, never escape these difficulties. For since he leans to the conception of the civilization as the common field of action of the component political communities, he must perforce consider these units organic entities. This forms the basis for the assertion that Athens played truant at the crucial stage of Hellenic history.[^1899-1] This, too, is implied
 
 [^1]: It also is implied by Toynbee's concept that the idolization of an ephemeral self by Athens was so pervasive that the Byzantine empress of Athenian birth who was involved in the iconoclastic controversy exhibited the same perversity which once before had led the Athenians to reject Paul.
 
@@ -2627,9 +2262,6 @@ Spengler had a vision of the world-as-experience but instead of the uniqueness o
 
 Over a hundred years before Spengler and Toynbee, in the provincial Prussian town of Koenigsberg, the problem of the meaning of life, the paradox of our experience of freedom in a world of causal laws received its profoundest formulation. Kant was faced with the heritage of a philosophy which had reduced freedom and morality either to the technical knowledge of objective necessity or to a mere catalogue of pleasing perceptions. The opposition of Rationalism and Empiricism is analogous to the conflict between Spengler and Toynbee. Spengler's dictum that man's freedom consists of doing the necessary or doing nothing, might have been uttered by Spinoza. [^1] Toynbee's implication that survival embodies a mode of morality, corresponds to Hume's concept of the pleasure induced by utility, of benevolence as an inherent trait. [^2]
 
-[^1]: Though of course giving it a different content.
-[^2]: Since survival is an indication of utility. See post.
-
 But Kant refused to admit the validity of these assertions. He affirmed that besides the realm of necessity, there existed a realm of freedom as the repository of the meaning of occurrences. In part a reaction to Empiricism and Rationalism, in part their synthesis, Kant's philosophy transcended both in reformulating the possibilities of human knowledge. And because possibility implies the notion of limit, and since metaphysics can be defined as tracing the boundaries of the knowable, Kant achieved a resolution of our enigma of the antinomy of freedom and necessity in which metaphysical paradoxes are solved though not known by ethical postulates.
 
 Kant limited knowledge to make room for belief. He maintained that the mind imposed certain forms on appearances as a condition for its cognitive action. By analyzing these categories which structure all knowledge, he made phenomenal reality the emanation of pure reason. But at the same time Kant asserted that reality was not exhausted by its appearances, that profounder levels of meaning existed, revealed to man in his esthetic, theological and, above all, moral experiences. The transcendental intuition of freedom opens vistas of the noumena, the things-in-themselves, which no causal analysis can ever reach. The meaning given to life discloses a personality, whose moral sanction does not reside in specific attributes such as moderation or self-control but in the disposition of the will. The merit of conduct depends on its conformity to a rule which
@@ -2675,28 +2307,15 @@ Virtue as the capacity for self-maintenance at the highest level is attained by 
 
 Virtue is thus attained by knowledge, by understanding the inexorability of events and by the correct evaluation of one's true advantage. The similarity to Spengler (and to Hobbes) is striking, however different their conclusions. Both agree that an inevitable necessity rules existence, for which causality constitutes a shallow and inadequate explanation. Both find the key to comprehension in an intuitive grasp of the immanence that produces all occurrences. [^2] Spinoza - just as Spengler - conceives the state as engaged in a fight for sheer survival
 
-[^1]: Friederich in - Inevitable Peace - p. 149 et. seq. has characterized Spinoza as the logical philosophy of Calvinism.
-[^2]: Spinoza's sole criterion is inward certainty. See Essay on Human Understanding.
-
 in which to keep promises on fancied moral grounds represents the only real Sin. Freedom is the apprehension of an objective necessity to which man imparts but little. [^1]
 
 Yet the difficulties of a concept that required intuitive insight, backed merely by Reason were too great. An era of new scientific discovery, particularly in physics, seemed to demonstrate that the true source of knowledge was not the mind but nature, indeed that the mind is instructed by nature. Locke, founding the school of British Empiricists, conceived of the mind as a blank tablet endowed with a wax-like capacity of receiving sensuous impressions. Thus the other implication of Descartes was developed, into an assertion of the primary of the physical substance, into a rejection of any innate ideas.
 
 Carried to its ultimate conclusion by Hume, this led to a total metaphysical scepticism. Knowledge was based on experience, reasoning revealed the habitual expectation of recurrent situations. Cause and effect constituted but the representation of a constant conjunction of events, so that the appearance of event A, leads to the anticipation of event B. Yet one can not postulate a necessary connection between A and B. Space and time merely exhibit the result of certain regularities or juxtapositions of empirical entities. Thus innate ideas were non-existent, the concept of ultimate reality meaningless.
 
-Hume's ethics reflect his metaphysical assumptions.
+Hume's ethics reflect his metaphysical assumptions. Morality was based on a pleasing sensibility, the faculty of benevolence whereby humane impulses receive inward approbation. Social institutions depend in part on habit, in part on the pleasure derived from their utility. Thus morality became an attribute of external reality, however conceived, pleasure the only source of motivation. The similarity in the conclusions of the empiricists Toynbee and Hume illustrates the effect of metaphysical assumptions. [^1] In each case survival is given moral sanction, conceived as an indication of utility by Hume, as an emanation of Divine grace by Toynbee. But where Hume's metaphysical scepticism shrinks from ascribing ultimate purposes to phenomena, Toynbee's theological convictions enable him to find a divine imprint in historical events.
 
-[^1]: See post The Sense of Responsibility for implication of Spinoza's concept of intellectual love of God which makes this analysis provisional. The fact that Spinoza opted for peace and Spengler for strife reveals their personalities but is in no sense a logical necessity of their system. See post.
-
-Morality was based on a pleasing sensibility, the faculty of benevolence whereby humane impulses receive inward approbation. Social institutions depend in part on habit, in part on the pleasure derived from their utility. Thus morality became an attribute of external reality, however conceived, pleasure the only source of motivation. The similarity in the conclusions of the empiricists Toynbee and Hume illustrates the effect of metaphysical assumptions. [^1] In each case survival is given moral sanction, conceived as an indication of utility by Hume, as an emanation of Divine grace by Toynbee. But where Hume's metaphysical scepticism shrinks from ascribing ultimate purposes to phenomena, Toynbee's theological convictions enable him to find a divine imprint in historical events.
-
-Kant's dilemma then is but a restatement of our original paradox: What is the meaning of this necessity that accomplishes itself under the mode of freedom? The rationalists had asserted the supremacy of reason, limiting freedom to the recognition of objective necessity, conceiving manipulatory knowledge as the only ethical criterion. [^2] Their theory of knowledge was based on analytic a priori judgments, intuitively derived, which contained the whole truth within themselves and claimed their self evidence as the objective pattern of reality. [^3] Yet the attempt
-
-[^1]: See post "Appendix A" The Concepts of Meaning.
-[^2]: For a distinction between objective and subjective or inward necessity see post "The Sense of Responsibility".
-[^3]: Kant calls this a determinative judgment in his "Critique of Judgment.
-
-to achieve certainty by an analysis of innate ideas was doomed to failure, despite many great achievements of internal consistency. The Rationalists were ever forced to abstract from the uniqueness of experience in order to achieve the minimal forms capable of intellectual manipulation. The problem of the objective existence of external reality and its relation to innate ideas was in this formulation insolvable. The irony of the rationalist position is best expressed by their ultimate recourse to an inward experience, subjective certainty, as the final criterion of the validity of their judgments.
+Kant's dilemma then is but a restatement of our original paradox: What is the meaning of this necessity that accomplishes itself under the mode of freedom? The rationalists had asserted the supremacy of reason, limiting freedom to the recognition of objective necessity, conceiving manipulatory knowledge as the only ethical criterion. [^2] Their theory of knowledge was based on analytic a priori judgments, intuitively derived, which contained the whole truth within themselves and claimed their self evidence as the objective pattern of reality. [^3] Yet the attempt to achieve certainty by an analysis of innate ideas was doomed to failure, despite many great achievements of internal consistency. The Rationalists were ever forced to abstract from the uniqueness of experience in order to achieve the minimal forms capable of intellectual manipulation. The problem of the objective existence of external reality and its relation to innate ideas was in this formulation insolvable. The irony of the rationalist position is best expressed by their ultimate recourse to an inward experience, subjective certainty, as the final criterion of the validity of their judgments.
 
 Empiricism, on the other hand, faced the dilemma that despite the acuteness of its analysis of ordinary thought, its judgments lacked the universality which forms the foundation of profound ideation. To base cognition on mere experience is to risk the overthrow of one's concepts with each new experience. In the field of ethics, conduct could obtain sanction only through a cataloguing of pleasing perceptions.
 
@@ -2712,11 +2331,7 @@ Kant's Metaphysical Theory.
 
 Kant addressed himself to his central problem of the implication of the transcendental experience of freedom by re-examining the metaphysical presuppositions of both the rationalists and the empiricists. [^1] The rationalists had reduced freedom to a technical mastery of natural relations because their analytic judgments a priori had made impossible recourse to experience. The empiricists had approached morality as a problem of analyzing the pleasing perceptions of benevolence or utility because their synthetic judgments a posteriori had denied the possibility of universal validity. Yet experience without concepts is blind, while concepts without precepts are meaningless.
 
-Kant solved this dilemma by what he termed his Copernican revolution. Perhaps the problem of how to achieve a relation between ideas and external reality, which had led Descartes and Spinoza to invoke God as the connecting link, one in the sense of guaranteed reliability and the other in the sense of all-pervasiveness, and which, on the other hand, had forced Hume into total scepticism, perhaps this problem was so intractable because its basic epistemological assumptions were incorrectly stated. Just as Copernicus when he could not account for certain physical phenomena on the assumption that the sun revolved around the earth was finally forced to reverse this formulation, so Kant restated the dilemma of how the mind which is abstract can
-
-[^1]: The Sense of Responsibility will discuss what is implied by a transcendental experience.
-
-conform to concrete external reality.
+Kant solved this dilemma by what he termed his Copernican revolution. Perhaps the problem of how to achieve a relation between ideas and external reality, which had led Descartes and Spinoza to invoke God as the connecting link, one in the sense of guaranteed reliability and the other in the sense of all-pervasiveness, and which, on the other hand, had forced Hume into total scepticism, perhaps this problem was so intractable because its basic epistemological assumptions were incorrectly stated. Just as Copernicus when he could not account for certain physical phenomena on the assumption that the sun revolved around the earth was finally forced to reverse this formulation, so Kant restated the dilemma of how the mind which is abstract can conform to concrete external reality.
 
 He revolutionized metaphysics by insisting that instead of the mind conforming to external reality, physical objects can only be understood if they conform to certain patterns and rules imposed by the mind. He emphasized, however, that reality in its entirety can never be comprehended. Man's knowledge extends only to phenomena in sensuous experience. Ultimate reality, the things-in-themselves, are not disclosed to the cognitive faculties. If this is true, then Critical philosophy by analyzing the essential structure of the thought processes can attempt a definition of the forms by which external reality is apprehended by pure reason and synthetic a priori judgment will be possible. These judgments state nothing less than that all phenomenal experience must conform to certain patterns for the constitution of the human mind prevents cognition in any other context.
 
@@ -2759,33 +2374,19 @@ As in his Critique of Pure Reason Kant rejects the views of both the Rationalist
 
 If neither rationalism nor empiricism provide a foundation for a universal law, how can humanity give effect to its experience of morality? Kant finds the answer in the very constitution of man. If everything in nature is created with a maximum of economy and the means chosen most apt, then happiness conceived as desire-satisfaction can not represent the purpose of a rational being. [^1] Instinct would suffice for the achievement of pleasure in the hedonistic sense. But man is endowed with reason and above all a practical reason that issues forth into action, and seemingly multiplies motivations. The faculty of rationality must consequently be designed to implement the moral experience.
 
-But how can a personal experience contain a universal obligation? Just as the metaphysical dilemma was resolved only with the aid of synthetic a priori judgments, so Kant gives effect to man's experience of freedom by a priori principles that determine the will by their own inner necessity. Moral sanction consequently does not attach to such laudable qualities as moderation, self-control, or calm deliberation for in villains these very qualities tend to accentuate evil. The merit of conduct is determined solely by the disposition of a will which
-
-[^1]: This teleogical concept depends on Kant's Critique of Judgment. See post.
-
-acts out of a concept of duty expressed as respect for the moral law. This precludes inclination as a guide to action but prevents equally the definition of morality as a technical knowledge of naturalistic relations.
+But how can a personal experience contain a universal obligation? Just as the metaphysical dilemma was resolved only with the aid of synthetic a priori judgments, so Kant gives effect to man's experience of freedom by a priori principles that determine the will by their own inner necessity. Moral sanction consequently does not attach to such laudable qualities as moderation, self-control, or calm deliberation for in villains these very qualities tend to accentuate evil. The merit of conduct is determined solely by the disposition of a will which acts out of a concept of duty expressed as respect for the moral law. This precludes inclination as a guide to action but prevents equally the definition of morality as a technical knowledge of naturalistic relations.
 
 How then is the will determined by reason? In a holy will which acts of necessity according to the moral law such a determination is unnecessary. The human will, however, torn by desires, requires an imperative, a representation of a ground of action expressed by the word 'ought'. It is a hypothetical imperative if represented as a means to an end, a categorical imperative if an end in itself. But the moral law stems from a transcendental experience from a recognition of an ultimate reality beyond phenomenal appearances. It can therefore be implemented only by the categorical imperative, the maxims of which assure universality.
 
-Kant's first formulation of the categorical imperative derives from the conception of the moral law determining the will by its own inward necessity from a priori principles. It states: "Act as if the maxims of thy action could become by thy will, universal laws of nature." Morality in this sense results from a point of view which recognizes that by its actions it gives maxims of universal applicability. The difference between morality and expediency, between inward compulsion of duty and inclination becomes immediately apparent. Kant cites the example of borrowing with the knowledge that its repayment is impossible. Whatever the expediency of this action it is
-
-impossible to will it as a universal law of nature. [^1] The key to an immoral action resides in the willingness to make an exception in favor of inclination to a moral law recognized as of universal validity.
+Kant's first formulation of the categorical imperative derives from the conception of the moral law determining the will by its own inward necessity from a priori principles. It states: "Act as if the maxims of thy action could become by thy will, universal laws of nature." Morality in this sense results from a point of view which recognizes that by its actions it gives maxims of universal applicability. The difference between morality and expediency, between inward compulsion of duty and inclination becomes immediately apparent. Kant cites the example of borrowing with the knowledge that its repayment is impossible. Whatever the expediency of this action it is impossible to will it as a universal law of nature. [^1] The key to an immoral action resides in the willingness to make an exception in favor of inclination to a moral law recognized as of universal validity.
 
 Kant's second formulation relies on the distinction between the categorical imperative as an end in itself and the hypothetical imperative in which the motivation is but a means. "So act, as to treat humanity whether in your own person or in that of others as an end only and never as a means". This concept expresses the recognition of the ultimacy of man's moral personality, the apprehension of tolerance which sets limits to one's activity out of respect for the divine in humanity. Its goal is the kingdom of ends in which the autonomy of the wills precludes any personal inclination in the carrying out of moral laws. Here every man is both legislator of universal maxims and subject to the rules created by the autonomy of others. Here the dignity of man, flowing from an awareness of his responsibility to mankind, provides the foundation for a heteronomy of wills in whom the transcendental vision of freedom has kindled the spark that has led to the common experience of the moral law.
 
-But how can the categorical imperative furnish a conception of its possibility? If man forms part of nature - as all experience indicates - he is ruled by causality. This raises
-
-[^1]: For the discussion of this argument see post. It is not, of course impossible to will this, but it is impossible to secure a reciprocal recognition of this volition.
-
-a series of other antinomies. Man attempts to achieve morality, yet the goal is distant and intuitively one feels the impossibility of its attainment. Man longs for the Summum Bonum - happiness commensurate with virtue, but no guarantee for a necessary connection exists in the phenomenal world. Duty seems the only motive that can guide humanity in its quest for morality.
+But how can the categorical imperative furnish a conception of its possibility? If man forms part of nature - as all experience indicates - he is ruled by causality. This raises a series of other antinomies. Man attempts to achieve morality, yet the goal is distant and intuitively one feels the impossibility of its attainment. Man longs for the Summum Bonum - happiness commensurate with virtue, but no guarantee for a necessary connection exists in the phenomenal world. Duty seems the only motive that can guide humanity in its quest for morality.
 
 Again Kant returns to the distinction in the Critique of Pure Reason between the noumenal and the phenomenal world. In so far as man participates in the realm of necessity - as a phenomena - he is indeed determined. But morality does not describe an order of nature, but has its origins in a mystic attitude within us. [^1] Ethics testify to an experience which raises man above himself out of the world of senses, into the noumenal reality of the Divine design. Freedom the possibility of which speculative reason asserted is now postulated by practical reason. The striving for perfection induced by the moral law implies immortality to give effect to an endeavor impossible of fulfillment in a finite time. God appears as the guarantor of the Summum Bonum. [^2] The postulates of God, Freedom and immortality represent an assertion of the pervasiveness of man's moral experience. The transcendental experience of freedom overcomes all obstacles offered by the empirical realm. Theory and practice are united in the categorical imperative, the possibility of whose implementation derives from its very conception. [^3]
 
-[^1]: For interpretation of this attitude see post "The Sense of Responsibility".
-[^2]: N. Kemp. Smith - A Commentary to Kant's Critique of Pure Reason p. 603 points out that in later life Kant considered this an overly theoretical proof of God's existence and asserted instead that God speaks directly through the categorical imperative.
-[^3]: [This footnote is not present in the original text, but a superscript `3` is.]
-
-through his moral experience - not through any analysis of empirical reality - man attains a vision of a higher world-order and of the meaning of occurrences.
+Through his moral experience - not through any analysis of empirical reality - man attains a vision of a higher world-order and of the meaning of occurrences.
 
 This enables Kant to redefine Christianity on the basis of a transcendental intuition without attempting - like Toynbee - to claim the sanction of external reality for this effort. The moral law is holy and presupposes a will directly determined by its commands. Yet all man can achieve in this life is a rightful disposition arising out of respect for the law. The yearning for the bliss of holiness therefore postulates eternity. The order of nature can offer no happiness as an inducement for the performance of the moral law. But the Christian concept of the Kingdom of God opens vistas of a profounder plane, in which terrestial striving dissolves in the blessedness of inward peace. In the same sense Kant understands the biblical command of loving God and of loving one's neighbor as oneself. Pathological love can not be commanded. But a feeling of respect for the experience of the moral law, a liking to do one's duty based on an a priori conception expressed in the categorical imperative, an approach to man as an end, these constitute the true meaning of ethical love.
 
@@ -2795,12 +2396,7 @@ moral experience. The transcendental experience of freedom gave meaning to the c
 
 The rationalistic formulation of Kant's ethical philosophy tends to obscure its profound visions. Morality is found to reside in a mystic relationship to a supersensuous world-order, in a transcendental experience which alone makes the categorical imperative possible. For the necessity of the categorical imperative applies only to a specific attitude, its universality presupposes the prior experience of the moral law. This must be kept in mind in considering the criticism of Kant's ethics by Schweitzer and Satre. Though they differ in their point-of-view their arguments are remarkably alike. Schweitzer maintains that the validity of ethics issues from the necessity attending their thought. [^1] Kant's moral philosophy achieves universality at the cost of vitality, according to Schweitzer. The content of the categorical imperative becomes so vague as to lose all meaning.
 
-Satre restates this argument in practical terms. [^2] He cites the case of a young Frenchman torn between the desire of joining De Gaulle's forces and thereby exposing his mother to possible German retaliation or staying and losing his self-respect. Kant's categorical imperative offers no solution to
-
-[^1]: Schweitzer - The Philosophy of Civilization p. 182 et. seq.
-[^2]: Sartre - Existentialism p. 28 et. seq.
-
-this dilemma according to Satre. Whatever the lad's decision, he would treat somebody, either himself or his mother as but a means.
+Satre restates this argument in practical terms. [^2] He cites the case of a young Frenchman torn between the desire of joining De Gaulle's forces and thereby exposing his mother to possible German retaliation or staying and losing his self-respect. Kant's categorical imperative offers no solution to this dilemma according to Satre. Whatever the lad's decision, he would treat somebody, either himself or his mother as but a means.
 
 Despite the impreciseness of the example it illustrates well the confusion involved in this interpretation of Kant's moral philosophy. Both Schweitzer and Satre argue as if moral philosophy should be a manual of action supplying technical solutions to all the problems of existence. But the dilemmas of life are not to be reconciled by manipulation. Ethical conduct to be meaningful must reveal a personality, not a mastery of causal connections. Kant understood this and based his whole moral philosophy on a transcendental experience. This implies, however, that the categorical imperative can give conditions only to a prior moral experience. Its universality expresses a feeling of responsibility towards humanity, its obligation testifies to a vision of an ultimate reality.
 
@@ -2906,56 +2502,23 @@ Though this is by no means a necessary conclusion, the further developments of K
 [^ka-7]: Since phenomena obey natural laws Schweitzer op. cit., p. 186 et. seq.
 [^ka-8]: See post for discussion of this point.
 [^ka-9]: See ante for discussion of this point.
-[^ka-10]: Kant - Eternal Peace (Friedrichop. cit. p. 483).
-
 History is not a task but contains a guarantee for the realization of the moral law. This aspect of Kant's philosophy parallels Toynbee's dilemma, the attempt to wrest certainty from the fatedness of life, the endeavor to conjure phenomena to escape the transitoriness of existence.[^ka-11]
-
-[^ka-11]: See post for discussion. The subsequent section on amalgamation of Kant's Idea for a Universal History and his Guarantee for Eternal Peace. Since the latter sharpens the former's implications it forms the core of the analysis.
 
 ### The Philosophy of History Conceived as a Teleological System
 
 Kent poses three possible modes for the apprehension of historical events: History can be conceived as the unfolding of a plan (either natural or divine depending on the point-of-view) to develop humanity from the lowest state of animality to the highest level of human freedom. On the other hand the succession of political events may reveal no more than the accidental constellation of power relations which may one day achieve a formation which insures stability. Lastly, one can deny any pattern in history, leaving merely a senseless alternation of strife and truce, a constant rise and decline of empires, a hopeless resignation which can not attain peace.[^ka-12] Kant opts for the first alternative. If phenomena required for their cognition the formulation of synthetic a priori judgment, if the moral law derived its validity from a priori considerations of universality, then history can be conceived only on the basis of an a priori principle that reveals its immanence. This principle operates outside the range of human volition and structures the apprehension of events by its own inward necessity.
 
-But how is one to conceive such a philosophy of history? How is one to reconcile man's experience of purposiveness with the meaning of occurrences? Kant utilizes the argument of his
-
-[^ka-12]: For the three alternatives see Friedrich op. cit. p. 125. (Idea for a Universal History).
-
-Critique of Judgment[^ka-13] that a teleological principle must inhere in nature as a condition for the regularity of phenomena. Only thus can the meaning of history emerge out of the otherwise senseless recurrence of seemingly accidental events. Man's freedom appears as an aspect of a pervasive mechanism, purposive activity becomes but the tool of an inexorable directedness. Just as the population statistics of major countries reveal a regularity according to stable natural laws, despite the accidents of individual fortunes, so history considered as a totality may contain a pattern apart from the incidental purposes of human beings. Mankind thus promotes an end unknown to them which moreover "they would care little for if they knew".[^ka-14]
+But how is one to conceive such a philosophy of history? How is one to reconcile man's experience of purposiveness with the meaning of occurrences? Kant utilizes the argument of his Critique of Judgment[^ka-13] that a teleological principle must inhere in nature as a condition for the regularity of phenomena. Only thus can the meaning of history emerge out of the otherwise senseless recurrence of seemingly accidental events. Man's freedom appears as an aspect of a pervasive mechanism, purposive activity becomes but the tool of an inexorable directedness. Just as the population statistics of major countries reveal a regularity according to stable natural laws, despite the accidents of individual fortunes, so history considered as a totality may contain a pattern apart from the incidental purposes of human beings. Mankind thus promotes an end unknown to them which moreover "they would care little for if they knew".[^ka-14]
 
 But what is this end? What is the a priori principle by which historical events become intelligible? Kant maintains that history's purpose is the achievement of peace through law, by states with republican constitutions. This is, however, neither derived from a transcendental experience, nor from the universal obligation of a moral law, but issues from an analysis of the end which the mechanism of nature promotes. Peace becomes a technical task of reconciling empirical conditions with the purpose of existence.[^ka-15] The meaning of history is identical with man's aspirations, indeed humanity's norms constitute but a means for the achievement of an immanent aim.
 
-[^ka-13]: See post discussion of this argument.
-[^ka-14]: Friedrich op. cit. p. 117 (Idea for Universal History).
-[^ka-15]: See Friedrich op. cit. p. 452 (Eternal Peace) and post.
-
-Kant lays down nine principles for the apprehension of history.[^ka-16] Since history is conceived as subject to a teleology theory which structures its phenomena a priori, the natural faculties of all creatures must be destined to unfold completely according to their end. Thus purpose replaces accident, design a senseless mechanism. The goal of man as the only rational creature is the development of his reason. However, the growth in wisdom requires many trials, and much experience,
-
-[^ka-16]: Kant's nine principles are:
-    1. All natural aptitudes of a creature are destined to unfold themselves completely and purposefully.
-    2. As for man (the only rational creature on earth), these natural aptitudes which are directed toward the use of his reason will develop fully in the species, but not in the individual.
-    3. Nature has willed that man should develop completely by himself everything which goes beyond the mechanical ordering of his animal existence, and that he should not partake of any happiness or perfection except such as he has secured by and for himself through his own reason, independent of instinct.
-    4. The means which nature employs to produce the development of all man's aptitudes is the antagonism in society, since this antagonism becomes in the end the cause of a lawful order of society.
-    5. The greatest problem for the species man, the solution of which nature forces upon him, is the establishment of a civil society which generally administers the law.
-    6. This problem is mankind's most difficult problem and will be the last solved by the species.
-    7. The problem of the establishment of a perfect civil constitution is dependent upon a lawful external relation between states and cannot be solved without it.
-    8. It is possible to look upon the history of the human species in the large as the execution of a hidden plan of nature - to bring about a constitution which is perfect internally, and for this purpose also externally - because this is the only state in which nature can develop all aptitudes of mankind fully.
-    9. A philosophical attempt to treat general world history according to a plan of nature which aims at the perfect civil association of the human species must be considered possible and as itself promoting this purpose of nature.
-
-not to be attained in a single life. Consequently man's faculties develop completely in the species not in the individual.
+Kant lays down nine principles for the apprehension of history.[^ka-16] Since history is conceived as subject to a teleology theory which structures its phenomena a priori, the natural faculties of all creatures must be destined to unfold completely according to their end. Thus purpose replaces accident, design a senseless mechanism. The goal of man as the only rational creature is the development of his reason. However, the growth in wisdom requires many trials, and much experience, not to be attained in a single life. Consequently man's faculties develop completely in the species not in the individual.
 
 But existence involves strife, life presents a continuous series of problems. Hardship seems the lot of humanity. Kant argues that the mechanism of nature imposes these difficulties on men, in order to force him to create his well-being solely by his own work. Man's real happiness consists of rational self-esteem. Now the eternal violence of history attains new meaning. Man's faculties develop through the antagonism of society and the struggle between nations. The pressure of competition, the insecurity of the state of nature lead to the formation of the civil society, whose invocation of the principle of law testifies to its apprehension, though not immediate attainment, of moral ideals. Man's quarrelsome instincts reveal nature's mechanism, for the optimum development of his skills. "Man wants concord, but nature knows better what is good for his kind; nature wants discord. Man wants to live comfortably and pleasureably, but nature intends that he should raise himself out of lethargy and inactive contentment into work and trouble and then he should find means of extricating himself adroitly from the latter".¹
 
-If Society arises in response to the insecurity of constant strife, the organization of the proper constitution must represent mankind's most difficult task. Man can develop his natural faculties to the fullest only under a just civic constitution. Kant considers the reconciliation of freedom with
+If Society arises in response to the insecurity of constant strife, the organization of the proper constitution must represent mankind's most difficult task. Man can develop his natural faculties to the fullest only under a just civic constitution. Kant considers the reconciliation of freedom with a monopoly of force humanity's central political problem. The tendency to make exceptions in one's own favor ever fights against the assertion of the supremacy of law. Law, again, suffers from the fact that it is a product of man and at the same time conceived as embodying objective principles of justice. The emergence of a just civic constitution will therefore testify the proper disposition of the will. But this can occur only after many disappointing failures, as the goal of all striving, as the ultimate purpose of history.
 
-1. Kant - Idea for a Universal History - Friedrich op. cit. p. 128.
-
-a monopoly of force humanity's central political problem. The tendency to make exceptions in one's own favor ever fights against the assertion of the supremacy of law. Law, again, suffers from the fact that it is a product of man and at the same time conceived as embodying objective principles of justice. The emergence of a just civic constitution will therefore testify the proper disposition of the will. But this can occur only after many disappointing failures, as the goal of all striving, as the ultimate purpose of history.
-
-The perfect civic constitution, moreover, presupposes lawful relations among states. There is no use in working for domestic peace if war constantly threatens from across the borders. The ceaseless preparation for conflict, the feeling of insecurity engendered by armies, the ravages of never-ending strife, all teach humanity what reason alone would have indicated without all this suffering. Just as the experience of the state of nature among individuals led to the formation of civil society, so the eternal tensions between states reveal nature's mechanism for the attainment of peace. The eventual creation of a just civic constitution, which will forever banish war and begin the era of harmony among mankind therefore constitutes the purpose of history. The unfolding of events will force the emergence of this constitution, even if moral precepts fail. A philosophy of history based on these assumptions must be
-
-1. Kant - Idea for a Universal History - Friedrich - op. cit., p. 128.
-
-possible, according to Kant; a task bequeathed to succeeding generations.
+The perfect civic constitution, moreover, presupposes lawful relations among states. There is no use in working for domestic peace if war constantly threatens from across the borders. The ceaseless preparation for conflict, the feeling of insecurity engendered by armies, the ravages of never-ending strife, all teach humanity what reason alone would have indicated without all this suffering. Just as the experience of the state of nature among individuals led to the formation of civil society, so the eternal tensions between states reveal nature's mechanism for the attainment of peace. The eventual creation of a just civic constitution, which will forever banish war and begin the era of harmony among mankind therefore constitutes the purpose of history. The unfolding of events will force the emergence of this constitution, even if moral precepts fail. A philosophy of history based on these assumptions must be possible, according to Kant; a task bequeathed to succeeding generations.
 
 Schweitzer's criticism is thus validated by Kant's "Idea for a Universal History". The meaning of history derived from the categorical imperative is identical with the design of nature. History regarded as a phenomena discloses the same immanence that the transcendental experience of freedom postulated. The confusion of the ethical and the natural is complete. It makes little difference whether morality claims the sanction of reality or vice versa, in this scheme both are reduced to parallel appearance of the same inexorability. The aspirations of humanity represent but a mode of nature's mechanism.
 
@@ -2965,122 +2528,79 @@ of existence was seen to result from the content ascribed to the categorical imp
 
 What lessons can be derived from the empirical world in such a context? The Critique of Pure Reason had realized that knowledge had to be limited to achieve belief. The categorical imperative universalized a personal relation to the ultimate reality which underlies all phenomena. But this implied that the numina are approachable only by way of a direct experience of the moral law. The mode of their operation in phenomena can not be decided by pure reason, nor really affirmed by the teleological judgment.¹ The transcendental intuition of freedom does not necessarily reveal the objective mode of numinal operation but only its relationship to Man. It lifts man above himself and attaches him to a higher world order by means of a vision, that is essentially incommunicable and certainly unclassifiable teleologically. The categorical imperative represents its only meaningful principle when it issues into action.
 
-If Kant were basing his Ideas for a Universal History and his Guarantee for the achievement of Eternal Peace on the categorical imperative, a different situation would arise. He could then assert that the command for peace is an emanation of a transcendental experience which in its very conception contains its possibility. The implementation of moral maxims would then
+If Kant were basing his Ideas for a Universal History and his Guarantee for the achievement of Eternal Peace on the categorical imperative, a different situation would arise. He could then assert that the command for peace is an emanation of a transcendental experience which in its very conception contains its possibility. The implementation of moral maxims would then become a consequence of the determination of the will out of a conception of the moral law, not a technical problem of manipulating the mechanism of nature. This, indeed, forms the foundation for the nine articles for the Eternal Peace. It can not be asserted that their obligation depends on empirical conditions. On the contrary, Kant repeatedly rejects the argument that the categorical imperative and its application to the problem of peace can take any account of the accidental constellation of political events.¹ The moral law reveals the objective principle that guides humanity's quest for a meaning of history. It reveals peace as mankinds noblest task, to be achieved through the institutionalization of the categorical imperative in a republican constitution.
 
-1. See post for my brief discussion of Critique of Judgment.
+The Idea for a Universal History derives the sanction for its political maxims from an inexorable development, however. In its view peace results not from the determination of the will by the moral law, but from the proper evaluation of technical requirements. The vision of universal reconciliation arises as but the revolt of a frustrated soul against the dark uncertainties of constant warfare. Discord may produce harmony, but only through an analysis of its conditions, not from a conception of duty. Experience now produces morality, instead of the categorical imperative supplying norms the approximation to which reveals the moral content of an action. This becomes very apparent in the following quotation from the Guarantee of Eternal Peace: "The problem of establishing a state is solvable even for a people of devils, if only they have intelligence though this may sound harsh. It may be stated thus. (Then Kant formulates a hypothetical technical question on the proper balancing of selfish tendencies). Such a problem must (Author's italics) be solvable. For it is not the moral perfection of mankind, but merely the mechanism of nature, which this task seeks to know how to use in order to arrange the conflict of unpacific attitudes in a given people in such a way that they impel each other to compulsory laws and thus bring about the state of peace in which such laws are enforced....... In short we can say that nature wants irresistibly that law achieve superior force. If one neglects to do this, it will be accomplished anyhow, albeit with much inconvenience".[^ka-17] The transcendental experience of morality has disappeared as a guide to action. A mechanism replaces the categorical imperative as a motive force. Freedom becomes but a mode of causality. Volition operates as a tool of an inexorable necessity.
 
-become a consequence of the determination of the will out of a conception of the moral law, not a technical problem of manipulating the mechanism of nature. This, indeed, forms the foundation for the nine articles for the Eternal Peace. It can not be asserted that their obligation depends on empirical conditions. On the contrary, Kant repeatedly rejects the argument that the categorical imperative and its application to the problem of peace can take any account of the accidental constellation of political events.¹ The moral law reveals the objective principle that guides humanity's quest for a meaning of history. It reveals peace as mankinds noblest task, to be achieved through the institutionalization of the categorical imperative in a republican constitution.
+It can be maintained, of course, that Kant formulates this teleology, as a thought one adds to, but does not really find in nature.[^ka-18] But this distinction is more apparent than real. The tentativeness of a hypothesis applies only to its conclusions, not to the possibility of solving the problem. Its very existence testifies to a belief in the efficacy of its endeavor. The hypothetical nature of Kant's teleology can not hide the fact that he considered a conception of specific purposes in the mechanical course of nature both possible and necessary. The tentativeness of the formulation allows a criticism of the specific purpose which Kant finds in history. It can not affect, however, the basic argument of this discussion that an ascription of any purpose is neither necessary nor possible, if Kant's original analysis is valid.
 
-The Idea for a Universal History derives the sanction for its political maxims from an inexorable development, however. In its view peace results not from the determination of the will by the moral law, but from the proper evaluation of technical requirements. The vision of universal reconciliation arises as but the revolt of a frustrated soul against the dark uncertainties of constant warfare. Discord may produce harmony, but only through
+If the categorical imperative derives from a transcendental experience of freedom that lifts man above the determined inevitability of phenomena, the mechanical course of nature can have no bearing on its applicability. If the necessary unfolding of events automatically produces the proper disposition of the will, the experience of freedom becomes meaningless and the categorical imperative a mere technical problem. No compromise between these two positions is possible. Either ethical activity can be meaningful out of an apprehension of its principle or it is reduced to a function of nature's mechanism. Though a contemplation of the regularity of phenomena may yield an intuition of a design as the very condition of appearances, purposiveness can not be equated with specific purposes. One can grant the existence of a higher world-order, in which one participates through the experience of freedom, without at the same time defining its conditions.¹
 
-1. For example see this quotation. Kant - Theory and Practice (Friedrich op. cit. p. 414): "The maxim about Theory and Practice which has become common in our wordy and deedless times causes very great damage if applied to moral questions. For the cannon of practical reason is involved in this realm. Here the value of a given practice depends upon its appropriateness to the theory upon which it is based. All is lost if empirical, and consequently accidental, conditions of the execution of the law are made conditions of the law itself. Then a practice which is valuated in relation to the probable result of previous experience is accorded the right of determining the theory itself."
-
-an analysis of its conditions, not from a conception of duty. Experience now produces morality, instead of the categorical imperative supplying norms the approximation to which reveals the moral content of an action. This becomes very apparent in the following quotation from the Guarantee of Eternal Peace: "The problem of establishing a state is solvable even for a people of devils, if only they have intelligence though this may sound harsh. It may be stated thus. (Then Kant formulates a hypothetical technical question on the proper balancing of selfish tendencies). Such a problem must (Author's italics) be solvable. For it is not the moral perfection of mankind, but merely the mechanism of nature, which this task seeks to know how to use in order to arrange the conflict of unpacific attitudes in a given people in such a way that they impel each other to compulsory laws and thus bring about the state of peace in which such laws are enforced....... In short we can say that nature wants irresistibly that law achieve superior force. If one neglects to do this, it will be accomplished anyhow, albeit with much inconvenience".¹ The transcendental experience of morality has disappeared as a guide to action. A mechanism replaces the categorical imperative as a motive force. Freedom
-
-1. Friedrich op. cit. p. 452 - (Eternal Peace) In view of Kant's sharp criticism of merely technical solutions in the Appendix one would be inclined to consider this statement as in the vein of gentle irony which permeats Eternal Peace. The correspondence of this view to the Idea for a Universal History makes this impossible, however.
-
-becomes but a mode of causality. Volition operates as a tool of an inexorable necessity.
-
-It can be maintained, of course, that Kant formulates this teleology, as a thought one adds to, but does not really find in nature.¹ But this distinction is more apparent than real. The tentativeness of a hypothesis applies only to its conclusions, not to the possibility of solving the problem. Its very existence testifies to a belief in the efficacy of its endeavor. The hypothetical nature of Kant's teleology can not hide the fact that he considered a conception of specific purposes in the mechanical course of nature both possible and necessary. The tentativeness of the formulation allows a criticism of the specific purpose which Kant finds in history. It can not affect, however, the basic argument of this discussion that an ascription of any purpose is neither necessary nor possible, if Kant's original analysis is valid.
-
-If the categorical imperative derives from a transcendental experience of freedom that lifts man above the determined inevitability of phenomena, the mechanical course of nature can have no bearing on its applicability. If the necessary unfolding of events automatically produces the proper disposition of the will, the experience of freedom becomes meaningless and the categorical imperative a mere technical problem. No compromise
-
-1. Friedrich op. cit. p. 448 (Eternal Peace).
-
-between these two positions is possible. Either ethical activity can be meaningful out of an apprehension of its principle or it is reduced to a function of nature's mechanism. Though a contemplation of the regularity of phenomena may yield an intuition of a design as the very condition of appearances, purposiveness can not be equated with specific purposes. One can grant the existence of a higher world-order, in which one participates through the experience of freedom, without at the same time defining its conditions.¹
-
-Again, in order to resolve these difficulties one might draw the inference that the physical world did contain a limiting condition to the universal applicability of the categorical imperative from the following statement in the Metaphysics of Morals, "It is our duty to act according to the idea of such an end which reason commands (namely peace) even if there is not the least probability that it can be achieved, provided its impossibility can not be demonstrated." This represents Friedrich's view who considers Kant's qualifying clause a fundamental condition of his moral philosophy, an important connecting link between the realm of freedom and the realm of necessity: "No one was more clearly aware.....of the necessity of testing hypothetical judgment by experience than Kant. No work of Kant's shows this more conclusively than Eternal Peace. In the Appendix he
-
-1. See post for distinction between purposiveness and purposes.
-
-insisted (as of course he had often done before) that only what is possible can be morally required and he recites the dictum of the law ultra posse nemo obligatur. This is precisely the reason for showing the possibility that in peace-making, as in other human affairs, we learn by doing."¹ Thus fact and norm are reconciled, the course of history reveals man's aspirations.
+Again, in order to resolve these difficulties one might draw the inference that the physical world did contain a limiting condition to the universal applicability of the categorical imperative from the following statement in the Metaphysics of Morals, "It is our duty to act according to the idea of such an end which reason commands (namely peace) even if there is not the least probability that it can be achieved, provided its impossibility can not be demonstrated." This represents Friedrich's view who considers Kant's qualifying clause a fundamental condition of his moral philosophy, an important connecting link between the realm of freedom and the realm of necessity: "No one was more clearly aware.....of the necessity of testing hypothetical judgment by experience than Kant. No work of Kant's shows this more conclusively than Eternal Peace. In the Appendix he insisted (as of course he had often done before) that only what is possible can be morally required and he recites the dictum of the law ultra posse nemo obligatur. This is precisely the reason for showing the possibility that in peace-making, as in other human affairs, we learn by doing."[^ka-19] Thus fact and norm are reconciled, the course of history reveals man's aspirations.
 
 This solution is not completely satisfactory, however. Its validity depends on what Kant meant by a proof for impossibility. Friedrich implies that the applicability of Kant's moral depends on their attainability in the empirical realm. But the whole tendency of Kant's argument denies this. For Kant did not insist on a proof of the feasibility of the moral law. This indeed would make the empirical world the determining principle of the categorical imperative. On the contrary, he affirmed the obligation of the categorical imperative even if there is not the slightest probability of its being achieved. But how can a law be binding in the face of all probability and still not be obligatory if its impossibility is demonstrated?
 
-The apparent contradiction is resolved if we consider that Kant was quite aware of the fact that an absolute proof of impossibility is out of the question. For what methodology could such an effort utilize? If the particular constellation of political circumstances does not suffice to negate the duty to work for eternal peace, if the reconciliation of all conflict is commanded against "all probability" (and probability implies
+The apparent contradiction is resolved if we consider that Kant was quite aware of the fact that an absolute proof of impossibility is out of the question. For what methodology could such an effort utilize? If the particular constellation of political circumstances does not suffice to negate the duty to work for eternal peace, if the reconciliation of all conflict is commanded against "all probability" (and probability implies an evaluation of existing relations), then no proof for the impossibility of moral maxims is conceivable. Only an infinite mind, encompassing all possible conditions, could make this demonstration.[^ka-20]
 
-1. Friedrich Inevitable Peace p. 52.
+But God speaks to man through the categorical imperative.[^ka-21] It commands through a priori considerations and by its own inward necessity. It expresses man's experience of that ultimate reality which lies beyond mere phenomenal manifestations. The transcendental import of that moral experience recognizes no limits. Wherever its maxims seem to be in conflict with the empirical world, Kant postulates entities which override all considerations of phenomenal reality. God, freedom and immortality reveal the strength of an intuition which has perceived a higher world order and will not let itself be denied by the constructions of pure reason.
 
-an evaluation of existing relations), then no proof for the impossibility of moral maxims is conceivable. Only an infinite mind, encompassing all possible conditions, could make this demonstration.¹
+To be sure, Kant often discusses the question of the "possibility" of his moral maxims. But this feasibility did not depend on evaluation of phenomenal reality. On the contrary, Kant repeatedly asserts that the possibility of the categorical imperative is given in its very conception. For if the experience of the moral law elevates man out of the phenomenal world and shows him a vision of the infinite, if his experience of freedom reveals a glimpse of the numina which underly all visible workings, what obstacle can the physical world possibly provide?¹
 
-But God speaks to man through the categorical imperative.² It commands through a priori considerations and by its own inward necessity. It expresses man's experience of that ultimate reality which lies beyond mere phenomenal manifestations. The transcendental import of that moral experience recognizes no limits. Wherever its maxims seem to be in conflict with the empirical world, Kant postulates entities which override all considerations of phenomenal reality. God, freedom and immortality reveal the strength of an intuition which has perceived a higher world order and will not let itself be denied by the constructions of pure reason.
+Friedrich draws the inference from Kant's philosophy that we learn by experience. This undoubtedly exhibits the implications of the Idea for a Universal History, and the Guarantee for Eternal Peace. But it merely restates the dilemma of how to reconcile man's experience of freedom with an immanent necessity. For what exactly does man learn by experience? It can not be the formulation of the categorical imperative for that derives from a priori considerations.[^ka-22] If he learns the technical implementation of the moral law then indeed experience is useful, though only as a counsel of prudence and not as a test of the validity of judgments. Historical necessity can never supply a guarantee for the actualizing of a command derived from a transcendental experience. Even granting that the demonstrations for 'not impossible' and 'possible' are identical, they can never be made to imply 'inevitable'.[^ka-23]
 
-To be sure, Kant often discusses the question of the "possibility" of his moral maxims. But this feasibility did
-
-1. Though it may well be that a methodology that disproves impossibility affirms possibility, a psychological difference, exists nevertheless. A strict proof of impossibility in the empirical world and particularly in the political realm seems out of the question since it would involve a grasp of all possible conditions. In the case of logical constructions such as mathematics in which all conditions are previously defined, the situation is, of course, different. A demonstration of possibility, on the other hand, involves only the evaluation of a particular set of circumstances. This is essentially the procedure of the scientist who affirms first the possibility and then through an assumption of uniformity gives it universality. But Kant specifically required a proof of impossibility.
-2. This is based on Kant's later writings see N. Kemp Smith op. cit. p. 608.
-
-not depend on evaluation of phenomenal reality. On the contrary, Kant repeatedly asserts that the possibility of the categorical imperative is given in its very conception. For if the experience of the moral law elevates man out of the phenomenal world and shows him a vision of the infinite, if his experience of freedom reveals a glimpse of the numina which underly all visible workings, what obstacle can the physical world possibly provide?¹
-
-Friedrich draws the inference from Kant's philosophy that we learn by experience. This undoubtedly exhibits the implications of the Idea for a Universal History, and the Guarantee for Eternal Peace. But it merely restates the dilemma of how to reconcile man's experience of freedom with an immanent necessity. For what exactly does man learn by experience? It can not be the formulation of the categorical imperative for
-
-1. Two quotations will illustrate this point. The first is from Theory and Practice. Friedrich - The Philosophy of Kant - p. 429.
-...There exists a concept which may be expressed by the words constitutional law. If this concept has binding force .....it has objective practical reality without our considering what good or ill may result; for the knowledge of these results is based purely on experience. If this be so, then constitutional law is based upon principles a priori since what is right can not be taught by experience. A theory of constitutional law exists with which practice must agree in order to be valid".
-The second quotation is from the Critique of Practical Reason: Friedrich op. cit. p. 262: "The second view (the moral experience) raises my value infinitely, as an intelligence, through my personality; for in this personality the moral law reveals a life independent of animality and even of the entire world of sense.... This is not restricted to the conditions and limits of this life but radiates into the infinite."
-
-that derives from a priori considerations. If he learns the technical implementation of the moral law then indeed experience is useful, though only as a counsel of prudence and not as a test of the validity of judgments. Historical necessity can never supply a guarantee for the actualizing of a command derived from a transcendental experience. Even granting that the demonstrations for 'not impossible' and 'possible' are identical, they can never be made to imply 'inevitable'.¹
-
-Kant has expressed the nature of the obligation of the moral law, as a guide to the meaning of history, as a norm which validates all striving: "In order to harmonize practical philosophy within itself, it is necessary first to decide the question whether in tasks of practical reason we should start from the material (i.e. substantive) principle, from its end, or from its formal one.... which states: Act in such a way that you could want your maxim to become a general law (whatever its purpose might be). Without a doubt the latter principle must take precedence; for as a principle of right it possesses absolute necessity, whereas the material principle is compelling only on condition that the empirical conditions for its realization exist..... The first principle (which conceives peace as a material end), that of the political moralist is a mere technical task; the second which is the principle of the moral politician as an
-
-1. The fact that this historical necessity is hypothetical does not affect the argument. See ante. I am not arguing against a specific purpose but against the possibility of making any such determination in the light of Kant's previous analysis.
-
-ethical task.... which is now decided not merely as a physical good, but as a condition resulting from the recognition of duty. Much knowledge of nature is required for the solution of the first problem of political prudence, in order to utilize its mechanism for this purpose and yet it is all rather uncertain as far as the result, eternal peace is concerned... By contrast the solution of the second problem of political wisdom readily presents itself, is evident to everyone, confounds all artifice and leads directly to the end..."¹
+Kant has expressed the nature of the obligation of the moral law, as a guide to the meaning of history, as a norm which validates all striving: "In order to harmonize practical philosophy within itself, it is necessary first to decide the question whether in tasks of practical reason we should start from the material (i.e. substantive) principle, from its end, or from its formal one.... which states: Act in such a way that you could want your maxim to become a general law (whatever its purpose might be). Without a doubt the latter principle must take precedence; for as a principle of right it possesses absolute necessity, whereas the material principle is compelling only on condition that the empirical conditions for its realization exist..... The first principle (which conceives peace as a material end), that of the political moralist is a mere technical task; the second which is the principle of the moral politician as an ethical task.... which is now decided not merely as a physical good, but as a condition resulting from the recognition of duty. Much knowledge of nature is required for the solution of the first problem of political prudence, in order to utilize its mechanism for this purpose and yet it is all rather uncertain as far as the result, eternal peace is concerned... By contrast the solution of the second problem of political wisdom readily presents itself, is evident to everyone, confounds all artifice and leads directly to the end..."[^ka-24]
 
 The incommensurability of Kant's critical philosophy and his teleological philosophy of history can not be overcome by considering the latter a demonstration for the possibility of the moral law. It may be argued however that Kant's Idea for a Universal History merely reveals another aspect of a methodology which attempts to attain knowledge by means of a priori principles. But again the similarity is misleading. The categories represent forms that explain the process of cognition. The categorical imperative derives from a transcendental experience of freedom and reconciles a personal experience with universal applicability. The content of both the categories and the categorical imperative depends, however, upon subsequent experience.
 
-1. Kant's Eternal Peace - Friedrich op. cit. p. 466. These quotations are presented at such length because the difference is one of interpretation which can only be resolved by a reading of the text not by disproving one interpretation by another one.
-
 But the conception of a definite purpose in the unfolding of events goes beyond these limits. It does not reveal a method for apprehending phenomena, but prescribes their essence. Instead of obtaining its sanction from a direct relationship to numinal reality, it attempts to claim the sanction of phenomena for its aspirations. Peace or a Civic Constitution is therefore not analogous as an a priori principle to either the categories or the moral law. The categories are truly a priori in that they merely provide the structure for subsequent experience. The categorical imperative is beyond dispute as soon as one admits man's transcendental experience of morality. But peace or a civic constitution (which implies lawful external relations) constitutes the instantiation of a general principle, not a necessary mode of historical apprehension. As a specific purpose (since it does not represent a truly a priori principle) it can be refuted by any other postulation of hypothetical goals.
 
-What then is this general principle? Kant's Critique of Judgment addresses itself to the problem of a teleological conception of phenomenal reality. Kant argues that the regularity exhibited by phenomena implies a design in nature. Just as the appearance of a hexagonal on a deserted island could not be explained by an accidental constellation of events, but would involve a principle of purposiveness, so man can postulate a teleology in the unfolding of phenomena. It provides the condition for the regularity of appearances and makes intelligible
-
-the consistency of natural laws.¹ But a general principle of purposiveness does not necessarily imply a knowledge of specific purposes. Kant admits this and draws a sharp distinction between a determinative and a reflective purposiveness, between a derivative and a constituitive design.² A determinative purposiveness describes the claims of a rationality which attempts to impose its aspirations as a pattern of objective reality. A constituitive design invokes its principles as the objective immanence of phenomenal occurrences. Kant, on the other hand, obtains his teleology from the reflective judgment which is led to this conclusion through an intuition that a mechanistic conception of the universe can not account for the organic aspects of growth. The design he postulates is derivative because it conceives the world as a process of becoming only to make meaningful the reality revealed by pure reason.
+What then is this general principle? Kant's Critique of Judgment addresses itself to the problem of a teleological conception of phenomenal reality. Kant argues that the regularity exhibited by phenomena implies a design in nature. Just as the appearance of a hexagonal on a deserted island could not be explained by an accidental constellation of events, but would involve a principle of purposiveness, so man can postulate a teleology in the unfolding of phenomena. It provides the condition for the regularity of appearances and makes intelligible the consistency of natural laws.[^ka-25] But a general principle of purposiveness does not necessarily imply a knowledge of specific purposes. Kant admits this and draws a sharp distinction between a determinative and a reflective purposiveness, between a derivative and a constituitive design.[^ka-26] A determinative purposiveness describes the claims of a rationality which attempts to impose its aspirations as a pattern of objective reality. A constituitive design invokes its principles as the objective immanence of phenomenal occurrences. Kant, on the other hand, obtains his teleology from the reflective judgment which is led to this conclusion through an intuition that a mechanistic conception of the universe can not account for the organic aspects of growth. The design he postulates is derivative because it conceives the world as a process of becoming only to make meaningful the reality revealed by pure reason.
 
 Kant's Critique of Judgment thus completes his metaphysics and his moral philosophy. The numina for the cognition of which the Critique of Pure Reason provided necessary forms and whose pervasiveness was affirmed by the moral philosophy, now appear as the principle which make causal knowledge possible. Kant calls attention to the fact that a mechanistic conception of the universe can not suffice for its understanding and that reason must add a teleology, not indeed known by the methods of the first two Critiques but nonetheless certain. Yet this
 
-1. Bernard - Critique of Judgment, p. 28.
-2. Bernard - op. cit. p. 259 et seq.
+judgment limits itself to ascribing an intrinsic purposiveness, the embodiment of which in specific purposes remains a mystery.[^ka-27] Causality explains the incidental appearances, teleology the underlying unity of organic growth.[^ka-28]
 
-judgment limits itself to ascribing an intrinsic purposiveness, the embodiment of which in specific purposes remains a mystery.¹ Causality explains the incidental appearances, teleology the underlying unity of organic growth.²
+But the consistency of Kant's philosophy begins to be destroyed by his subsequent introduction of the concept of extrinsic purposiveness.[^ka-29] Since man, he argues, is the only creature capable of forming an idea of teleology he is also the final purpose of the universe. Yet this again mistakes a personal experience for an objective principle of reality. To be sure man can form a conception of purposes, but Kant himself has derived the recognition of this supersensous world-order from the experience of freedom.
 
-But the consistency of Kant's philosophy begins to be destroyed by his subsequent introduction of the concept of extrinsic purposiveness.³ Since man, he argues, is the only creature capable of forming an idea of teleology he is also the final purpose of the universe. Yet this again mistakes a personal
+Since experiences are however personal and unique their content can not be claimed as the objective mode of operation of phenomena.[^ka-30] The manner in which numina operate in the physical world must therefore remain undecided. If man's purposes are equated with nature's purposiveness, the ethical and the natural become identical and freedom emerges as but a mode of causality. Every event is both an effect and an inward experience. As an effect, it is subject to causal analysis and to a teleological judgment which postulates an intrinsic purposiveness. As an experience, it reveals man's personality, and constitutes the means for transcending the necessity of the phenomenal world. The experience of freedom requires man to give his own meaning to his particular existence. If a transcendental vision guides the quest for the purpose of existence, phenomena can offer no further guarantee, the empirical world no permanent obstacles. If man's essence consists of the ability to act purposefully out of conception of duty, then empirical reality furnishes at best a challenge, never a condition. The sublimity of the moral law, the wonder which Kant felt at its operation within him, involves a task, for which we can not wrest an assurance of success out of the unfolding of events. "Anyone who finds history speaking optimistically lends her a language not her own."[^ka-31] Man's freedom derives from a mystic relationship to the Infinite, from a direct intuition of limits, given effect by the categorical imperative.
 
-1. The following quotation illustrates Kant's distinction between purposiveness and purposes between an intrinsic and an extrinsic teleology. Bernard - op. cit. p. 272.
-"We can see that external purposiveness can be regarded as an external natural purpose only under the condition that the existence of that being to which it is immediately or distantly advantageous is in itself a purpose of nature. Since that can never be completely determined by a mere contemplation of nature it follows that relative purposiveness, although it hypothetically gives indications of natural purposes yet justifies no absolute teleological judgment. Snow in cold countries protects the crops from the frost; it makes human intercourse easier by means of sleighs. (Here follows an enumeration of conditions that make existence in arctic countries possible). Here is a wonderful concurrence of many references of nature to one purpose.... But then we do not see why generally men must live there at all. Therefore to say that vapour falls out of the atmosphere in the form of snow, that the sea has its currents which float down the wood which has grown in warmer lands, and that there are in it great sea monsters filled with oil, because (author's italics) the idea of advantage for certain poor creatures is fundamental for the cause which collects all these natural products would be a very venturesome and arbitrary judgment." It is interesting to note that despite this refutation Kant uses almost exactly the same argument in his Guarantee for Eternal Peace (see Friedrich op. cit. p. 449 et. seq.)
-2. Note similarity to Spengler's morphology.
-3. Bernard op. cit. p. 361 et. seq.
+The invocation of the mechanism of nature as a sanction for a specific purpose destroys this apprehension. Now the meaning of history results from an evaluation of specific conditions which in the absence of a transcendental guiding principle can be overthrown by any alternative hypothesis. The meaning of existence and the purpose of occurrences can not be identified in this fashion. Toynbee's philosophy, which carries out the plan laid down by Kant in his ninth principle of the Idea for a Universal History testifies to the futility of the attempt.[^ka-32]
 
-experience for an objective principle of reality. To be sure man can form a conception of purposes, but Kant himself has derived the recognition of this supersensous world-order from the experience of freedom.
-
-Since experiences are however personal and unique their content can not be claimed as the objective mode of operation of phenomena.¹ The manner in which numina operate in the physical world must therefore remain undecided. If man's purposes are equated with nature's purposiveness, the ethical and the natural become identical and freedom emerges as but a mode of causality. Every event is both an effect and an inward experience. As an effect, it is subject to causal analysis and to a teleological judgment which postulates an intrinsic purposiveness. As an experience, it reveals man's personality, and constitutes the means for transcending the necessity of the phenomenal world. The experience of freedom requires man to give his own meaning to his particular existence. If a transcendental vision guides the quest for the purpose of existence, phenomena can offer no further guarantee, the empirical world no permanent obstacles. If man's essence consists of the ability to act purposefully out of conception of duty, then empirical reality furnishes at best a challenge, never a condition. The sublimity of the moral law, the wonder which Kant felt at its operation within him, involves a task, for which we can not wrest an assurance of success out of the unfolding of events. "Anyone who
-
-1. This does not say that history works against man's aspirations but simply that we can not derive our norms by claiming them as history's patterns.
-
-finds history speaking optimistically lends her a language not her own."¹ Man's freedom derives from a mystic relationship to the Infinite, from a direct intuition of limits, given effect by the categorical imperative.
-
-The invocation of the mechanism of nature as a sanction for a specific purpose destroys this apprehension. Now the meaning of history results from an evaluation of specific conditions which in the absence of a transcendental guiding principle can be overthrown by any alternative hypothesis. The meaning of existence and the purpose of occurrences can not be identified in this fashion. Toynbee's philosophy, which carries out the plan laid down by Kant in his ninth principle of the Idea for a Universal History testifies to the futility of the attempt.²
-
-Thus Kant argues a priori only when his teleological judgment derives from a transcendental experience, when the categorical imperative illuminates humanity's journey through the tasks of history. The numina that produce appearances are perceived through a personal experience and this accounts for man's essential loneliness in the face of the fatedness of existence.³ But it also makes possible the concept of the dignity of the individual whose will gives universal maxims despite his insignificance as but a spec in a determined system. Eternal
-
-1. Schweitzer - Philosophy of Civilizations p. 41.
-2. See ante.
-3. See ante.
-
-Peace testifies to this vision, to the norms which man gives himself as beacons to follow, to the meaning which humanity may impart to the inexorability of events.¹ The categorical imperative makes possible the reconciliation of all conflicts, the eternal peace which accords with man conceived as an end.
+Thus Kant argues a priori only when his teleological judgment derives from a transcendental experience, when the categorical imperative illuminates humanity's journey through the tasks of history. The numina that produce appearances are perceived through a personal experience and this accounts for man's essential loneliness in the face of the fatedness of existence.[^ka-33] But it also makes possible the concept of the dignity of the individual whose will gives universal maxims despite his insignificance as but a spec in a determined system. Eternal Peace testifies to this vision, to the norms which man gives himself as beacons to follow, to the meaning which humanity may impart to the inexorability of events.[^ka-34] The categorical imperative makes possible the reconciliation of all conflicts, the eternal peace which accords with man conceived as an end.
 
 Kant had a tremendous intuition of the world as design and phenomena. In an edifice, imposing in its consistency and scope he combined a profound metaphysics with a moral philosophy which reconciled a personal experience with universal applicability. He limited knowledge to achieve belief. The rigorous examination of knowable reality made possible an experience which elevated man out of the determined universe of phenomena and brought him into a direct relation with a supersensuous world-order. History reveals a task for the achievement of the eternal peace commanded by the moral law. No conflict can exist between theory and practice, for the possibility of the categorical imperative is given in its very conception. The meaning of history is identical with man's duty.
 
-Kant's attempt to expand the philosophy of history into a guarantee for the attainability of the moral law failed for the same reason as Toynbee's. The realm of freedom and necessity can not be reconciled except by an inward experience. The mechanism of nature offers no obvious assurance for the implementation
-
-1. If one disregards the Guarantee for Eternal Peace.
-
-of freedom. The identification of the ethical with the natural makes the meaning of history the emanation of the disposition of a will only in so far as this volition is conceived as the tool of an organic necessity.
+Kant's attempt to expand the philosophy of history into a guarantee for the attainability of the moral law failed for the same reason as Toynbee's. The realm of freedom and necessity can not be reconciled except by an inward experience. The mechanism of nature offers no obvious assurance for the implementation of freedom.[^ka-35] The identification of the ethical with the natural makes the meaning of history the emanation of the disposition of a will only in so far as this volition is conceived as the tool of an organic necessity.
 
 But Kant's philosophy has nevertheless pointed the way towards a resolution of our enigma of the experience of freedom and our knowledge of necessity. The meaning of life appears as the emanation of a transcendental experience to which the mechanism of nature can offer but a challenge. The pervasiveness of this experience provides its own maxims and overcomes necessity by imparting to it a purposive striving after norms.
 
 But two more problems remain. If the categorical imperative universalizes a transcendental experience, just what is the nature of this mystic relationship to the Infinite? If resignation as to the purposes of the Universe provides the condition for ethical activity, what connection exists between our norms and facts, between the experience of freedom and the unfolding of events? What is the meaning of history in a cosmology based on a direct intuition of a supersensuous world-order the maxims of which are conceived of absolute validity?
 
 The Chapter "The Sense of Responsibility" will outline an attempted solution to these problems.
+
+### Chapter Footnotes
+
+[^1]: The Sense of Responsibility will discuss what is implied by a transcendental experience.
+[^1]: Though of course giving it a different content.
+[^2]: Since survival is an indication of utility. See post.
+[^1]: See post my discussion of Satre's and Schweitzer's Criticism of Kant.
+[^2]: See Friedrich concept that the problem of peace was the most central to Kant's thought - Inevitable Peace - The Philosophy of Kant.
+[^1]: For Kant's implication of inexorability see Friedrich "The Philosophy of Kant" p. 453 (Eternal Peace).
+[^2]: See Friedrich op. cit. p. 458. (Essay on Eternal Peace). For full discussion see post "Kants Philosophy of History".
+[^3]: See Bernard - Critique of Judgment p. 25. See post for full discussion also of psychological difference for proofs of 'impossibility' and 'possibility'.
+[^1]: Friederich in - Inevitable Peace - p. 149 et. seq. has characterized Spinoza as the logical philosophy of Calvinism.
+[^2]: Spinoza's sole criterion is inward certainty. See Essay on Human Understanding.
+[^1]: See post The Sense of Responsibility for implication of Spinoza's concept of intellectual love of God which makes this analysis provisional. The fact that Spinoza opted for peace and Spengler for strife reveals their personalities but is in no sense a logical necessity of their system. See post.
+[^1]: See post "Appendix A" The Concepts of Meaning.
+[^2]: For a distinction between objective and subjective or inward necessity see post "The Sense of Responsibility".
+[^3]: Kant calls this a determinative judgment in his "Critique of Judgment.
+[^1]: This teleogical concept depends on Kant's Critique of Judgment. See post.
+[^1]: For the discussion of this argument see post. It is not, of course impossible to will this, but it is impossible to secure a reciprocal recognition of this volition.
+[^1]: For interpretation of this attitude see post "The Sense of Responsibility".
+[^2]: N. Kemp. Smith - A Commentary to Kant's Critique of Pure Reason p. 603 points out that in later life Kant considered this an overly theoretical proof of God's existence and asserted instead that God speaks directly through the categorical imperative.
+[^3]: [This footnote is not present in the original text, but a superscript `3` is.]
+[^1]: Schweitzer - The Philosophy of Civilization p. 182 et. seq.
+[^2]: Sartre - Existentialism p. 28 et. seq.
 
 ## The Sense of Responsibility
 
@@ -3104,36 +2624,21 @@ Man's freedom, then, is the recognition of necessity which enables him to transc
 
 Schweitzer believed that the will-to-live provided the basis for this inward liberation. But he was mistaken. The will-to-live merely wishes to prevail.¹ At best, as in Hobbes, it may derive maxims of prudence for self-preservation. But ethical activity does not derive its maxims from the struggle for survival. It reveals an inward state which conditions the self-assertiveness of the will, by the recognition of a higher
 
-1. Not to be disguised by being defined as Laws of Nature.
+reality which contains the sanction of all endeavor.[^ka-36]
 
-reality which contains the sanction of all endeavor.
+Life is suffering, birth involves death. Transitoriness is the fate of existence. No civilization has yet been permanent, no longing completely fulfilled. This is necessity, the fatedness of history, the dilemma of mortality. But Spengler's assertion that the appearances of life exhaust its meaning denies the transcendental fact of existence. We know we must die and yet live with a mode of permanence. However determined our actions appear in retrospect we perform them with an inward conviction choice. In the face of all the results so totally incommensurable with intentions, of successes that were not willed, and failures that seem undeserved, the necessity of setting limits to one's actions, the feeling of reverence which does not claim its hopes as a pattern of reality becomes the foundation of morality. This is not a necessity of thought but a condition of an experience, not the utilization of nature's mechanism, but the means for its transcendence.
 
-Live is suffering, birth involves death. Transitoriness is the fate of existence. No civilization has yet been permanent, no longing completely fulfilled. This is necessity, the fatedness of history, the dilemma of mortality. But Spengler's assertion that the appearances of life exhaust its meaning denies the transcendental fact of existence. We know we must die and yet live with a mode of permanence. However determined our actions appear in retrospect we perform them with an inward conviction choice. In the face of all the results so totally incommensurable with intentions, of successes that were not willed, and failures that seem undeserved, the necessity of setting limits to one's actions, the feeling of reverence which does not claim its hopes as a pattern of reality becomes the foundation of morality. This is not a necessity of thought but a condition of an experience, not the utilization of nature's mechanism, but the means for its transcendence.
-
-This gives us a clue to our second question: What is the relation of history to man's experience of morality? What is the meaning of the transitoriness of historical existence in the face of man's possibility of self-transcendence? If moral action derived its maxims from phenomenal reality one would expect that history should disclose some increase in mastery over the human problems of existence. If virtue were merely
-
-right knowledge of an objective, naturalistic necessity the past should disclose some progress towards a definition of universally recognized ethics. Above all, if the cause of nature parallels man's aspirations, then all the hopes of the past become but a cruel joke and history a tale "told by a madman". Then Virgil's vision of the Sybil becomes meaningful, of the old seeress who sits in her cave and writes her oracles on leafs which the wind scatters and "men depart without counsel and hate the Sybill's dwelling".¹
+This gives us a clue to our second question: What is the relation of history to man's experience of morality? What is the meaning of the transitoriness of historical existence in the face of man's possibility of self-transcendence? If moral action derived its maxims from phenomenal reality one would expect that history should disclose some increase in mastery over the human problems of existence. If virtue were merely right knowledge of an objective, naturalistic necessity the past should disclose some progress towards a definition of universally recognized ethics. Above all, if the cause of nature parallels man's aspirations, then all the hopes of the past become but a cruel joke and history a tale "told by a madman". Then Virgil's vision of the Sybil becomes meaningful, of the old seeress who sits in her cave and writes her oracles on leafs which the wind scatters and "men depart without counsel and hate the Sybill's dwelling".[^ka-37]
 
 But man's freedom does not reside in a manipulatory knowledge of external reality. Morality does not derive from an apprehension of objective necessity, to be mastered as a technical problem. If, on the other hand, man's existence constitutes a mystic relationship to the Infinite, it becomes each individual's responsibility to infuse his specificity into the inevitability of phenomena and an absolute guide to action appears impossible. If morality reveals a transcendental experience, no necessary connection exists between phenomenal reality and man's freedom. The significance of ethical conduct depends on this distinction being maintained. Otherwise the ethical and the natural stand equated and freedom and causality appear as parallel appearances of the same inexorability.²
 
-Since an experience is always unique and solitary, its simultaneous appearance in others can not be postulated. For this reason, history offers no guarantee for the achievement of
+Since an experience is always unique and solitary, its simultaneous appearance in others can not be postulated. For this reason, history offers no guarantee for the achievement of man's moral norms nor does it exhibit values in its own right.[^ka-38] This does not mean that the unfolding of events necessarily frustrates man. Such an assertion would also make the physical world the source of moral maxims, for the framework of every rebuttal is determined by its object. This is the token of the Puritans whose obsession with the dangers of materiality absorbed their energies in a negation of carnal pleasure and led to the invocation of predestination as God's sanction to the elect, revealed by temporal success.
 
-1. Virgil - Aeneid - Book III.
-2. See ante - Ch. History and Man's Experience of Morality.
+The transcendental experience of the moral law, on the other hand, leaves the question of purposes in history undecided. Its freedom is an inward state that has come to the recognition of its limits and with that realization overcomes the inexorability of phenomena by infusing them with its spirituality.[^ka-39] Dante expressed this conception on the pilgrim's journey towards inward peace: "'Master', I said to him, now tell me also: this Fortune, of which thou hintest to me, what is she that has the good things of the world thus within her clutches?"
 
-man's moral norms nor does it exhibit values in its own right. This does not mean that the unfolding of events necessarily frustrates man. Such an assertion would also make the physical world the source of moral maxims, for the framework of every rebuttal is determined by its object. This is the token of the Puritans whose obsession with the dangers of materiality absorbed their energies in a negation of carnal pleasure and led to the invocation of predestination as God's sanction to the elect, revealed by temporal success.
+"And he to me: O foolish creatures how great is this ignorance that falls upon ye! Now I wish thee to receive my judgment of her. He whose wisdom is transcendent over all, made the heavens and gave them guides so that every part shines on every other part, equally distributing the light; in like manner, for worldly goods he ordained a general minister and guide to change betimes the vain possession from people to people and from one kindred to another beyond the hindrance of human wisdom: Hence one people commands, another languishes obeying her sentence, which is hidden like the serpent in the grass."
 
-The transcendental experience of the moral law, on the other hand, leaves the question of purposes in history undecided. Its freedom is an inward state that has come to the recognition of its limits and with that realization overcomes the inexorability of phenomena by infusing them with its spirituality.¹ Dante expressed this conception on the pilgrim's journey towards inward peace: "'Master', I said to him, now tell me also: this Fortune, of which thou hintest to me, what is she that has the good things of the world thus within her clutches?"
-
-"And he to me: O foolish creatures how great is this ignorance that falls upon ye! Now I wish thee to receive my judgment of her. He whose wisdom is transcendent over all, made the heavens and gave them guides so that every part shines on every other part, equally distributing the light; in like manner, for worldly goods he ordained a general minister and guide to change betimes the vain possession from people to people and from
-
-1. See post.
-
-one kindred to another beyond the hindrance of human wisdom: Hence one people commands, another languishes obeying her sentence, which is hidden like the serpent in the grass."
-
-"Your knowledge can not understand her: she provides, judges and maintains her kingdom as the other Gods do theirs. Her permutations have no truce; necessity makes her be swift. This is she who is so much reviled, even by those who ought to praise her, when blaming her wrongfully and with evil words. But she is in bliss and hears it not..."¹ Phenomenal reality can offer no motive force for moral action. Resignation as to the purposes of the universe provides the foundations of a meaningful ethics.
-
-1. Dante. Inferno - Canto 7.
+"Your knowledge can not understand her: she provides, judges and maintains her kingdom as the other Gods do theirs. Her permutations have no truce; necessity makes her be swift. This is she who is so much reviled, even by those who ought to praise her, when blaming her wrongfully and with evil words. But she is in bliss and hears it not..."[^ka-40] Phenomenal reality can offer no motive force for moral action. Resignation as to the purposes of the universe provides the foundations of a meaningful ethics.
 
 Freedom and Necessity Reconciled - A Clue from Poetry
 
@@ -3232,38 +2737,16 @@ But action derives from an inward necessity, from the personal in the conception
 [^ka-10]: For this reason the manipulatory, statistical correlations of the psychologists are misleading. A correlation of say 85% seems to imply that it correctly classifies 85% of its subjects. In reality it only classifies each individual 85% correctly, the deviation from the fictitious norm representing the essence of individuality. Statistics, as a probability function, are always a confession of doubt.
 
 
-# ?
-:
-can relieve man from his ultimate responsibility, from giving
-his own meaning to life, from elevating himself above necessity
-by the sanction he ascribes to the organic immanence of exist-
-ence.
+can relieve man from his ultimate responsibility, from giving his own meaning to life, from elevating himself above necessity by the sanction he ascribes to the organic immanence of existence.
 
-For this reason, too, Spengler's analysis was inadequate. He
-He well understood the fatedness of historical events, the dis-
-enchantment that accompanies a civilization's growth. But he
-stopped there. He failed to see that however inexorable the
-development, its necessity will appear only in retrospect. He
-did not grasp that inevitability is a poor guide and no inspir-
-ation. But man lives with purposes and in his hopes glimpses
-a reality beyond mere phenomena. Success and failure are rela-
-tive attributes, meaningful only in retrospect and never finally
-decided. But the attitude which accompanied activity testifies
-to a character, to the intrinsically unique which man imparts
-to objective necessity.
+For this reason, too, Spengler's analysis was inadequate. He well understood the fatedness of historical events, the disenchantment that accompanies a civilization's growth. But he stopped there. He failed to see that however inexorable the development, its necessity will appear only in retrospect. He did not grasp that inevitability is a poor guide and no inspiration. But man lives with purposes and in his hopes glimpses a reality beyond mere phenomena. Success and failure are relative attributes, meaningful only in retrospect and never finally decided. But the attitude which accompanied activity testifies to a character, to the intrinsically unique which man imparts to objective necessity.
 
-Spinoza understood these two stages of inward liberation.
-His ethics are, in the first instance, frankly naturalistic.
-Everything expresses conatus, the tendency to persevere in its
-own being as the ultimate criterion of moral fitness. The sage,
+Spinoza understood these two stages of inward liberation. His ethics are, in the first instance, frankly naturalistic. Everything expresses conatus, the tendency to persevere in its own being as the ultimate criterion of moral fitness. The sage,
 acting with enlightened egotism masters life by a recognition
 of objective necessity. Reason teaches him that to requite
 hatred with kindness, and violence with gentleness increases
 
-1. Every man becomes a Don Quixote in the hopes of his creativ-
-ity. The realists who eventually defeat Don Quixote are not
-realists, but dreamers with materialistic hopes.
-:
+1. Every man becomes a Don Quixote in the hopes of his creativity. The realists who eventually defeat Don Quixote are not realists, but dreamers with materialistic hopes.
 his power over himself, over the affects of the body and over
 his environment. Freedom is right knowledge of an external
 situation; virtue is power.
@@ -3280,30 +2763,16 @@ God. The more man knows by this kind of knowledge, the more
 truly can he be said to act and the more does he participate in
 the divine. This is the intellectual love of God, by which
 humanity approaches immortality, and which contains the hope of
-blessedness, mankind's real liberty.[^ka-11] Knowledge of an objective
-necessity has developed into the intuition of an inward accept-
-ance. Freedom for Spinoza ultimately resides in a mystic rela-
-tionship to the Infinite, which would however have been imposs-
-ible without the guidance of Reason, in a resignation that gives
-peace, in the tranquillity of perfect knowledge.
+blessedness, mankind's real liberty.[^ka-11] Knowledge of an objective necessity has developed into the intuition of an inward acceptance. Freedom for Spinoza ultimately resides in a mystic relationship to the Infinite, which would however have been impossible without the guidance of Reason, in a resignation that gives peace, in the tranquillity of perfect knowledge.
 
 Though it would be unfair to say that Spinoza's goal was
 a willes resignation, he offered no obvious content to ethical
 conduct.[^ka-12] But Kant's categorical imperative has given us a rule
-
-[^ka-11]: Spinoza - Ethics
-[^ka-12]: It must be emphasized, however, that to Spinoza the intellec-
-tual love of God and ethical conduct were identical and that
-for him no rule was necessary.
 of universal applicability based on a rational conception of
 a priori principles. Now the nature of the transcendental
 experience of the moral law in Kant becomes meaningful. It
 reveals a personality which has understood objective necessity
-through the categories but beyond mere phenomena feels an ul-
-timate reality which makes possible all experiences. It tes-
-tifies to an intuition of the unity of all existence and to a
-sense of responsibility towards others - expressed as tolerance -
-in the concept of the dignity of the individual. Knowledge of
+through the categories but beyond mere phenomena feels an ultimate reality which makes possible all experiences. It testifies to an intuition of the unity of all existence and to a sense of responsibility towards others - expressed as tolerance - in the concept of the dignity of the individual. Knowledge of
 objective necessity gives power, but recognition of inward
 necessity gives peace.
 
@@ -3317,8 +2786,7 @@ class the conclusion at least of what I think the best service
 we can do for our country and for ourselves: To see as far as
 one may and to feel the great forces behind every detail - for
 that makes all the difference between philosophy and gossip,
-between great action and small; the least wavelet of the Atlan-
-tic Ocean is mightier than one of Buzzard's Bay - to hammer out
+between great action and small; the least wavelet of the Atlantic Ocean is mightier than one of Buzzard's Bay - to hammer out
 as compact and solid a piece of work as one can, to try to make
 it first-rate and to leave it unadvertised."
 
@@ -3330,9 +2798,7 @@ technical solutions to the dilemmas of life are at hand. That
 is the fatedness of existence. But it also poses a challenge,
 an evocation of the sense of responsibility to give one's own
 meaning to one's life. Ethics must always reside in an inward
-state, in a personal recognition of limits. Reason can guide
-the soul to a knowledge of objective necessity as Spinoza de-
-monstrated. Rational principles, such as Kant's categorical
+state, in a personal recognition of limits. Reason can guide the soul to a knowledge of objective necessity as Spinoza demonstrated. Rational principles, such as Kant's categorical
 imperative may give effect to a transcendental experience. But
 ultimate liberation derives from within us from an experience
 both personal and essentially incommunicable. Philosophy may
@@ -3345,12 +2811,10 @@ But if morality issues from mystic relationship how can
 one reconcile this with a concept of tolerance? If our trans-
 cendental experience is in a sense absolute, must we not assert
 it against all who disagree to the limits of our strength? To
-be sure, the reconciliation of an ultimate, but personal, vision [^ka-13]
-with universal applicability constitutes the problem of ethics.
+be sure, the reconciliation of an ultimate, but personal, vision
+with universal applicability constitutes the problem of ethics.[^ka-13]
 But moral conduct reveals not merely the will to live, but a will
 which has been conditioned by a reality transcending man. Freedom
-
-[^ka-13]: For full discussion see ante Kant (Moral Philosophy).
 derives not merely from an inward state but from an experience
 that has come to the recognition of limits. This acceptance
 is tolerance, the knowledge that one must set boundaries to one's
@@ -3391,32 +2855,6 @@ two stages of recognition also appear in the philosophy of his-
 tory. Spengler had powerfully described history's objective
 necessity. But existence is also an experience and we live the
 future. The past is dead and ruled by necessity, but freedom
-
-[^ka-14]: It must be repeated that this can not be proved. As an atti-
-tude we can only find it in ourselves. I can only describe
-what it may be without postulating it as necessary. But
-this concept also implies something else: It means that dif-
-ferences between ideologies or political systems or individ-
-uals may be so fundamental as to be unbridgeable. One can
-quarrel with a system such as Hobbes' which derives from an
-evaluation of the requisites of survival, one can not really
-bridge the gulf between attitudes. The implementation of an
-experience is a technical problem and therefore arguable,
-but the experience itself is personal and incommunicable.
-If a man has no transcendental experience of freedom f.e.
-an argument about democracy becomes a discussion of the ef-
-ficiency of economic systems, which is on the plane of ob-
-jective necessity and therefore debatable. The inward in-
-tuition of freedom on the other hand, would reject totalitar-
-ianism even if it were economically more efficient. For this
-reason, arguments that international conferences with Russia
-can magically resolve all differences seem fallacious. If
-conditions are ripe they may achieve an understanding on the
-basis of objective necessity, which as any evaluation may
-be overthrown by subsequent analysis. Permanent understand-
-ing on the basis of inward reconciliation seems to require
-more than conferences, since the differences are more than
-just misunderstandings.
 governs the future. Toynbee tried to get beyond the mere post-
 ulation of inexorability, but if objective necessity can not
 serve as a guide to action it can also not achieve a guarantee
@@ -3444,11 +2882,12 @@ trations of history. In this spirituality resides humanity's
 essence, the unique which each man imparts to the necessity of
 his life, the self-transcendence which gives peace.
 
-[^ka-15]: If one disregards the Idea for a Universal History, See Ante.
-"In the last analysis one can conclude nothing from
-history, as from tragedy, save that men's efforts after per-
-sonal self-realization or social responsibility have been de-
-feated at the hands of relentless fact."
+[^ka-11]: Spinoza - Ethics
+[^ka-12]: It must be emphasized, however, that to Spinoza the intellectual love of God and ethical conduct were identical and that for him no rule was necessary.
+[^ka-13]: For full discussion see ante Kant (Moral Philosophy).
+[^ka-14]: It must be repeated that this can not be proved. As an attitude we can only find it in ourselves. I can only describe what it may be without postulating it as necessary. But this concept also implies something else: It means that differences between ideologies or political systems or individuals may be so fundamental as to be unbridgeable. One can quarrel with a system such as Hobbes' which derives from an evaluation of the requisites of survival, one can not really bridge the gulf between attitudes. The implementation of an experience is a technical problem and therefore arguable, but the experience itself is personal and incommunicable. If a man has no transcendental experience of freedom f.e. an argument about democracy becomes a discussion of the efficiency of economic systems, which is on the plane of objective necessity and therefore debatable. The inward intuition of freedom on the other hand, would reject totalitarianism even if it were economically more efficient. For this reason, arguments that international conferences with Russia can magically resolve all differences seem fallacious. If conditions are ripe they may achieve an understanding on the basis of objective necessity, which as any evaluation may be overthrown by subsequent analysis. Permanent understanding on the basis of inward reconciliation seems to require more than conferences, since the differences are more than just misunderstandings.
+[^ka-15]: If one disregards the Idea for a Universal History, See Ante. "In the last analysis one can conclude nothing from history, as from tragedy, save that men's efforts after personal self-realization or social responsibility have been defeated at the hands of relentless fact."
+[^ka-16]: Whitehead - Adventure of Ideas p. 369.
 
 "As soon as high consciousness is reached, the enjoyment
 of existence is entwined with pain, frustration, loss, tragedy.
@@ -3463,8 +2902,80 @@ in motive force marks the difference between the tragic evil
 and the gross evil. The inner feeling belonging to this grasp
 of the service of tragedy is Peace - the purification of emo-
 tions."[^ka-16]
+[^ka-10]: Kant - Eternal Peace (Friedrich op. cit. p. 483).
 
-[^ka-16]: Whitehead - Adventure of Ideas p. 369.
+[^ka-11]: See post for discussion. The subsequent section on amalgamation of Kant's Idea for a Universal History and his Guarantee for Eternal Peace. Since the latter sharpens the former's implications it forms the core of the analysis.
+
+[^ka-12]: For the three alternatives see Friedrich op. cit. p. 125. (Idea for a Universal History).
+
+[^ka-13]: See post discussion of this argument.
+
+[^ka-14]: Friedrich op. cit. p. 117 (Idea for Universal History).
+
+[^ka-15]: See Friedrich op. cit. p. 452 (Eternal Peace) and post.
+
+[^ka-16]: Kant's nine principles are:
+    1. All natural aptitudes of a creature are destined to unfold themselves completely and purposefully.
+    2. As for man (the only rational creature on earth), these natural aptitudes which are directed toward the use of his reason will develop fully in the species, but not in the individual.
+    3. Nature has willed that man should develop completely by himself everything which goes beyond the mechanical ordering of his animal existence, and that he should not partake of any happiness or perfection except such as he has secured by and for himself through his own reason, independent of instinct.
+    4. The means which nature employs to produce the development of all man's aptitudes is the antagonism in society, since this antagonism becomes in the end the cause of a lawful order of society.
+    5. The greatest problem for the species man, the solution of which nature forces upon him, is the establishment of a civil society which generally administers the law.
+    6. This problem is mankind's most difficult problem and will be the last solved by the species.
+    7. The problem of the establishment of a perfect civil constitution is dependent upon a lawful external relation between states and cannot be solved without it.
+    8. It is possible to look upon the history of the human species in the large as the execution of a hidden plan of nature - to bring about a constitution which is perfect internally, and for this purpose also externally - because this is the only state in which nature can develop all aptitudes of mankind fully.
+    9. A philosophical attempt to treat general world history according to a plan of nature which aims at the perfect civil association of the human species must be considered possible and as itself promoting this purpose of nature.
+
+[^ka-17]: Friedrich op. cit. p. 452 - (Eternal Peace) In view of Kant's sharp criticism of merely technical solutions in the Appendix one would be inclined to consider this statement as in the vein of gentle irony which permeates Eternal Peace. The correspondence of this view to the Idea for a Universal History makes this impossible, however.
+
+[^ka-18]: Friedrich op. cit. p. 448 (Eternal Peace).
+
+[^ka-19]: Friedrich Inevitable Peace p. 52.
+
+[^ka-20]: Though it may well be that a methodology that disproves impossibility affirms possibility, a psychological difference, exists nevertheless. A strict proof of impossibility in the empirical world and particularly in the political realm seems out of the question since it would involve a grasp of all possible conditions. In the case of logical constructions such as mathematics in which all conditions are previously defined, the situation is, of course, different. A demonstration of possibility, on the other hand, involves only the evaluation of a particular set of circumstances. This is essentially the procedure of the scientist who affirms first the possibility and then through an assumption of uniformity gives it universality. But Kant specifically required a proof of impossibility.
+
+[^ka-21]: This is based on Kant's later writings see N. Kemp Smith op. cit. p. 608.
+
+[^ka-22]: Two quotations will illustrate this point. The first is from Theory and Practice. Friedrich - The Philosophy of Kant - p. 429.
+"...There exists a concept which may be expressed by the words constitutional law. If this concept has binding force .....it has objective practical reality without our considering what good or ill may result; for the knowledge of these results is based purely on experience. If this be so, then constitutional law is based upon principles a priori since what is right can not be taught by experience. A theory of constitutional law exists with which practice must agree in order to be valid".
+The second quotation is from the Critique of Practical Reason: Friedrich op. cit. p. 262: "The second view (the moral experience) raises my value infinitely, as an intelligence, through my personality; for in this personality the moral law reveals a life independent of animality and even of the entire world of sense.... This is not restricted to the conditions and limits of this life but radiates into the infinite."
+
+[^ka-23]: The fact that this historical necessity is hypothetical does not affect the argument. See ante. I am not arguing against a specific purpose but against the possibility of making any such determination in the light of Kant's previous analysis.
+
+[^ka-24]: Kant's Eternal Peace - Friedrich op. cit. p. 466. These quotations are presented at such length because the difference is one of interpretation which can only be resolved by a reading of the text not by disproving one interpretation by another one.
+
+[^ka-25]: Bernard - Critique of Judgment, p. 28.
+
+[^ka-26]: Bernard - op. cit. p. 259 et seq.
+
+[^ka-27]: The following quotation illustrates Kant's distinction between purposiveness and purposes between an intrinsic and an extrinsic teleology. Bernard - op. cit. p. 272.
+"We can see that external purposiveness can be regarded as an external natural purpose only under the condition that the existence of that being to which it is immediately or distantly advantageous is in itself a purpose of nature. Since that can never be completely determined by a mere contemplation of nature it follows that relative purposiveness, although it hypothetically gives indications of natural purposes yet justifies no absolute teleological judgment. Snow in cold countries protects the crops from the frost; it makes human intercourse easier by means of sleighs. (Here follows an enumeration of conditions that make existence in arctic countries possible). Here is a wonderful concurrence of many references of nature to one purpose.... But then we do not see why generally men must live there at all. Therefore to say that vapour falls out of the atmosphere in the form of snow, that the sea has its currents which float down the wood which has grown in warmer lands, and that there are in it great sea monsters filled with oil, because (author's italics) the idea of advantage for certain poor creatures is fundamental for the cause which collects all these natural products would be a very venturesome and arbitrary judgment." It is interesting to note that despite this refutation Kant uses almost exactly the same argument in his Guarantee for Eternal Peace (see Friedrich op. cit. p. 449 et. seq.)
+
+[^ka-28]: Note similarity to Spengler's morphology.
+
+[^ka-29]: Bernard op. cit. p. 361 et. seq.
+
+[^ka-30]: This does not say that history works against man's aspirations but simply that we can not derive our norms by claiming them as history's patterns.
+
+[^ka-31]: Schweitzer - Philosophy of Civilizations p. 41.
+
+[^ka-32]: See ante.
+
+[^ka-33]: See ante.
+
+[^ka-34]: If one disregards the Guarantee for Eternal Peace.
+
+[^ka-35]: If one disregards the Guarantee for Eternal Peace.
+
+[^ka-36]: Not to be disguised by being defined as Laws of Nature.
+
+[^ka-37]: Virgil - Aeneid - Book III.
+
+[^ka-38]: See ante - Ch. History and Man's Experience of Morality.
+
+[^ka-39]: See post.
+
+[^ka-40]: Dante. Inferno - Canto 7.
+
 ## Appendix
 The Concepts of Meaning
 
@@ -3472,8 +2983,8 @@ The Concepts of Meaning
 The problem of the meaning of history contains the dilemma
 inherent in all epistemology: Is truth or meaning a property of
 reality or the consequence of a metaphysical pattern imposed on
-phenomenal appearance? Kant opted for the latter alternative and [^ap-1]
-attempted to analyze the categories which structured knowledge.
+phenomenal appearance? Kant opted for the latter alternative and
+attempted to analyze the categories which structured knowledge.[^ap-1]
 Yet the scientific criticism of the 19th and 20th century open-
 ing seemingly limitless vistas for the manipulation of nature led
 to the assertion that reality constitutes a property of appearances
@@ -3497,6 +3008,7 @@ postulating meaning as the consequence of a metaphysical context
 dependent in part on the subjective constitution of the speaker.
 
 [^ap-1]: See Ante - Cl. History and man' experience of Morality.
+
 This will be considered under two aspects. The development
 of the logical primitive from the assertional school, through
 the logical positivists (sententialists) to the pre-assertional
@@ -3512,7 +3024,9 @@ cal postulates that aid in the apprehension of the totality of
 knowledge. Meaning in these terms becomes the metaphysical con-
 text that ascribes significance, not an absolute relation that
 depends on the empirical verifiability of assertions.
-The Logical Primitive
+
+### The Logical Primitive
+
 Part of the study of logic consists of the search for a 'logical
 primitive', a unit that will best express the foundation of our
 thought and the object of our inquiry. Yet the choice of this
@@ -3545,10 +3059,10 @@ implications prior to committing itself to an evaluation. This,
 however, implies the metaphysical flexibility of meaning and the
 psychological element inherent in judgments.
 Assertional Schools of Logic
-a. Propositional Logic[^ka-1]
+a. Propositional Logic
 
 The theory of existential import forms the metaphysical
-basis of propositional logic, expressed in a judgment as a logical
+basis of propositional logic, expressed in a judgment as a logical[^ka-1]
 primitive. A judgment consists of the act of distinguishing a
 particular element, the predicate, in the being of a subject,
 which could not be thought of unless it contained some other than
@@ -3651,10 +3165,7 @@ to be false. But on the other hand as existence is postulated as
 being implied by judgments instead of a requisite for judgment this
 constitutes no reply. Russell attempted to resolve this problem by
 calling such objects as square circles logical constructions that
-
-[^ka-5]: See Post.
-[^ka-6]: Russell - Principles of Mathematics, p.449.
-have a mode of being as contrasted with real existence.
+have a mode of being as contrasted with real existence.[^ka-5][^ka-6]
 
 The existential theory of propositions expresses the philosoph-
 ical assumptions conditioning propositional logic. It structures
@@ -3666,10 +3177,10 @@ psychological state ( expressed in the conviction of truth). Yet
 its inner contradictions proved too great and subsequent logicians
 attempted to provide a firmer metaphysical basis, without how-
 ever succeeding in developing an objective criterion for meaning.
-Modified Propositional Logic[^ka-7]
+Modified Propositional Logic
 
 L. S. Stebbing sought to resolve the metaphysical difficulties
-of traditional logic. She denied the necessity of the subject-
+of traditional logic.[^ka-7] She denied the necessity of the subject-
 term-copula-predicate-term relation, emphasizing instead the
 internal structure of the statement. 'Brutus killed Caesar' in-
 volves a different relation between its terms than 'this paper is
@@ -3690,12 +3201,8 @@ a lion and being hunted belong to the same object. In the second,
 the properties of being a griffin and being thought of do not
 express interrelated attributes and 'being thought of' is not really
 a property at all. Thus one can not think of a lion being hunted
-
-[^ka-7]: Stebbing, A Modern Introduction to Logic
-[^ka-8]: This too makes meaning a subjective relation.
-[^ka-9]: Stebbing, op.cit., p. 158-160.
 without a lion's existence, but a Griffin can be conceived
-even without existence.
+even without existence.[^ka-9]
 
 This doctrine is interesting but presents certain diffi-
 culties. It leaves the question of what constitutes a property
@@ -3720,9 +3227,6 @@ of descriptions derived from Russell, which constitutes a further step
 in the direction of making meaning the consequences of a metaphysical
 and psychological context. This shows that phrases such as a 'square
 circle' can be used significantly even if they apply to nothing, and
-
-[^ka-10]: This becomes apparent in pre-assertional logic.
-[^ka-11]: Stebbing, op.cit., p. 138-142.
 that the analysis of propositions to which such phrases apply is
 identical whether they describe something or nothing. Two examples
 will illustrate. The proposition 'Scott is the author of Waverly'
@@ -3792,38 +3296,6 @@ of meaning.
 (1) A proposition has meaning if, and only if it is verified
 as true or false.
 
-[^ka-12]: Based entirely on Reichenbach - Experience and Prediction.
-Sentential Logic[^ka-12] (Logical Positivism)
-
-Sentential logic completed the disintegration of the con-
-cept of existential import. Its logical primitive is the sentence
-which merely constitutes a grouping together of symbols or words
-not differing in their general characteristics from other physi-
-cal objects. These symbols strung together in linear arrange-
-ment have a property which transforms them into propositions.
-By being brought into relations with other physical objects-
-facts- they acquire meaning.
-
-Meaning derives reality only from the truth-value of the pro-
-position. Since most propositions at the time of their utterance
-do not have a determined truth-value, however, another predicate
-of proposition must be invoked. All unverified sentences have
-a certain opinion as to their truth attached to them, defined
-as the weight of the proposition. While a truth-value is a
-property capable of only two values, the positive and the nega-
-tive, the weight represents a quality in continuous scale ranging
-from the utmost uncertainty through intermediary degrees to
-reliability of the highest degree. Such words as 'probably,'
-'likely' correspond to the weight of the proposition in ordinary
-language.
-
-Reichenbach, formulates two postulates of the truth-theory
-of meaning.
-
-(1) A proposition has meaning if, and only if it is verified
-as true or false.
-
-[^ka-12]: Based entirely on Reichenbach - Experience and Prediction.
 (2) True sentences have the same meaning if they obtain the
 same determination as true and false by every possible observation.
 
@@ -3851,7 +3323,8 @@ admission of criteria that extend the range of meaningful state-
 ments and by implication becomes the precursor of pre-assertional
 logic, which faces the metaphysical problem only after its range
 has been determined by the hypothesis.
-Summary
+
+## Summary
 
 The assertional schools of logic agree in basing their logical
 primitive on a statement.
@@ -3873,7 +3346,10 @@ criteria. It remained for pre-assertional logic to develop
 these implications to their ultimate conclusion and thus allow
 for the variability of metaphysical assumptions as the con-
 dition of meaning.
-III. Pre-Assertional Logic
+
+[^ka-12]: Based entirely on Reichenbach - Experience and Prediction.
+
+## III. Pre-Assertional Logic
 
 The school of pre-assertional logic develops a different
 approach to the problem of meaning. Where propositional logic
@@ -3900,10 +3376,6 @@ ment, the speaker's, and a philosophical one, depending on
 the criterion used. Pre-assertional logic does not have
 to conform to the subject term copula predicate-term from
 of the propositionalists, nor confine itself to the
-
-[^sr-1]: This implies that logic can only test the internal con-
-sistency and must allow for a variability of metaphysical
-see post.
 philosophical concepts of Reichenbach's sententialism. It examines
 the internal structure of the argument and looks for a form
 that best exhibits its possibilities.
@@ -3994,7 +3466,6 @@ rely on epistemological presuppositions but attempts to analyze
 the implications of the hypothesis before its final judgment of
 validity.
 
-[^sr-2]: Reichenbach-Experience and Prediction p. 5.
 Withal, this merely amounts to a recognition of the variability
 and possibilities of meaning. Each hypothesis contains with itself the
 possible answers, the very formulation of the query is the conse-
@@ -4006,14 +3477,34 @@ If the hypothesis delimit the range of answers what is the
 effect on systematic knowledge? Are all hypothesis equivalent,
 their choice accidental, their pertinence purely psychological?
 The theory of systems addresses itself to these problems.
-The Theory of Systems[^sr-3]
+
+[^ka-5]: See Post.
+
+[^ka-6]: Russell - Principles of Mathematics, p.449.
+
+[^ka-7]: Stebbing, A Modern Introduction to Logic
+
+[^ka-8]: This too makes meaning a subjective relation.
+
+[^ka-9]: Stebbing, op.cit., p. 158-160.
+
+[^ka-10]: This becomes apparent in pre-assertional logic.
+
+[^ka-11]: Stebbing, op.cit., p. 138-142.
+
+[^sr-1]: This implies that logic can only test the internal con-
+sistency and must allow for a variability of metaphysical assumptions.
+
+[^sr-2]: Reichenbach-Experience and Prediction p. 5.
+
+## The Theory of Systems
 
 A system has been defined as any body of propositions ar-
 ranged according to a sequence of logical deductions, so that
 every proposition, after a certain one, is a logical consequence
 of some, or all, of the preceding propositions. This body of
 propositions that implies the rest, has been defined the code
-by Prof. Scheffer.
+by Prof. Scheffer.[^sr-3]
 
 The necessity of the code results from the limitations of
 the human mind. A Being, such as God, whose knowledge is in-
@@ -4033,9 +3524,7 @@ theorems, followed deductively. Mathematicians have proved, in
 the meantime, however, that the Euclidian axioms can not be consider-
 ed universally self-evident. It is possible, for example to conceive
 
-[^sr-3]: Young - Fundamental Concepts of Algebra, p. 2.
-a world[^sr-4] entirely enclosed within a large sphere, with the tempera-
-ture decreasing point by point, reaching zero at the boundary.
+a world entirely enclosed within a large sphere, with the temperature decreasing point by point, reaching zero at the boundary.[^sr-4]
 In such a world, every inhabitant would conceive himself in a
 universe of infinite extent, for as he approached the boundary,
 the falling temperature would decrease his size, causing his
@@ -4043,25 +3532,18 @@ steps to be smaller and smaller. The Geometry of such a world
 would contain many axioms, the self-evident of which would vary
 considerably from Euclid's. It can be proved f.e., that the
 shortest distance between two points in that case would be the
-arc of a circle, which cuts the bounding sphere orthogonally.[^sr-5]
+arc of a circle, which cuts the bounding sphere orthogonally.[^sr-4]
 This is the basis of non-Euclidian mathematics.
 
 Moreover, from the point of view of modern logic, "self-
 evidence," can not be conceived as a predicate of a proposi-
-tion, but as a diadic relation between the person making the state-
-ment and the proposition.[^sr-6] The Reality of the system does not
+tion, but as a diadic relation between the person making the statement and the proposition.[^sr-5] The Reality of the system does not
 result in the first instance from its foundation in empirically
 verifiable fact but from the philosophical assumptions of its
 postulates.
 
-Professor Royce[^sr-7] has classified the various assumptions under-
-lying the use of the term 'axiom.' It can be applied either in
+Professor Royce[^sr-6] has classified the various assumptions underlying the use of the term 'axiom.' It can be applied either in
 the sense of inner necessity or self-evidence, subjective necessity,
-
-[^sr-4]: Poincare - Science and Hypothesis, p.49.
-[^sr-5]: Young op.cit., p.17.
-[^sr-6]: See Ante
-[^sr-7]: Axioms - Hastings Encyclopedia of Arts and Sciences
 as an unproved hypothesis from which, however, other propositions
 can be deduced, as a proposition universally assented to, and
 lastly as a proposition resulting from an individual's psycho-
@@ -4131,32 +3613,23 @@ validity can not be obtained, the simplicity of the code repres-
 enting a function of the minimum number of terms required to be
 intuitively understood.
 
-This raises a question as to the concept of simplicity.[^sr-8]
-Simplicity means logical simplicity. From a logical point of
+This raises a question as to the concept of simplicity.[^sr-8] Simplicity means logical simplicity. From a logical point of
 view, every term is equivalent, or determined only by its logical
 implications, regardless of how many psychological difficulties
 it presents. Thus a dyadic relation is logically simpler than a
 triadic relation.
 
 Definitions play an important role in making code ascrip-
-tives or axioms psychologically simpler. Russell offers the fol-
-lowing definition of "definitions".[^sr-9] "The definition must be in
-terms of other expressions already defined. Which are the terms
+tives or axioms psychologically simpler. Russell offers the following definition of "definitions".[^sr-9] "The definition must be in terms of other expressions already defined. Which are the terms
 to be previously defined depends to a large extent on the person
 making the definition."
 
 It must be noted, as Russell does, that the method of abbre-
 viation does not present a question of fact but of convention and
-that it imposes only the requirement of adhering to existing conven-
-
-[^sr-8]: Young - Fundamental Concepts p. 163.
-[^sr-9]: Quoted in Stebbing, op. cit., p. 441.
-tional meanings. Thus a definition which conventionally describes a line
-segment could not as an abbreviation utilize the word circle.
+that it imposes only the requirement of adhering to existing conventional meanings. Thus a definition which conventionally describes a line segment could not as an abbreviation utilize the word circle.
 
 The difference between definitions and primitive code-
-ascriptives or axioms is difficult to fix. Indeed Young calls
-his set of assumptions "hidden definitions."[^sr-10]
+ascriptives or axioms is difficult to fix. Indeed Young calls his set of assumptions "hidden definitions."[^sr-10]
 
 If a system comprises initially unproved hypothesis, depend-
 ent on metaphysical assumptions expressed in selectivity and
@@ -4164,8 +3637,7 @@ theorems connected merely by mutual implication do any criteria
 for systematic knowledge exist? Stebbing asserts that the logician
 in his quest for axioms is not concerned with their truth or
 falsity, but only with testing all their consequences, the real
-criterion for the validity of the axioms being the validity of
-the theorems.[^sr-11] Yet what is meant by validity? Three properties
+criterion for the validity of the axioms being the validity of the theorems.[^sr-9] Yet what is meant by validity? Three properties
 are usually sought for in a system: consistency, independence
 and completeness (or categoricalness).
 
@@ -4176,12 +3648,7 @@ application which satisfies all axioms except the axiom in question.
 Independence is useful for distinguishing between theorems and axioms,
 but has no necessary significance. Moreover, complete independence,
 despite the above proof, may still be lacking, for a certain amount
-of implication or overlapping, by which a part of the postulates is
-implied by the preceding or their conjunct, can frequently not be
-
-[^sr-10]: Young - Fundamental Concept of Geometry p.53.
-[^sr-11]: Stebbing op.cit., p.164.
-avoided.
+of implication or overlapping, by which a part of the postulates is implied by the preceding or their conjunct, can frequently not be avoided.
 
 Completeness is the predicate of a code that implies all the
 remaining ascriptives and theorems belonging to the subject-matter.
@@ -4192,17 +3659,12 @@ portions of a system, is even desirable.
 
 Consistency then is the one essential property of a code. Its
 absence prevents any deduction, the construction of any system.
-Tests for consistency and a general discussion of the notion will
-be developed in relation to the pre-code.[^sr-12] Thus though the hypothesis
-contain assumed relations and determine the code by their implica-
-tion, criteria for the evaluation exist, if only in terms of internal
-consistency. Yet this consistency does not indicate absolute validity.
+Tests for consistency and a general discussion of the notion will be developed in relation to the pre-code.[^sr-10] Thus though the hypothesis contain assumed relations and determine the code by their implication, criteria for the evaluation exist, if only in terms of internal consistency. Yet this consistency does not indicate absolute validity.
 The scope of the axioms can only be revealed by the range of the
 theorems and consistency tells us nothing about the adequacy of the
 metaphysical assumptions.
 
-[^sr-12]: See post.
-Generalization of the Notion of a Code[^sr-13]
+## Generalization of the Notion of a Code
 
 In 1904 Oswald Veblen developed a code for geometry utiliz-
 ing only the notion of a point and the relation between. In
@@ -4210,7 +3672,7 @@ ing only the notion of a point and the relation between. In
 gruence to the terms above. In order to make his code psychologi-
 cally simpler, Veblen divided his second code into several sections
 based on code-ascriptives dealing with a certain subject matter,
-such as assumptions of order, of points on a line, etc.
+such as assumptions of order, of points on a line, etc.[^sr-13]
 
 Huntington in 1913 developed a code based on the notion of
 sphere and the relation of inclusion. A great complexity of
@@ -4231,9 +3693,6 @@ the geometrical represented by the terms point and between and
 the logical. The act of logicizing is independent of the notion
 of point and between which arises only out of the actual repre-
 sentation in a concrete system of the logical part, as applied to
-
-[^sr-13]: This section is based on the articles by Veblen and
-Huntington in Young - Monographs on Modern Mathematics.
 a predicate and a triadic relation. The generalization of the
 notion of the code derives from the conception of the code as a
 single, highly complex, quantified ascriptive. Since the notions
@@ -4262,8 +3721,6 @@ code as a theorem from a code of logic that is assumed consistent.
 
 A more general test for consistency is the instantiation of the
 pre-code. Three possibilities of instantiation, logical, mathematical
-
-[^sr-14]: See Ante.
 and empirical, exist. Thus if the pre-code is instantiated by a
 code in Euclidian geometry, and we grant that Euclidian geometry
 is consistent, we have a proof for the consistency of the pre-code.
@@ -4308,17 +3765,12 @@ a philosophy of history. Historical data by itself is neutral.
 Its significance constitutes a function of the resolve of a
 soul. This does not imply that all metaphysical constructions
 are equivalent, that an unlimited choice exists in the selection
-of hypothesis, or that historical data may be ignored. A hypothesis[^sr-1]
-must always be in terms of some data and its relevance to this
-framework constitutes a test for its efficacy. The wider the
-range of events that a philosophy of history seeks to explain, the
-more profound its approach. Events by themselves testify only
+of hypothesis, or that historical data may be ignored. A hypothesis
+must always be in terms of some data and its relevance to this framework constitutes a test for its efficacy.[^sr-1] The wider the range of events that a philosophy of history seeks to explain, the more profound its approach. Events by themselves testify only
 to a fact of occurrence. Phenomenal appearances contain no moral
 sanction, and can be apprehended only as a category of necessity.
 Their inner meaning must always remain a metaphysical creation.
 
-[^sr-1]: See example of Newton under the apple tree ante
-Ch. 1. Introduction.
 Progress and freedom, purpose and meaning, are not attributes
 of reality, but the revelation of an inward experience.
 
@@ -4326,33 +3778,30 @@ Gibbons thought that he saw in Rome's collapse the triumph
 of barbarism and religion. Yet an excellent case has been made
 for dating the period of decline from Alexander's conquests.[^sr-2]
 
-Toynbee again considers the Peloponnesian war the beginning of
-Hellenic disintegration.[^sr-3]
+Toynbee again considers the Peloponnesian war the beginning of Hellenic disintegration.[^sr-3]
 
-Similarly what caused Hitler's downfall? Was it the in-
-vasion of Russia, the declaration of war in 1939, the seizure of
-Prague or the Anschluss? Or perhaps was the fact of collapse
-immanent in a personality to whom the recognition of limits con-
-stituted an admission of defeat? An answer to these questions
-is not contained merely in empirical data but in its inter-
-pretation which depends on the predispositions of its author.
+Similarly what caused Hitler's downfall? Was it the invasion of Russia, the declaration of war in 1939, the seizure of Prague or the Anschluss? Or perhaps was the fact of collapse
+immanent in a personality to whom the recognition of limits constituted an admission of defeat? An answer to these questions
+is not contained merely in empirical data but in its interpretation which depends on the predispositions of its author.
 Hume's constant conjunction must ever represent a philosophical
 resolution.
 
-There can not consequently exist one universally valid
-philosophy of history. It portrays the metaphysical resolu-
-tion of the dilemma of the experiences of freedom and the know-
-ledge of necessity, and represents as much a testimony to the
-philosophical assumptions of its creators as an absolute stand-
-ard for the evaluation of the numina history. Since the content
-ascribed to life, moreover constitutes the emanation of an inner
-state, the possibility arises for the attainment of a level of mean-
-ing transcending the mere phenomenal appearance of power phenomena.
+There can not consequently exist one universally valid philosophy of history. It portrays the metaphysical resolution of the dilemma of the experiences of freedom and the knowledge of necessity, and represents as much a testimony to the philosophical assumptions of its creators as an absolute standard for the evaluation of the numina history. Since the content ascribed to life, moreover constitutes the emanation of an inner state, the possibility arises for the attainment of a level of meaning transcending the mere phenomenal appearance of power phenomena.
 
-[^sr-2]: See Ante - Ch. - Spengler.
-[^sr-3]: See Ante - Ch. Toynbee
 Kant's ethical philosophy testifies to this solution, the ultimate
 reality of which is only accessible by way of an inner experience.
+
+[^sr-3]: Young - Fundamental Concepts of Algebra, p. 2.
+[^sr-4]: Poincare - Science and Hypothesis, p.49.
+[^sr-5]: See Ante
+[^sr-6]: Axioms - Hastings Encyclopedia of Arts and Sciences
+[^sr-7]: Quoted in Stebbing, op. cit., p. 441.
+[^sr-8]: Young - Fundamental Concept of Geometry p.53.
+[^sr-9]: Stebbing op.cit., p.164.
+[^sr-10]: See post.
+[^sr-13]: This section is based on the articles by Veblen and Huntington in Young - Monographs on Modern Mathematics.
+[^sr-14]: See Ante.
+
 ## Bibliography
 ### Basic Texts:
 
@@ -4421,13 +3870,13 @@ Der Streit um Spengler (Muenchen, Beck 1922)
 
 **Joseph, H.W.** - An Introduction to Logic (Oxford - Clarendon Press - 1906)
 
-**Mandelbaum, M.** - The Problem of Historical Knowledge(Livewright Publishing Corp., New York)
+**Mandelbaum, M.** - The Problem of Historical Knowledge (Livewright Publishing Corp., New York)
 
 **Poincare, H.** - Science and Hypothesis (N.Y. Science Press-1907)
 
 **Reichenbach, H.** - Experience and Prediction (University of Chicago Press - 1937)
 
-**Russel, B.** - Mysticism and Logic (Longmans, Green and Co.-1918)
+**Russell, B.** - Mysticism and Logic (Longmans, Green and Co. - 1918)
 
 **Young, J.** - Monographs on Modern Mathematics (Longmans, Green and Co. - 1915)
 ### General Bibliography on the Philosophy of History:
@@ -4445,13 +3894,13 @@ The Philosophy of Giambattista Vico (translated by R.G. Collingwood, London, How
 
 **Jaspers, Karl** - Geschichte (Artemis Verlag - Zuerich, 1949)
 
-**Loewith, Karl** - Meaning in History, The Theological Implications of The Philosophy of History, University of Chicago Press - 1949
+**Loewith, Karl** - Meaning in History, The Theological Implications of The Philosophy of History (University of Chicago Press - 1949)
 
-**Niehbuhr, Reinhold**- Faith and History - A Comparison of Christian and Modern Views on History (Scritner 1949)
+**Niebuhr, Reinhold** - Faith and History - A Comparison of Christian and Modern Views on History (Scribner 1949)
 
-**Ortega Y Gassett, J.**- Towards A Philosophy of History (W.W.Norton Company - 1940)
+**Ortega y Gasset, J.** - Towards A Philosophy of History (W.W. Norton Company - 1940)
 
-**Petrie, Wm Mathew F.**-The Revolution of Civilisation - (Harper and Bros. 1922)
+**Petrie, Wm Mathew F.** - The Revolution of Civilisation (Harper and Bros. 1922)
 
 **Popper, K. R.** - The Open Society and Its Enemies (George Routledge and Sons Ltd.)
 
@@ -4464,8 +3913,9 @@ Social and Cultural Dynamics (American Book Company - 1937-41 4vols.)
 
 **Dante, Alighieri** - The Divine Comedy, The Carlyle-Wicksteed Translation (Modern Library)
 
-**Dostojevski, Fjodor**- The Brothers Karamazoff (Modern Library)
+**Dostojevski, Fjodor** - The Brothers Karamazoff (Modern Library)
 The Idiot (Modern Library)
+
 **Elliott, Wm. Y.** - The Pragmatic Revolt in Politics (MacMillen 1928)
 Western Political Heritage (Prentice Hall 1949)
 
@@ -4473,15 +3923,15 @@ Western Political Heritage (Prentice Hall 1949)
 
 **Hook, Sidney** - The Hero in History (John Day Company, N.Y.)
 
-**Jaeger, Werner** - Paideia -(translated by Gilbert Higlet - Oxford University Press - 1945)
+**Jaeger, Werner** - Paideia (translated by Gilbert Highet - Oxford University Press - 1945)
 
 **Lindsay, A. D.** - The Modern Democratic State (Oxford University Press - 1947)
 
-**Nietzsche, Friedrich**- Beyond Good and Evil - Prelude to a Philosophy of the Future -(translated by Helen Zimmern New York, MacMillan - 1907)
+**Nietzsche, Friedrich** - Beyond Good and Evil - Prelude to a Philosophy of the Future (translated by Helen Zimmern, New York, MacMillan - 1907)
 
-**Satre, Jean** - Existentialism (Philosophical Library 1947)
+**Sartre, Jean-Paul** - Existentialism (Philosophical Library 1947)
 
-**Spinoza, Baruch** - Spinoza's Works (translated by R.H.M. Elwes, (London, George Bell and Sons - 1891)
+**Spinoza, Baruch** - Spinoza's Works (translated by R.H.M. Elwes, London, George Bell and Sons - 1891)
 
 **Tolstoy, Leo** - War and Peace (Epilogue, Modern Library)
 
@@ -4496,9 +3946,13 @@ Western Political Heritage (Prentice Hall 1949)
 ### Periodicals
 
 **Articles on Toynbee:** Review of Politics, 5. p.508 W. Gurian
-Some Problems raised by historical relativism. D.J.Loewenberg. Modern History. 21:17-23 March'49
-Study of History Review. H.Kahn. Journal of Philosophy. 44:489-99. August 28, 1947.
-Meaning of Human History by M.R.Cohen.Review,H. Cairns. Law and Contemporary Problems: 13 no. 3: 547-9. 1948
+
+Some Problems raised by historical relativism. D.J. Loewenberg. Modern History. 21:17-23 March '49
+
+Study of History Review. H. Kahn. Journal of Philosophy. 44:489-99. August 28, 1947.
+
+Meaning of Human History by M.R. Cohen. Review, H. Cairns. Law and Contemporary Problems: 13 no. 3: 547-9. 1948
+
 Toynbee against History. C. Trinkaus. Science and Society 12 no. 2: 318-39, 1948
 
 Relative Archaism: A New Fallacy and Mr.Toynbee. J.W. Dowling. Journal of Philosophy 43: 421-35. August 1, 1946.
@@ -4517,25 +3971,18 @@ Toynbee's Nine Books of History Against the Pagans. M. Patrick. Antioch Review 7
 
 ### Articles on Spengler:
 
-Decline of the West in Actual Progress,
-Hibbert Journal, January 1933: 179-95.
+Decline of the West in Actual Progress, Hibbert Journal, January 1933: 179-95.
 
-Spenglerian Finance - A.A.H. Sparrow
-English Review 47 :855-71 April 1936.
+Spenglerian Finance - A.A.H. Sparrow, English Review 47:855-71 April 1936.
 
-Plato's Conception of the Future as Opposed to Spengler's. H.Hansler - Monist 39: 204-24 April 1909
+Plato's Conception of the Future as Opposed to Spengler's. H. Hansler - Monist 39: 204-24 April 1909
 
-Oswald Spengler, Historian and Philosopher -
-Lutheran Church Quarterly - 10:157-70 April 1937.
+Oswald Spengler, Historian and Philosopher - Lutheran Church Quarterly - 10:157-70 April 1937.
 
-Spengler and the New Pessimism - V.S.Yarros -
-Open Court 47:253-8 June 1933
+Spengler and the New Pessimism - V.S. Yarros - Open Court 47:253-8 June 1933
 
-Skeptiker und Prophet - Neue Runschau 47:855-71
-April 1933
+Skeptiker und Prophet - Neue Rundschau 47:855-71 April 1933
 
-Spengler als Stants und Wirtschaftsphilosoph
-E.V.Beckerath Schmoeller's Jahrbuch 47:33-47:24.
+Spengler als Staats und Wirtschaftsphilosoph E.V. Beckerath Schmoeller's Jahrbuch 47:33-47:24.
 
-Spengler und Nietzsche - R.H.Gruetzmacher Preussi-
-sches Jahrbuch 224:29-52 April 1931
+Spengler und Nietzsche - R.H. Gruetzmacher Preussisches Jahrbuch 224:29-52 April 1931

@@ -1,0 +1,11 @@
+# Ignore Windows/NTFS Zone.Identifier streams accidentally materialized as files
+*:Zone.Identifier
+
+# Node, OS, editor cruft (future-proofing)
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
+dist/
+coverage/
