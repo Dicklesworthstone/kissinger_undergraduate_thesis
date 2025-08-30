@@ -40,7 +40,8 @@ If you edit the landing page or HTML locally and you are using Docs mode, mirror
 
 ```bash
 cp -f index.html docs/index.html
-cp -f henry_*_pdf_optimized.html docs/
+# Legacy HTML (optional): only mirror if you still link it
+# cp -f henry_*_pdf_optimized.html docs/
 cp -f henry_*_pdf_mindmap.html docs/
 ```
 
