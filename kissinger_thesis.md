@@ -58,7 +58,7 @@ What is the meaning of necessity and where does it arise? Necessity is an attrib
 
  
 
-retrospect appear inevitable, the fact of occurrence testifies to irrevocability. Causality expresses the pattern which the mind imposes on a sequence of events in order to make their appearance comprehensible.[^arg-1] It is formulated as a law, which reveals a trend of recurrence and an assertion of comparability. Law over fights against the unique, against the personal experience, the inward bliss. Necessity recognizes only quantitative differences, and conceives of survival as its sole test of historical fitness. Necessity discovers the typical in man, the inexorable in events, the inevitable in existence. Its doctrine is the philosophy of Eternal Recurrence of which the devil tells Ivan Karamazoff," But our present earth may have been repeated a thousand times. Why it has become extinct, been frozen, cracked, broken to bits, disintegrated into its elements, again the water above the firmament, then again a comet, again a sun, again from the sun it becomes earth and on earth the same sequence may have been repeated endlessly and exactly the same to every detail..."
+retrospect appear inevitable, the fact of occurrence testifies to irrevocability. Causality expresses the pattern which the mind imposes on a sequence of events in order to make their appearance comprehensible.[^arg-1] It is formulated as a law, which reveals a trend of recurrence and an assertion of comparability. Law over fights against the unique, against the personal experience, the inward bliss. Necessity recognizes only quantitative differences, and conceives of survival as its sole test of historical fitness. Necessity discovers the typical in man, the inexorable in events, the inevitable in existence. Its doctrine is the philosophy of Eternal Recurrence of which the devil tells Ivan Karamazoff, "But our present earth may have been repeated a thousand times. Why it has become extinct, been frozen, cracked, broken to bits, disintegrated into its elements, again the water above the firmament, then again a comet, again a sun, again from the sun it becomes earth and on earth the same sequence may have been repeated endlessly and exactly the same to every detail..."
 
 Yet every event is not only an effect but also an inward experience. As an effect it is ruled by necessity, as an experience it reveals the unique in the personality. The desire to reconcile an experience of freedom with a determined environment is the lament of poetry and the dilemma of philosophy. Rationalism attempted to solve this problem by considering its purposes as the objective pattern of occurrences and equating freedom with necessity. The British sceptics, particularly Hume [Enquiry available at Project Gutenberg](https://www.gutenberg.org/ebooks/9662), submitted these notions to rigorous criticism and denied necessity as well as purposiveness. They argued that perception involves the impact of empirical entities on a wax-like mind, whose sensations of pleasure are largely passive, whose concept of necessity describe a constant conjunction and to which freedom is meaningless.[^arg-2] The limits of thought can not be established by thought, however. Hume's scepticism caused him to abandon philosophy while still a young man and Descartes [Discourse on Method available at Project Gutenberg](https://www.gutenberg.org/ebooks/59) was forced to invoke God as a guarantor of external reality with the aid of the very faculty the accuracy of which he had seriously questioned.[^arg-3]
 
@@ -229,8 +229,6 @@ is eternal peace in God.[^arg-21]
 [^arg-18]: This, however, involves utilization of another set of assumptions. See post Appendix A - The Concepts of Meaning.
 
 [^arg-19]: For full development see post "The Sense of Responsibility."
-
-[^arg-21]:
     Wenn im Unendlichen Dasselbe
     Sich wiederholend ewig fliesst
     Das tausendfaeltig Gewoelbte
@@ -531,7 +529,7 @@ Spengler argues that all success in history, war and "in that continuation of wa
 
 [^sp-27]: Spengler op. cit. Vol. II. p. 327.
 [^sp-28]: Spengler op. cit. Vol. II. p. 330.
-[^sp-29]: Spengler op. cit. Vol. II. p. 444 - See also T. S. Elliott: Notes towards a Definition of Cultures.
+[^sp-29]: Spengler op. cit. Vol. II. p. 444 - See also T. S. Eliot: Notes towards a Definition of Culture [Available at Archive.org](https://archive.org/details/in.ernet.dli.2015.159230).
 
 The components of a Culture attain "form" as a people, which grows to inward greatness only against other peoples. A people is in form as a "State", representing history at rest. Since it belongs to Time a mere description of constitutional provisions can not explain the state's essence, the real expressions of which are those conventions and practices of which the constitution is all the more silent for their being taken for granted.
 
@@ -790,7 +788,7 @@ And so the poetic beauty of Spengler's psychology presents a challenge for other
 
 [^sp-45]: Tolstoi - War and Peace - Epilogue.
 
-[^sp-46]: See Gisevius - To the Bitter End. Vol. II. Chapter 1.
+[^sp-46]: See Gisevius - To the Bitter End. Vol. II. Chapter 1. [Available at Archive.org](https://archive.org/details/in.ernet.dli.2015.167391)
 
 [^sp-48]: On this point see also Schweitzer "The Philosophy of Civilization" p. 271 et. seq.
 
@@ -824,7 +822,7 @@ And so the poetic beauty of Spengler's psychology presents a challenge for other
 
 [^sp-4]: See ante Ch. I - Introduction. Post Appendix A- The Possibility of Meaning.
 
-[^sp-5]: Spengler - The Decline of the West - Vol.II p 3. [Available at Archive.org](https://archive.org/details/DeclineOfTheWestSpengler)
+[^sp-5]: Spengler - The Decline of the West - Vol. II p. 3. [Available at Archive.org](https://archive.org/details/DeclineOfTheWestSpengler)
 
 [^sp-6]: For explanation of term see post. Chapter "The Souls of Each Culture".
 
@@ -892,7 +890,7 @@ And so the poetic beauty of Spengler's psychology presents a challenge for other
 
 [^sp-2n]: Spengler op. cit. Vol II. p. 293.
 
-[^sp-1w]: Spongler op. cit. Vol I. p. 290.
+[^sp-1w]: Spengler op. cit. Vol I. p. 290.
 
 [^sp-2p]: Spengler op. cit. Vol II. p. 292.
 
@@ -2342,11 +2340,11 @@ The Chapter "The Sense of Responsibility" will outline an attempted solution to 
 [^1]: See post The Sense of Responsibility for implication of Spinoza's concept of intellectual love of God which makes this analysis provisional. The fact that Spinoza opted for peace and Spengler for strife reveals their personalities but is in no sense a logical necessity of their system. See post.
 [^1]: See post "Appendix A" The Concepts of Meaning.
 [^2]: For a distinction between objective and subjective or inward necessity see post "The Sense of Responsibility".
-[^3]: Kant calls this a determinative judgment in his "Critique of Judgment. [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/48433)
+[^3]: Kant calls this a determinative judgment in his "Critique of Judgment". [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/48433)
 [^1]: This teleogical concept depends on Kant's Critique of Judgment. See post. [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/48433)
 [^1]: For the discussion of this argument see post. It is not, of course impossible to will this, but it is impossible to secure a reciprocal recognition of this volition.
 [^1]: For interpretation of this attitude see post "The Sense of Responsibility".
-[^2]: N. Kemp. Smith - A Commentary to Kant's Critique of Pure Reason p. 603 points out that in later life Kant considered this an overly theoretical proof of God's existence and asserted instead that God speaks directly through the categorical imperative.
+[^2]: N. Kemp. Smith - A Commentary to Kant's Critique of Pure Reason p. 603 [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/43572) points out that in later life Kant considered this an overly theoretical proof of God's existence and asserted instead that God speaks directly through the categorical imperative.
 [^3]: [This footnote is not present in the original text, but a superscript `3` is.]
 [^1]: Schweitzer - The Philosophy of Civilization p. 182 et. seq.
 [^2]: Sartre - Existentialism p. 28 et. seq.
@@ -2533,7 +2531,7 @@ What about the disenchantment that our brief examination of literature indicated
 
 [^ka-20]: Though it may well be that a methodology that disproves impossibility affirms possibility, a psychological difference, exists nevertheless. A strict proof of impossibility in the empirical world and particularly in the political realm seems out of the question since it would involve a grasp of all possible conditions. In the case of logical constructions such as mathematics in which all conditions are previously defined, the situation is, of course, different. A demonstration of possibility, on the other hand, involves only the evaluation of a particular set of circumstances. This is essentially the procedure of the scientist who affirms first the possibility and then through an assumption of uniformity gives it universality. But Kant specifically required a proof of impossibility.
 
-[^ka-21]: This is based on Kant's later writings see N. Kemp Smith op. cit. p. 608.
+[^ka-21]: This is based on Kant's later writings see N. Kemp Smith op. cit. p. 608. [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/43572)
 
 [^ka-22]: Two quotations will illustrate this point. The first is from Theory and Practice. Friedrich - The Philosophy of Kant - p. 429.
 "...There exists a concept which may be expressed by the words constitutional law. If this concept has binding force...it has objective practical reality without our considering what good or ill may result; for the knowledge of these results is based purely on experience. If this be so, then constitutional law is based upon principles a priori since what is right can not be taught by experience. A theory of constitutional law exists with which practice must agree in order to be valid".
@@ -2950,22 +2948,22 @@ Critique of Pure Reason (translated by Max Muller, MacMillan Co. - 1927) [Availa
 Idea for a Universal History (translated by C.J. Friedrich - The Philosophy of Kant - Modern Library 1949)
 Eternal Peace (translated by C.J. Friedrich - The Philosophy of Kant - Modern Library - 1949) [Available at Project Gutenberg](https://www.gutenberg.org/files/50922/50922-h/50922-h.htm)
 
-**Schweitzer, Albert** - The Philosophy of Civilization (MacMillan Co. - 1949)
+**Schweitzer, Albert** - The Philosophy of Civilization (MacMillan Co. - 1949) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/76061)
 
 **Spengler, Oswald** - The Decline of the West - (translated by C.F. Atkinson, Knopf 1926-1928) 2 vols. [Available at Archive.org](https://archive.org/details/DeclineOfTheWestSpengler)
-The Hour of Decision (Knopf - 1932)
+The Hour of Decision (Knopf - 1932) [Available at Archive.org](https://archive.org/details/in.ernet.dli.2015.503389)
 
 **Toynbee, Arnold** - A Study of History (Oxford University Press) 6 vols. [Available at Archive.org](https://archive.org/details/studyofhistory0010toyn)
 
 ### Bibliography on Kant:
 
-**Caird, Edward** - The Critical Philosophy of Kant - (MacMillan-1889)
+**Caird, Edward** - The Critical Philosophy of Kant - (MacMillan-1889) [Available at Archive.org](https://archive.org/details/in.ernet.dli.2015.507024)
 
-**Cassirer, Ernst** - Rousseau, Kant, Goethe, Essays by Ernst Cassirer translated by James Gutman and Oscar Kristetten - Princeton University Press - 1940
+**Cassirer, Ernst** - Rousseau, Kant, Goethe, Essays by Ernst Cassirer translated by James Gutman and Oscar Kristetten - Princeton University Press - 1940 [Available at Archive.org](https://archive.org/details/rousseaukantgoet00cass)
 
 **Friedrich, C.J.** - Inevitable Peace (Harvard University Press-1948)
 
-**Lindsay, A.D.** - The Philosophy of Immanuel Kant (Ernest Benn Ltd.)
+**Lindsay, A.D.** - The Philosophy of Immanuel Kant (Ernest Benn Ltd.) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/47880)
 
 **Smith, Norman K.** - A Commentary to Kant's Critique of Pure Reason (MacMillan Co. - 1918)
 ### Bibliography on Spengler:
@@ -2974,7 +2972,7 @@ The Hour of Decision (Knopf - 1932)
 
 **Hale, Wm** - Challenge to Defeat (Harcourt, Brace and Co., 1932)
 
-**Messer, August** - Spengler als Philosoph (Stuttgart, Strecker und Schroeter, 1924)
+**Messer, August** - Spengler als Philosoph (Stuttgart, Strecker und Schroeter, 1924) [Available at Archive.org](https://archive.org/details/oswaldspengleral00messuoft)
 
 **Meyer, Eduard** - Spengler's Untergang des Abendlandes (Berlin, Curtius Verlag 1925)
 
@@ -2989,48 +2987,48 @@ Der Streit um Spengler (Muenchen, Beck 1922)
 
 ### Bibliography on Logic and Methodology of History:
 
-**Bradley, F.H.** - Principles of Logic (Oxford University Press - 1922)
+**Bradley, F.H.** - Principles of Logic (Oxford University Press - 1922) [Available at Archive.org](https://archive.org/details/theprinciplesofl01braduoft)
 
-**Joseph, H.W.** - An Introduction to Logic (Oxford - Clarendon Press - 1906)
+**Joseph, H.W.** - An Introduction to Logic (Oxford - Clarendon Press - 1906) [Available at Archive.org](https://archive.org/details/introductiontolo00jose)
 
-**Mandelbaum, M.** - The Problem of Historical Knowledge (Livewright Publishing Corp., New York)
+**Mandelbaum, M.** - The Problem of Historical Knowledge (Livewright Publishing Corp., New York) [Available at Archive.org](https://archive.org/details/problemofhistori0000mand)
 
-**Poincare, H.** - Science and Hypothesis (N.Y. Science Press-1907)
+**Poincare, H.** - Science and Hypothesis (N.Y. Science Press-1907) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/37157)
 
-**Reichenbach, H.** - Experience and Prediction (University of Chicago Press - 1937)
+**Reichenbach, H.** - Experience and Prediction (University of Chicago Press - 1937) [Available at Archive.org](https://archive.org/details/experiencepredic00reic)
 
-**Russell, B.** - Mysticism and Logic (Longmans, Green and Co. - 1918)
+**Russell, B.** - Mysticism and Logic (Longmans, Green and Co. - 1918) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/25447)
 
-**Young, J.** - Monographs on Modern Mathematics (Longmans, Green and Co. - 1915)
+**Young, J.** - Monographs on Modern Mathematics (Longmans, Green and Co. - 1915) [Available at Archive.org](https://archive.org/details/monographsontop00blisgoog)
 ### General Bibliography on the Philosophy of History:
 
-**Adams, Brooks** - Laws of Civilisation and Decay (MacMillan and Co., 1895)
+**Adams, Brooks** - Laws of Civilisation and Decay (MacMillan and Co., 1895) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/44908)
 
-**Barth, Paul** - Die Philosophie der Geschichte als Sociologie (Reisland 1915)
+**Barth, Paul** - Die Philosophie der Geschichte als Sociologie (Reisland 1915) [Available at Archive.org](https://archive.org/details/diephilosophied00bartgoog)
 
-**Croce, Benedetto** - On History (London, George G. Harap and Co.)
-The Philosophy of Giambattista Vico (translated by R.G. Collingwood, London, Howard Latimer Ltd.)
+**Croce, Benedetto** - On History (London, George G. Harap and Co.) [Available at Archive.org](https://archive.org/details/theoryhistoryofh00croc)
+The Philosophy of Giambattista Vico (translated by R.G. Collingwood, London, Howard Latimer Ltd.) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/52814)
 
-**Collingwood, L.G.** - Idea of History (Oxford, Clarendon Press, 1946)
+**Collingwood, R.G.** - Idea of History (Oxford, Clarendon Press, 1946) [Available at Archive.org](https://archive.org/details/in.ernet.dli.2015.168203)
 
-**Dilthey, Wilhelm** - Der Aufbau der Geschichtlichen Welt in den Geisteswissenschaften (Koeniglich-Preussische Akademie der Wissenschaften - Berlin 1910)
+**Dilthey, Wilhelm** - Der Aufbau der Geschichtlichen Welt in den Geisteswissenschaften (Koeniglich-Preussische Akademie der Wissenschaften - Berlin 1910) [German text available at Archive.org](https://archive.org/details/einleitungindieg00dilt)
 
-**Jaspers, Karl** - Geschichte (Artemis Verlag - Zuerich, 1949)
+**Jaspers, Karl** - Geschichte (Artemis Verlag - Zuerich, 1949) [Available at Archive.org](https://archive.org/details/origingoalofhist0000jasp_q8t5)
 
 **Loewith, Karl** - Meaning in History, The Theological Implications of The Philosophy of History (University of Chicago Press - 1949)
 
-**Niebuhr, Reinhold** - Faith and History - A Comparison of Christian and Modern Views on History (Scribner 1949)
+**Niebuhr, Reinhold** - Faith and History - A Comparison of Christian and Modern Views on History (Scribner 1949) [Available at Archive.org](https://archive.org/details/faithandhistorya027348mbp)
 
-**Ortega y Gasset, J.** - Towards A Philosophy of History (W.W. Norton Company - 1940)
+**Ortega y Gasset, J.** - Towards A Philosophy of History (W.W. Norton Company - 1940) [Available at Archive.org](https://archive.org/details/in.ernet.dli.2015.503133)
 
-**Petrie, Wm Mathew F.** - The Revolution of Civilisation (Harper and Bros. 1922)
+**Petrie, Wm Mathew F.** - The Revolution of Civilisation (Harper and Bros. 1922) [Available at Archive.org](https://archive.org/details/revolutionsofciv00petruoft)
 
 **Popper, K. R.** - The Open Society and Its Enemies (George Routledge and Sons Ltd.) [Available at Archive.org](https://archive.org/details/in.ernet.dli.2015.59272)
 
-**Sorokin, Pitirim A.** - Crisis of our Age (1946)
-Social and Cultural Dynamics (American Book Company - 1937-41 4vols.)
+**Sorokin, Pitirim A.** - Crisis of our Age (1946) [Available at Archive.org](https://archive.org/details/crisisofourage00soro)
+Social and Cultural Dynamics (American Book Company - 1937-41 4vols.) [Available at Archive.org](https://archive.org/details/socialculturald00sorogoog)
 
-**Weber, Alfred** - Farewell To European History (Yale University Press - 1949)
+**Weber, Alfred** - Farewell To European History (Yale University Press - 1949) [Available at Archive.org](https://archive.org/details/FareWellToEuropeanHistory)
 
 ### General References:
 
@@ -3040,31 +3038,31 @@ Social and Cultural Dynamics (American Book Company - 1937-41 4vols.)
 The Idiot (Modern Library) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/2638)
 
 **Elliott, Wm. Y.** - The Pragmatic Revolt in Politics (MacMillen 1928)
-Western Political Heritage (Prentice Hall 1949)
+Western Political Heritage (Prentice Hall 1949) [Available at Archive.org](https://archive.org/details/westernpolitical00elli)
 
-**Friedrich, C. J.** - The New Belief in the Common Man (Little 1942)
+**Friedrich, C. J.** - The New Belief in the Common Man (Little 1942) [Available at Archive.org](https://archive.org/details/newbeliefincommo0000frie)
 
-**Hook, Sidney** - The Hero in History (John Day Company, N.Y.)
+**Hook, Sidney** - The Hero in History (John Day Company, N.Y.) [Available at Archive.org](https://archive.org/details/herohistory00hook)
 
-**Jaeger, Werner** - Paideia (translated by Gilbert Highet - Oxford University Press - 1945)
+**Jaeger, Werner** - Paideia (translated by Gilbert Highet - Oxford University Press - 1945) [Available at Archive.org](https://archive.org/details/paideiaidealsofg01jaeg)
 
-**Lindsay, A. D.** - The Modern Democratic State (Oxford University Press - 1947)
+**Lindsay, A. D.** - The Modern Democratic State (Oxford University Press - 1947) [Available at Archive.org](https://archive.org/details/moderndemocratic00lind)
 
 **Nietzsche, Friedrich** - Beyond Good and Evil - Prelude to a Philosophy of the Future (translated by Helen Zimmern, New York, MacMillan - 1907) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/4363)
 
-**Sartre, Jean-Paul** - Existentialism (Philosophical Library 1947)
+**Sartre, Jean-Paul** - Existentialism (Philosophical Library 1947) [Available at Archive.org](https://archive.org/details/existentialism0000sart)
 
 **Spinoza, Baruch** - Spinoza's Works (translated by R.H.M. Elwes, London, George Bell and Sons - 1891) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/3800)
 
 **Tolstoy, Leo** - War and Peace (Epilogue, Modern Library) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/2600)
 
-**Watkins, Frederick** - The Political Tradition of the West (Harvard University Press - 1948)
+**Watkins, Frederick** - The Political Tradition of the West (Harvard University Press - 1948) [Available at Archive.org](https://archive.org/details/politicaltraditi0000watk)
 
-**Whitehead** - Adventure of Ideas (MacMillan - 1937)
+**Whitehead** - Adventure of Ideas (MacMillan - 1937) [Available at Archive.org](https://archive.org/details/adventureofideas00alfr)
 
-**Wolfson, Harry** - The Philosophy of Spinoza (2 vols.)
+**Wolfson, Harry** - The Philosophy of Spinoza (2 vols.) [Available at Archive.org](https://archive.org/details/philosophyofspin01wolf)
 
-**Mc Ilwain, Charles** - Growth of Political Thought in the West (MacMillan Company 1932)
+**Mc Ilwain, Charles** - Growth of Political Thought in the West (MacMillan Company 1932) [Available at Archive.org](https://archive.org/details/in.ernet.dli.2015.164038)
 
 ### Periodicals
 
@@ -3078,7 +3076,7 @@ Meaning of Human History by M.R. Cohen. Review, H. Cairns. Law and Contemporary 
 
 Toynbee against History. C. Trinkaus. Science and Society 12 no. 2: 318-39, 1948
 
-Relative Archaism: A New Fallacy and Mr.Toynbee. J.W. Dowling. Journal of Philosophy 43: 421-35. August 1, 1946.
+Relative Archaism: A New Fallacy and Mr. Toynbee. J.W. Dowling. Journal of Philosophy 43: 421-35. August 1, 1946.
 
 Reviews of Study of History - Toynbee. Journal of the History of Ideas 9:93-124. January 1948
 
