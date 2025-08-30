@@ -164,7 +164,7 @@
       syncHljsTheme();
 
       // Configure Markdown-It with footnotes and highlight
-      const md = window.markdownit({
+      const mdIt = window.markdownit({
         html: false,
         linkify: true,
         typographer: true,
@@ -185,22 +185,22 @@
           'kissinger_thesis.md',
           'https://raw.githubusercontent.com/Dicklesworthstone/kissinger_undergraduate_thesis/main/kissinger_thesis.md'
         ];
-        let md = null;
+        let mdSrc = null;
         for (const url of targets) {
           try {
             const res = await fetch(url, { cache: 'no-cache' });
-            if (res.ok) { md = await res.text(); break; }
+            if (res.ok) { mdSrc = await res.text(); break; }
           } catch (e) { /* try next */ }
         }
         const reader = document.getElementById('reader');
         const loading = document.getElementById('loading');
-        if (!md) {
+        if (!mdSrc) {
           if (loading) loading.textContent = 'Failed to load Markdown.';
           return;
         }
 
         // Render + sanitize
-        const html = DOMPurify.sanitize(md.render(md));
+        const html = DOMPurify.sanitize(mdIt.render(mdSrc));
         reader.innerHTML = html;
 
         // Set document title from first heading
