@@ -7,7 +7,7 @@ Explore Henry A. Kissinger’s undergraduate thesis — “The Meaning of Histor
 
 ## Quick Links
 - Reader (auto‑renders Markdown): https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/kissinger_thesis.html
-- Thesis (Markdown source): https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/kissinger_thesis.md
+- Thesis (Markdown source): https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/docs/kissinger_thesis.md
 - Mindmap (HTML): https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap.html
 - Mindmap Outline (Markdown): https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.md
 - Summary (Markdown): https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.md
@@ -15,8 +15,8 @@ Explore Henry A. Kissinger’s undergraduate thesis — “The Meaning of Histor
 
 ## What’s Included
 - `index.html`: Landing page using Tailwind (CDN) with quick links to all artifacts and inline SVG icons (no icon font).
-- `kissinger_thesis.md`: Improved, authoritative Markdown version of the thesis.
-- `kissinger_thesis.html`: Reader that auto-renders `kissinger_thesis.md` client‑side (Tailwind Typography, dark mode, code highlight, inline SVG icons, “Aa” reader controls for font + width/family — Inter/Literata/Newsreader).
+- `docs/kissinger_thesis.md`: Improved, authoritative Markdown version of the thesis.
+- `docs/kissinger_thesis.html`: Reader that auto-renders `docs/kissinger_thesis.md` client‑side (Tailwind Typography, dark mode, code highlight, inline SVG icons, “Aa” reader controls for font + width/family — Inter/Literata/Newsreader).
 - `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap.html`: Mindmap visualization (HTML).
 - `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.md`: Mindmap-derived outline (Markdown, rendered on GitHub).
 - `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.md`: Concise summary (Markdown, rendered on GitHub).
@@ -25,7 +25,7 @@ Explore Henry A. Kissinger’s undergraduate thesis — “The Meaning of Histor
 
 ## How to Use
 - Visit the live site above and use the cards/buttons.
-- Thesis (HTML): `kissinger_thesis.html` automatically fetches and renders `kissinger_thesis.md`. Edit the Markdown and refresh the page.
+- Thesis (HTML): `docs/kissinger_thesis.html` automatically fetches and renders `docs/kissinger_thesis.md`. Edit the Markdown and refresh the page.
 - Reader controls: Click “Aa” in the reader header to adjust font family (Inter/Literata/Newsreader), font size, and reading width. Theme toggle is next to it.
 - Markdown resources open on GitHub’s blob pages so they render nicely.
 
@@ -58,13 +58,13 @@ If you edit the landing page or HTML locally and you are using Docs mode, mirror
 
 ```bash
 cp -f index.html docs/index.html
-cp -f kissinger_thesis.html kissinger_thesis.md docs/
+cp -f kissinger_thesis.html docs/
 cp -fr assets docs/
 cp -f henry_*_pdf_mindmap.html docs/
 ```
 
 ## Local Preview
-Because the reader fetches `kissinger_thesis.md`, preview with a local server (to avoid browser file:// fetch restrictions):
+Because the reader fetches `docs/kissinger_thesis.md`, preview with a local server (to avoid browser file:// fetch restrictions):
 
 ```bash
 python3 -m http.server 8000
@@ -85,7 +85,7 @@ python3 -m http.server 8000
 
 ## Replace the Thesis Content
 To swap in a new thesis (or any document):
-- Replace `kissinger_thesis.md` with your new Markdown.
+- Replace `docs/kissinger_thesis.md` with your new Markdown.
 - The reader (`kissinger_thesis.html`) will render the new content automatically.
 - Optional: Update the on‑page title by editing the Markdown’s first `# H1` — the reader sets the page title from it.
 
