@@ -253,6 +253,31 @@
       // Reader controls: font family, size, width, background texture
       (function readerControls(){
         const root = document.getElementById('reader');
+        const headerEl = document.getElementById('siteHeader');
+        let scrollHandler = null;
+        const enableAutoHide = () => {
+          if (scrollHandler) return;
+          let lastY = window.scrollY;
+          scrollHandler = () => {
+            const y = window.scrollY;
+            if (y <= 64) {
+              headerEl?.classList.remove('header-hidden');
+            } else if (y > lastY + 5) {
+              headerEl?.classList.add('header-hidden');
+            } else if (y < lastY - 5) {
+              headerEl?.classList.remove('header-hidden');
+            }
+            lastY = y;
+          };
+          window.addEventListener('scroll', scrollHandler, { passive: true });
+        };
+        const disableAutoHide = () => {
+          if (scrollHandler) {
+            window.removeEventListener('scroll', scrollHandler);
+            scrollHandler = null;
+          }
+          headerEl?.classList.remove('header-hidden');
+        };
         const getNum = (v, def) => {
           const n = parseFloat(v); return Number.isFinite(n) ? n : def;
         };
@@ -261,6 +286,7 @@
           const w = localStorage.getItem('reader:width') || '75';
           const ff = localStorage.getItem('reader:ff') || 'serif';
           const bg = localStorage.getItem('reader:bg') || 'on';
+          const ah = localStorage.getItem('reader:autohide') || 'off';
           root.style.setProperty('--reader-font', getNum(f,1) + 'rem');
           root.style.setProperty('--reader-width', getNum(w,75) + 'ch');
           const map = {
@@ -273,6 +299,8 @@
           const grid = document.querySelector('.backdrop-grid');
           if (grid) grid.classList.toggle('hidden', bg === 'off');
           document.querySelectorAll('.backdrop-glow').forEach(el => el.classList.toggle('hidden', bg === 'off'));
+          // Auto-hide header
+          if (ah === 'on') enableAutoHide(); else disableAutoHide();
         };
         apply();
         // Build a minimal controls popover near the Theme button
@@ -310,6 +338,13 @@
               <button data-w="75" class="w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Normal</button>
               <button data-w="85" class="w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Wide</button>
             </div>
+          </div>
+          <div class="flex items-center justify-between gap-2 mt-2">
+            <span class="text-xs text-slate-600 dark:text-slate-300">Auto-hide header</span>
+            <div class="inline-flex overflow-hidden rounded-md border border-black/10 dark:border-white/10">
+              <button data-ah="on" class="w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">On</button>
+              <button data-ah="off" class="w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Off</button>
+            </div>
           </div>`;
         const rightBox = document.querySelector('header .flex.items-center.gap-2:last-child');
         if (rightBox) { rightBox.classList.add('relative'); rightBox.appendChild(wrap); }
@@ -339,6 +374,9 @@
         });
         wrap.querySelectorAll('button[data-bg]')?.forEach(btn=>{
           btn.addEventListener('click', ()=>{ localStorage.setItem('reader:bg', btn.getAttribute('data-bg')); apply(); });
+        });
+        wrap.querySelectorAll('button[data-ah]')?.forEach(btn=>{
+          btn.addEventListener('click', ()=>{ localStorage.setItem('reader:autohide', btn.getAttribute('data-ah')); apply(); });
         });
       })();
 
