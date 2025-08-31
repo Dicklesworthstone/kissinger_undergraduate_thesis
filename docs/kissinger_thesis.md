@@ -2205,7 +2205,7 @@ Kant's attempt to expand the philosophy of history into a guarantee for the atta
 
 But Kant's philosophy has nevertheless pointed the way towards a resolution of our enigma of the experience of freedom and our knowledge of necessity. The meaning of life appears as the emanation of a transcendental experience to which the mechanism of nature can offer but a challenge. The pervasiveness of this experience provides its own maxims and overcomes necessity by imparting to it a purposive striving after norms.
 
-But two more problems remain. If the categorical imperative universalizes a transcendental experience, just what is the nature of this mystic relationship to the Infinite? If resignation as to the purposes of the Universe provides the condition for ethical activity, what connection exists between our norms and facts, between the experience of freedom and the unfolding of events? What is the meaning of history in a cosmology based on a direct intuition of a supersensuous world-order the maxims of which are conceived of absolute validity?
+But two more problems remain. If the categorical imperative universalizes a transcendental experience, just what is the nature of this mystic relationship to the Infinite? If resignation as to the purposes of the Universe provides the condition for ethical activity, what connection exists between our norms and facts, between the experience of freedom and the unfolding of events? What is the meaning of history in a cosmology based on a direct intuition of a supersensuous world-order the maxims of which are conceived as of absolute validity?
 
 The Chapter "The Sense of Responsibility" will outline an attempted solution to these problems.
 
@@ -2215,9 +2215,9 @@ The Chapter "The Sense of Responsibility" will outline an attempted solution to 
 [^1_34]: Though of course giving it a different content.
 [^2_17]: Since survival is an indication of utility. See post.
 [^1_35]: See post my discussion of Sartre's and Schweitzer's Criticism of Kant.
-[^2_18]: See Friedrich concept that the problem of peace was the most central to Kant's thought - Inevitable Peace - The Philosophy of Kant.
+[^2_18]: See Friedrich's concept that the problem of peace was the most central to Kant's thought - Inevitable Peace - The Philosophy of Kant.
 [^1_36]: For Kant's implication of inexorability see Friedrich "The Philosophy of Kant" p. 453 (Eternal Peace).
-[^2_19]: See Friedrich op. cit. p. 458. (Essay on Eternal Peace). For full discussion see post "Kants Philosophy of History".
+[^2_19]: See Friedrich op. cit. p. 458. (Essay on Eternal Peace). For full discussion see post "Kant's Philosophy of History".
 [^3_5]: See Bernard - Critique of Judgment p. 25. See post for full discussion also of psychological difference for proofs of 'impossibility' and 'possibility'. [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/48433)
 [^1_37]: Friedrich in - Inevitable Peace - p. 149 et seq. has characterized Spinoza as the logical philosophy of Calvinism.
 [^2_20]: Spinoza's sole criterion is inward certainty. See Essay on Human Understanding.
@@ -2225,11 +2225,10 @@ The Chapter "The Sense of Responsibility" will outline an attempted solution to 
 [^1_39]: See post "Appendix A" The Concepts of Meaning.
 [^2_21]: For a distinction between objective and subjective or inward necessity see post "The Sense of Responsibility".
 [^3_6]: Kant calls this a determinative judgment in his "Critique of Judgment". [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/48433)
-[^1_40]: This teleogical concept depends on Kant's Critique of Judgment. See post. [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/48433)
+[^1_40]: This teleological concept depends on Kant's Critique of Judgment. See post. [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/48433)
 [^1_41]: For the discussion of this argument see post. It is not, of course impossible to will this, but it is impossible to secure a reciprocal recognition of this volition.
 [^1_42]: For interpretation of this attitude see post "The Sense of Responsibility".
 [^2_22]: N. Kemp. Smith - A Commentary to Kant's Critique of Pure Reason p. 603 [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/43572) points out that in later life Kant considered this an overly theoretical proof of God's existence and asserted instead that God speaks directly through the categorical imperative.
-[^3_7]: [This footnote is not present in the original text, but a superscript `3` is.]
 [^1_43]: Schweitzer - The Philosophy of Civilization p. 182 et seq.
 [^2_23]: Sartre - Existentialism p. 28 et seq.
 
