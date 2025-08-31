@@ -3071,19 +3071,19 @@ Western Political Heritage (Prentice Hall 1949) [Available](https://archive.org/
 
 **Articles on Toynbee:** Review of Politics, 5. p.508 W. Gurian [Available (volume index)](https://archive.org/details/sim_review-of-politics_1943_5_index-contents "Archive.org")
 
-Some Problems raised by historical relativism. D.J. Loewenberg. Modern History. 21:17-23 March '49
+Some Problems raised by historical relativism. D.J. Loewenberg. Journal of Modern History. 21:17-23 March '49 [Available (vol. 21 index)](https://archive.org/details/sim_journal-of-modern-history_march-december-1949_21_index "Archive.org")
 
-Study of History Review. H. Kahn. Journal of Philosophy. 44:489-99. August 28, 1947.
+Study of History Review. Helmut Kuhn. Journal of Philosophy. 44:489-99. August 28, 1947. [Available (vol. 44 index)](https://archive.org/details/sim_journal-of-philosophy_1947_44_index "Archive.org")
 
 Meaning of Human History by M.R. Cohen. Review, H. Cairns. Law and Contemporary Problems: 13 no. 3: 547-9. 1948 [Available](https://scholarship.law.duke.edu/lcp/vol13/iss3/ "Duke Law")
 
-Toynbee against History. C. Trinkaus. Science and Society 12 no. 2: 318-39, 1948
+Toynbee against History. C. Trinkaus. Science and Society 12 no. 2: 318-39, 1948 [Available (vol. 12 contents)](https://archive.org/details/sim_science-society_1948_12_contents "Archive.org")
 
-Relative Archaism: A New Fallacy and Mr. Toynbee. J.W. Dowling. Journal of Philosophy 43: 421-35. August 1, 1946.
+Relative Archaism: A New Fallacy and Mr. Toynbee. J.W. Dowling. Journal of Philosophy 43: 421-35. August 1, 1946. [Available (vol. 43 index)](https://archive.org/details/sim_journal-of-philosophy_1946_43_index "Archive.org")
 
-Reviews of Study of History - Toynbee. Journal of the History of Ideas 9:93-124. January 1948
+Reviews of Study of History - Toynbee. Journal of the History of Ideas 9:93-124. January 1948 [Available (vol. 9 index)](https://archive.org/details/sim_journal-of-the-history-of-ideas_1948_9_index "Archive.org")
 
-Religion in Toynbee's History. J.H.Nichols. Journal of Religion 28:99-119. April 1948.
+Religion in Toynbee's History. J.H.Nichols. Journal of Religion 28:99-119. April 1948. [Available (vol. 28 index)](https://archive.org/details/sim_journal-of-religion_1948_28_index "Archive.org")
 
 Some Recent Ideas of Progress. W.Thomas. Personalist. 29:128-36. April 1948.
 
