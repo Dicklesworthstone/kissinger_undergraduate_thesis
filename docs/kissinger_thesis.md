@@ -2983,7 +2983,7 @@ Kant's ethical philosophy testifies to this solution, the ultimate reality of wh
 ### Basic Texts:
 
 **Hegel, Georg** - The Philosophy of History; (translated by J.Sibree, N.Y. Wiley Book Co.-1944) [Available](https://archive.org/details/philosophyofhist00hegeuoft "Archive.org")
-The Philosophy of Law
+The Philosophy of Law [Available](https://archive.org/details/cu31924014578979 "Archive.org")
 
 **Kant, Immanuel**- Critique of Judgment (translated by J.H.Bernard Macmillan Co.-1914) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/48433)
 The Fundamental Principles of a Metaphysics of Morals;
