@@ -2812,7 +2812,7 @@ as true or false.
 
 Reichenbach's restriction of meaning to verifiable truth seems in the first instance a negation of the Kantian position and an assertion of reality as a predicate of objects. Yet the problem of meaning remains. For what does Reichenbach mean by verifiability? What meaning can be attached to descriptions of physical qualities? What is the relation of truth-weight to meaning and to truth-value? This finally resolves itself into a consideration of criteria of knowledge, of which three progressively wider standards are recognized: the technical, the physical and the logical. The last, in the tradition of Hume, admits as true anything that can be conceived without contradiction.
 
-This analysis implies that a statement can be both meaningful or not, depending on the criterion. A 500-year old man in a logical sense represents no inner contraction but would have to be denied by physical criteria. Moreover, just as in Russell's theory of descriptions, the assertion can only occur subsequent to a query and the question will limit a range of possible answers. Thus logical positivism, from an attempt to confine meaning by a test of verifiability, is forced by its inner contradictions into the admission of criteria that extend the range of meaningful statements and by implication becomes the precursor of pre-assertional logic, which faces the metaphysical problem only after its range has been determined by the hypothesis.
+This analysis implies that a statement can be both meaningful or not, depending on the criterion. A 500-year-old man in a logical sense represents no inner contradiction but would have to be denied by physical criteria. Moreover, just as in Russell's theory of descriptions, the assertion can only occur subsequent to a query and the question will limit a range of possible answers. Thus logical positivism, from an attempt to confine meaning by a test of verifiability, is forced by its inner contradictions into the admission of criteria that extend the range of meaningful statements and by implication becomes the precursor of pre-assertional logic, which faces the metaphysical problem only after its range has been determined by the hypothesis.
 
 ## Summary
 
@@ -2835,10 +2835,10 @@ admits the flexibility of the philosophical assumptions determining meaning. It 
 pure logic.[^sr-1] It maintains that before one can assert something,
 one has to know what it is that one wishes to assert. This distinguishes the eventual validity of the assertion from the inherent linguistic and logical structure of the statement.
 
-The quest for the logical primitive in pre-assertional logic then resolves itself into the search for a form of expression which best exhibits the internal structure of the statement, and its logical possibilities. Only after having examined the statement in such a form does pre-assertional logic attempt to pass judgment, to assert, or to use the language of Prof. Scheffer declare truth and falsity, with the express proviso that any declaration involves a psychological element, the speaker's, and a philosophical one, depending on the criterion used. Pre-assertional logic does not have to conform to the subject term copula predicate-term from of the propositionalists, nor confine itself to the philosophical concepts of Reichenbach's sententialism. It examines the internal structure of the argument and looks for a form that best exhibits its possibilities.
+The quest for the logical primitive in pre-assertional logic then resolves itself into the search for a form of expression which best exhibits the internal structure of the statement, and its logical possibilities. Only after having examined the statement in such a form does pre-assertional logic attempt to pass judgment, to assert, or to use the language of Prof. Scheffer declare truth and falsity, with the express proviso that any declaration involves a psychological element, the speaker's, and a philosophical one, depending on the criterion used. Pre-assertional logic does not have to conform to the subject term copula predicate-term form of the propositionalists, nor confine itself to the philosophical concepts of Reichenbach's sententialism. It examines the internal structure of the argument and looks for a form that best exhibits its possibilities.
 
 What then is the best form of the logical primitive for pre-assertional logic or what is the primary logical entity one can create? Even propositional logicians, such as Joseph or Stebbing,
-agree that the judgment represents only an answer to a question the object of which constitutes the logical subject of the preposition. The assertion then expresses the affirmation or denial of a hypothesis. It exhibits more clearly the object of our query, than the judgment, for it is devoid of the psychological aspect of the act of judging in which always inheres the possibility of error. The interrogative is the logical primitive of pre-assertional logic.
+agree that the judgment represents only an answer to a question the object of which constitutes the logical subject of the proposition. The assertion then expresses the affirmation or denial of a hypothesis. It exhibits more clearly the object of our query, than the judgment, for it is devoid of the psychological aspect of the act of judging in which always inheres the possibility of error. The interrogative is the logical primitive of pre-assertional logic.
 
 Yet which form should this interrogative take? Three possibilities exist. Taking the statement 'Chicago is large' as an example:
 
@@ -2864,7 +2864,7 @@ If logic can be defined as the critical analysis of inherent structure[^sr-2] ap
 
 Withal, this merely amounts to a recognition of the variability and possibilities of meaning. Each hypothesis contains with itself the possible answers, the very formulation of the query is the consequence of a metaphysical context. Meaning is recognized as a function of the structuring of reality dependent in part on psychological and in part on philosophical concepts.
 
-If the hypothesis delimit the range of answers what is the effect on systematic knowledge? Are all hypothesis equivalent, their choice accidental, their pertinence purely psychological? The theory of systems addresses itself to these problems.
+If the hypothesis delimits the range of answers what is the effect on systematic knowledge? Are all hypotheses equivalent, their choice accidental, their pertinence purely psychological? The theory of systems addresses itself to these problems.
 
 [^ka-5_3]: See Post.
 
@@ -2888,11 +2888,11 @@ If the hypothesis delimit the range of answers what is the effect on systematic 
 
 A system has been defined as any body of propositions arranged according to a sequence of logical deductions, so that every proposition, after a certain one, is a logical consequence of some, or all, of the preceding propositions. This body of propositions that implies the rest, has been defined the code by Prof. Scheffer.[^sr-3]
 
-The necessity of the code results from the limitations of the human mind. A Being, such as God, whose knowledge is instantaneous, would have no recourse to a code. Yet the average person, who can not grasp the totality of the propositions contained in the system without deduction, requires a body of propositions from which such a deduction can be effected. Few classical sciences and no empirical science, have in fact been completely systematized, though all system knowledge presupposes a system, its extend usually indicated by the necessity which attends conclusions.
+The necessity of the code results from the limitations of the human mind. A Being, such as God, whose knowledge is instantaneous, would have no recourse to a code. Yet the average person, who can not grasp the totality of the propositions contained in the system without deduction, requires a body of propositions from which such a deduction can be effected. Few classical sciences and no empirical science, have in fact been completely systematized, though all system knowledge presupposes a system, its extent usually indicated by the necessity which attends conclusions.
 
-Historically it had been assumed that all systems, such as Euclidian geometry, were based on a set of propositions, self-evidently true, the axioms, from which all other propositions, the theorems, followed deductively. Mathematicians have proved, in the meantime, however, that the Euclidian axioms can not be considered universally self-evident. It is possible, for example to conceive
+Historically it had been assumed that all systems, such as Euclidean geometry, were based on a set of propositions, self-evidently true, the axioms, from which all other propositions, the theorems, followed deductively. Mathematicians have proved, in the meantime, however, that the Euclidean axioms can not be considered universally self-evident. It is possible, for example to conceive
 
-a world entirely enclosed within a large sphere, with the temperature decreasing point by point, reaching zero at the boundary.[^sr-4] In such a world, every inhabitant would conceive himself in a universe of infinite extent, for as he approached the boundary, the falling temperature would decrease his size, causing his steps to be smaller and smaller. The Geometry of such a world would contain many axioms, the self-evident of which would vary considerably from Euclid's. It can be proved f.e., that the shortest distance between two points in that case would be the arc of a circle, which cuts the bounding sphere orthogonally.[^sr-4] This is the basis of non-Euclidian mathematics.
+a world entirely enclosed within a large sphere, with the temperature decreasing point by point, reaching zero at the boundary.[^sr-4] In such a world, every inhabitant would conceive himself in a universe of infinite extent, for as he approached the boundary, the falling temperature would decrease his size, causing his steps to be smaller and smaller. The Geometry of such a world would contain many axioms, the self-evidence of which would vary considerably from Euclid's. It can be proved f.e., that the shortest distance between two points in that case would be the arc of a circle, which cuts the bounding sphere orthogonally.[^sr-4] This is the basis of non-Euclidean mathematics.
 
 Moreover, from the point of view of modern logic, "self-evidence," can not be conceived as a predicate of a proposition, but as a diadic relation between the person making the statement and the proposition.[^sr-5] The Reality of the system does not result in the first instance from its foundation in empirically verifiable fact but from the philosophical assumptions of its postulates.
 
@@ -2940,7 +2940,7 @@ What is the meaning of consistency in relation to pre-code and what criteria doe
 
 Though this limits the analysis to internal consistency, it tells nothing about a criterion. Yet an absolute standard for consistency does not exist. To prove consistency, concepts are utilized that are in turn assumed consistent. A test for consistency, with these reservations, would be the deduction of the pre-code as a theorem from a code of logic that is assumed consistent.
 
-A more general test for consistency is the instantiation of the pre-code. Three possibilities of instantiation, logical, mathematical and empirical, exist. Thus if the pre-code is instantiated by a code in Euclidian geometry, and we grant that Euclidian geometry is consistent, we have a proof for the consistency of the pre-code. An example of this is furnished by Whitehead's Principia Mathematica which attempts to demonstrate the foundation of mathematics in logic.
+A more general test for consistency is the instantiation of the pre-code. Three possibilities of instantiation, logical, mathematical and empirical, exist. Thus if the pre-code is instantiated by a code in Euclidean geometry, and we grant that Euclidean geometry is consistent, we have a proof for the consistency of the pre-code. An example of this is furnished by Whitehead's Principia Mathematica which attempts to demonstrate the foundation of mathematics in logic.
 
 In instantiation in an empirical system, the element of simply passing the burden of proof to a higher order of logic or another set of assumptions, is compounded by the following epistemological assumptions:
 (1) The empirical world is consistent.
@@ -2985,14 +2985,14 @@ Kant's ethical philosophy testifies to this solution, the ultimate reality of wh
 **Hegel, Georg** - The Philosophy of History; (translated by J.Sibree, N.Y. Wiley Book Co.-1944) [Available](https://archive.org/details/philosophyofhist00hegeuoft "Archive.org")
 The Philosophy of Law
 
-**Kant, Immanuel**- Critique of Judgment (translated by J.H.Bernard MacMillan Co.-1914) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/48433)
+**Kant, Immanuel**- Critique of Judgment (translated by J.H.Bernard Macmillan Co.-1914) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/48433)
 The Fundamental Principles of a Metaphysics of Morals;
 Critique of Practical Reason (both translated by T.K. Abbott - Kant's Theory of Ethics - Longmans, Green and Co., 1909) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/5683)
-Critique of Pure Reason (translated by Max Muller, MacMillan Co. - 1927) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/4280)
+Critique of Pure Reason (translated by Max Muller, Macmillan Co. - 1927) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/4280)
 Idea for a Universal History (translated by C.J. Friedrich - The Philosophy of Kant - Modern Library 1949)
 Eternal Peace (translated by C.J. Friedrich - The Philosophy of Kant - Modern Library - 1949) [Available at Project Gutenberg](https://www.gutenberg.org/files/50922/50922-h/50922-h.htm)
 
-**Schweitzer, Albert** - The Philosophy of Civilization (MacMillan Co. - 1949) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/76061)
+**Schweitzer, Albert** - The Philosophy of Civilization (Macmillan Co. - 1949) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/76061)
 
 **Spengler, Oswald** - The Decline of the West - (translated by C.F. Atkinson, Knopf 1926-1928) 2 vols. [Available](https://archive.org/details/DeclineOfTheWestSpengler "Archive.org")
 The Hour of Decision (Knopf - 1932) [Available](https://archive.org/details/in.ernet.dli.2015.503389 "Archive.org")
@@ -3001,7 +3001,7 @@ The Hour of Decision (Knopf - 1932) [Available](https://archive.org/details/in.e
 
 ### Bibliography on Kant:
 
-**Caird, Edward** - The Critical Philosophy of Kant - (MacMillan-1889) [Available](https://archive.org/details/in.ernet.dli.2015.507024 "Archive.org")
+**Caird, Edward** - The Critical Philosophy of Kant - (Macmillan-1889) [Available](https://archive.org/details/in.ernet.dli.2015.507024 "Archive.org")
 
 **Cassirer, Ernst** - Rousseau, Kant, Goethe, Essays by Ernst Cassirer translated by James Gutman and Oscar Kristetten - Princeton University Press - 1940 [Available](https://archive.org/details/rousseaukantgoet00cass "Archive.org")
 
@@ -3009,7 +3009,7 @@ The Hour of Decision (Knopf - 1932) [Available](https://archive.org/details/in.e
 
 **Lindsay, A.D.** - The Philosophy of Immanuel Kant (Ernest Benn Ltd.) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/47880)
 
-**Smith, Norman K.** - A Commentary to Kant's Critique of Pure Reason (MacMillan Co. - 1918)
+**Smith, Norman K.** - A Commentary to Kant's Critique of Pure Reason (Macmillan Co. - 1918)
 ### Bibliography on Spengler:
 
 **Dankin, Edwin** - Today and Destiny (Knopf - 1940)
@@ -3046,7 +3046,7 @@ Der Streit um Spengler (Muenchen, Beck 1922)
 **Young, J.** - Monographs on Modern Mathematics (Longmans, Green and Co. - 1915) [Available](https://archive.org/details/monographsontop00blisgoog "Archive.org")
 ### General Bibliography on the Philosophy of History:
 
-**Adams, Brooks** - Laws of Civilisation and Decay (MacMillan and Co., 1895) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/44908)
+**Adams, Brooks** - Laws of Civilisation and Decay (Macmillan and Co., 1895) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/44908)
 
 **Barth, Paul** - Die Philosophie der Geschichte als Sociologie (Reisland 1915) [Available](https://archive.org/details/diephilosophied00bartgoog "Archive.org")
 
@@ -3081,7 +3081,7 @@ Social and Cultural Dynamics (American Book Company - 1937-41 4vols.) [Available
 **Dostojevski, Fjodor** - The Brothers Karamazoff (Modern Library) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/28054)
 The Idiot (Modern Library) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/2638)
 
-**Elliott, Wm. Y.** - The Pragmatic Revolt in Politics (MacMillen 1928)
+**Elliott, Wm. Y.** - The Pragmatic Revolt in Politics (Macmillan 1928)
 Western Political Heritage (Prentice Hall 1949) [Available](https://archive.org/details/westernpolitical00elli "Archive.org")
 
 **Friedrich, C. J.** - The New Belief in the Common Man (Little 1942) [Available](https://archive.org/details/newbeliefincommo0000frie "Archive.org")
@@ -3092,7 +3092,7 @@ Western Political Heritage (Prentice Hall 1949) [Available](https://archive.org/
 
 **Lindsay, A. D.** - The Modern Democratic State (Oxford University Press - 1947) [Available](https://archive.org/details/moderndemocratic00lind "Archive.org")
 
-**Nietzsche, Friedrich** - Beyond Good and Evil - Prelude to a Philosophy of the Future (translated by Helen Zimmern, New York, MacMillan - 1907) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/4363)
+**Nietzsche, Friedrich** - Beyond Good and Evil - Prelude to a Philosophy of the Future (translated by Helen Zimmern, New York, Macmillan - 1907) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/4363)
 
 **Sartre, Jean-Paul** - Existentialism (Philosophical Library 1947) [Available](https://archive.org/details/existentialism0000sart "Archive.org")
 
@@ -3102,11 +3102,11 @@ Western Political Heritage (Prentice Hall 1949) [Available](https://archive.org/
 
 **Watkins, Frederick** - The Political Tradition of the West (Harvard University Press - 1948) [Available](https://archive.org/details/politicaltraditi0000watk "Archive.org")
 
-**Whitehead** - Adventure of Ideas (MacMillan - 1937) [Available](https://archive.org/details/adventureofideas00alfr "Archive.org")
+**Whitehead** - Adventure of Ideas (Macmillan - 1937) [Available](https://archive.org/details/adventureofideas00alfr "Archive.org")
 
 **Wolfson, Harry** - The Philosophy of Spinoza (2 vols.) [Available](https://archive.org/details/philosophyofspin01wolf "Archive.org")
 
-**Mc Ilwain, Charles** - Growth of Political Thought in the West (MacMillan Company 1932) [Available](https://archive.org/details/in.ernet.dli.2015.164038 "Archive.org")
+**McIlwain, Charles** - Growth of Political Thought in the West (Macmillan Company 1932) [Available](https://archive.org/details/in.ernet.dli.2015.164038 "Archive.org")
 
 ### Periodicals
 
