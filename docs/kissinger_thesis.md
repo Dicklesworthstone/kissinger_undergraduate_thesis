@@ -3116,7 +3116,7 @@ Some Problems raised by historical relativism. D.J. Loewenberg. Modern History. 
 
 Study of History Review. H. Kahn. Journal of Philosophy. 44:489-99. August 28, 1947.
 
-Meaning of Human History by M.R. Cohen. Review, H. Cairns. Law and Contemporary Problems: 13 no. 3: 547-9. 1948
+Meaning of Human History by M.R. Cohen. Review, H. Cairns. Law and Contemporary Problems: 13 no. 3: 547-9. 1948 [Available](https://scholarship.law.duke.edu/lcp/vol13/iss3/ "Duke Law")
 
 Toynbee against History. C. Trinkaus. Science and Society 12 no. 2: 318-39, 1948
 
