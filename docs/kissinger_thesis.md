@@ -3014,7 +3014,7 @@ The Hour of Decision (Knopf - 1932) [Available](https://archive.org/details/in.e
 
 **Dankin, Edwin** - Today and Destiny (Knopf - 1940)
 
-**Hale, Wm** - Challenge to Defeat (Harcourt, Brace and Co., 1932)
+**Hale, Wm** - Challenge to Defeat (Harcourt, Brace and Co., 1932) [Available](https://archive.org/details/challengetodefea0000hale "Archive.org")
 
 **Messer, August** - Spengler als Philosoph (Stuttgart, Strecker und Schroeter, 1924) [Available](https://archive.org/details/oswaldspengleral00messuoft "Archive.org")
 
@@ -3026,7 +3026,7 @@ Der Streit um Spengler (Muenchen, Beck 1922)
 
 ### Bibliography on Toynbee:
 
-**Geyl, Pieter** - The Pattern of the Past; Can we Determine it? (Beacon Press - 1949)
+**Geyl, Pieter** - The Pattern of the Past; Can we Determine it? (Beacon Press - 1949) [Available](https://archive.org/details/patternofpastcan0000unse "Archive.org")
 (see also "Periodicals" below)
 
 ### Bibliography on Logic and Methodology of History:
