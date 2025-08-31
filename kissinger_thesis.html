@@ -75,7 +75,7 @@
       .reveal-visible { opacity: 1; transform: none }
       @media (prefers-reduced-motion: reduce) { .reveal { transition: none; transform: none } }
       /* Reader controls via CSS variables */
-      #reader { font-size: var(--reader-font, 1rem); max-width: min(100%, var(--reader-width, 75ch)); margin-inline: auto; font-family: var(--reader-ff, "Literata", ui-serif, Georgia, serif) }
+      #reader { font-size: var(--reader-font, 1rem); max-width: min(100%, var(--reader-width, 75ch)); margin-inline: auto; font-family: var(--reader-ff, "Literata", ui-serif, Georgia, serif); word-break: normal; overflow-wrap: normal; hyphens: manual }
       /* TOC active state */
       .toc a { display:block; padding:2px 6px; border-left:2px solid transparent; border-radius:4px }
       .toc a[aria-current="true"] { color: rgb(59 130 246); border-left-color: rgb(59 130 246); font-weight:600 }
