@@ -86,6 +86,9 @@
       .footnotes ol { font-size: .95em; padding-left: 1.25rem; }
       .footnotes li { margin-top: .5rem; }
       .footnote-backref { text-decoration: none; margin-left: .25rem; opacity:.75 }
+      /* Auto-hide header */
+      #siteHeader { transition: transform .3s ease; will-change: transform }
+      #siteHeader.header-hidden { transform: translateY(-100%) }
     </style>
   </head>
   <body class="bg-white text-slate-900 dark:bg-slate-950 dark:text-slate-100 font-sans selection:bg-brand-400 selection:text-white">
@@ -99,7 +102,7 @@
     </div>
 
     <!-- Header -->
-    <header class="sticky top-0 z-40 backdrop-blur supports-[backdrop-filter]:bg-white/70 dark:supports-[backdrop-filter]:bg-slate-950/60 border-b border-black/5 dark:border-white/10">
+    <header id="siteHeader" class="sticky top-0 z-40 backdrop-blur supports-[backdrop-filter]:bg-white/70 dark:supports-[backdrop-filter]:bg-slate-950/60 border-b border-black/5 dark:border-white/10">
       <div class="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between">
         <div class="flex items-center gap-3">
           <a href="index.html" class="h-10 w-10 grid place-items-center rounded-lg bg-brand-600/15 ring-1 ring-brand-500/25 shadow-glow" title="Back to index">
@@ -357,4 +360,3 @@
     </script>
   </body>
   </html>
-

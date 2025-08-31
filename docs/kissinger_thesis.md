@@ -2474,17 +2474,14 @@ our thinking, the possibility of making an assertion that is true,
 the feasibility of correlating logic with the physical world. The
 existential import of judgments is the foundation of 'propositional
 logic', the concept of meaning derived from a relation between two
-sets of physical objects - symbols and fact - makes possible sen-
-tentialism (logical positivism). Both propositional and sen-
-tential logic contain as a primitive an assertion, which forces
+sets of physical objects - symbols and fact - makes possible sententialism (logical positivism). Both propositional and sentential logic contain as a primitive an assertion, which forces
 them into a philosophic justification, apart from the internal
 structure of the argument, of the possibility and validity of such
 judgments.
 
 The difficulties raised by these concepts, coupled with the
 fact that logic as an examination of our thinking, a determination
-of our meaning, became too encumbered with metaphysical and epistemo-
-logical considerations which structured its analysis a priori gave
+of our meaning, became too encumbered with metaphysical and epistemological considerations which structured its analysis a priori gave
 rise to a new school of thought, that of pre-assertional logic.[^ap-2]
 This attempts to free itself from the pretentions of a theory of
 knowledge, at the same time widening the scope of the possibility
@@ -2518,25 +2515,18 @@ the speaker's vision. Traditional logicians (Bradley, Joseph
 and Stebbing) find refuge in the Platonic concept of universals,
 which makes the concept the only true reality.
 
-Propositional logic is thus founded on concepts entirely meta-
-physical. From there it proceeds to classify judgments according
-to certainty into categorical, hypothetical and disjunctive, accord-
-ing to quantity into universal, enumerative, particular and singu-
-lar propositions, and according to quality (or modality) into asser-
-tional, problematic and apodeitic (or necessary) judgments. It
+Propositional logic is thus founded on concepts entirely metaphysical. From there it proceeds to classify judgments according
+to certainty into categorical, hypothetical and disjunctive, according to quantity into universal, enumerative, particular and singular propositions, and according to quality (or modality) into assertional, problematic and apodeitic (or necessary) judgments. It
 becomes apparent, however, that many of these subdivisions are in
 turn metaphysical. Whether a judgment is universal or enumerative
 depends less on the inherent structure of the proposition than on
 the individual's theory of knowledge. Empiricists would deny any
-universal judgment, Platonists would adhere to the possibility of uni-
-versality even in such statement as 'French ministries are short-lived,'
+universal judgment, Platonists would adhere to the possibility of universality even in such statement as 'French ministries are short-lived,'
 
 [^ka-4_4]: Joseph, op.cit., p. 178. [Available](https://archive.org/details/introductiontolo00jose "Archive.org")
 merely referring the matter to the concept of 'French ministry.'
-The same applies to apodeitic judgments. The necessity or self-
-evidence of a proposition constitutes a problem for epistemology,
-to which logic can supply no better clue than internal consist-
-ency.[^ka-4_4]
+The same applies to apodeitic judgments. The necessity or selfevidence of a proposition constitutes a problem for epistemology,
+to which logic can supply no better clue than internal consistency.[^ka-4_4]
 
 The existential import of propositions involves other philosophical
 problems. While judgments about griffins can be defended as
@@ -2551,8 +2541,7 @@ term griffin. The existent is thus assumed as the subject of the
 judgment, which comes very close to Bradley's concept of Reality
 as the ultimate subject.
 
-On the other hand does a statement about square circles postu-
-late their reality? Propositional logicians would argue with Hume
+On the other hand does a statement about square circles postulate their reality? Propositional logicians would argue with Hume
 that though one can imagine a square and a circle, a square circle
 can not be conceived and therefore one would make a judgment known
 to be false. But on the other hand as existence is postulated as
