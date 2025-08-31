@@ -89,6 +89,9 @@
       /* Auto-hide header */
       #siteHeader { transition: transform .3s ease; will-change: transform }
       #siteHeader.header-hidden { transform: translateY(-100%) }
+      /* Toggle active state */
+      .btn-toggle[aria-pressed="true"] { background: rgba(0,0,0,.08) }
+      .dark .btn-toggle[aria-pressed="true"] { background: rgba(255,255,255,.12) }
     </style>
   </head>
   <body class="bg-white text-slate-900 dark:bg-slate-950 dark:text-slate-100 font-sans selection:bg-brand-400 selection:text-white">
@@ -312,9 +315,9 @@
           <div class="flex items-center justify-between gap-2 mb-2">
             <span class="text-xs text-slate-600 dark:text-slate-300">Font family</span>
             <div class="inline-flex overflow-hidden rounded-md border border-black/10 dark:border-white/10">
-              <button data-ff="sans" class="px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Sans</button>
-              <button data-ff="serif" class="px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Serif</button>
-              <button data-ff="news" class="px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">News</button>
+              <button data-ff="sans" class="btn-toggle px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Sans</button>
+              <button data-ff="serif" class="btn-toggle px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Serif</button>
+              <button data-ff="news" class="btn-toggle px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">News</button>
             </div>
           </div>
           <div class="flex items-center justify-between gap-2 mb-2">
@@ -327,27 +330,37 @@
           <div class="flex items-center justify-between gap-2 mb-2">
             <span class="text-xs text-slate-600 dark:text-slate-300">Background texture</span>
             <div class="inline-flex overflow-hidden rounded-md border border-black/10 dark:border-white/10">
-              <button data-bg="on" class="w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">On</button>
-              <button data-bg="off" class="w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Off</button>
+              <button data-bg="on" class="btn-toggle w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">On</button>
+              <button data-bg="off" class="btn-toggle w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Off</button>
             </div>
           </div>
           <div class="flex items-center justify-between gap-2">
             <span class="text-xs text-slate-600 dark:text-slate-300">Reading width</span>
             <div class="inline-flex overflow-hidden rounded-md border border-black/10 dark:border-white/10">
-              <button data-w="65" class="w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Narrow</button>
-              <button data-w="75" class="w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Normal</button>
-              <button data-w="85" class="w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Wide</button>
+              <button data-w="65" class="btn-toggle w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Narrow</button>
+              <button data-w="75" class="btn-toggle w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Normal</button>
+              <button data-w="85" class="btn-toggle w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Wide</button>
             </div>
           </div>
           <div class="flex items-center justify-between gap-2 mt-2">
             <span class="text-xs text-slate-600 dark:text-slate-300">Auto-hide header</span>
             <div class="inline-flex overflow-hidden rounded-md border border-black/10 dark:border-white/10">
-              <button data-ah="on" class="w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">On</button>
-              <button data-ah="off" class="w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Off</button>
+              <button data-ah="on" class="btn-toggle w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">On</button>
+              <button data-ah="off" class="btn-toggle w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Off</button>
             </div>
           </div>`;
         const rightBox = document.querySelector('header .flex.items-center.gap-2:last-child');
         if (rightBox) { rightBox.classList.add('relative'); rightBox.appendChild(wrap); }
+        const syncActive = () => {
+          const ffV = localStorage.getItem('reader:ff') || 'serif';
+          wrap.querySelectorAll('button[data-ff]')?.forEach(b=> b.setAttribute('aria-pressed', b.getAttribute('data-ff')===ffV ? 'true':'false'));
+          const wV = localStorage.getItem('reader:width') || '75';
+          wrap.querySelectorAll('button[data-w]')?.forEach(b=> b.setAttribute('aria-pressed', b.getAttribute('data-w')===wV ? 'true':'false'));
+          const bgV = localStorage.getItem('reader:bg') || 'on';
+          wrap.querySelectorAll('button[data-bg]')?.forEach(b=> b.setAttribute('aria-pressed', b.getAttribute('data-bg')===bgV ? 'true':'false'));
+          const ahV = localStorage.getItem('reader:autohide') || 'off';
+          wrap.querySelectorAll('button[data-ah]')?.forEach(b=> b.setAttribute('aria-pressed', b.getAttribute('data-ah')===ahV ? 'true':'false'));
+        };
         const toggleBtn = document.createElement('button');
         toggleBtn.id = 'readerControlsToggle';
         toggleBtn.type = 'button';
@@ -364,20 +377,13 @@
         });
         const fontDec = wrap.querySelector('#fontDec');
         const fontInc = wrap.querySelector('#fontInc');
-        fontDec?.addEventListener('click', ()=>{ const f = getNum(localStorage.getItem('reader:font')||'1',1); const nf = Math.max(0.85, Math.round((f-0.05)*100)/100); localStorage.setItem('reader:font', String(nf)); apply(); });
-        fontInc?.addEventListener('click', ()=>{ const f = getNum(localStorage.getItem('reader:font')||'1',1); const nf = Math.min(1.4, Math.round((f+0.05)*100)/100); localStorage.setItem('reader:font', String(nf)); apply(); });
-        wrap.querySelectorAll('button[data-w]')?.forEach(btn=>{
-          btn.addEventListener('click', ()=>{ localStorage.setItem('reader:width', btn.getAttribute('data-w')); apply(); });
-        });
-        wrap.querySelectorAll('button[data-ff]')?.forEach(btn=>{
-          btn.addEventListener('click', ()=>{ localStorage.setItem('reader:ff', btn.getAttribute('data-ff')); apply(); });
-        });
-        wrap.querySelectorAll('button[data-bg]')?.forEach(btn=>{
-          btn.addEventListener('click', ()=>{ localStorage.setItem('reader:bg', btn.getAttribute('data-bg')); apply(); });
-        });
-        wrap.querySelectorAll('button[data-ah]')?.forEach(btn=>{
-          btn.addEventListener('click', ()=>{ localStorage.setItem('reader:autohide', btn.getAttribute('data-ah')); apply(); });
-        });
+        fontDec?.addEventListener('click', ()=>{ const f = getNum(localStorage.getItem('reader:font')||'1',1); const nf = Math.max(0.85, Math.round((f-0.05)*100)/100); localStorage.setItem('reader:font', String(nf)); apply(); syncActive(); });
+        fontInc?.addEventListener('click', ()=>{ const f = getNum(localStorage.getItem('reader:font')||'1',1); const nf = Math.min(1.4, Math.round((f+0.05)*100)/100); localStorage.setItem('reader:font', String(nf)); apply(); syncActive(); });
+        wrap.querySelectorAll('button[data-w]')?.forEach(btn=>{ btn.addEventListener('click', ()=>{ localStorage.setItem('reader:width', btn.getAttribute('data-w')); apply(); syncActive(); }); });
+        wrap.querySelectorAll('button[data-ff]')?.forEach(btn=>{ btn.addEventListener('click', ()=>{ localStorage.setItem('reader:ff', btn.getAttribute('data-ff')); apply(); syncActive(); }); });
+        wrap.querySelectorAll('button[data-bg]')?.forEach(btn=>{ btn.addEventListener('click', ()=>{ localStorage.setItem('reader:bg', btn.getAttribute('data-bg')); apply(); syncActive(); }); });
+        wrap.querySelectorAll('button[data-ah]')?.forEach(btn=>{ btn.addEventListener('click', ()=>{ localStorage.setItem('reader:autohide', btn.getAttribute('data-ah')); apply(); syncActive(); }); });
+        syncActive();
       })();
 
       // Reveal animations

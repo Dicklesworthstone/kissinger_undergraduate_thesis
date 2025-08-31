@@ -2645,19 +2645,11 @@ The difficulty of this position results in an attempt to burst the metaphysical 
 
 ## III. Pre-Assertional Logic
 
-The school of pre-assertional logic develops a different
-approach to the problem of meaning. Where propositional logic
-passes judgments about aspects of reality, or establishes the
-relation between sentences and facts through an elaborate system
-of metaphysical and probability theory, pre-assertional logic
-admits the flexibility of the philosophical assumptions determining meaning. It refuses to consider such questions as the existential import of propositions as falling outside the realm of
-pure logic.[^sr-1] It maintains that before one can assert something,
-one has to know what it is that one wishes to assert. This distinguishes the eventual validity of the assertion from the inherent linguistic and logical structure of the statement.
+The school of pre-assertional logic develops a different approach to the problem of meaning. Where propositional logic passes judgments about aspects of reality, or establishes the relation between sentences and facts through an elaborate system of metaphysical and probability theory, pre-assertional logic admits the flexibility of the philosophical assumptions determining meaning. It refuses to consider such questions as the existential import of propositions as falling outside the realm of pure logic.[^sr-1] It maintains that before one can assert something, one has to know what it is that one wishes to assert. This distinguishes the eventual validity of the assertion from the inherent linguistic and logical structure of the statement.
 
 The quest for the logical primitive in pre-assertional logic then resolves itself into the search for a form of expression which best exhibits the internal structure of the statement, and its logical possibilities. Only after having examined the statement in such a form does pre-assertional logic attempt to pass judgment, to assert, or to use the language of Prof. Scheffer declare truth and falsity, with the express proviso that any declaration involves a psychological element, the speaker's, and a philosophical one, depending on the criterion used. Pre-assertional logic does not have to conform to the subject term copula predicate-term form of the propositionalists, nor confine itself to the philosophical concepts of Reichenbach's sententialism. It examines the internal structure of the argument and looks for a form that best exhibits its possibilities.
 
-What then is the best form of the logical primitive for pre-assertional logic or what is the primary logical entity one can create? Even propositional logicians, such as Joseph or Stebbing,
-agree that the judgment represents only an answer to a question the object of which constitutes the logical subject of the proposition. The assertion then expresses the affirmation or denial of a hypothesis. It exhibits more clearly the object of our query, than the judgment, for it is devoid of the psychological aspect of the act of judging in which always inheres the possibility of error. The interrogative is the logical primitive of pre-assertional logic.
+What then is the best form of the logical primitive for pre-assertional logic or what is the primary logical entity one can create? Even propositional logicians, such as Joseph or Stebbing, agree that the judgment represents only an answer to a question the object of which constitutes the logical subject of the proposition. The assertion then expresses the affirmation or denial of a hypothesis. It exhibits more clearly the object of our query, than the judgment, for it is devoid of the psychological aspect of the act of judging in which always inheres the possibility of error. The interrogative is the logical primitive of pre-assertional logic.
 
 Yet which form should this interrogative take? Three possibilities exist. Taking the statement 'Chicago is large' as an example:
 
