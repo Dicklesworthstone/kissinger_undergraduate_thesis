@@ -2868,9 +2868,9 @@ If the hypothesis delimits the range of answers what is the effect on systematic
 
 [^ka-5_3]: See Post.
 
-[^ka-6_3]: Russell - Principles of Mathematics, p.449.
+[^ka-6_3]: Russell - Principles of Mathematics, p.449. [Available](https://archive.org/details/principlesmathe00russgoog "Archive.org")
 
-[^ka-7_3]: Stebbing, A Modern Introduction to Logic
+[^ka-7_3]: Stebbing, A Modern Introduction to Logic. [Available](https://archive.org/details/modernintroducti0000steb "Archive.org")
 
 [^ka-8_3]: This too makes meaning a subjective relation.
 
@@ -2968,12 +2968,12 @@ There can not consequently exist one universally valid philosophy of history. It
 
 Kant's ethical philosophy testifies to this solution, the ultimate reality of which is only accessible by way of an inner experience.
 
-[^sr-3]: Young - Fundamental Concepts of Algebra, p. 2.
-[^sr-4]: Poincare - Science and Hypothesis, p.49.
+[^sr-3]: Young - Lectures on Fundamental Concepts of Algebra and Geometry, p. 2. [Available](https://archive.org/details/lecturesonfunda00youngoog "Archive.org")
+[^sr-4]: Poincaré - Science and Hypothesis, p.49. [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/37157)
 [^sr-5]: See Ante
 [^sr-6]: Axioms - Hastings Encyclopedia of Arts and Sciences
 [^sr-7]: Quoted in Stebbing, op. cit., p. 441.
-[^sr-8]: Young - Fundamental Concept of Geometry p.53.
+[^sr-8]: Young - Lectures on Fundamental Concepts of Algebra and Geometry, p.53. [Available](https://archive.org/details/lecturesonfunda00youngoog "Archive.org")
 [^sr-9]: Stebbing op.cit., p.164.
 [^sr-10]: See post.
 [^sr-13]: This section is based on the articles by Veblen and Huntington in Young - Monographs on Modern Mathematics.
