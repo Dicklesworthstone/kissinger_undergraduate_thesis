@@ -2817,7 +2817,7 @@ The Philosophy of Law [Available](https://archive.org/details/cu31924014578979 "
 The Fundamental Principles of a Metaphysics of Morals;
 Critique of Practical Reason (both translated by T.K. Abbott - Kant's Theory of Ethics - Longmans, Green and Co., 1909) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/5683)
 Critique of Pure Reason (translated by Max Muller, Macmillan Co. - 1927) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/4280)
- Idea for a Universal History (translated by C.J. Friedrich - The Philosophy of Kant - Modern Library 1949) [Available (Fordham Sourcebook)](https://sourcebooks.fordham.edu/mod/kant-history.asp "Fordham Sourcebook")
+Idea for a Universal History (translated by C.J. Friedrich - The Philosophy of Kant - Modern Library 1949) [Available (Fordham Sourcebook)](https://sourcebooks.fordham.edu/mod/kant-history.asp "Fordham Sourcebook")
 Eternal Peace (translated by C.J. Friedrich - The Philosophy of Kant - Modern Library - 1949) [Available at Project Gutenberg](https://www.gutenberg.org/files/50922/50922-h/50922-h.htm)
 
 **Schweitzer, Albert** - The Philosophy of Civilization (Macmillan Co. - 1949) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/76061)
