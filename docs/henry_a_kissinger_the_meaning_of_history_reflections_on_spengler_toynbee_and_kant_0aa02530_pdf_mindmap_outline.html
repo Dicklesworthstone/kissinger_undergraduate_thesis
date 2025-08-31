@@ -282,12 +282,23 @@
         document.addEventListener('click', (e)=>{ if (!wrap.contains(e.target) && e.target !== toggleBtn && !toggleBtn.contains(e.target)) { wrap.classList.add('hidden'); } });
         const fontDec = wrap.querySelector('#fontDec');
         const fontInc = wrap.querySelector('#fontInc');
-        fontDec?.addEventListener('click', ()=>{ const f = getNum(localStorage.getItem('reader:font')||'1',1); const nf = Math.max(0.85, Math.round((f-0.05)*100)/100); localStorage.setItem('reader:font', String(nf)); apply(); });
-        fontInc?.addEventListener('click', ()=>{ const f = getNum(localStorage.getItem('reader:font')||'1',1); const nf = Math.min(1.4, Math.round((f+0.05)*100)/100); localStorage.setItem('reader:font', String(nf)); apply(); });
-        wrap.querySelectorAll('button[data-w]')?.forEach(btn=>{ btn.addEventListener('click', ()=>{ localStorage.setItem('reader:width', btn.getAttribute('data-w')); apply(); }); });
-        wrap.querySelectorAll('button[data-ff]')?.forEach(btn=>{ btn.addEventListener('click', ()=>{ localStorage.setItem('reader:ff', btn.getAttribute('data-ff')); apply(); }); });
-        wrap.querySelectorAll('button[data-bg]')?.forEach(btn=>{ btn.addEventListener('click', ()=>{ localStorage.setItem('reader:bg', btn.getAttribute('data-bg')); apply(); }); });
-        wrap.querySelectorAll('button[data-ah]')?.forEach(btn=>{ btn.addEventListener('click', ()=>{ localStorage.setItem('reader:autohide', btn.getAttribute('data-ah')); apply(); }); });
+        const syncActive = () => {
+          const ffV = localStorage.getItem('reader:ff') || 'serif';
+          wrap.querySelectorAll('button[data-ff]')?.forEach(b=> b.setAttribute('aria-pressed', b.getAttribute('data-ff')===ffV ? 'true':'false'));
+          const wV = localStorage.getItem('reader:width') || '75';
+          wrap.querySelectorAll('button[data-w]')?.forEach(b=> b.setAttribute('aria-pressed', b.getAttribute('data-w')===wV ? 'true':'false'));
+          const bgV = localStorage.getItem('reader:bg') || 'on';
+          wrap.querySelectorAll('button[data-bg]')?.forEach(b=> b.setAttribute('aria-pressed', b.getAttribute('data-bg')===bgV ? 'true':'false'));
+          const ahV = localStorage.getItem('reader:autohide') || 'off';
+          wrap.querySelectorAll('button[data-ah]')?.forEach(b=> b.setAttribute('aria-pressed', b.getAttribute('data-ah')===ahV ? 'true':'false'));
+        };
+        fontDec?.addEventListener('click', ()=>{ const f = getNum(localStorage.getItem('reader:font')||'1',1); const nf = Math.max(0.85, Math.round((f-0.05)*100)/100); localStorage.setItem('reader:font', String(nf)); apply(); syncActive(); });
+        fontInc?.addEventListener('click', ()=>{ const f = getNum(localStorage.getItem('reader:font')||'1',1); const nf = Math.min(1.4, Math.round((f+0.05)*100)/100); localStorage.setItem('reader:font', String(nf)); apply(); syncActive(); });
+        wrap.querySelectorAll('button[data-w]')?.forEach(btn=>{ btn.addEventListener('click', ()=>{ localStorage.setItem('reader:width', btn.getAttribute('data-w')); apply(); syncActive(); }); });
+        wrap.querySelectorAll('button[data-ff]')?.forEach(btn=>{ btn.addEventListener('click', ()=>{ localStorage.setItem('reader:ff', btn.getAttribute('data-ff')); apply(); syncActive(); }); });
+        wrap.querySelectorAll('button[data-bg]')?.forEach(btn=>{ btn.addEventListener('click', ()=>{ localStorage.setItem('reader:bg', btn.getAttribute('data-bg')); apply(); syncActive(); }); });
+        wrap.querySelectorAll('button[data-ah]')?.forEach(btn=>{ btn.addEventListener('click', ()=>{ localStorage.setItem('reader:autohide', btn.getAttribute('data-ah')); apply(); syncActive(); }); });
+        syncActive();
       })();
 
       const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
