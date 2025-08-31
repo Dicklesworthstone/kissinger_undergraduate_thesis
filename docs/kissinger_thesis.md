@@ -227,7 +227,6 @@ is eternal peace in God.[^arg-21]
 
 ## History-as-Intuition (Spengler)
 
-
 ### Introduction
 
 Spengler denied that history worked towards purposes ascertainable by rational analysis. Progress is a causality imposed by the intellect, man's reaction to the dual qualities of world-longing and world-fear that are the result of his relation as a microcosm towards a macrocosm, his knowledge of limits, the certainty of death.
@@ -386,13 +385,11 @@ Spengler's conception of the classical soul reveals its essence as a negation of
 
 So the Apollinian culture grew in the process of actualizing its life-symbol of pure bodily presence and so it died without knowing it through its lack of historical perspective.
 
-
 Faustian Soul
 
 Spengler dates the history of the Western culture from the years 900-1000. At that time, the fear of the end of the world, the confused yearning of the Merovingian and Carolingian period, the dark groping of the migrations suddenly coalesced and the Western soul appeared, its essence a striving into the infinite, a passionate drive to overcome all limit, to lose itself in the quest for the eternal. Its representative for Spengler is the Faustian man, an integer of force, will and action-at-a-distance, a lonely ego in an endless void, feeling time as an expression of directedness, projecting his determination into all his activities. In almost every respect this emerging culture represents the polar opposite of the Apollinian. The Greek Gods dwell on Olympus, "but Valhalla is nowhere, a mystic resting place, with its disharmonious Gods and heroes the very symbol of solitude."[^sp-1u]
 
 The Faustian Culture, too, made its great refusal. It, too, was faced with the symbols of a Civilization inwardly disconnected and ever remote. Though, the West took over the Magian religion of Christianity, it remodeled those concepts to fit the dynamic yearning in its soul and replaced the theology of the substantiality of God and His modes, by its passionate assertion of the Father-God, Force itself, constant activity, not capable of embodiment in a shape comprehensible by the human mind.[^sp-2m] Yet the whole longing of the young soul, its feeling of
-
 
 Care, the determination to prevail extending in time both into the past and into the future over many generations, coalesced in its specific creation, the Mother Mary. Her crowning in Heaven was one of the earliest motifs of Faustian art. She became the light-figure in blue, the smiling dispenser of Grace, finally culminating in the festival among the English Benedictines of the Immaculate Conception, which completed Her disembodiment.
 
@@ -625,7 +622,6 @@ Spengler states at one point that the West is composed of Kantians who do not kn
 If Kant conditioned all subsequent metaphysics it is certain that Hegel is immanent in most of the philosophy of history, no matter how passionate the denial. His concept of history as the manifestation of the idea in time and Nature as the representation of the spirit in Space was adopted by Spengler with but minor modifications. The destiny that is our experience of history differs neither in its inward necessity nor in anything more essential than formulation from the self-realization of the Spirit. For Hegel's rationality was not, after all, Kant's pure reason but had as its ultimate criterion actuality.
 
 Darwin, too, be he ever so derided, is implicit in much of Spengler. The theory of evolution may well be no more than a working hypothesis, particularly adapted to the mentality of 19th century England and logically replacable by a catastrophe concept. Nevertheless, its primary test of physical survival is repeated by Spengler as the criterion of fitness in his World-as-History.
-
 
 Scholarly criticism of Spengler has been sporadic and frequently besides the point. Sabine's brief summary is a tirade and not an analysis. V. S. Yarros confines himself to characterizing Spengler as the apostle of the new pessimism citing in opposition the "progress" achieved in social legislation and political liberty by Western man. The article suffers from having been written on the eve of the most demoniac outburst of the "progressive" West.
 
@@ -910,13 +906,11 @@ Toynbee compounds this by imposing a normative pattern on a comparative study of
 
 It will be our task to analyze the validity of an attempt at finding solutions to problems of inner experience in the causal manifestations of life. We must determine the degree of reality that can be ascribed to analogies from mythology or the New Testament. This will bring us face to face with our basic enigma: Does history or life exhibit a master-plan the understanding of which offers a key to the dilemmas in our souls or does the solution reside in an inner reconciliation? Must we look outside or inside ourselves for a motive force to apprehend the essence of history as a guide to action? Can a metaphysical pattern be utilized in a study that professes to find its proof in the first instance in empirical data?
 
-
 ### Metaphysics
 
 Every philosophy of history must sooner or later face the problem of what constitutes the motive-force of directed life. Spengler had opted for an organic immanence that ruled all happenings. Toynbee could not face the dilemma in this form. He argued that life presented a series of challenges, the response to which revealed a personality and whose solution was therefore unpredictable. Yet this assertion of freedom clashed with his empirical data that indicated almost certain decay for each civilization.
 
 Toynbee tried to solve this difficulty by considering history as the realization of a divine plan, in which "the seeds sown are separate seeds, each with its own destiny, but all of one kind, and sown by the same Sower in the hope of attaining one harvest." Growth and decay merely hide an underlying unity through which God reveals Himself to mankind. Life presents an alternation of activity and decay, of integration and differentiation. While events seem superficially recurrent, history actually operates in the fashion of a wheel, the circular motion of which serves as the condition for progress.
-
 
 The disintegration of civilizations merely exhibits the condition for a higher experience, for the vision of the supra-mundane reality which is of and beyond this world, the City of God, which emerges out of the ashes of the human City of Destruction.
 
@@ -926,9 +920,7 @@ Dante has poetically resolved the philosophical problems raised by Toynbee. Man 
 
 The potentiality to love God expresses Man's true essence, the misdirection of this feeling contains the fatedness of existence. Inward blessedness exhibits the reflection of God's love and that of all true believers and serves as the condition for immortality. Yet this love can not achieve the full implications of its immanence in the mundane sphere or by merely rational conditions. Only Paradise sees the complete union of Will, Desire and Reason. There everything coalesces in the all-embracing Love of God. This is true meaning of Piccarda Donati whose symbolic appearance in the Moon expresses both Volition and Necessity and to whom Dante's rational query regarding the justice of degrees of bliss appears essentially meaningless. That, too, is the import of the ability, peculiar to the blessed, of reading each other's thoughts. In Paradise, indeed, the "virtue that counsels" has become superfluous, at least in its directing connotations. Knowledge is now instantaneous, belief no longer subject to either buttressing or argument. Everything merges in a total unity brought about by the radiance of an all-illuminating Grace.
 
-
 This exhibits the assumptions of Toynbee's metaphysical doctrine, which suffers from an overly utilitarian argumentation and a lack of explicit formulation. God's love, identical with that of Man's love for Him, expressed in the feeling of brotherhood constitutes the condition for the experience of transfiguration, the connecting link between mundane and supra-mundane reality. The conception of transcendence is given symbolic expression by Christianity in God, the father, the aspect of immanence in God, the Holy Ghost. Christ, the Son of God, who sacrificed himself to attain blessedness for his own, represents the connecting link to the human heart, however great the logical difficulty reason finds in the Trinity.
-
 
 His metaphysics enable Toynbee to impose a normative pattern on historical events. He validates the attitudes towards life which characterize a disintegrating civilization in terms of Christian theology. For this reason the Stoics' philosophy of Detachment violates the imperative of the brotherhood of Man based on God's love. Therefore Socrates' death loses meaning since it represented a futile reaction to the schism in the Hellenic soul and attempted to transfer its field of action forward on a merely mundane plane. This, too, explains the moral sanction implicit in such statements as the "criminality of militarism", the "greater treasure rejected by the Jews", whose inability to accept Christ doomed their civilization.
 
@@ -977,7 +969,6 @@ Toynbee's biological approach overrides any mere postulation of purposiveness. H
 
 This explains the nature of the genesis of civilizations but not their particular appearance at a definite time. What are the factors that lift these entities out of the stream of humanity? What accounts for the long interval of Yin before the climb up the precipice commences? True to his empirical method Toynbee examines all possible causes before drawing conclusions. He finds the negative factor which retards activity in the vis inertiae, the "cake of custom", the inherent tendency towards stability.
 
-
 This serves as the foil for the creative act, the condition to be overcome before differentiation can set in.
 
 Two obvious alternatives present themselves as the positive factors. The mutation can be postulated as the consequence of some special quality of the human beings who have succeeded in making the transition. The change may, on the other hand, be attributed to a specially favorable constellation of environmental conditions.[^to-16] Neither hypothesis is tenable according to Toynbee.
@@ -1000,7 +991,6 @@ On the mundane plane, the human protagonist constitutes the theater for this act
 
 Toynbee's positive factor then, that explains the genesis of civilizations and the emerging differentiation is the relation of Challenge-and-Response. Life presents a series of problems, each a challenge to undergo an ordeal. No calculation, however prudent of quantitative phenomena can serve for the prediction of historical events. For nobody can know the
 
-
 "unknown God",[^to-29] the reaction of the protagonist when the ordeal actually occurs.
 
 Despite this analysis of the imponderability of the response, Toynbee engages in an extensive analysis of the historically effective stimuli to determine the range of possible responses. An examination of the genesis of civilizations leads to the "law" that their birth results not from unusually easy, but from difficult environments frequently in response to changes in climate (f.e. the genesis of the Egyptian or Sumerian civilization). Though, at first blush, the related civilizations do not seem to constitute a reaction to an environment, closer reflection indicates that their response is not to the physical but to the human environment. The internal proletariat's will to secede testifies to the dominant minority's will to repress, the final breaking away to the intolerability of the challenge. Moreover the geographical location of the affiliated civilization usually presents a greater stimulus than the physical locus of the parent civilizations. Both the physical and human environment, then, can provide the challenge that attends the genesis of civilizations.
@@ -1017,16 +1007,13 @@ If an increase in the severity of the stimulus yields a correspondingly successf
 
 The concept of the Golden Mean raises formidable problems in methodology. For how is a challenge proved excessive? The unsuccessful response to a particular challenge may merely indicate a lack of inner reactive ability. Toynbee offers two approaches. An excessive challenge can be proved by a relation in three terms, of which, in comparable conditions, the Golden Mean of severity produced the optimum response.[^to-34] Toynbee's second proof examines the abortive civilizations which collapsed soon upon attaining birth under the formidableness of their challenges. Thus the Far Western Civilization of the Celtic fringe experienced a brief bloom which for a time indicated that the style of Christianity might be set from Ionia instead of Rome. Irish missionaries ranged far over the Continent and Scotus Eriugena represented merely one example of brilliant Celtic learning. Yet the dual challenge offered by the superior discipline of the Roman Church and the impact of the Scandinavian Voelkerwanderung was too severe. The Synod of Whitby (A.D. 664) settled the issue and led to the isolation of Ireland from the rest of Christianity. The invasions by the Norsemen had hardly been overcome when Henry II invaded the Celtic fringe with Papal sanction. These two successive blows presented a challenge of such severity that an effective response proved impossible and thus the Far Western Civilization, whose inception[^to-35] was so promising, proved abortive.
 
-
 The concept of challenge-and-response represents an affirmation of purposiveness in history. Its distinguishing characteristic is the creative imponderable that prevents the prediction of the reaction to the ordeal. The level of integration of Yin is disturbed and the dynamic activity (Yang) of which suffering represents Man's lot, leads back to the inner reconciliation with God and the recognition of His Love.
 
 Thus Toynbee's metaphysical assumptions find expression in his doctrine on the genesis of civilizations. But the initial dilemmas remain unresolved. The empirical method imposes a success pattern which makes the recognition of God's love dependent on the new level of integration achieved on the higher ledge. But no civilization has yet managed this precipice and the assertion of the purpose of history as an inner reconciliation represents a metaphysical resolve, not a datum of history. The immanence in all activity of the Elan Vital makes challenge-and-response, little more than the mechanism of an inexorable immanence. Moreover, the pragmatic approach results in an analysis of response almost exclusively in terms of challenge, which represents at best a refinement of the environment theory. Empiricism and noumenal experience continue as logical antinomies. Thus God's purpose is derived syllogistically from a normative pattern based on Toynbee's conception of a fair wager.[^to-1_2]
 
 Toynbee's distinction between discrete phases of Yin and Yang raises many problems. If integration represents organic being and Yang purposive creation, must those two stages operate successively? Life never seems to exhibit perfect states of either absolute integration or absolute differentiation. It appears likely that the static condition of primitive societies results from the same ego-centric delusion that considers one civilization the acme of all achievement. Similarly the dynamism of civilized life does not represent a purposiveness that completely transcends tradition, the organic factor.
 
-
 Spengler resolved the problem of necessity and freedom by postulating alternative modes of behavior, in separate realms. History was ruled in its main tendencies by an immanent Destiny not to be influenced by human volition. Toynbee, on the other hand, argues for successive stages in an evolutionary, biological process ruled by mimesis. But is this social drill not based on a uniformity in history for which no warranty can be found in empirical data? It seems that drill is hardly a preparation for the creative individual whose appearance is conceived as of "almost unimaginable rarity."[^to-2] These are the problems to consider in the subsequent development of Toynbee's philosophy.
-
 
 ### The Growth of Civilizations
 
@@ -1049,7 +1036,6 @@ Thus the history of Nomad Empires illustrates the manner in which civilizations 
 Two corollary conditions characterize arrested civilizations, caste and specialization. Survival in a severe environment is purchased only at the price of that proficiency in one excellence which stifles creativity in all other fields. The Centaur, the man grown to the horse, represents the outsider's view of the Nomad raider. It contains the symbolism of the return to animalism which constitutes another facet of the arrested civilization. Their reactive ability has become concentrated on one challenge, which is indeed mastered, but which first reduces and then prevents the proper response to the inevitable new challenges inherent in existence. Utopias, by definition attempts to peg societies at a certain level, exhibit most clearly this tendency towards caste and specialization. The arrested civilizations thus disprove both the uniformity of the civilisations' development as well as the necessity for constant growth.
 
 If growth is not the necessary concomitant of a civilization's existence but depends on a balanced response to a series of challenges what is its nature? Toynbee again bases his answer on mythology. Aeschylus' ([Prometheus Bound](https://www.gutenberg.org/ebooks/27458 "Project Gutenberg")), contains his symbolic representation of the conditions attending growth. Having attained dominance over Olympus, Zeus is chiefly concerned with maintaining his mastery. Any change can merely detract from the absoluteness of his power. Yet Zeus did not achieve his eminence unaided. His Titanic ally Prometheus, the apprehension of creativity, the embodiment of the Elan Vital, works constantly for progress against arrest, represents thought against force. No amount of physical compulsion can avail to wrest Prometheus' secret from him and in the end there is reconciliation. Zeus admits the creativity as a condition for his own survival. He had not been what he seemed.[^to-45]
-
 
 Toynbee sees in Aeschylus' trilogy a poetic chronicle of Hellenic history. Just as Zeus avoided the fate of the arrested civilizations by being galvanized into activity by Prometheus so Hellas' growth testified to a series of successful responses to recurrent challenges. The first challenge, offered by the barbarian highlanders evoked the response of mastery over the brigands. This victory decided that Hellas should be a world of cities and agriculture, not of villages and pasturelands. The limit of maximum density of population supportable by agriculture proved to be inelastic, however. The Malthusian problem served initially as a stimulus for overseas expansion. But the impact of Hellenic imperialism evoked the reaction of greater unity among the Mediterranean peoples and set an effective limit to Greek colonization.
 
@@ -1115,9 +1101,7 @@ In fact, Toynbee sways uneasily between his theological conception of inner self
 
 Toynbee's criticism of Spengler is curiously inept. Surely Spengler's assertion of a Culture as an organism did not imply that the culture and its component individual constituted two mutually exclusive entities.
 
-
 The dilemma of necessity and freedom stands unresolved. The inadequacy of utilizing history as a technical proof of normative concepts has become more apparent.
-
 
 ### The Breakdown of Civilizations
 
@@ -1128,7 +1112,6 @@ All civilizations that have heretofore existed have either broken down or exhibi
 The racial theory presents no greater difficulties. Based on Plato ([Republic](https://www.gutenberg.org/ebooks/1497 "Project Gutenberg")) and Aristotle ([Politics](https://www.gutenberg.org/ebooks/6762 "Project Gutenberg")), it insists that all creative advance results from the infusion of virile blood into static civilizations, all decline from the degeneration of this race. Thus the Renaissance is conceived as due to the Lombard invasions, the beneficial effects of which took several centuries to appear. Nevertheless, according to Toynbee, empirical data fails to support this thesis. The bloom of the Risorgimento occurred without any preceding barbarian invasion.
 
 What of the cyclical theory? Does the repetitive movement of the stars find its counterpart in human history? At first blush, Toynbee's assumption of an elemental rhythm that expresses itself in alternate states of Yin and Yang, and Withdrawal-and-Return lends support to this thesis. Toynbee denies that this constitutes a correct inference. Though the shuttle that weaves the web of time moves up and down, its movements serve as the condition for the creation of a meaningful pattern. The wheel must turn in order to advance. Withdrawal-and-Return,
-
 
 Yin and Yang do not disclose senseless cycles but requisites for the liberation of the Promethean Elan of creativity.
 
@@ -1196,19 +1179,15 @@ Thus the nemesis of creativity contains two possible aberrations. The passive si
 
 Toynbee's concept of the breakdown of civilizations is a necessary product of his metaphysical doctrine. If growth discloses a successful response to recurrent challenges, then breakdown must constitute the penalty for a failing self-determination.
 
-
 Yet no aspect of Toynbee's philosophy can free itself from the difficulties and inconsistencies of his metaphysical assumptions. To assert that civilizations break down as a result of some failure of will-power on the part of its members is not refuting the doctrine of organic necessity. For, surely, Spengler too would admit that individuals constitute the entities of action. The key problem resides in the dilemma of human volition as the cause or the result of breakdown. This failing response may itself constitute the manifestation of an immanent decline.
 
 Toynbee's ambiguous postulation of purposiveness is compounded by his theory of society as a common field of activity. If the intractability of institutions results from the difficulty of modifying overlapping, dynamic fields, then the individual's freedom of action is severely limited. The only portion left for purposiveness would be that part of a person's sphere outside the common field. This in relation to the total range of interaction must be, of necessity, small and insignificant. Thus, Toynbee substitutes a mechanism for an organism, an immutable causality for an immanent Destiny.
-
-
 
 The difficulty of uniting the metaphysical assumptions with an empirical method constantly recurs. For what is the meaning of sin in a pragmatic context? It never becomes clear whether Toynbee condemns the Athenians for failing to understand the profounder truth represented by Paul or for a faulty analysis of the wave of the future.
 
 No support can be found in historical data for the denial of the inexorability of the decline, in the face of the collapse of every heretofore existing civilization. The postulation of a One True God in Christianity though a logical consequence of Toynbee's theology, rejects the very pattern of recurrence necessary to establish a historical Law. For a God can not be both exclusive and the accidental result of a civilization's decline.
 
 The deficiency of moral standards implied by the use of force may be well founded in theology, yet the only criterion empirical data admits is failure. And so Toynbee's ultimate proof resides in technical excellency, his final standard of values in the ability to prevail.
-
 
 ### The Disintegration of Civilizations - Schism in the Body Social
 
@@ -1382,7 +1361,6 @@ The analysis of the disintegration of civilizations exhibits the happiest applic
 
 Yet even here Toynbee's normative pattern and its irreconcilability with the historical data emerges. The truth of the Universal Church seems in the final analysis merely founded on its future, the evil of the repressive measures of the universal state on their futility. "Honesty is the best policy" becomes in Toynbee's interpretation of the Quakers primarily a maxim of prudent conduct.[^to-23_2] It is not apparent whether an inner attitude or a physical location characterizes the internal proletariat. Though Toynbee's emphasis on purposiveness makes him opt for the proletarization by willed secession, the account of the proletariat's recruitment supports the theory of geographical accident. The miracle of Christianity may cause its embodiment in the Universal of a second decaying civilization but this can have no bearing on the fate of the Western Civilization. For the essence of a Universal Church is the supra-mundane plane of reality. Its full meaning is only realized after disintegration has run its course and barbarian war bands toppled the City of Destruction. Christianity could then become the chrysalis-in Toynbee's scheme-of a new civilizations. But its conception as the material salvation of the West repeats that very sin for which Toynbee castigates Athens, the idolization of an ephemeral Self.
 
-
 ### The Disintegration of Civilizations - Schism in the Soul
 
 The mere description of the institutional manifestations of disintegration can never, for Toynbee, exhaust the essence of that process. Just as growth was revealed as a rhythm of progressive etherealization independent of the material conditions of command over the environment, just as breakdown resulted from failure in the capacity to respond successfully to recurrent challenges, so disintegration hides a deeper meaning. The schism in the body social represents merely a symptom of that profounder schism of the soul which is the real cause of society's collapse. The growth phase of the civilization had witnessed a consistent directedness in all fields of behavior, feeling and life.[^to-24_2] But with disintegration the possible reactions become polarized into inconclusive alternatives. A choice between the active and the passive option is the only freedom left to the soul which has lost its creativeness and which participates, either as villain or victim, in the social disintegration.[^to-25_2]
@@ -1465,7 +1443,6 @@ But the nobility of this conception is marred by an empirical method which recog
 
 The assertion of purposiveness of the first five volumes has disappeared. Nothing can really save This World. Indeed should it be saved? For only through the disintegration of Civilizations, in Toynbee's terms, does Man learn to know God.
 
-
 ### Conclusions
 
 Toynbee's philosophy represents an attempt to transcend the conception of history as an organism continuously reproducing new manifestations of power. The inevitability of decline and the inexorability of a development through determined stages are replaced by an assertion of purposiveness. Challenge-and-Response represents the mechanism by which growth accomplishes itself, the intrusion of an alien element into the perfection of creation, the foil which evokes a new phase of activity. History exhibits a continual alternation of static repose and creativity, of Integration and Differentiation, of Yin and Yang.
@@ -1545,9 +1522,7 @@ All progress results from the civilizations whose birth heralded a new stage in 
 [^to-50]: Toynbee op. cit. Vol. VI. p. 109. These examples seem to prove the success of futurism.
 [^to-51]: Toynbee op. cit. Vol. VI. p. 101.
 
-
 *Limitations of space have forced me to confine the discussion to a criticism of Toynbee's philosophical position and those concepts central to Toynbee's scheme. Therefore, I did not explore inconsistencies which do not affect Toynbee's central argument such as Toynbee's hint that Russia may be the new creative minority of the West (a growth criterion) while spending considerable effort in implying that the West is in a stage of breakdown. A similar contradiction is the argument that geographical expansion accompanies breakdown if set against a previous description of the stimulus of new ground. Again, Toynbee proves that a civilization's influence over neighboring societies is greatest during the period of decline, while at the same time including India in the Western civilization because of her adoption of Western technology. These inconsistencies while reflecting on Toynbee's exactness of thinking, do not however, invalidate his central position. (For my criteria see Appendix A - The Concepts of Meaning. - For other inconsistencies see my foot-notes on previous sections.)*
-
 
 common ground of action of their constituents. Their dynamism expresses itself in the direction of mimesis, a social drill, which serves as a substitute for the direct absorption of inspiration from the creative minority. Yet the process of growth is fraught with dangers. Mimesis breaks down because of its mechanicalness and the creative minority succumbs to the nemesis of the idolatry of the ephemeral instead of the eternally true. Civilizations do not break down because of an inevitable fatality, but commit suicide.
 
@@ -2275,13 +2250,11 @@ If freedom resides in the recognition of necessity and if morality depends on th
 
 This gradual enlargement of conceptual freedom through the internalization of a moral code, culminating in the supremacy of the individual conscience, represents only one aspect of humanity's hopes, however. Life seems to involve death, in history as in individuals. Though ageing in a culture is not analogous to physical decay, it does bear a similarity to another problem of existence, the process of disenchantment.
 
-
 Just as the life of every person exhibits a gradual loss of the wonder at the world, so history reveals an increase of familiarity with the environment, a tired groping for a certainty which will obviate all struggles, a quest for a guarantee of man's hopes in nature's mechanism.
 
 In Homer and Dante the mystery of growth is still noticeable. The enchantment with beauty, the fresh exultation at creativity comes to expression. Homer and Dante live within nature; the glistening of the sun on leaves, the beating of the waves on rocks is not yet so familiar as to be commonplace, nor yet so remote as to offer a vision of a peace which the turbulence of the soul denies. The world still appears as a possibility through a reconciliation of the will with a necessity, in Homer blindly striving, in Dante blissfully certain.
 
 Virgil and Milton, on the other hand are both full of inward doubts. They are both Protestant in that their own standard frequently clashes with the viciousness of history. The mystery of life has been dissipated and only the struggle remains. The concern with materiality ensues, not to be denied by Virgil's description of Dis or Milton's evocation of Pandaemonium. To Homer necessity was unapproachable, and Dante's Fortune served as but the distributor of meaningless possessions, but to Virgil wealth is itself evil and Milton's Adam falls because carnal pleasures are intrinsically sinful.
-
 
 The romantic longing appears, the attempt to find release in nature from the uncertainties of existence. The vision of the Golden Age, of Rousseau's State of Nature, expresses the bittersweet romantic brooding over the fleetingness of a perfection, which it will ever after be mankind's task to re-achieve.
 
@@ -2294,7 +2267,6 @@ Homer envisioned life as the inevitable unfolding of a pre-ordained Fate. The th
 Achilles, on the other hand, is the very embodiment of man's lament at the shortness of his lot, the very symbol of an assertion of mastery over Fate and of an attempt to wrest out of existence a consolation for one's mortality. But to seek to escape objective necessity involves certain tragedy, to fail to set limits to one's actions characterizes the madness that equates man with God.
 
 Man's triumphs do not lie in a physical conquest of objective necessity. Achilles transcends necessity only through an inward acceptance, that rises above the new unimportant alternative of a short and heroic or a long and commonplace life. Achilles had been the prisoner of a prophecy but with his recognition of limits he has achieved freedom and the meaning of his life no longer depends on external conditions.
-
 
 This explains the structure of the Homeric poems which ever stress the general over the unique and achieve a blend of character and fate in representative types. It would be meaningless to stress the specific in a world where only the heroic attitude towards a blind necessity can give peace.
 
@@ -2347,7 +2319,6 @@ But action derives from an inward necessity, from the personal in the conception
 For this reason, too, Spengler's analysis was inadequate. He well understood the fatedness of historical events, the disenchantment that accompanies a civilization's growth. But he stopped there. He failed to see that however inexorable the development, its necessity will appear only in retrospect. He did not grasp that inevitability is a poor guide and no inspiration. But man lives with purposes and in his hopes glimpses a reality beyond mere phenomena. Success and failure are relative attributes, meaningful only in retrospect and never finally decided. But the attitude which accompanied activity testifies to a character, to the intrinsically unique which man imparts to objective necessity.
 
 Spinoza understood these two stages of inward liberation. His ethics are, in the first instance, frankly naturalistic. Everything expresses conatus, the tendency to persevere in its own being as the ultimate criterion of moral fitness. The sage, acting with enlightened egotism masters life by a recognition of objective necessity. Reason teaches him that to requite hatred with kindness, and violence with gentleness increases his power over himself, over the affects of the body and over his environment. Freedom is right knowledge of an external situation; virtue is power.
-
 
 But beyond this conception of ethics as a technical mastery Spinoza had a profounder vision. His intellectual love of God reveals a glimpse of a transcendental experience which when conditioned by the categorical imperative provides the only truly meaningful ethics. Naturalism is seen not to be enough. As man grows in wisdom, a vision of a higher world-order opens before him. Intuition based on Reason views reality under the aspect of eternity and becomes at one with the Infinite mind of God. The more man knows by this kind of knowledge, the more truly can he be said to act and the more does he participate in the divine. This is the intellectual love of God, by which humanity approaches immortality, and which contains the hope of blessedness, mankind's real liberty.[^ka-11] Knowledge of an objective necessity has developed into the intuition of an inward acceptance. Freedom for Spinoza ultimately resides in a mystic relationship to the Infinite, which would however have been impossible without the guidance of Reason, in a resignation that gives peace, in the tranquillity of perfect knowledge.
 
