@@ -2670,14 +2670,14 @@ The theory of existential import forms the metaphysical basis of propositional l
 The distinguishing characteristic of a judgment is its truth or falsity.[^ka-2_2] As a point of fact only true judgments matter, for unless a man says what he does not really think, he declares the truth of his assertion. All judgments therefore besides affirming or denying a predicate of a subject imply existence. This does not mean implication of the reality of the grammatical subject, but
 
 [^ka-1_2]: Primarily based on Joseph, An Introduction to Logic.
-[^ka-2_2]: Joseph - An Introduction to Logic, p.166.
+[^ka-2_2]: Joseph - An Introduction to Logic, p.166. [Available](https://archive.org/details/introductiontolo00jose "Archive.org")
 of the existence of the whole matter of fact asserted in it.
 
 The statement 'Griffins are fabulous monsters' does not affirm the existence of griffins. It does, however, imply the existence of a mass of fables in which griffins play a considerable role. If these fables did not exist, a judgment about griffins would be an impossibility. Every statement consequently makes a claim about some portion of the total reality. This explains the use of the existential verb 'to be', as the copula.
 
 Bradley carries this view to its ultimate conclusion.[^ka-3_3] Reality is not only implied by every judgment, but represents the ultimate subject of every proposition. The distinction between grammatical, logical and ultimate subject can be illustrated by the proposition. 'Morphine stimulates the heart.' The grammatical subject is 'Morphine.' The logical subject can be obtained only through a series of interrogatories. 'What dilates the heart?' makes 'dilates the heart' the logical subject. 'What do you know about morphine?' results in 'Morphine' as the logical subject. But neither 'Morphine' nor 'dilates the heart' represents the ultimate subject. Things can not be understood by themselves or even as a portion of reality. There can exist only one real system to which all judgments refer. A particular object must have a place in this system as a requisite for its existence. The Spinoziatic view leads Bradley to deny the possibility of predicating a particular element in a subject and thus implying its existence or the existence of the system to which this subject refers. The division of a judgment into subject -
 
-[^ka-3_3]: Bradley - Principles of Logic, p.42-60.
+[^ka-3_3]: Bradley - Principles of Logic, p.42-60. [Available](https://archive.org/details/theprinciplesofl01braduoft "Archive.org")
 predicate - terms joined by a copula becomes meaningless and instead the judgment as a whole predicates ultimate reality. Thus reality is implied by, not requisite for meaningful statement.
 
 This raises certain difficulties. If a judgment implies
@@ -2701,7 +2701,7 @@ the individual's theory of knowledge. Empiricists would deny any
 universal judgment, Platonists would adhere to the possibility of uni-
 versality even in such statement as 'French ministries are short-lived,'
 
-[^ka-4_4]: Joseph, op.cit., p. 178.
+[^ka-4_4]: Joseph, op.cit., p. 178. [Available](https://archive.org/details/introductiontolo00jose "Archive.org")
 merely referring the matter to the concept of 'French ministry.'
 The same applies to apodeitic judgments. The necessity or self-
 evidence of a proposition constitutes a problem for epistemology,
