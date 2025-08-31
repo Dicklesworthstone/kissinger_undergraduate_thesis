@@ -1,6 +1,6 @@
 # The Meaning of History
 Reflections on Spengler, Toynbee and Kant
-*by Henry A. Kissinger*
+by Henry A. Kissinger
 
 ## Table of Contents
 
@@ -2428,7 +2428,7 @@ The second quotation is from the Critique of Practical Reason: Friedrich op. cit
 
 [^ka-30]: This does not say that history works against man's aspirations but simply that we can not derive our norms by claiming them as history's patterns.
 
-[^ka-31]: Schweitzer - Philosophy of Civilizations p. 41.
+[^ka-31]: Schweitzer - Philosophy of Civilization p. 41.
 
 [^ka-32]: See ante.
 
