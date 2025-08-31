@@ -2882,7 +2882,7 @@ If the hypothesis delimits the range of answers what is the effect on systematic
 
 [^sr-1]: This implies that logic can only test the internal consistency and must allow for a variability of metaphysical assumptions.
 
-[^sr-2]: Reichenbach-Experience and Prediction p. 5.
+[^sr-2]: Reichenbach - Experience and Prediction, p. 5. [Available](https://archive.org/details/experiencepredic00reic "Archive.org")
 
 ## The Theory of Systems
 
