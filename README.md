@@ -7,10 +7,13 @@ Explore Henry A. Kissinger’s undergraduate thesis — “The Meaning of Histor
 
 ## Quick Links
 - Reader (auto‑renders Markdown): https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/kissinger_thesis.html
-- Thesis (Markdown source): https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/docs/kissinger_thesis.md
 - Mindmap (HTML): https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap.html
-- Mindmap Outline (Markdown): https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.md
-- Summary (Markdown): https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.md
+- Mindmap Outline (HTML): https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.html
+- Summary (HTML): https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.html
+- Markdown sources: 
+  - Thesis: https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/docs/kissinger_thesis.md
+  - Mindmap Outline: https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.md
+  - Summary: https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.md
 - Repository: https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis
 
 ## What’s Included
@@ -18,14 +21,17 @@ Explore Henry A. Kissinger’s undergraduate thesis — “The Meaning of Histor
 - `docs/kissinger_thesis.md`: Improved, authoritative Markdown version of the thesis.
 - `docs/kissinger_thesis.html`: Reader that auto-renders `docs/kissinger_thesis.md` client‑side (Tailwind Typography, dark mode, code highlight, inline SVG icons, “Aa” reader controls for font + width/family — Inter/Literata/Newsreader).
 - `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap.html`: Mindmap visualization (HTML).
-- `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.md`: Mindmap-derived outline (Markdown, rendered on GitHub).
-- `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.md`: Concise summary (Markdown, rendered on GitHub).
+- `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.html`: Reader that renders the Outline Markdown in the same reader view.
+- `henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.html`: Reader that renders the Summary Markdown in the same reader view.
+- Markdown originals of the outline and summary remain in the repo alongside the readers.
 - `assets/`: Self‑hosted social preview images (`og.jpg`, `og.webp`), PWA icons (`android-chrome-*.png`, `apple-touch-icon.png`).
 - `site.webmanifest`, `safari-pinned-tab.svg`, `favicon.svg`: App metadata and icons.
 
 ## How to Use
 - Visit the live site above and use the cards/buttons.
 - Thesis (HTML): `docs/kissinger_thesis.html` automatically fetches and renders `docs/kissinger_thesis.md`. Edit the Markdown and refresh the page.
+- Outline (HTML): `..._mindmap_outline.html` auto‑renders the root `..._mindmap_outline.md` (with GitHub raw fallback).
+- Summary (HTML): `..._summary.html` auto‑renders the root `..._summary.md` (with GitHub raw fallback).
 - Reader controls: Click “Aa” in the reader header to adjust font family (Inter/Literata/Newsreader), font size, and reading width. Theme toggle is next to it.
 - Markdown resources open on GitHub’s blob pages so they render nicely.
 
@@ -52,7 +58,7 @@ This repo is ready for GitHub Pages in either configuration:
 
 Included for convenience:
 - `.nojekyll` at root and in `docs/` to bypass Jekyll processing.
-- `docs/` contains mirrored copies of the landing page, reader, Markdown, and assets so either Pages mode works.
+- `docs/` contains mirrored copies of the landing page, reader(s), Markdown, and assets so either Pages mode works.
 
 If you edit the landing page or HTML locally and you are using Docs mode, mirror your changes:
 
@@ -60,7 +66,7 @@ If you edit the landing page or HTML locally and you are using Docs mode, mirror
 cp -f index.html docs/index.html
 cp -f kissinger_thesis.html docs/
 cp -fr assets docs/
-cp -f henry_*_pdf_mindmap.html docs/
+cp -f henry_*_pdf_*.html docs/
 ```
 
 ## Local Preview
@@ -68,12 +74,15 @@ Because the reader fetches `docs/kissinger_thesis.md`, preview with a local serv
 
 ```bash
 python3 -m http.server 8000
-# then open http://localhost:8000/kissinger_thesis.html
+# then open:
+# http://localhost:8000/kissinger_thesis.html
+# http://localhost:8000/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.html
+# http://localhost:8000/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.html
 ```
 
 ## Tech Notes
 - Tailwind (CDN) + Typography plugin; inline SVG icons (no icon font).
-- Reader uses Marked + DOMPurify (via CDN with SRI) and highlight.js.
+- Reader uses markdown‑it (+ footnotes plugin) + DOMPurify and highlight.js.
 - Self‑hosted OG image and PWA icons; `site.webmanifest` configured.
 - Everything is static; for the reader, use a local server when previewing.
 
@@ -110,4 +119,15 @@ Quick options:
 - When opening files locally (not via Pages), use a local server to avoid browser fetch restrictions.
 
 ## Context
+  
+## Project Story
+Why this exists and how it was made, in the creator’s words:
+
+"I wanted to read Henry Kissinger’s ~400‑page undergraduate thesis (it has an incredible first page), but a scanned PDF is a pain on a phone—constant zooming and panning. So I converted it to a clean Markdown edition using OCR and LLMs. Then I fixed footnotes, removed page breaks, normalized line breaks, and more.
+
+I was already deep in other coding projects, so I loaded the draft Markdown into Claude Code and had a swarm of ~20 sub‑agents iterate on corrections. Next, I linked out to sources for the many references (Internet Archive, Project Gutenberg, etc.) by letting another swarm search and insert links into footnotes and the bibliography.
+
+While I was at it, I ran the text through my mind‑map generator and summarization code. Now I had multiple outputs to present, so I asked Codex with GPT‑5 to produce a clean landing page. Most of the work was delegating tasks to coding agents and letting them crank; I didn’t spend much active time on it.
+
+The result is, in my opinion, the best way to read Kissinger’s undergraduate thesis electronically today. As for the content: it’s striking how erudite he was as a young man—and what a strong writer, in his second language. The thesis wrestles to organize a vast sweep of Western thought; from what I’ve read so far, he did a remarkable job. Fun fact: this thesis is why Harvard later capped undergrad honors theses at 35,000 words."
 This repository presents a readable edition of Kissinger’s undergraduate thesis, with additional generated materials (mindmap, outline, summary) to aid exploration and study.
