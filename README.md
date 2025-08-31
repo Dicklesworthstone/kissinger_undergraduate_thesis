@@ -123,11 +123,25 @@ Quick options:
 ## Project Story
 Why this exists and how it was made, in the creator’s words:
 
-"I wanted to read Henry Kissinger’s ~400‑page undergraduate thesis (it has an incredible first page), but a scanned PDF is a pain on a phone—constant zooming and panning. So I converted it to a clean Markdown edition using OCR and LLMs. Then I fixed footnotes, removed page breaks, normalized line breaks, and more.
+"I wanted to read Henry Kissinger’s 400 page undergraduate thesis (it has an incredible first page), but really didn’t feel like dealing with a scanned PDF that’s annoying to read on a phone without constantly zooming and panning.
 
-I was already deep in other coding projects, so I loaded the draft Markdown into Claude Code and had a swarm of ~20 sub‑agents iterate on corrections. Next, I linked out to sources for the many references (Internet Archive, Project Gutenberg, etc.) by letting another swarm search and insert links into footnotes and the bibliography.
+So I decided to convert it to a nice markdown format using OCR and LLMs. Then I thought it would be nice to fix the footnotes and get rid of the page breaks and to fix the line breaks and other things like that.
 
-While I was at it, I ran the text through my mind‑map generator and summarization code. Now I had multiple outputs to present, so I asked Codex with GPT‑5 to produce a clean landing page. Most of the work was delegating tasks to coding agents and letting them crank; I didn’t spend much active time on it.
+I was already working on some other coding projects, so I had the idea of loading up the draft markdown file in Claude Code and having it work on fixing these issues using a swarm of 20 sub-agents, which worked well.
 
-The result is, in my opinion, the best way to read Kissinger’s undergraduate thesis electronically today. As for the content: it’s striking how erudite he was as a young man—and what a strong writer, in his second language. The thesis wrestles to organize a vast sweep of Western thought; from what I’ve read so far, he did a remarkable job. Fun fact: this thesis is why Harvard later capped undergrad honors theses at 35,000 words."
+Then I thought it would be cool to link to the full sources for all the many references on sites like the Internet Archive or Project Gutenberg, so I had another swarm of sub-agents do a ton of searches to track the links down and insert them into the footnotes and bibliography.
+
+Then I figured that I might as well run it through my mind-map generator and summarization code to see what it comes up with, so I tried that. But now I had a few files to present, so needed some kind of index page.
+
+So I asked Codex with GPT-5 to whip up a slick looking web page to present the stuff nicely, which it did a yeoman’s job with.
+
+Note that I was already working with these tools in a bunch of other sessions on other projects, so my work here was occasionally giving some instructions to the coding agents and letting them crank away. I really didn’t spend much active time on this!
+
+Anyway, the net result is clearly the premier way in the world today to consume Henry Kissinger’s undergraduate thesis electronically. I’ll post the link in the next tweet to avoid getting punished by the algorithm.
+
+As for the thesis itself, it’s wild how erudite he was as a young man, and also what a great writer he was. And even more impressive considering that English was his second language.
+
+The thesis is basically him trying to come to grips with, and to mentally organize in an internally consistent way, a vast swath of Western thought. From what I’ve read so far, I think he did a pretty good job.
+
+Incidentally, his thesis is the reason Harvard changed the rules to limit the undergrad honors thesis to a maximum of 35,000 words. Good thing they didn’t apply this silly limit to Henry!"
 This repository presents a readable edition of Kissinger’s undergraduate thesis, with additional generated materials (mindmap, outline, summary) to aid exploration and study.
