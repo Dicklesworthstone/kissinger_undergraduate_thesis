@@ -938,10 +938,7 @@ Toynbee, however, did not merely attempt to probe deeper layers of meaning than 
 
 For success constitutes the final lesson that historical phenomena teach Man. Each accomplished fact, each surviving political organization testifies to a method of prevailing, represents an answer to the pragmatic query: "What works?" A mere collection of historical data - though it can never be constructed free from the metaphysical postulation inherent in selectivity - will always represent a negation of freedom and an assertion of determinism. The alternatives that accompanied the willed performance are forgotten and only the deed remains a testimony to its fatedness. Failure constitutes the only sin known to history in an empirical and pragmatic approach.
 
-Toynbee, however, does not succeed in constructing an edifice based on empirical considerations. His conclusions are precisely what one would expect in the light of his philosophical assumptions and theological convictions. A pragmatist should have been careful about a method that yields an answer so obviously in line with his preconceptions. Nobody better illustrates the nemesis of the "ego-centric delusion," than Toynbee who castigates it so violently. Love is not immanent in historical data, but constitutes a resolve of the soul. History is not a book designed to illustrate the New Testament, nor do Christ's sayings embody truisms for "successful" conduct. But the superimposition of an empirical method on a theological foundation, with data conceived as proving moral validity instead of the postulates deriving from a transcendental experience yields precisely this result. It never becomes clear whether the Pharisees are condemned because of their failure to recognize Christ's moral superiority or because of their lack of political perspicacity in failing to respond properly to the
-
-
-wave of the future. Similarly Toynbee sways uneasily between rejecting militarism for its ethical deficiency or its "suicidalness."
+Toynbee, however, does not succeed in constructing an edifice based on empirical considerations. His conclusions are precisely what one would expect in the light of his philosophical assumptions and theological convictions. A pragmatist should have been careful about a method that yields an answer so obviously in line with his preconceptions. Nobody better illustrates the nemesis of the "ego-centric delusion," than Toynbee who castigates it so violently. Love is not immanent in historical data, but constitutes a resolve of the soul. History is not a book designed to illustrate the New Testament, nor do Christ's sayings embody truisms for "successful" conduct. But the superimposition of an empirical method on a theological foundation, with data conceived as proving moral validity instead of the postulates deriving from a transcendental experience yields precisely this result. It never becomes clear whether the Pharisees are condemned because of their failure to recognize Christ's moral superiority or because of their lack of political perspicacity in failing to respond properly to the wave of the future. Similarly Toynbee sways uneasily between rejecting militarism for its ethical deficiency or its "suicidalness."
 
 A normative pattern for the evaluation of laws derived empirically represents a logical inconsistency. The connection between moral action and material success can not be found in manipulatory, technical laws and led Kant to the postulation of God as the guarantor of the summum bonum. Empirical analysis compares phenomenal manifestations and seeks a recurring pattern. Value judgments concern themselves with the inner meaning, the noumena of existence, the consequence of our experience of freedom.
 
@@ -2453,7 +2450,7 @@ The second quotation is from the Critique of Practical Reason: Friedrich op. cit
 
 [^ka-36]: Not to be disguised by being defined as Laws of Nature.
 
-[^ka-37]: Virgil - Aeneid - Book III.
+[^ka-37]: Virgil - Aeneid - Book III. [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/228)
 
 [^ka-38]: See ante - Ch. History and Man's Experience of Morality.
 
