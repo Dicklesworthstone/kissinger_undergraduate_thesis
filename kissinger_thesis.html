@@ -93,8 +93,8 @@
 
     <!-- Decorative background -->
     <div class="pointer-events-none fixed inset-0 overflow-hidden">
-      <div class="absolute -top-32 right-[-10%] h-72 w-72 rounded-full bg-brand-600/15 dark:bg-brand-600/25 blur-3xl"></div>
-      <div class="absolute top-1/2 -left-24 h-80 w-80 -translate-y-1/2 rounded-full bg-sky-500/10 dark:bg-sky-500/20 blur-3xl"></div>
+      <div class="absolute -top-32 right-[-10%] h-72 w-72 rounded-full bg-brand-600/15 dark:bg-brand-600/25 blur-3xl backdrop-glow"></div>
+      <div class="absolute top-1/2 -left-24 h-80 w-80 -translate-y-1/2 rounded-full bg-sky-500/10 dark:bg-sky-500/20 blur-3xl backdrop-glow"></div>
       <div class="absolute inset-0 backdrop-grid"></div>
     </div>
 
@@ -247,7 +247,7 @@
         document.querySelectorAll('pre code').forEach(el => hljs.highlightElement(el));
       })();
 
-      // Reader controls: font family, size, width
+      // Reader controls: font family, size, width, background texture
       (function readerControls(){
         const root = document.getElementById('reader');
         const getNum = (v, def) => {
@@ -257,6 +257,7 @@
           const f = localStorage.getItem('reader:font') || '1';
           const w = localStorage.getItem('reader:width') || '75';
           const ff = localStorage.getItem('reader:ff') || 'serif';
+          const bg = localStorage.getItem('reader:bg') || 'on';
           root.style.setProperty('--reader-font', getNum(f,1) + 'rem');
           root.style.setProperty('--reader-width', getNum(w,75) + 'ch');
           const map = {
@@ -265,6 +266,10 @@
             'news': 'Newsreader, ui-serif, Georgia, Cambria, "Times New Roman", Times, serif'
           };
           root.style.setProperty('--reader-ff', map[ff] || map['serif']);
+          // Apply background texture/glow visibility
+          const grid = document.querySelector('.backdrop-grid');
+          if (grid) grid.classList.toggle('hidden', bg === 'off');
+          document.querySelectorAll('.backdrop-glow').forEach(el => el.classList.toggle('hidden', bg === 'off'));
         };
         apply();
         // Build a minimal controls popover near the Theme button
@@ -286,6 +291,13 @@
             <div class="inline-flex overflow-hidden rounded-md border border-black/10 dark:border-white/10">
               <button id="fontDec" class="px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">A-</button>
               <button id="fontInc" class="px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">A+</button>
+            </div>
+          </div>
+          <div class="flex items-center justify-between gap-2 mb-2">
+            <span class="text-xs text-slate-600 dark:text-slate-300">Background texture</span>
+            <div class="inline-flex overflow-hidden rounded-md border border-black/10 dark:border-white/10">
+              <button data-bg="on" class="w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">On</button>
+              <button data-bg="off" class="w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Off</button>
             </div>
           </div>
           <div class="flex items-center justify-between gap-2">
@@ -321,6 +333,9 @@
         });
         wrap.querySelectorAll('button[data-ff]')?.forEach(btn=>{
           btn.addEventListener('click', ()=>{ localStorage.setItem('reader:ff', btn.getAttribute('data-ff')); apply(); });
+        });
+        wrap.querySelectorAll('button[data-bg]')?.forEach(btn=>{
+          btn.addEventListener('click', ()=>{ localStorage.setItem('reader:bg', btn.getAttribute('data-bg')); apply(); });
         });
       })();
 
