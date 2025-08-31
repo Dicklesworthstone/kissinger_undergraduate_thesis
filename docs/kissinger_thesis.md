@@ -90,10 +90,10 @@ The existential import theory of propositions presented too many difficulties, h
 
 Sentential logic abandoned the concept of the existential import of propositions.[^arg-10] Its logical primitive is a sentence, which exhibits but a grouping together of symbols which in their general characteristics represent but empirical entities. Only by being brought into relation with other physical objects, facts, do these sentences acquire meaning. Since a determination of truth and falsity obviously does not precede every statement, sentential logic was forced to invoke another predicate of propositions, truth-weight. This, however, is a purely psychological relation.
 
-But even this theory stumbled on the problem of just what constituted a fact and on the difficulty of reconciling truth-value and weight. Russell, in his later writings, and Prof. Scheffer, have achieved a formulation which attempts to give the greatest possibility of determining the essence of meaning.[^arg-11] Statements become replies to pure hypotheses which, moreover have to be endorsed by the proper criterion. The statement "Scott is the author of Waverly" is the affirmative answer, empirically endorsed, to the questions:
+But even this theory stumbled on the problem of just what constituted a fact and on the difficulty of reconciling truth-value and weight. Russell, in his later writings, and Prof. Scheffer, have achieved a formulation which attempts to give the greatest possibility of determining the essence of meaning.[^arg-11] Statements become replies to pure hypotheses which, moreover have to be endorsed by the proper criterion. The statement "Scott is the author of Waverley" is the affirmative answer, empirically endorsed, to the questions:
 
-Did at least one men write Waverly?
-Did only one Man write Waverly?
+Did at least one men write Waverley?
+Did only one Man write Waverley?
 Was this man Scott?
 
 The range of meaningful propositions is, however, not exhausted by the empirical realm. Proper criteria can be obtained for value theorems or esthetic judgments. This theory recognizes the variability of metaphysical assumptions as a condition of meaning. Meaning becomes the function of three factors: the logical expressed in the most precise formulation of the hypothesis, the psychological inherent in the act of judging, the philosophical expressed in the endorsement. Universality depends on the consensus which this ascription of meaning enjoys and not in the first instance on its empirical verifiability.
@@ -2379,7 +2379,7 @@ The Chapter "The Sense of Responsibility" will outline an attempted solution to 
 [^1_36]: For Kant's implication of inexorability see Friedrich "The Philosophy of Kant" p. 453 (Eternal Peace).
 [^2_19]: See Friedrich op. cit. p. 458. (Essay on Eternal Peace). For full discussion see post "Kants Philosophy of History".
 [^3_5]: See Bernard - Critique of Judgment p. 25. See post for full discussion also of psychological difference for proofs of 'impossibility' and 'possibility'. [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/48433)
-[^1_37]: Friederich in - Inevitable Peace - p. 149 et. seq. has characterized Spinoza as the logical philosophy of Calvinism.
+[^1_37]: Friedrich in - Inevitable Peace - p. 149 et. seq. has characterized Spinoza as the logical philosophy of Calvinism.
 [^2_20]: Spinoza's sole criterion is inward certainty. See Essay on Human Understanding.
 [^1_38]: See post The Sense of Responsibility for implication of Spinoza's concept of intellectual love of God which makes this analysis provisional. The fact that Spinoza opted for peace and Spengler for strife reveals their personalities but is in no sense a logical necessity of their system. See post.
 [^1_39]: See post "Appendix A" The Concepts of Meaning.
@@ -2754,22 +2754,22 @@ can not be made. Moreover, the existence - theory of propositions
 results from a false analysis of judgments. From the proposition:
 'Lions are hunted' one infers the existence of lions and it would
 seem that from the statement 'I am thinking of griffins' one could
-deduce their existence. This however, according to Stebbing mistakingly assumes that similar grammatical form implies identical
+deduce their existence. This however, according to Stebbing mistakenly assumes that similar grammatical form implies identical
 logical construction. In the first statement the property of being
 a lion and being hunted belong to the same object. In the second, the properties of being a griffin and being thought of do not express interrelated attributes and 'being thought of' is not really
-a property at all. Thus one can not think of a lion being hunted without a lion's existence, but a Griffin can be conceived even without existence.[^ka-9_3]
+a property at all. Thus one can not think of a lion being hunted without a lion's existence, but a griffin can be conceived even without existence.[^ka-9_3]
 
 This doctrine is interesting but presents certain difficulties. It leaves the question of what constitutes a property unanswered. Moreover by taking two entities the existence and non-existence of which is clear, it makes the argument relatively facile. Supposing a proposition is made about a subject not obviously non-existent as griffins, and a relation predicated that could constitute a property, does the proposition then imply existence? According to Stebbing this would have to be answered affirmatively. The best conclusion to be drawn from Stebbing is that propositions do not necessarily imply existence, which suffices to negate Joseph's and Bradley's theory.
 
 Thus Stebbing discards the philosophical assumptions of propositional logic but only at the cost of making meaning the psychological attribute of the speaker. If a statement merely expresses a subjective attitude then the metaphysical aspect of the judgment is simply shifted from the analysis to its formulation.[^ka-10_3]
 
-The more important aspect of Stebbing's work is the concept of descriptions derived from Russell, which constitutes a further step in the direction of making meaning the consequences of a metaphysical and psychological context. This shows that phrases such as a 'square circle' can be used significantly even if they apply to nothing, and that the analysis of propositions to which such phrases apply is identical whether they describe something or nothing. Two examples will illustrate. The proposition 'Scott is the author of Waverly' can be analyzed into three assertions:
+The more important aspect of Stebbing's work is the concept of descriptions derived from Russell, which constitutes a further step in the direction of making meaning the consequences of a metaphysical and psychological context. This shows that phrases such as a 'square circle' can be used significantly even if they apply to nothing, and that the analysis of propositions to which such phrases apply is identical whether they describe something or nothing. Two examples will illustrate. The proposition 'Scott is the author of Waverley' can be analyzed into three assertions:
 
-(1) At least One Man wrote Waverly
-(2) Only One Man wrote Waverly.
+(1) At least One Man wrote Waverley
+(2) Only One Man wrote Waverley.
 (3) That man is Scott.
 
-The proposition will be false if (1) No one had written Waverly, (2) if more than one had written Waverly, (3) if one man had written Waverly but Scott was not the man.
+The proposition will be false if (1) No one had written Waverley, (2) if more than one had written Waverley, (3) if one man had written Waverley but Scott was not the man.
 
 The second statement concerns, what in Russell's original view would be called a logical construction: 'The man in the moon is yellow.'
 
@@ -2780,7 +2780,7 @@ The second statement concerns, what in Russell's original view would be called a
 This statement would be false if there (1) were no man in the moon, (2) more than one man in the moon, (3) if there were a man in the moon but he were not yellow.
 
 The significance of this conception can not be overemphasized. To begin with Logic could separate itself from a metaphysic that determined its analysis a priori and begin considering the inherent structure of an argument. This system of descriptions seems a forerunner of pre-assertional logic. For after all, none of the segmental propositions can be answered unless put in question form. Thus the first proposition properly would have to be phrased
-"Is it a fact that one man wrote Waverly?"
+"Is it a fact that one man wrote Waverley?"
 
 The liberation of logic from metaphysics was, however,
 only achieved by widening the range of meaningful statements,
@@ -2796,7 +2796,7 @@ do not have a determined truth-value, however, another predicate
 of proposition must be invoked. All unverified sentences have
 a certain opinion as to their truth attached to them, defined
 as the weight of the proposition. While a truth-value is a
-property capable of only two values, the positive and the negative, the weight represents a quality in continuous scale ranging
+property capable of only two values, the positive and the negative, the weight represents a quality in a continuous scale ranging
 from the utmost uncertainty through intermediary degrees to
 reliability of the highest degree. Such words as 'probably,'
 'likely' correspond to the weight of the proposition in ordinary
