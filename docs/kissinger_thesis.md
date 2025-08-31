@@ -54,11 +54,7 @@ In the life of every person there comes a point when he realizes that out of all
 
 Each step once taken so thoughtlessly now becomes fraught with tremendous portent, each advance to be made appears unalterable. Looking back across the path we are struck by the inexorability of the road, how every step both limited and served as a condition for the next and viewing the plain we feel with a certainty approaching knowledge that many roads were possible, that many incidents shaped our wandering, that we are here because it was we who journeyed and we could be in a different spot had we wished. And we know further that whatever road we had chosen, we could not have remained stationary. We were unable to avoid in any manner our being now in fact somewhere and in some position. We have come up against the problem of Necessity and Freedom, of the irrevocability of our actions, of the directedness of our life.
 
-What is the meaning of necessity and where does it arise? Necessity is an attribute of the past. Events viewed in
-
- 
-
-retrospect appear inevitable, the fact of occurrence testifies to irrevocability. Causality expresses the pattern which the mind imposes on a sequence of events in order to make their appearance comprehensible.[^arg-1] It is formulated as a law, which reveals a trend of recurrence and an assertion of comparability. Law ever fights against the unique, against the personal experience, the inward bliss. Necessity recognizes only quantitative differences, and conceives of survival as its sole test of historical fitness. Necessity discovers the typical in man, the inexorable in events, the inevitable in existence. Its doctrine is the philosophy of Eternal Recurrence of which the devil tells Ivan Karamazoff, "But our present earth may have been repeated a thousand times. Why it has become extinct, been frozen, cracked, broken to bits, disintegrated into its elements, again the water above the firmament, then again a comet, again a sun, again from the sun it becomes earth and on earth the same sequence may have been repeated endlessly and exactly the same to every detail..."
+What is the meaning of necessity and where does it arise? Necessity is an attribute of the past. Events viewed in retrospect appear inevitable, the fact of occurrence testifies to irrevocability. Causality expresses the pattern which the mind imposes on a sequence of events in order to make their appearance comprehensible.[^arg-1] It is formulated as a law, which reveals a trend of recurrence and an assertion of comparability. Law ever fights against the unique, against the personal experience, the inward bliss. Necessity recognizes only quantitative differences, and conceives of survival as its sole test of historical fitness. Necessity discovers the typical in man, the inexorable in events, the inevitable in existence. Its doctrine is the philosophy of Eternal Recurrence of which the devil tells Ivan Karamazoff, "But our present earth may have been repeated a thousand times. Why it has become extinct, been frozen, cracked, broken to bits, disintegrated into its elements, again the water above the firmament, then again a comet, again a sun, again from the sun it becomes earth and on earth the same sequence may have been repeated endlessly and exactly the same to every detail..."
 
 Yet every event is not only an effect but also an inward experience. As an effect it is ruled by necessity, as an experience it reveals the unique in the personality. The desire to reconcile an experience of freedom with a determined environment is the lament of poetry and the dilemma of philosophy. Rationalism attempted to solve this problem by considering its purposes as the objective pattern of occurrences and equating freedom with necessity. The British sceptics, particularly Hume ([Enquiry](https://www.gutenberg.org/ebooks/9662 "Project Gutenberg")), submitted these notions to rigorous criticism and denied necessity as well as purposiveness. They argued that perception involves the impact of empirical entities on a wax-like mind, whose sensations of pleasure are largely passive, whose concept of necessity describe a constant conjunction and to which freedom is meaningless.[^arg-2] The limits of thought can not be established by thought, however. Hume's scepticism caused him to abandon philosophy while still a young man and Descartes ([Discourse on Method](https://www.gutenberg.org/ebooks/59 "Project Gutenberg")) was forced to invoke God as a guarantor of external reality with the aid of the very faculty the accuracy of which he had seriously questioned.[^arg-3]
 
@@ -142,11 +138,7 @@ Toynbee probed for this deeper meaning but looked for empirical verification int
 
 Toynbee finds the answer in the doctrine of challenge and response. Life presents a series of problems each a challenge to undergo an ordeal. The initial successful reaction constitutes the civilization's birth. Its growth is not determined by an organic necessity but accomplishes itself through the response to successive challenges. Each solution does not lead to an equilibrium but creates an over-balance which in turn becomes a new challenge. Progress ceases when societies fail to react to new stimuli.
 
-A civilization grows through the leadership of a creative minority which directs the majority, by mimesis, a social drill, in the absence of direct inspiration. Yet in every civilization mimesis eventually breaks down and the creative minority becomes a dominant minority substituting force for charm. The progressive differentiation of a civilization into a dominant minority and an internal proletariat, which is in, but not of, a given society, with creativity and meaning stunted,
-
- 
-
-diverts energies into other - worldly pursuits, culminating in a transcendental knowledge of the unity of mankind through a universal church. By this act of faith the internal proletariat rescues the values of the collapsing society, which it embodies in the new civilization erected by the victorious external proletariat on the ruins of the old. The decay of civilizations has as its outward manifestations a universal state, in which the internal schism occurs, a period of contending states and a final apocalyptic emergence of a higher religion as the embodiment of the meaning of history.
+A civilization grows through the leadership of a creative minority which directs the majority, by mimesis, a social drill, in the absence of direct inspiration. Yet in every civilization mimesis eventually breaks down and the creative minority becomes a dominant minority substituting force for charm. The progressive differentiation of a civilization into a dominant minority and an internal proletariat, which is in, but not of, a given society, with creativity and meaning stunted, diverts energies into other - worldly pursuits, culminating in a transcendental knowledge of the unity of mankind through a universal church. By this act of faith the internal proletariat rescues the values of the collapsing society, which it embodies in the new civilization erected by the victorious external proletariat on the ruins of the old. The decay of civilizations has as its outward manifestations a universal state, in which the internal schism occurs, a period of contending states and a final apocalyptic emergence of a higher religion as the embodiment of the meaning of history.
 
 Toynbee's theory of Challenge-and-Response is very similar to Hegel's dialectic. It consequently does not represent a negation of determinism but a description of its operation. The analysis of response almost exclusively in terms of challenges leads to a more refinement of the Environment theory. Since Toynbee attempts to verify theological assumptions by an empirical method, success becomes the only criterion of moral fitness. Survival reveals God's sanction to the elect. History's purpose is identical with man's aspirations.
 
@@ -154,12 +146,7 @@ The unsatisfactoriness of Toynbee's philosophy derives from his method. Though h
 
 An inward experience cannot be proved by empirical data, however. A philosophy of history without a profound metaphysics will forever juxtapose surface data and can never satisfy the totality of man's desire for meaning.
 
-Spengler had a vision but did not press its implications. Yet his intuition of History-as-an Experience has pointed the way to the solution of the enigma posed by the experience of freedom and the knowledge of necessity. Kant realized that the phenomenal world is explored in vain for a proof of those ideas, "the possibilities of which no human intelligence will ever fathom, but the truth of which no sophistry, will ever wrest from the conviction of even the commonest man." An analysis of historical phenomena reveals but the inevitability inherent in completed action. Freedom,
-
-
- 
-
-on the other hand, testifies to an act of self-transcendence which overcomes the inexorability of events by infusing them with its spirituality. The ultimate meaning of history-as of life- we can find only within ourselves.
+Spengler had a vision but did not press its implications. Yet his intuition of History-as-an Experience has pointed the way to the solution of the enigma posed by the experience of freedom and the knowledge of necessity. Kant realized that the phenomenal world is explored in vain for a proof of those ideas, "the possibilities of which no human intelligence will ever fathom, but the truth of which no sophistry, will ever wrest from the conviction of even the commonest man." An analysis of historical phenomena reveals but the inevitability inherent in completed action. Freedom, on the other hand, testifies to an act of self-transcendence which overcomes the inexorability of events by infusing them with its spirituality. The ultimate meaning of history-as of life- we can find only within ourselves.
 
 What is the content of this transcendental experience? This is not easy to express. When Socrates in the [Republic](https://www.gutenberg.org/ebooks/1497 "Project Gutenberg") is asked to explain the "Idea of the Good" he replies that it can not be defined. Man can attain its vision only by analogy, by studying those objects which contain some portion of the ultimate reality, such as beauty, astronomy, mathematics. Reflection may then lead to a sudden illumination which will reveal the transcendental condition of all knowledge.
 
@@ -385,24 +372,15 @@ Life, in the Apollinian world constituted a spiritual static.[^sp-1p] The Greek 
 
 The Platonic conception of the soul, as a sum of excellent parts, with Reason in the Olympian commanding position, emerges as the classical image just as its yearning for concreteness constructed a scientific theory of static mechanics. The problem of the relation between the knower and the known Plato resolved as a matter-of-course into a passage of knowledge to the recipient. His captives in the cave were really captives, objects of the light from the common sun, not - as in Kant egos - imposing their forms on the world, not suns themselves irradiating the universe.[^sp-2k]
 
-The Attic drama was a drama of the moment. Its heroes represent Euclidean bodies, struck in a position they did not choose, assailed by the blind forces of Fate, the jealousy of the Gods, the sudden total negation of being, as the most terrible of experiences. What happens to Hamlet is the consequence of a meaningful inner development, but Oedipus is the
-
-
-victim of circumstances that could happen to anyone. The Grand Gesture, which defines a being to other bodies, represents the only possible course of action of the soma that is being gratuitously destroyed. Spiritual characterization was prevented by the wearing of masks and the padding of figures made movement almost impossible.[^sp-1r]
+The Attic drama was a drama of the moment. Its heroes represent Euclidean bodies, struck in a position they did not choose, assailed by the blind forces of Fate, the jealousy of the Gods, the sudden total negation of being, as the most terrible of experiences. What happens to Hamlet is the consequence of a meaningful inner development, but Oedipus is the victim of circumstances that could happen to anyone. The Grand Gesture, which defines a being to other bodies, represents the only possible course of action of the soma that is being gratuitously destroyed. Spiritual characterization was prevented by the wearing of masks and the padding of figures made movement almost impossible.[^sp-1r]
 
 Classical architecture was ever forced to fight against the assertiveness of pure being, which it threatened by the implication of permanence inherent in building. This gave rise to the Classical temple, of extreme poverty of form, since the recognition of many styles would have been an admission of a type of infinity. Its columns of uneven spacing, its accentuation of beam and load, its flat roof all served as a denial of space and an affirmation of the exclusive validity of the present. Apollinian art became a production of great feebleness of characterization, but also of timeless evenness.[^sp-2l1]
 
-Since Natural Science is the outward expression of the soul-image, the causal description of the religious view, a static mechanics resulted. The human tendency to reduce its nature-picture to the minimal forms capable of intellectual manipulation issued in an atomic theory, of small, perfectly elastic bodies, of unpredictable motion operating through shock and countershock. Motion became not a spatial force but an attribute of bodies.[^sp-3i] Thus the greatest creation of the Classical
-
-
-scientific mind was Euclidean geometry, the measurement and circumscription of concrete representations.
+Since Natural Science is the outward expression of the soul-image, the causal description of the religious view, a static mechanics resulted. The human tendency to reduce its nature-picture to the minimal forms capable of intellectual manipulation issued in an atomic theory, of small, perfectly elastic bodies, of unpredictable motion operating through shock and countershock. Motion became not a spatial force but an attribute of bodies.[^sp-3i] Thus the greatest creation of the Classical scientific mind was Euclidean geometry, the measurement and circumscription of concrete representations.
 
 This, too, applied to Classical political life. The feudal kingdoms of the Homeric period ever contracted their horizon until the polis were reached, a pure point of being, where the Greek, a body among other bodies, could view his world from the Acropolis. This conception of a political organization as a self-contained city-state, which made everything beyond the horizon strange and potentially hostile led to the struggle to sheer extinction which ever characterized the politics of Hellas. The only issue of these campaigns could be the razing of the city and the extermination or enslavement of the hostile populations. The ideal of each polis was autarkia, complete economic independence, a minimum of intercourse with other city-states, a state of blissful present being, the utopia of Plato ([Republic](https://www.gutenberg.org/ebooks/1497 "Project Gutenberg")), Aristotle ([Politics](https://www.gutenberg.org/ebooks/6762 "Project Gutenberg")) and all Greek statesmen. The anti-historical instinct expressed itself in the complete spoilage of natural resources. The prudent, long-term policy of Western cultures were completely unknown. Surpluses when achieved was distributed among the population.[^sp-1s]
 
-Even Rome was merely a polis become immense. It dotted the Mediterranean with dependencies in polis-form, its focus of attention ever the embodiment in a point, of regional existence. Thus Rome knew Alexandria, but not Egypt. Even after citizenship was granted to all Italians, the center and meaning of
-
-
-events remained Rome. The idea of transferring the vote from Rome to the residence of the citizen never occurred to any Roman statesman.
+Even Rome was merely a polis become immense. It dotted the Mediterranean with dependencies in polis-form, its focus of attention ever the embodiment in a point, of regional existence. Thus Rome knew Alexandria, but not Egypt. Even after citizenship was granted to all Italians, the center and meaning of events remained Rome. The idea of transferring the vote from Rome to the residence of the citizen never occurred to any Roman statesman.
 
 Spengler's conception of the classical soul reveals its essence as a negation of Time, just as its history was episodic, of a great mass of detail but no inner relation.[^sp-1t] It clung to the coast of the Mediterranean in clusters of tightly organized city-states, with no serious attempt to explore the hinterland. To settle far from the coast would have meant to lose touch with home. The immigration into the U.S., the lonely pioneering in the West, the explorations of a Columbus or Marco Polo, all were beyond the possibilities of Classical Mankind.[^sp-2l]
 
@@ -420,10 +398,7 @@ Care, the determination to prevail extending in time both into the past and into
 
 Yet this world of purity, bliss and happiness involved at the same time the counter-creation of the early Gothic - the realm of the Devil, who throughout Mary's world of infinite understanding, was lurking in the background ever ready, to tempt, to lead astray, to destroy the soul. Only the late condition of his culture prevents Western Man - according to Spengler - from understanding the terrible fear that then hung over humanity, of stumbling into the abyss. There were witches sabaths and black magic, night feast on mountain-tops and charm-formula. A pitiless, constant war had to be waged against the prince from Hell and his fallen angels. "Wretches confessed to witchcraft, sincerely imagining it to be true and inquisitors with tears in their eyes sentenced them to the Pyre, for it was Hell, not death, that humanity feared."[^sp-2n]
 
-This explains the sense of guilt that permeats all Gothic longing. The cathedrals rose ever more pleadingly towards heaven,
-
-
-the vaulting turned into hands folded in prayer and little help came to man through the stained windows into the semi-darkness of the naves. Man was a lonely Ego, lost in the infinite, with the powers of darkness-all-around. "For Magian man heaven was impending, but to the Faustian heaven was infinitely far."[^sp-1v] There arose the ever finer differentiation of notions the desire to lose selfness, the universal, cry for the Grace that unbinds the will.[^sp-2o]
+This explains the sense of guilt that permeats all Gothic longing. The cathedrals rose ever more pleadingly towards heaven, the vaulting turned into hands folded in prayer and little help came to man through the stained windows into the semi-darkness of the naves. Man was a lonely Ego, lost in the infinite, with the powers of darkness-all-around. "For Magian man heaven was impending, but to the Faustian heaven was infinitely far."[^sp-1v] There arose the ever finer differentiation of notions the desire to lose selfness, the universal, cry for the Grace that unbinds the will.[^sp-2o]
 
 To be able to will freely is the highest desire of Faustian transcendence. The sacraments elevated into dogma by the Lateran Counsil of 1215, mean in their deepest significance the unbinding of the will. The transformation of the meaning of the altar sacrament into an assertion of free being results - the conception of the one who sacrificed himself to insure for his own freedom to will.[^sp-3j]
 
@@ -2948,7 +2923,7 @@ The Philosophy of Law [Available](https://archive.org/details/cu31924014578979 "
 The Fundamental Principles of a Metaphysics of Morals;
 Critique of Practical Reason (both translated by T.K. Abbott - Kant's Theory of Ethics - Longmans, Green and Co., 1909) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/5683)
 Critique of Pure Reason (translated by Max Muller, Macmillan Co. - 1927) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/4280)
-Idea for a Universal History (translated by C.J. Friedrich - The Philosophy of Kant - Modern Library 1949)
+ Idea for a Universal History (translated by C.J. Friedrich - The Philosophy of Kant - Modern Library 1949) [Available (Fordham Sourcebook)](https://sourcebooks.fordham.edu/mod/kant-history.asp "Fordham Sourcebook")
 Eternal Peace (translated by C.J. Friedrich - The Philosophy of Kant - Modern Library - 1949) [Available at Project Gutenberg](https://www.gutenberg.org/files/50922/50922-h/50922-h.htm)
 
 **Schweitzer, Albert** - The Philosophy of Civilization (Macmillan Co. - 1949) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/76061)
@@ -2964,7 +2939,7 @@ The Hour of Decision (Knopf - 1932) [Available](https://archive.org/details/in.e
 
 **Cassirer, Ernst** - Rousseau, Kant, Goethe, Essays by Ernst Cassirer translated by James Gutman and Oscar Kristetten - Princeton University Press - 1940 [Available](https://archive.org/details/rousseaukantgoet00cass "Archive.org")
 
-**Friedrich, C.J.** - Inevitable Peace (Harvard University Press-1948)
+**Friedrich, C.J.** - Inevitable Peace (Harvard University Press-1948) [Available](https://archive.org/details/inevitablepeace0000frie "Archive.org")
 
 **Lindsay, A.D.** - The Philosophy of Immanuel Kant (Ernest Benn Ltd.) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/47880)
 
@@ -3018,7 +2993,7 @@ The Philosophy of Giambattista Vico (translated by R.G. Collingwood, London, How
 
 **Jaspers, Karl** - Geschichte (Artemis Verlag - Zuerich, 1949) [Available](https://archive.org/details/origingoalofhist0000jasp_q8t5 "Archive.org")
 
-**Loewith, Karl** - Meaning in History, The Theological Implications of The Philosophy of History (University of Chicago Press - 1949)
+**Loewith, Karl** - Meaning in History, The Theological Implications of The Philosophy of History (University of Chicago Press - 1949) [Available](https://archive.org/details/in.ernet.dli.2015.185403 "Archive.org")
 
 **Niebuhr, Reinhold** - Faith and History - A Comparison of Christian and Modern Views on History (Scribner 1949) [Available](https://archive.org/details/faithandhistorya027348mbp "Archive.org")
 
@@ -3099,9 +3074,9 @@ Decline of the West in Actual Progress, Hibbert Journal, January 1933: 179-95.
 
 Spenglerian Finance - A.A.H. Sparrow, English Review 47:855-71 April 1936.
 
-Plato's Conception of the Future as Opposed to Spengler's. H. Hansler - Monist 39: 204-24 April 1909 [Available (issue)](https://archive.org/details/sim_monist_1929-04_39_2 "Archive.org")
+Plato's Conception of the Future as Opposed to Spengler's. H. Hansler - Monist 39: 204-24 April 1929 [Available (issue)](https://archive.org/details/sim_monist_1929-04_39_2 "Archive.org")
 
-Oswald Spengler, Historian and Philosopher - Lutheran Church Quarterly - 10:157-70 April 1937.
+Oswald Spengler, Historian and Philosopher - Lutheran Church Quarterly - 10:157-70 April 1937. [Available (vol. 10 index)](https://archive.org/details/lutheran-church-quarterly_1937_10_index "Archive.org")
 
 Spengler and the New Pessimism - V.S. Yarros - Open Court 47:253-8 June 1933 [Available](https://opensiuc.lib.siu.edu/ocj/vol1933/iss4/4/ "OpenSIUC")
 
