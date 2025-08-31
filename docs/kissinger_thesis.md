@@ -2980,7 +2980,7 @@ The Hour of Decision (Knopf - 1932) [Available](https://archive.org/details/in.e
 **Meyer, Eduard** - Spengler's Untergang des Abendlandes (Berlin, Curtius Verlag 1925)
 
 **Schroeter, Manfred** - Metaphysic des Unterganges (Muenchen - Leibnitz Verlag 1949)
-Der Streit um Spengler (Muenchen, Beck 1922)
+Der Streit um Spengler (Muenchen, Beck 1922) [Available](https://archive.org/details/streitumspengler00schr "Archive.org")
 (see also "Periodicals" below)
 
 ### Bibliography on Toynbee:
