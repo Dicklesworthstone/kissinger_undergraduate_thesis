@@ -3140,11 +3140,11 @@ Decline of the West in Actual Progress, Hibbert Journal, January 1933: 179-95.
 
 Spenglerian Finance - A.A.H. Sparrow, English Review 47:855-71 April 1936.
 
-Plato's Conception of the Future as Opposed to Spengler's. H. Hansler - Monist 39: 204-24 April 1909
+Plato's Conception of the Future as Opposed to Spengler's. H. Hansler - Monist 39: 204-24 April 1909 [Available (issue)](https://archive.org/details/sim_monist_1929-04_39_2 "Archive.org")
 
 Oswald Spengler, Historian and Philosopher - Lutheran Church Quarterly - 10:157-70 April 1937.
 
-Spengler and the New Pessimism - V.S. Yarros - Open Court 47:253-8 June 1933
+Spengler and the New Pessimism - V.S. Yarros - Open Court 47:253-8 June 1933 [Available](https://opensiuc.lib.siu.edu/ocj/vol1933/iss4/4/ "OpenSIUC")
 
 Skeptiker und Prophet - Neue Rundschau 47:855-71 April 1933
 
