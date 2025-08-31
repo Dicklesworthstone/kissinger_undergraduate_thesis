@@ -92,7 +92,7 @@ Sentential logic abandoned the concept of the existential import of propositions
 
 But even this theory stumbled on the problem of just what constituted a fact and on the difficulty of reconciling truth-value and weight. Russell, in his later writings, and Prof. Scheffer, have achieved a formulation which attempts to give the greatest possibility of determining the essence of meaning.[^arg-11] Statements become replies to pure hypotheses which, moreover have to be endorsed by the proper criterion. The statement "Scott is the author of Waverley" is the affirmative answer, empirically endorsed, to the questions:
 
-Did at least one men write Waverley?
+Did at least one man write Waverley?
 Did only one Man write Waverley?
 Was this man Scott?
 
@@ -429,7 +429,7 @@ Yet this world of purity, bliss and happiness involved at the same time the coun
 This explains the sense of guilt that permeats all Gothic longing. The cathedrals rose ever more pleadingly towards heaven,
 
 
-the vaulting turned into hands folded in prayer and little help came to man through the stained windows into the semi-darkness of the naves. Men was a lonely Ego, lost in the infinite, with the powers of darkness-all-around. "For Magian man heaven was impending, but to the Faustian heaven was infinitely far."[^sp-1v] There arose the ever finer differentiation of notions the desire to lose selfness, the universal, cry for the Grace that unbinds the will.[^sp-2o]
+the vaulting turned into hands folded in prayer and little help came to man through the stained windows into the semi-darkness of the naves. Man was a lonely Ego, lost in the infinite, with the powers of darkness-all-around. "For Magian man heaven was impending, but to the Faustian heaven was infinitely far."[^sp-1v] There arose the ever finer differentiation of notions the desire to lose selfness, the universal, cry for the Grace that unbinds the will.[^sp-2o]
 
 To be able to will freely is the highest desire of Faustian transcendence. The sacraments elevated into dogma by the Lateran Counsil of 1215, mean in their deepest significance the unbinding of the will. The transformation of the meaning of the altar sacrament into an assertion of free being results - the conception of the one who sacrificed himself to insure for his own freedom to will.[^sp-3j]
 
