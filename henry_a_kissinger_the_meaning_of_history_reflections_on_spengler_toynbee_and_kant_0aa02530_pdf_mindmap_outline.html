@@ -337,9 +337,9 @@
           <div class="flex items-center justify-between gap-2">
             <span class="text-xs text-slate-600 dark:text-slate-300">Reading width</span>
             <div class="inline-flex overflow-hidden rounded-md border border-black/10 dark:border-white/10">
-              <button data-w="65" class="btn-toggle w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Narrow</button>
-              <button data-w="75" class="btn-toggle w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Normal</button>
-              <button data-w="85" class="btn-toggle w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Wide</button>
+              <button data-w="65" class="btn-toggle w-14 px-2 py-1 text-xs hover:bg-black/5 dark:hover:bg-white/10" type="button">Narrow</button>
+              <button data-w="75" class="btn-toggle w-14 px-2 py-1 text-xs hover:bg-black/5 dark:hover:bg-white/10" type="button">Normal</button>
+              <button data-w="85" class="btn-toggle w-14 px-2 py-1 text-xs hover:bg-black/5 dark:hover:bg-white/10" type="button">Wide</button>
             </div>
           </div>
           <div class="flex items-center justify-between gap-2 mt-2">
@@ -348,6 +348,9 @@
               <button data-ah="on" class="btn-toggle w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">On</button>
               <button data-ah="off" class="btn-toggle w-14 px-2 py-1 text-sm hover:bg-black/5 dark:hover:bg-white/10" type="button">Off</button>
             </div>
+          </div>
+          <div class="mt-3 text-right">
+            <button id="readerReset" class="text-xs text-slate-600 dark:text-slate-300 hover:underline px-2 py-1" type="button">Reset to defaults</button>
           </div>`;
         const rightBox = document.querySelector('header .flex.items-center.gap-2:last-child');
         if (rightBox) { rightBox.classList.add('relative'); rightBox.appendChild(wrap); }
@@ -367,6 +370,17 @@
         });
         const fontDec = wrap.querySelector('#fontDec');
         const fontInc = wrap.querySelector('#fontInc');
+        const defaults = { font:'1', width:'75', ff:'serif', bg:'on', ah:'off' };
+        const resetAll = () => {
+          try {
+            localStorage.setItem('reader:font', defaults.font);
+            localStorage.setItem('reader:width', defaults.width);
+            localStorage.setItem('reader:ff', defaults.ff);
+            localStorage.setItem('reader:bg', defaults.bg);
+            localStorage.setItem('reader:autohide', defaults.ah);
+          } catch(_) {}
+          apply();
+        };
         const syncActive = () => {
           const ffV = localStorage.getItem('reader:ff') || 'serif';
           wrap.querySelectorAll('button[data-ff]')?.forEach(b=> b.setAttribute('aria-pressed', b.getAttribute('data-ff')===ffV ? 'true':'false'));
@@ -383,6 +397,7 @@
         wrap.querySelectorAll('button[data-ff]')?.forEach(btn=>{ btn.addEventListener('click', ()=>{ localStorage.setItem('reader:ff', btn.getAttribute('data-ff')); apply(); syncActive(); }); });
         wrap.querySelectorAll('button[data-bg]')?.forEach(btn=>{ btn.addEventListener('click', ()=>{ localStorage.setItem('reader:bg', btn.getAttribute('data-bg')); apply(); syncActive(); }); });
         wrap.querySelectorAll('button[data-ah]')?.forEach(btn=>{ btn.addEventListener('click', ()=>{ localStorage.setItem('reader:autohide', btn.getAttribute('data-ah')); apply(); syncActive(); }); });
+        wrap.querySelector('#readerReset')?.addEventListener('click', ()=>{ resetAll(); syncActive(); });
         syncActive();
       })();
 
