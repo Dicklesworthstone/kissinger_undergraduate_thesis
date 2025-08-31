@@ -2,19 +2,14 @@
 
 Explore Henry A. Kissinger’s undergraduate thesis — “The Meaning of History: Reflections on Spengler, Toynbee, and Kant” — alongside a generated mindmap, a structured outline, and a concise summary. A polished landing page ties everything together.
 
-- Live site: https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/
-- Reader (HTML): https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/kissinger_thesis.html
-
 ## Quick Links
-- Reader (auto‑renders Markdown): https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/kissinger_thesis.html
-- Mindmap (HTML): https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap.html
-- Mindmap Outline (HTML): https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.html
-- Summary (HTML): https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.html
-- Markdown sources: 
-  - Thesis: https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/docs/kissinger_thesis.md
-  - Mindmap Outline: https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.md
-  - Summary: https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.md
-- Repository: https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis
+- Live Site: [dicklesworthstone.github.io/kissinger_undergraduate_thesis](https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/)
+- Read Thesis (HTML): [kissinger_thesis.html](https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/kissinger_thesis.html)
+- Mindmap (HTML): [view mindmap](https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap.html)
+- Mindmap Outline (HTML): [reader view](https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.html)
+- Summary (HTML): [reader view](https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.html)
+- Markdown sources: [Thesis (MD)](https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/docs/kissinger_thesis.md) • [Outline (MD)](https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.md) • [Summary (MD)](https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis/blob/main/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.md)
+- Repository: [github.com/Dicklesworthstone/kissinger_undergraduate_thesis](https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis)
 
 ## What’s Included
 - `index.html`: Landing page using Tailwind (CDN) with quick links to all artifacts and inline SVG icons (no icon font).
@@ -44,12 +39,12 @@ Explore Henry A. Kissinger’s undergraduate thesis — “The Meaning of Histor
 ## How the Mindmap and Summary Were Generated
 These artifacts were prepared by Jeffrey Emanuel:
 
-- Mindmap and Summary were generated using https://fixmydocuments.com.
-- You can also reproduce a similar mindmap locally using the open‑source tool: https://github.com/Dicklesworthstone/mindmap-generator
+- Mindmap and Summary were generated using [FixMyDocuments](https://fixmydocuments.com).
+- You can also reproduce a similar mindmap locally using the open‑source tool: [mindmap‑generator](https://github.com/Dicklesworthstone/mindmap-generator).
 
 Quick options:
-- Fastest path: Upload the thesis (or any document) to FixMyDocuments and select the Mindmap and Summary options to generate both artifacts in one go.
-- Open‑source path: Clone `mindmap-generator`, follow its README to install dependencies, and run it against your source document to export a mindmap (and outline if supported).
+- Fastest path: Upload the thesis (or any document) to [FixMyDocuments](https://fixmydocuments.com) and select the Mindmap and Summary options to generate both artifacts in one go.
+- Open‑source path: Clone [mindmap‑generator](https://github.com/Dicklesworthstone/mindmap-generator), follow its README to install dependencies, and run it against your source document to export a mindmap (and outline if supported).
 
 ## GitHub Pages
 This repo is ready for GitHub Pages in either configuration:
@@ -107,12 +102,12 @@ To swap in a new thesis (or any document):
 ## Provenance
 These artifacts were prepared by Jeffrey Emanuel:
 
-- Mindmap and Summary were generated using https://fixmydocuments.com.
-- You can also reproduce a similar mindmap locally using the open‑source tool: https://github.com/Dicklesworthstone/mindmap-generator
+- Mindmap and Summary were generated using [FixMyDocuments](https://fixmydocuments.com).
+- You can also reproduce a similar mindmap locally using the open‑source tool: [mindmap‑generator](https://github.com/Dicklesworthstone/mindmap-generator).
 
 Quick options:
-- Fastest path: Upload the thesis (or any document) to FixMyDocuments and select the Mindmap and Summary options to generate both artifacts in one go.
-- Open‑source path: Clone `mindmap-generator`, follow its README to install dependencies, and run it against your source document to export a mindmap (and outline if supported).
+- Fastest path: Upload the thesis (or any document) to [FixMyDocuments](https://fixmydocuments.com) and select the Mindmap and Summary options to generate both artifacts in one go.
+- Open‑source path: Clone [mindmap‑generator](https://github.com/Dicklesworthstone/mindmap-generator), follow its README to install dependencies, and run it against your source document to export a mindmap (and outline if supported).
 
 ## Notes
 - GitHub Pages caches for ~10 minutes; changes may take a short time to appear.
