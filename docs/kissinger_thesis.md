@@ -3009,7 +3009,7 @@ The Hour of Decision (Knopf - 1932) [Available](https://archive.org/details/in.e
 
 **Lindsay, A.D.** - The Philosophy of Immanuel Kant (Ernest Benn Ltd.) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/47880)
 
-**Smith, Norman K.** - A Commentary to Kant's Critique of Pure Reason (Macmillan Co. - 1918)
+**Smith, Norman K.** - A Commentary to Kant's Critique of Pure Reason (Macmillan Co. - 1918) [Available](https://archive.org/details/commentarytokant00smit "Archive.org")
 ### Bibliography on Spengler:
 
 **Dankin, Edwin** - Today and Destiny (Knopf - 1940)
@@ -3081,7 +3081,7 @@ Social and Cultural Dynamics (American Book Company - 1937-41 4vols.) [Available
 **Dostojevski, Fjodor** - The Brothers Karamazoff (Modern Library) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/28054)
 The Idiot (Modern Library) [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/2638)
 
-**Elliott, Wm. Y.** - The Pragmatic Revolt in Politics (Macmillan 1928)
+**Elliott, Wm. Y.** - The Pragmatic Revolt in Politics (Macmillan 1928) [Available](https://archive.org/details/pragmaticrevolti00elli "Archive.org")
 Western Political Heritage (Prentice Hall 1949) [Available](https://archive.org/details/westernpolitical00elli "Archive.org")
 
 **Friedrich, C. J.** - The New Belief in the Common Man (Little 1942) [Available](https://archive.org/details/newbeliefincommo0000frie "Archive.org")
