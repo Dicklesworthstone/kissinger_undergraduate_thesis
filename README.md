@@ -1,5 +1,19 @@
 # Kissinger Undergraduate Thesis — Explorer
 
+<p align="center">
+  <a href="https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/"><img alt="Open Site" src="https://img.shields.io/badge/Open%20Site-GitHub%20Pages-0ea5e9?style=for-the-badge" /></a>
+  <a href="https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/kissinger_thesis.html"><img alt="Read Thesis (HTML)" src="https://img.shields.io/badge/Read-Thesis%20(HTML)-3b82f6?style=for-the-badge" /></a>
+  <a href="https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap.html"><img alt="View Mindmap" src="https://img.shields.io/badge/View-Mindmap-6366f1?style=for-the-badge" /></a>
+  <a href="https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.html"><img alt="Outline (Reader)" src="https://img.shields.io/badge/Reader-Outline-10b981?style=for-the-badge" /></a>
+  <a href="https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.html"><img alt="Summary (Reader)" src="https://img.shields.io/badge/Reader-Summary-f43f5e?style=for-the-badge" /></a>
+  <a href="https://github.com/Dicklesworthstone/kissinger_undergraduate_thesis"><img alt="GitHub Repository" src="https://img.shields.io/badge/GitHub-Repository-111827?logo=github&style=for-the-badge" /></a>
+  
+</p>
+
+<p align="center">
+  <img src="assets/og.jpg" alt="Portrait of Henry A. Kissinger (social preview)" width="800" />
+</p>
+
 Explore Henry A. Kissinger’s undergraduate thesis — “The Meaning of History: Reflections on Spengler, Toynbee, and Kant” — alongside a generated mindmap, a structured outline, and a concise summary. A polished landing page ties everything together.
 
 ## Quick Links
