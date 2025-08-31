@@ -508,7 +508,7 @@ Thus the eloquence of the soul-images is nevertheless unable to hide the fact th
 
 Spengler considers the interrelationship of cultures, except for Pseudo-morphosis of only incidental importance. It
 
-[^sp-24]: Friedrich - Inevitable Peace - p. 143 et. seq.
+[^sp-24]: Friedrich - Inevitable Peace - p. 143 et seq.
 [^sp-25]: For my brief analysis see post Ch. "History and Man's Experience of Morality".
 
 was an accident that the Spaniards landed in Mexico, but inward necessity that the Maya Empire collapsed, since it already had reached the fellah stage. The adoption of Christianity by the west represents but an incident, a symbol which was then necessarily infused with the specific Gothic religiosity. Yet such a strict separation seems untenable. It can hardly be maintained that this outpouring of spirituality was not itself influenced by the forms which it used. The superimposition of a ripe dogma, of the universality of law on an essentially primitive community, undoubtedly permeated the later history of what was so significantly called: "Holy Roman Empire German by Nation".[^sp-26] Spengler himself has shown how the forms of language determine the structure of cognition, the meaninglessness of the equation S= ½ gt2 unless expressed in words. How much more strongly must the transfer of a high legal tradition, a profound philosophy have affected a nascent culture?
@@ -794,7 +794,7 @@ And so the poetic beauty of Spengler's psychology presents a challenge for other
 
 [^sp-46_2]: See Gisevius - To the Bitter End. Vol. II. Chapter 1. [Available](https://archive.org/details/in.ernet.dli.2015.167391 "Archive.org")
 
-[^sp-48]: On this point see also Schweitzer "The Philosophy of Civilization" p. 271 et. seq.
+[^sp-48]: On this point see also Schweitzer "The Philosophy of Civilization" p. 271 et seq.
 
 [^sp-50]: See post Ch. IV. The Sense of Responsibility for limitation of a theory of action, which attempts to derive its attainability from phenomenal reality.
 
@@ -1949,7 +1949,7 @@ This is a profound analysis, though not a necessary one. The causality of the ph
 
 Nevertheless, the tendency to equate man's experience of the moral law with the objective meaning of occurrences and thereby attributing an ethical sanction to phenomenal manifestations exists in Kant. It comes to expression in his philosophy of history, in which the duty to work for peace appears first as an emanation of the categorical imperative, only to stand revealed as the objective principle governing historical events.
 
-[^1_14]: Schweitzer op. cit. p. 186 et. seq.
+[^1_14]: Schweitzer op. cit. p. 186 et seq.
 
 The next section will deal with the problems raised by such a conception, and by the attempt to equate History with man's experience of morality.
 
@@ -2215,7 +2215,7 @@ This is a profound analysis, though not a necessary one. The causality of the ph
 
 Nevertheless, the tendency to equate man's experience of the moral law with the objective meaning of occurrences and thereby attributing an ethical sanction to phenomenal manifestations exists in Kant. It comes to expression in his philosophy of history, in which the duty to work for peace appears first as an emanation of the categorical imperative, only to stand revealed as the objective principle governing historical events.
 
-[^1_30]: Schweitzer op. cit. p. 186 et. seq.
+[^1_30]: Schweitzer op. cit. p. 186 et seq.
 
 The next section will deal with the problems raised by such a conception, and by the attempt to equate History with man's experience of morality.
 
@@ -2292,7 +2292,7 @@ But in Kant's Philosophy of History, the implications pointed out by Schweitzer 
 
 Though this is by no means a necessary conclusion, the further developments of Kant's philosophy of History lend considerable force to Schweitzer's criticism.[^ka-9] For Peace which the categorical imperative had commanded as humanity's duty, is suddenly revealed as the objective principle of historical events. The moral law realizes itself not through the determination of the will, but as an aspect of a hidden plan of nature. Men's volition can assist in producing the inevitable, but in its absence humanity would still be forced to achieve harmony "albeit with much inconvenience".[^ka-10] Freedom appears as but a mode of causality, peace as the consequence of an immanent inexorability, harmony as an emanation of nature's mechanism.
 
-[^ka-7]: Since phenomena obey natural laws Schweitzer op. cit., p. 186 et. seq.
+[^ka-7]: Since phenomena obey natural laws Schweitzer op. cit., p. 186 et seq.
 [^ka-8]: See post for discussion of this point.
 [^ka-9]: See ante for discussion of this point.
 History is not a task but contains a guarantee for the realization of the moral law. This aspect of Kant's philosophy parallels Toynbee's dilemma, the attempt to wrest certainty from the fatedness of life, the endeavor to conjure phenomena to escape the transitoriness of existence.[^ka-11]
@@ -2379,7 +2379,7 @@ The Chapter "The Sense of Responsibility" will outline an attempted solution to 
 [^1_36]: For Kant's implication of inexorability see Friedrich "The Philosophy of Kant" p. 453 (Eternal Peace).
 [^2_19]: See Friedrich op. cit. p. 458. (Essay on Eternal Peace). For full discussion see post "Kants Philosophy of History".
 [^3_5]: See Bernard - Critique of Judgment p. 25. See post for full discussion also of psychological difference for proofs of 'impossibility' and 'possibility'. [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/48433)
-[^1_37]: Friedrich in - Inevitable Peace - p. 149 et. seq. has characterized Spinoza as the logical philosophy of Calvinism.
+[^1_37]: Friedrich in - Inevitable Peace - p. 149 et seq. has characterized Spinoza as the logical philosophy of Calvinism.
 [^2_20]: Spinoza's sole criterion is inward certainty. See Essay on Human Understanding.
 [^1_38]: See post The Sense of Responsibility for implication of Spinoza's concept of intellectual love of God which makes this analysis provisional. The fact that Spinoza opted for peace and Spengler for strife reveals their personalities but is in no sense a logical necessity of their system. See post.
 [^1_39]: See post "Appendix A" The Concepts of Meaning.
@@ -2390,8 +2390,8 @@ The Chapter "The Sense of Responsibility" will outline an attempted solution to 
 [^1_42]: For interpretation of this attitude see post "The Sense of Responsibility".
 [^2_22]: N. Kemp. Smith - A Commentary to Kant's Critique of Pure Reason p. 603 [Available at Project Gutenberg](https://www.gutenberg.org/ebooks/43572) points out that in later life Kant considered this an overly theoretical proof of God's existence and asserted instead that God speaks directly through the categorical imperative.
 [^3_7]: [This footnote is not present in the original text, but a superscript `3` is.]
-[^1_43]: Schweitzer - The Philosophy of Civilization p. 182 et. seq.
-[^2_23]: Sartre - Existentialism p. 28 et. seq.
+[^1_43]: Schweitzer - The Philosophy of Civilization p. 182 et seq.
+[^2_23]: Sartre - Existentialism p. 28 et seq.
 
 ## The Sense of Responsibility
 
@@ -2590,11 +2590,11 @@ The second quotation is from the Critique of Practical Reason: Friedrich op. cit
 [^ka-26]: Bernard - op. cit. p. 259 et seq.
 
 [^ka-27]: The following quotation illustrates Kant's distinction between purposiveness and purposes between an intrinsic and an extrinsic teleology. Bernard - op. cit. p. 272.
-"We can see that external purposiveness can be regarded as an external natural purpose only under the condition that the existence of that being to which it is immediately or distantly advantageous is in itself a purpose of nature. Since that can never be completely determined by a mere contemplation of nature it follows that relative purposiveness, although it hypothetically gives indications of natural purposes yet justifies no absolute teleological judgment. Snow in cold countries protects the crops from the frost; it makes human intercourse easier by means of sleighs. (Here follows an enumeration of conditions that make existence in arctic countries possible). Here is a wonderful concurrence of many references of nature to one purpose... But then we do not see why generally men must live there at all... Therefore to say that vapour falls out of the atmosphere in the form of snow, that the sea has its currents which float down the wood which has grown in warmer lands, and that there are in it great sea monsters filled with oil, because (author's italics) the idea of advantage for certain poor creatures is fundamental for the cause which collects all these natural products would be a very venturesome and arbitrary judgment." It is interesting to note that despite this refutation Kant uses almost exactly the same argument in his Guarantee for Eternal Peace (see Friedrich op. cit. p. 449 et. seq.)
+"We can see that external purposiveness can be regarded as an external natural purpose only under the condition that the existence of that being to which it is immediately or distantly advantageous is in itself a purpose of nature. Since that can never be completely determined by a mere contemplation of nature it follows that relative purposiveness, although it hypothetically gives indications of natural purposes yet justifies no absolute teleological judgment. Snow in cold countries protects the crops from the frost; it makes human intercourse easier by means of sleighs. (Here follows an enumeration of conditions that make existence in arctic countries possible). Here is a wonderful concurrence of many references of nature to one purpose... But then we do not see why generally men must live there at all... Therefore to say that vapour falls out of the atmosphere in the form of snow, that the sea has its currents which float down the wood which has grown in warmer lands, and that there are in it great sea monsters filled with oil, because (author's italics) the idea of advantage for certain poor creatures is fundamental for the cause which collects all these natural products would be a very venturesome and arbitrary judgment." It is interesting to note that despite this refutation Kant uses almost exactly the same argument in his Guarantee for Eternal Peace (see Friedrich op. cit. p. 449 et seq.)
 
 [^ka-28]: Note similarity to Spengler's morphology.
 
-[^ka-29]: Bernard op. cit. p. 361 et. seq.
+[^ka-29]: Bernard op. cit. p. 361 et seq.
 
 [^ka-30]: This does not say that history works against man's aspirations but simply that we can not derive our norms by claiming them as history's patterns.
 
@@ -3148,6 +3148,6 @@ Spengler and the New Pessimism - V.S. Yarros - Open Court 47:253-8 June 1933
 
 Skeptiker und Prophet - Neue Rundschau 47:855-71 April 1933
 
-Spengler als Staats und Wirtschaftsphilosoph E.V. Beckerath Schmoeller's Jahrbuch 47:33-47:24.
+Spengler als Staats und Wirtschaftsphilosoph E.V. Beckerath Schmoller's Jahrbuch 47:33-47:24.
 
 Spengler und Nietzsche - R.H. Gruetzmacher Preussisches Jahrbuch 224:29-52 April 1931
