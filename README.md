@@ -19,6 +19,9 @@ Explore Henry A. Kissinger’s undergraduate thesis — “The Meaning of Histor
 ## Quick Links
 - Live Site: [dicklesworthstone.github.io/kissinger_undergraduate_thesis](https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/)
 - Read Thesis (HTML): [kissinger_thesis.html](https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/kissinger_thesis.html)
+- Thesis (EPUB): [kissinger_thesis.epub](https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/kissinger_thesis.epub)
+- Thesis (Kindle AZW3): [kissinger_thesis.azw3](https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/kissinger_thesis.azw3)
+- Thesis (MOBI): [kissinger_thesis.mobi](https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/kissinger_thesis.mobi)
 - Mindmap (HTML): [view mindmap](https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap.html)
 - Mindmap Outline (HTML): [reader view](https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_mindmap_outline.html)
 - Summary (HTML): [reader view](https://dicklesworthstone.github.io/kissinger_undergraduate_thesis/henry_a_kissinger_the_meaning_of_history_reflections_on_spengler_toynbee_and_kant_0aa02530_pdf_summary.html)
